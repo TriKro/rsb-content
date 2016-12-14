@@ -7,7 +7,7 @@ Every serious musician has it.
 The Real Book is a large tome with text that looks like someone took handwritten music charts, photocopied them, and then stuck them in a binder.
 
 
-Each page is a jazz standard. All Blues by Miles Davis,<img src="face - smiley - happy user experience.png" alt="Drawing" style="float: right; width: 200px; margin: 0 0 50px 50px;"/> Autumn Leaves by Johnny Mercer, A Night in Tunisia by Dizzy Gillespie...even some more esoteric tunes like Peaches in Regalia by Frank Zappa.
+Each page is a jazz standard. All Blues by Miles Davis,<img src="face - smiley - happy user experience.png" alt="Drawing" style="float: right; width: 20px; margin: 0 0 50px 50px;"/> Autumn Leaves by Johnny Mercer, A Night in Tunisia by Dizzy Gillespie...even some more esoteric tunes like Peaches in Regalia by Frank Zappa.
 
 Unlike various “fake books” out there which provide details on how to play each note and where to put your fingers, the Real Book was minimal. Each page had the key signature, time signature, chords, melody line, and not much else. It was just enough detail to play the song. It was vague enough to allow for the extensive improvisation that makes jazz jazz.[^1]
 
