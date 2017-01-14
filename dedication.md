@@ -1,28 +1,12 @@
+<i>To everyone</i><br>
+
+<i>that has ever failed</i><br>
+
+<i>and had the audacity</i><br>
+
+<i>to admit it.</i>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-_To everyone_
-
-_that has ever failed_
-
-_and had the audacity_
-
-_to admit it._
 
   
 
