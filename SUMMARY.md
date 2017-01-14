@@ -13,5 +13,6 @@
 * [The Index](the-index.md)
 * [What Are You Trying to Learn?](what-are-you-trying-to-learn.md)
 * [Market vs. Product](market-vs-product.md)
+* [Generative vs. Evaluative](generative-vs-evaluative.md)
 * [First Chapter](chapter1.md)
 
