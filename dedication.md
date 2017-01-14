@@ -1,8 +1,8 @@
-<i>To everyone</i><br>
+<i>To everyone</i>
 
-<i>that has ever failed</i><br>
+<i>that has ever failed</i>
 
-<i>and had the audacity</i><br>
+<i>and had the audacity</i>
 
 <i>to admit it.</i>
 
