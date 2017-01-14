@@ -7,6 +7,7 @@
 * [Preface](preface.md)
 * [Introduction](README.md)
 * [Who is This Book For?](who-is-this-book-for.md)
+* [How to Use This Book](how-to-use-this-book.md)
 * [First Chapter](chapter1.md)
-* [Test Article](test-article.md)
+* How to Use This Book
 
