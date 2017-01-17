@@ -114,15 +114,17 @@ If I add a notification feature that allows the waiter/waitress to set reminders
 
 4. If you add a review page before the confirmation page, then 20% of customers will be able to complete the checkout flow in 10 mins.
 
-**Answers: **1 - A
+**Answers: **
 
-                 2 - C
+1 - A
 
-                 3 - D
+2 - C
 
-                 4 - D
+3 - D
 
-                 5 - B
+4 - D
+
+5 - B  
 
 Learn from your mistakes. Look at the questions that you got wrong and pay attention see which key element is either missing or vague.
 
