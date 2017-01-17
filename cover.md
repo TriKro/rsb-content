@@ -1,10 +1,7 @@
-<p align="center">
-<b>The Real Startup Book</b><br>
-</p>
 
+# The Real Startup Book
 
-
-
+![](/assets/illustration - picnic in the graveyard.png)
   
 
 
