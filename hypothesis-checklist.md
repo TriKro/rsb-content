@@ -150,14 +150,14 @@ Learn from your mistakes. Look at the questions that you got wrong and pay atten
 
 | **Y** | **N** | **Questions** |
 | :--- | :--- | :--- |
-| ** ** | ** ** | **Is it simple and unambiguous?** |
-| ** ** | ** ** | **I mean… is it simple...?** |
-| ** ** | ** ** | **..and is it unambiguous?** |
-| ** ** | ** ** | **Is it measurable?** |
-| ** ** | ** ** | **Does it describe a relationship between two things?** |
-| ** ** | ** ** | **Is the cause and effect relationship clear?** |
-| ** ** | ** ** | **Is it achievable?** |
-| ** ** | ** ** | **Can there any evidence that would convince us the hypothesis isinvalid?** |
+| ** ** | ** ** | Is it simple and unambiguous? |
+|   |   | I mean… is it simple...? |
+|   |   | ..and is it unambiguous? |
+|   |   | Is it measurable? |
+|   |   | Does it describe a relationship between two things? |
+|   |   | Is the cause and effect relationship clear? |
+|   |   | Is it achievable? |
+|   |   | Can there any evidence that would convince us the hypothesis is _invalid_? |
 | ** ** | ** ** | ** ** |
 | ** ** | ** ** | ** ** |
 
