@@ -15,6 +15,6 @@
 * [Market vs. Product](market-vs-product.md)
 * [Generative vs. Evaluative](generative-vs-evaluative.md)
 * [Hypothesis Checklist](hypothesis-checklist.md)
-* [Index of Questions](index-of-questions.md)
+* [Index of Question](index-of-question.md)
 * [First Chapter](chapter1.md)
 
