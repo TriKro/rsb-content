@@ -16,5 +16,6 @@
 * [Generative vs. Evaluative](generative-vs-evaluative.md)
 * [Hypothesis Checklist](hypothesis-checklist.md)
 * [Index of Question](index-of-question.md)
+* [Index of Methods](index-of-methods.md)
 * [First Chapter](chapter1.md)
 
