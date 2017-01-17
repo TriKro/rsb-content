@@ -144,11 +144,7 @@ Learn from your mistakes. Look at the questions that you got wrong and pay atten
 
 * [http://www.slideshare.net/intelleto/lean-ux-meetupvegashypotheses201307](http://www.slideshare.net/intelleto/lean-ux-meetupvegashypotheses201307)
 
-
-
 ### Hypothesis Checklist
-
-
 
 | **Y** | **N** | **Questions** |
 | :--- | :--- | :--- |
