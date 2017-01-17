@@ -2,8 +2,6 @@
 
 **“If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions.” - Albert Einstein**
 
-
-
 In school, we’re constantly taking tests to gauge how well we’ve learned last week’s material. We cram geographic boundaries, the dates of battles, and multiplication tables into our heads and spit out the results.
 
 Sadly, those rote memorization skills and the ability to answer pre-formulated questions doesn’t help us as entrepreneurs. When building a new business model, there is no test or quiz which we can cram for. It’s as if we sat down for our final and opened up the exam book only to find a blank piece of paper in front of us.
@@ -44,11 +42,7 @@ If we attempt to execute a method in this book without first identifying the rig
 
 For example, let’s say we’re selling a new type of shoe that cures plantar fasciitis. We put up a landing page test \(a type of smoke test\) with our value proposition and a “buy now” button. Then we put $1000 in to Google Adwords for “shoes” to drive traffic and sit back to wait for the money to start rolling in…
 
-
-
-\[IMAGE\]
-
-
+![](/assets/illustration - smoke test - cures plantar fasciitis.png)
 
 …and our conversion rate is 0%
 
@@ -108,14 +102,9 @@ To simplify our search for the right method, we’ll ask two questions:
 
 Mapping the intersection of these two questions gives us a 2x2 matrix:
 
-
-
 Based on this, if we have a clear hypothesis of who our customer is and what we think they will pay for, we can conduct an _Evaluative Market Experiment_ such as a smoke test.
 
-  
-\[IMAGE\]
-
-
+![](/assets/framework - lean startup playbook copy.png)
 
 If we don’t have a clear idea of who our customer is, we can do _Generative Market Research_ like data mining.
 
