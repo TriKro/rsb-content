@@ -18,5 +18,5 @@
 * [Index of Question](index-of-question.md)
 * [Index of Methods](index-of-methods.md)
 * [Tags & Other Frameworks](tags--other-frameworks.md)
-* Dedications
+* [Dedications](dedications.md)
 
