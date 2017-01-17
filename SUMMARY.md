@@ -2,7 +2,7 @@
 
 * [Cover](cover.md)
 * [Copyright](copyright.md)
-* [Dedication](dedication.md)
+* [Dedications](dedications.md)
 * [Forward](forward.md)
 * [Preface](preface.md)
 * [What's a Real Book?](README.md)
@@ -18,5 +18,5 @@
 * [Index of Question](index-of-question.md)
 * [Index of Methods](index-of-methods.md)
 * [Tags & Other Frameworks](tags--other-frameworks.md)
-* [First Chapter](chapter1.md)
+* Dedications
 

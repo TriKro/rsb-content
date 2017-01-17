@@ -1,10 +1,10 @@
-<i>To everyone</i>
+_To everyone
 
-<i>that has ever failed</i>
+that has ever failed
 
-<i>and had the audacity</i>
+and had the audacity
 
-<i>to admit it.</i>
+to admit it._
 
 
 
