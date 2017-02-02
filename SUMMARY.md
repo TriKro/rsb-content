@@ -20,6 +20,7 @@
 * [Tags & Other Frameworks](tags--other-frameworks.md)
 * [3 - Generative Market Research](3-generative-market-research.md)
 * [Customer Discovery Interviews](customer-discovery-interviews.md)
+* [Data Mining](data-mining.md)
 * [4 - Evaluative Market Experiment](4-evaluative-market-experiment.md)
 * [5 - Generative Product Research](5-generative-product-research.md)
 * [6 - Evaluative Product Experiment](6-evaluative-product-experiment.md)
