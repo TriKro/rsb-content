@@ -13,7 +13,7 @@ You can use an event to smoke test a problem, and to some extent, content which 
 ## Tags
  * Qualitative
  * Channel
- * Problem test
+ * Problem Test
  * Solution
 
 ## Description
@@ -68,18 +68,18 @@ If using events specifically as smoke tests, you don't want to oversell the even
 You won't know if you are getting a clear indicator there is high demand, or if you are just a good salesperson.
 
 ### Field Tips
- * "Get excited and enthusiastic when speaking at the event" - @LaunchTomorrow
- * "Prepare what you will need the day before: Name tags, signs for people to find you, camera, directions, etc." - @LaunchTomorrow
- * "Greet participants individually and make them feel welcome." - @LaunchTomorrow
- * "Make it very clear how to reach the event venue, both online and offline." - @LaunchTomorrow
- * "If you can, use arrows and signs to make sure everyone interested reaches your smoke test event." - @LaunchTomorrow
- * Got a tip? Add a tweetable quote by emailing us: realbook@trikro.com
+ * ["Get excited and enthusiastic when speaking at the event"](https://ctt.ec/E2p33) - @LaunchTomorrow
+ * ["Prepare what you will need the day before: Name tags, signs for people to find you, camera, directions, etc."](https://ctt.ec/fef71) - @LaunchTomorrow
+ * ["Greet participants individually and make them feel welcome."](https://ctt.ec/ycSE0) - @LaunchTomorrow
+ * ["Make it very clear how to reach the event venue, both online and offline."](https://ctt.ec/Gs4cF) - @LaunchTomorrow
+ * ["If you can, use arrows and signs to make sure everyone interested reaches your smoke test event."](https://ctt.ec/Ywbpi) - @LaunchTomorrow
+ * Got a tip? Add a tweetable quote by emailing us: [realbook@trikro.com](mailto:realbook@trikro.com)
 
 ## Case Studies
  * Ash Maurya used events to test demand and confirm the quality of his content when writing his book "Running Lean"
- * Got a case study? Add a link by emailing us: [realbook@trikro.com] (mailto:realbook@trikro.com)
+ * Got a case study? Add a link by emailing us: [realbook@trikro.com](mailto:realbook@trikro.com)
  
 ## References
- * Meetupology by James Burchill
- * Got a reference? Add a link by emailing us: [realbook@trikro.com] (mailto:realbook@trikro.com)
+ * [Meetupology](https://www.amazon.com/Meetupology-Market-Business-Networking-Meetups-ebook/dp/B00IIXU6X2) by James Burchill
+ * Got a reference? Add a link by emailing us: [realbook@trikro.com](mailto:realbook@trikro.com)
  
