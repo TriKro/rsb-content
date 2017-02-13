@@ -23,18 +23,18 @@ Organizing an event speeds up your validated learning by scaling it up one step 
 An event allows you to create a product for your target market. By organizing one, you need to figure out how to reach your target market, what to say exactly, and how to create an experience which they find useful, pleasant, or inspiring. 
 
 The choice of format can vary widely: 
- * lecture by one or a few authorities
- * peer-to-peer events like an unconference (e.g. LeanCamp)
- * smaller and more intimate events like a #LeanCoffee structure
- * a gameshow style 
- * a trip together
- * support groups like a mastermind
- * networking or drinks 
- * a conference
+ * Lecture by one or a few authorities
+ * Peer-to-peer events like an unconference (e.g. LeanCamp)
+ * Smaller and more intimate events like a #LeanCoffee structure
+ * Gameshow style 
+ * Trip together
+ * Support groups like a mastermind
+ * Networking or drinks 
+ * Conference
  
-This type of smoke test is easiest to organize in a larger city, where there are already lots of events and lots of people. Even though an event focusses on your target clients in one location, it can be used to establish a more in-depth relationship giving you much more information than interacting online.
+This type of smoke test is easiest to organize in a larger city, where there are already lots of events and lots of people. Even though an event focuses on your target clients in one location, it can be used to establish a more in-depth relationship giving you much more information than interacting online.
 
-Events themselves are attractive as a low upfront investment product. They can be considered valuable content . They can be used as a source of highly qualified leads (or a way to test a channel), leading into an upsell or presell of a different product/service. 
+Events themselves are attractive as a low upfront investment product. They can be considered valuable content. They can be used as a source of highly qualified leads (or a way to test a channel), leading into an upsell or presell of a different product/service. 
 
 Because an event is a mini-product in and of itself, it can be used to test a number of different hypotheses around related business models. Most frequently, events help with scaling up exploratory customer discovery. They help with exploring customers and problems the most. They can also be combined with other techniques, like basic landing page smoke tests (with a minimum audience size to confirm there is enough interest in the audience). Also they can be considered or combined with a concierge MVP, where the event is combined with delivering a service. 
 
@@ -50,9 +50,9 @@ Breaks during the event are critical. They give participants time to network, go
  2. Decide what you want to charge and how to pitch the event
  3. Create an event page on an appropriate platform: meetup.com, eventbrite.com, or another platform. Use insights about the customer problem and language from customer interviews to inform the event description.
  4. Promote the event with your target audience, using suggestions from previous customer development about appropriate channels
- 5. If apprpriate, run a survey before or during the event to customize the event to audience needs
+ 5. If appropriate, run a survey before or during the event to customize the event to audience needs
  6. Run the event. Be sure to have many unstructured conversations with attendees, in addition to the formal agenda and event goals
- 7. Follow up afterwards with a survey. Optinally, create buzz on social media, sharing any photos, blog posts, or other artefacts from the event.
+ 7. Follow up afterwards with a survey. Optionally, create buzz on social media, sharing any photos, blog posts, or other artefacts from the event.
 
 ### Interpreting Results
 
@@ -62,23 +62,24 @@ Because you can use events to prove many kinds of hypothesis, it's critical to b
 
 If using events specifically as smoke tests, you don't want to oversell the event. If your goal is to determine if there is demand around a problem, you should sell enough to make sure that the proposition is clear and easy to buy. However, a very hard sales push will distort your results. For example, if you are using:
 
-* high-pressure in person sales techniques 
-* sales tactics on your event description with lots of scarcity and "CRO best practices"
+* High-pressure in person sales techniques 
+* Sales tactics on your event description with lots of scarcity and "CRO best practices"
 
-you won't know if you are getting a clear indicator there is high demand, or if you are just a good salesperson.
+You won't know if you are getting a clear indicator there is high demand, or if you are just a good salesperson.
 
 ### Field Tips
- * Get excited and enthusiastic when speaking at the event
- * Prepare what you will need the day before: Name tags, signs for people to find you, camera, directions, etc
- * Greet participants individually and make them feel welcome. 
- * Make it very clear how to reach the event venue, both online and offline. If you can, use arrows and signs to make sure everyone interested reaches your smoke test event.
+ * "Get excited and enthusiastic when speaking at the event" - @LaunchTomorrow
+ * "Prepare what you will need the day before: Name tags, signs for people to find you, camera, directions, etc." - @LaunchTomorrow
+ * "Greet participants individually and make them feel welcome." - @LaunchTomorrow
+ * "Make it very clear how to reach the event venue, both online and offline." - @LaunchTomorrow
+ * "If you can, use arrows and signs to make sure everyone interested reaches your smoke test event." - @LaunchTomorrow
  * Got a tip? Add a tweetable quote by emailing us: realbook@trikro.com
 
 ## Case Studies
- * Ash Maurya used events to test demand and confirm the quality of his content when writing his book Running Lean
- * Got a case study? Add a link by emailing us: realbook@trikro.com
+ * Ash Maurya used events to test demand and confirm the quality of his content when writing his book "Running Lean"
+ * Got a case study? Add a link by emailing us: [realbook@trikro.com] (mailto:realbook@trikro.com)
  
 ## References
  * Meetupology by James Burchill
- * Got a reference? Add a link by emailing us: realbook@trikro.com
+ * Got a reference? Add a link by emailing us: [realbook@trikro.com] (mailto:realbook@trikro.com)
  
