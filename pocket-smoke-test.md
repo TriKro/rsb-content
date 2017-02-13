@@ -44,11 +44,14 @@ Ask lots of questions about what the user would find valuable. Hone in on how yo
 You don't need to be able to mass produce the prototype in order to run this smoke test. Scaling requires a different set of tests. Also you don't need to be concerned too much about production costs and revenues at this stage. You just want to get an idea of user expectations. 
 
 ### Field Tips
+
  * 
 
 ## Case Studies
+
  * 
 
 ## References
+
  * https://medium.com/london-tech-startups/a-guide-to-building-a-hardware-prototype-df449e002f06#.v1huqveix
  * https://www.hwtrek.com/ a global open source platform for hardware
