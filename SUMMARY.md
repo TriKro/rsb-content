@@ -23,6 +23,7 @@
 * [Data Mining](data-mining.md)
 * [4 - Evaluative Market Experiment](4-evaluative-market-experiment.md)
 * [Event Smoke Test](event-smoke-test.md)
+* [Pocket Smoke Test](pocket-smoke-test.md)
 * [5 - Generative Product Research](5-generative-product-research.md)
 * [6 - Evaluative Product Experiment](6-evaluative-product-experiment.md)
 * [7 - Out of the Box](7-out-of-the-box.md)
