@@ -54,4 +54,5 @@ You don't need to be able to mass produce the prototype in order to run this smo
 ## References
 
  * https://medium.com/london-tech-startups/a-guide-to-building-a-hardware-prototype-df449e002f06#.v1huqveix
+ * https://blog.bolt.io/the-illustrated-guide-to-product-development-part-2-design-ab69efb8084a#.opf01fro8 good framework for hardware design in a Lean Startup context
  * https://www.hwtrek.com/ a global open source platform for hardware
