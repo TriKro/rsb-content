@@ -28,6 +28,7 @@
 * [Closed End Survey](closed-end-survey.md)
 * [High Bar Smoke Test](high-bar-smoke-test.md)
 * [Broken Promise Smoke Test](broken-promise-smoke-test.md)
+* [Flyer Smoke Test](flyer-smoke-test.md)
 * [A/B Testing](ab-testing.md)
 * [5 - Generative Product Research](5-generative-product-research.md)
 * [6 - Evaluative Product Experiment](6-evaluative-product-experiment.md)
