@@ -2,7 +2,7 @@
 
 ## In Brief
 
-One often cited reason for prototyping is to test if what you want to build is technically feasible. Another perspective on prototyping is to answer the question "should we build it?" Since the biggest risk is not if we can build it, but actually to find a market for it in the first place, it's only logical that the first step of prototyping should be focused on understanding market needs (as in jobs-to-be-done) rather than technical constraints. Alberto Savoia (formerly Innovation Agitator at Google), refers to this stage as "pretotyping".
+Pretotyping tests the initial appeal and actual usage of a potential new product by simulating its core experience with the smallest possible investment of time and money. One often cited reason for prototyping is to test if what you want to build is technically feasible. Another perspective on prototyping is to answer the question "should we build it?". Since the biggest risk is not if we can build it, but actually to find a market for it in the first place, it's only logical that the first step of prototyping should be focused on understanding market needs (as in jobs-to-be-done) rather than technical constraints. The term was coined by Alberto Savoia (formerly Innovation Agitator at Google).
 
 ## Helps Answer
  * Is "it" worth building?
@@ -32,6 +32,10 @@ There are many different techniques available, so although this list may seem lo
  * The Infiltrator
  * Pretend-to-Own
  * The Minimum Viable Product
+ * The Holodeck
+ * Picnic in the Graveyard
+ * The Want Ad
+ * Family Tree
 
 ### Time Commitment
 
