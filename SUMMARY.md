@@ -39,7 +39,9 @@
 * [Pre-Sales Smoke Test](pre-sales-smoke-test.md)
 * [Secondary Market Research](secondary-market-research.md)
 * [5 - Generative Product Research](5-generative-product-research.md)
-<<<<<<< HEAD
+* [Competitive Analysis](competitive-analysis.md)
+* [Concierge Test](concierge-test.md)
+* [Demo Pitch](demo-pitch.md)
 * [Analog/Digital](analog-digital.md)
 * [Ask An Expert](ask-an-expert.md)
 * [6 - Evaluative Product Experiment](6-evaluative-product-experiment.md)
@@ -47,19 +49,12 @@
 * [Hallway Usability Test](hallway-usability-test.md)
 * [Takeaway Test](takeaway-test.md)
 * [Dashboards](dashboards.md)
-* [7 - Out of the Box](7-out-of-the-box.md)
-* [Off Brand Testing](off-brand-testing.md)
-
-=======
-* [Competitive Analysis](competitive-analysis.md)
-* [Concierge Test](concierge-test.md)
-* [Demo Pitch](demo-pitch.md)
-* [6 - Evaluative Product Experiment](6-evaluative-product-experiment.md)
 * [Net Promotor Score Survey](net-promotor-score-survey.md)
 * [Paper Prototyping](paper-prototyping.md)
 * [Usability Testing](usability-testing.md)
 * [Wizard of Oz](wizard-of-oz.md)
 * [7 - Out of the Box](7-out-of-the-box.md)
 * [A/B Testing](ab-testing.md)
->>>>>>> b06bb15aaac7667e39e8330b1493f09ccb58634b
+* [Off Brand Testing](off-brand-testing.md)
+
 
