@@ -31,8 +31,14 @@
 * [Flyer Smoke Test](flyer-smoke-test.md)
 * [A/B Testing](ab-testing.md)
 * [5 - Generative Product Research](5-generative-product-research.md)
+* [Analog/Digital](analog-digital.md)
+* [Ask An Expert](ask-an-expert.md)
 * [6 - Evaluative Product Experiment](6-evaluative-product-experiment.md)
 * [Pocket Smoke Test](pocket-smoke-test.md)
+* [Hallway Usability Test](hallway-usability-test.md)
+* [Takeaway Test](takeaway-test.md)
+* [Dashboards](dashboards.md)
 * [7 - Out of the Box](7-out-of-the-box.md)
+* [Off Brand Testing](off-brand-testing.md)
 
 
