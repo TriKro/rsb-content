@@ -39,6 +39,7 @@
 * [Pre-Sales Smoke Test](pre-sales-smoke-test.md)
 * [Secondary Market Research](secondary-market-research.md)
 * [5 - Generative Product Research](5-generative-product-research.md)
+* [Concierge Test](concierge-test.md)
 * [6 - Evaluative Product Experiment](6-evaluative-product-experiment.md)
 * [A/B Testing](ab-testing.md)
 * [7 - Out of the Box](7-out-of-the-box.md)
