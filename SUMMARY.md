@@ -45,6 +45,7 @@
 * [6 - Evaluative Product Experiment](6-evaluative-product-experiment.md)
 * [A/B Testing](ab-testing.md)
 * [Net Promotor Score Survey](net-promotor-score-survey.md)
+* [Paper Prototyping](paper-prototyping.md)
 * [Usability Testing](usability-testing.md)
 * [7 - Out of the Box](7-out-of-the-box.md)
 
