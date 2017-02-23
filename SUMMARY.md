@@ -19,9 +19,12 @@
 * [Index of Methods](index-of-methods.md)
 * [Tags & Other Frameworks](tags--other-frameworks.md)
 * [3 - Generative Market Research](3-generative-market-research.md)
+* [Contextual Inquiry](contextual-inquiry.md)
 * [Customer Discovery Interviews](customer-discovery-interviews.md)
-* [Focus Groups](focus-group.md)
 * [Data Mining](data-mining.md)
+* [Experience Sampling](experience-sampling.md)
+* [Focus Groups](focus-group.md)
+* [Open Ended Survey](open-ended-survey.md)
 * [Pretotyping](pretotyping.md)
 * [4 - Evaluative Market Experiment](4-evaluative-market-experiment.md)
 * [Event Smoke Test](event-smoke-test.md)
@@ -34,5 +37,4 @@
 * [6 - Evaluative Product Experiment](6-evaluative-product-experiment.md)
 * [Pocket Smoke Test](pocket-smoke-test.md)
 * [7 - Out of the Box](7-out-of-the-box.md)
-
 
