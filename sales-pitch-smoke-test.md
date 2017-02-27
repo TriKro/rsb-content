@@ -71,7 +71,7 @@ This smoke test does not suggest the optimal price point for the product, or whe
  * "When" is a powerful question, that helps establish the urgency of the problem for the customer.
 
 ## Case Studies
- * 
+ * Minivid: http://thestartuptoolkit.com/blog/2010/11/minivid-iteration-case-study/
  
 ## References
  * SPIN Selling by Neil Rackham for B2B sales
@@ -79,6 +79,5 @@ This smoke test does not suggest the optimal price point for the product, or whe
  * The Ultimate Sales Machine by Chet Holmes
  * http://sterlingchase.com/2011/10/13/7-killer-closing-techniques-to-increase-sales/#sthash.1b1rtmNZ.dpuf
  * https://blog.hubspot.com/sales/the-5-most-common-objections-during-prospecting-and-how-to-overcome-them#sm.000vd672z1bmrcz3rcd1ty8tb8r6k
- * https://blog.hubspot.com/marketing/psychological-biases-selling#sm.000vd672z1bmrcz3rcd1ty8tb8r6
  * http://firstround.com/review/the-three-frameworks-you-need-to-kick-start-sales/
  
