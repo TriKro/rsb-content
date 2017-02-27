@@ -17,7 +17,7 @@ The Product/Market Fit survey specifically asks the customer, “How would you f
 
 ## Description
 
-Product-market fit is a term originally coined by serial entrepeneur and VC Marc Andreesen in his epic post "The Only Thing that Matters". In short, it refers to being in a good market with a product that can satisfy that market. If you really have it, typically you will be stretched to the limit with resources in order to deliver the product. 
+"Product-market fit" is a term originally coined by serial entrepeneur and VC Marc Andreesen in his epic post "The Only Thing that Matters". In short, it refers to being in a good market with a product that can satisfy that market. If you really have it, typically you will be stretched to the limit with resources in order to deliver the product. 
 
 Having achieved product-market it, you can safely say that you have fully proven the value hypothesis, where the value hypothesis is the key assumption that underlies why a customer is likely to use your product. Andy Rachleff of Wealthfront argues that you should achieve product market fit before searching for venture money. 
 
@@ -25,6 +25,10 @@ Product-Market fit is also a proxy for customer excitement. Customers recommend 
 
 This survey technique gives you a quantitativ measure of whether you've achieved product-market fit. 
 
+Sean Ellis recommends sending the PMF survey question to people who have:
+ * Experienced the core of your product offering
+ * Used your product at least twice
+ * Used your product in the last two weeks
 
 ### Time Commitment
 
@@ -46,14 +50,18 @@ How would you feel if you could no longer use [product]?
  * Not disappointed (it isn’t really that useful)
  * N/A – I no longer use [product]
 
-If over 40% of your users are saying that they would be “very disappointed” without your product, you are building a “must have” product for your initial customers. You can also include an open-ended follow up question to understand why the user answered this way. 
+3. Send the survey using any of the below
+ * Email
+ * Survey.io
+ * Typeform
+ * Google Forms
+ * Intercom
 
-Sean Ellis recommends sending the survey to people whohave:
- * Experienced the core of your product offering
- * Used your product at least twice
- * Used your product in the last two weeks
 
 ### Interpreting Results
+
+If over 40% of your users are saying that they would be “very disappointed” without your product, you are building a “must have” product for your initial customers. You can also include an open-ended follow up question to understand why the user answered this way. 
+
 
 Look for differences in qualititative responses between very disappointed and somewhat disappointed for extra clues. Most likely, either product or market segment need to be improved. 
 
@@ -66,6 +74,7 @@ Look for differences in qualititative responses between very disappointed and so
 ### Field Tips
  * “Survey.io is neccessary but not sufficient for product market fit. You better have 40%, but it’s not the only metric you need.” - @TriKro
  * " If you aren't sure if you have product-market fit, you probably don't. Use this quantitative validation technique to track your progress." - @LaunchTomorrow
+ * "Acheiving product-market fit isn't a goal in its own right. Know your product's role in your customers' lives and the market as a whole." - @LaunchTomorrow
 
 ## Case Studies
  * https://hitenism.com/slack-product-market-fit-survey/
@@ -77,3 +86,4 @@ Look for differences in qualititative responses between very disappointed and so
  * https://www.slideshare.net/hiten1/measuring-understanding-productmarket-fit-qualitatively/8-Do_you_have_productmarket_fit
  * http://www.startup-marketing.com/using-survey-io/
  * https://www.fastcompany.com/3014841/why-you-should-find-product-market-fit-before-sniffing-around-for-venture-money?show_rev_content
+ * https://www.cobloom.com/blog/how-good-is-david-cummings-approach-to-product/market-fit (another set of criteria for PMF in SaaS companies)
