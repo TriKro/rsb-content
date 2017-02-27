@@ -38,6 +38,7 @@
 * [Pocket Smoke Test](pocket-smoke-test.md)
 * [Pre-Sales Smoke Test](pre-sales-smoke-test.md)
 * [Secondary Market Research](secondary-market-research.md)
+* [Product-Market Fit Survey](survey-product-market-fit.md)
 * [5 - Generative Product Research](5-generative-product-research.md)
 * [Competitive Analysis](competitive-analysis.md)
 * [Concierge Test](concierge-test.md)
