@@ -1,6 +1,6 @@
 # Summary
 
-* [Cover](cover.md)
+* [The Real Startup Book](cover.md)
 * [Copyright](copyright.md)
 * [Dedications](dedications.md)
 * [Forward](forward.md)
