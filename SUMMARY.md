@@ -40,6 +40,7 @@
 * [Product-Market Fit Survey](survey-product-market-fit.md)
 * [Sales Pitch Smoke Test](sales-pitch-smoke-test.md)
 * [Secondary Market Research](secondary-market-research.md)
+* [Video Smoke Test](video-smoke-test.md)
 * [5 - Generative Product Research](5-generative-product-research.md)
 * [Analog/Digital](analog-digital.md)
 * [Ask An Expert](ask-an-expert.md)
