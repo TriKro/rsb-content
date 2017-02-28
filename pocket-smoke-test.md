@@ -1,4 +1,4 @@
-# Name Pocket - Smoke Test
+# Pocket Smoke Test
 
 ## In Brief
 
@@ -15,7 +15,7 @@ This smoke test applies to physical goods or products with hardware components -
 ## Tags
  * Solution
  * Design
- * Value Propostion
+ * Value Proposition
 
 ## Description
 

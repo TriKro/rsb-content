@@ -1,4 +1,4 @@
-# Name Smoke Test - Flyers
+# Flyer Smoke Test
 
 ## In Brief
 

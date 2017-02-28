@@ -1,4 +1,4 @@
-# Name Event - Smoke Test
+# Event - Smoke Test
 
 ## In Brief
 

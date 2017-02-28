@@ -1,4 +1,4 @@
-# Competitive Analysis
+# Competitor Analysis
 
 ## In Brief
 Competitive Analysis is very much a secondary research method which you can perform online, relatively quickly and comprehensively. It can be used for generative market analysis as well as generative product analysis. The analysis is absolutely crucial for any new business idea. 

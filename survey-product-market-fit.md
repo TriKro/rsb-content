@@ -1,4 +1,4 @@
-# Name - Product Market Fit Survey
+# Product Market Fit Survey
 
 ## In Brief
 
@@ -17,13 +17,13 @@ The Product/Market Fit survey specifically asks the customer, “How would you f
 
 ## Description
 
-"Product-market fit" is a term originally coined by serial entrepeneur and VC Marc Andreesen in his epic post "The Only Thing that Matters". In short, it refers to being in a good market with a product that can satisfy that market. If you really have it, typically you will be stretched to the limit with resources in order to deliver the product. 
+"Product-market fit" is a term originally coined by serial entrepreneur and VC Marc Andreessen in his epic post "The Only Thing that Matters". In short, it refers to being in a good market with a product that can satisfy that market. If you really have it, typically you will be stretched to the limit with resources in order to deliver the product. 
 
 Having achieved product-market it, you can safely say that you have fully proven the value hypothesis, where the value hypothesis is the key assumption that underlies why a customer is likely to use your product. Andy Rachleff of Wealthfront argues that you should achieve product market fit before searching for venture money. 
 
 Product-Market fit is also a proxy for customer excitement. Customers recommend you more frequently if you've achieved it. 
 
-This survey technique gives you a quantitativ measure of whether you've achieved product-market fit. 
+This survey technique gives you a quantitative measure of whether you've achieved product-market fit. 
 
 Sean Ellis recommends sending the PMF survey question to people who have:
  * Experienced the core of your product offering
