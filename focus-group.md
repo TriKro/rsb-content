@@ -1,4 +1,4 @@
-# Name - Focus Group
+# Focus Group
 
 ## In Brief
 
