@@ -45,6 +45,7 @@
 * [Competitive Analysis](competitive-analysis.md)
 * [Concierge Test](concierge-test.md)
 * [Demo Pitch](demo-pitch.md)
+* [Dogfooding](dogfooding.md)
 * [6 - Evaluative Product Experiment](6-evaluative-product-experiment.md)
 * [Pocket Smoke Test](pocket-smoke-test.md)
 * [Hallway Usability Test](hallway-usability-test.md)
