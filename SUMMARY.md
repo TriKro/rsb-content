@@ -38,6 +38,7 @@
 * [Pocket Smoke Test](pocket-smoke-test.md)
 * [Pre-Sales Smoke Test](pre-sales-smoke-test.md)
 * [Product-Market Fit Survey](survey-product-market-fit.md)
+* [Sales Pitch Smoke Test](sales-pitch-smoke-test.md)
 * [Secondary Market Research](secondary-market-research.md)
 * [5 - Generative Product Research](5-generative-product-research.md)
 * [Analog/Digital](analog-digital.md)
