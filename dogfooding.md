@@ -1,7 +1,7 @@
 ## Summary
 Dogfooding is simply using the product as if one was the customer and experiencing it first hand. It is a common practice but is an unstructured methodology as there is no script outside of using the product in the use case it was designed for.
 
-## Answers Questions Such As...
+## Helps Answer
 - Will the solution provide the value proposition?
 - Is the solution working right?
 - What is the minimum viable feature set?
@@ -16,7 +16,7 @@ Using one’s own product is a standard practice among many technology startups 
 
 There is no pre-defined script for dogfooding and it is not a formal Quality Assurance (QA) process. The main advantage to doing dogfooding is to encounter unorthodox use cases that may not have been covered in the requirements or QA tests. Therefore, Dogfooding should primarily be considered as generative research and not an experiment.
 
-Companies that do not use their own products and services are sometimes criticized, in some cases very publically.
+Companies that do not use their own products and services are sometimes criticized, [in some cases very publically](https://www.cnet.com/news/googles-eric-schmidt-why-i-love-my-blackberry/).
 Time Commitment & Resources
 If the team members regularly encounter the use case of the product, then there is no time commitment or resources necessary aside from having a notebook and writing down the results.
 
