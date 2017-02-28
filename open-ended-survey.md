@@ -1,4 +1,4 @@
-# Open Ended Survey
+ # Open Ended Survey
 
 ## In Brief
 
@@ -70,7 +70,7 @@ In the case of very large data sets, algorithmic tools such as sentiment analysi
 - “You can run an open ended survey once you know the best questions to ask. Talk to your customers to figure out the right questions” - @TriKro
 
 ## Case Studies
-[links to real case studies available in books or on the web]
+- .
 
 ## References
 - http://fluidsurveys.com/university/comparing-closed-ended-and-open-ended-questions/
