@@ -4,18 +4,18 @@
 This research method is used to get information about a participant's daily behaviors, thoughts and feelings in real time or as close to as possible. Participants are asked to stop at certain times in their natural settings and make notes of their experiences. It is also known as daily diary or experience sampling method (ESM).
 
 ## Helps Answer
-Who is our customer?
-What are their pains?
-What are the jobs to be done?
-How do we find them?
+- Who is our customer?
+- What are their pains?
+- What are the jobs to be done?
+- How do we find them?
 
 ## Tags
-B2C
-B2B
-Qualitative
-Customer Segment
-Channels
-Value Proposition
+- B2C
+- B2B
+- Qualitative
+- Customer Segment
+- Channels
+- Value Proposition
 
 ## Description
 The key element to experience sampling, is asking the right question. You need to be very careful in phrasing it, since you will be asking the question over and over again. This method makes most sense when you want to solve a frequently reoccurring problem. You get the most useful and viable input when asking about repeated behavior, and more specifically the last time it occurred.
