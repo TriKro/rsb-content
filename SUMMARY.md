@@ -45,6 +45,7 @@
 * [Analog/Digital](analog-digital.md)
 * [Ask An Expert](ask-an-expert.md)
 * [Competitor Analysis](competitive-analysis.md)
+* [Competitor Usability Testing](competitor-usability-testing.md)
 * [Concierge Test](concierge-test.md)
 * [Demo Pitch](demo-pitch.md)
 * [Dogfooding](dogfooding.md)
