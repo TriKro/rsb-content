@@ -1,12 +1,11 @@
-# Market vs. Product
-
 Do we need to learn about the _market_ or the _product_?
 
 To narrow down the large list of methods to something actionable, we can first separate our questions into those about the market and those about the product.
 
-##### Market
+## Market
 
 * _Who is our customer?_
+
 * _What are their pains?_
 
 * _What job needs to be done?_
@@ -27,9 +26,7 @@ To narrow down the large list of methods to something actionable, we can first s
 
 * _What is the cost to acquire a customer in this customer segment?_
 
-##### 
-
-##### Product
+## Product
 
 * _How can we solve this problem?_
 * _What form should this take?_
@@ -70,7 +67,7 @@ The Value Proposition really sits at the intersection of the Market needs and th
 
 **If we are using the Business Model Canvas, “market” questions are those on the right side of the canvas including: Customer, Channel, Relationship, & Revenue. “product” questions are those about the Value Proposition and everything left of it including: Key Activities, Key Resources, Key Partners, & Costs.**
 
-### Where Should We Start?
+## Where Should We Start?
 
 This book is agnostic about where we start. We may already have a product and are investigating who to sell it to or we may have a customer segment with a strong pain point and be trying to find a solution. However, when in doubt, start with the customer.
 

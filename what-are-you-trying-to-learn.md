@@ -1,5 +1,3 @@
-# What Are You Trying to Learn?
-
 **“If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions.” - Albert Einstein**
 
 In school, we’re constantly taking tests to gauge how well we’ve learned last week’s material. We cram geographic boundaries, the dates of battles, and multiplication tables into our heads and spit out the results.
@@ -22,7 +20,7 @@ As an entrepreneur \(or intrapreneur\) we can’t just guess at the answers with
 
 Our job, as an entrepreneur, is to first ask the right questions and only then can we find the right answers.
 
-### What Are Good Questions?
+## What Are Good Questions?
 
 The questions we must answer are fundamental gaps in our business model. Questions like:
 
@@ -56,7 +54,7 @@ Is our test failing because customers aren’t interested, or does it fail becau
 
 In this case, we were asking “Does anyone want my product?” when we should be asking “Does our customer understand what plantar fasciitis is?” or even “Who is our customer?”
 
-### **How Do We Ask the Right Questions?**
+## **How Do We Ask the Right Questions?**
 
 We know that asking the right questions is important, but _actually_ figuring out those questions can often be a challenge. How do we know we’re not missing anything? How do we know we are asking the most important questions?
 
@@ -76,7 +74,7 @@ We simply to write down those questions. They may be questions that we have fail
 
 We should not defend our idea or try and explain in excruciating detail why their question is **not** a risk for us. Our job is only to note the questions that are being asked and include them when we prioritize.
 
-### Priority Does Not Have a Plural
+## Priority Does Not Have a Plural
 
 We will certainly have more than one question once we’re finished brainstorming and doing peer reviews. We should have at least 10 and probably more like 20. If you have less than 10, you are probably missing questions in your blind spots.
 
@@ -92,7 +90,7 @@ It is better to pick the wrong question and answer it quickly than spend days, w
 
 The following sections will show you how to take that one priority question and figure out how to answer it with Research or an Experiment.
 
-### Locate The Question
+## Locate The Question
 
 To simplify our search for the right method, we’ll ask two questions:
 

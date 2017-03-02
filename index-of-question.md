@@ -1,5 +1,3 @@
-# Index of Questions
-
 |  | **Market** | **Product** |
 | :--- | :--- | :--- |
 | ![](https://docs.google.com/a/trikro.com/drawings/d/sCQePx2ImJwE3jGYGHSAuYg/image?w=59&h=176&rev=46&ac=1) | 

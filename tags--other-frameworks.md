@@ -1,5 +1,3 @@
-# Tags & Other Frameworks
-
 There are many great methods, books and frameworks out there on how to identify and prioritize risky assumptions, hypotheses, and questions.
 
 All the methods are tagged so as to be easily searchable depending on any other frameworks we might use. This includes simple tags such as _qualitative_ or _quantitative_ used to denote the type of information that the method produces.
@@ -18,7 +16,7 @@ Using these tags to navigate the methods is not as simple as using the Index and
 
 
 
-#### **Using the Business Model Canvas**
+## **Using the Business Model Canvas**
 
 The Business Model Canvas is a very popular framework that identifies 9 basic building blocks of any business model and asks us to make assumptions as to what our business will be. Those blocks are:
 

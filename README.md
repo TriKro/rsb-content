@@ -1,4 +1,3 @@
-
 Go to any jazz jam session and you’ll see one book on stage. The Real Book.
 Every serious musician has it.
 

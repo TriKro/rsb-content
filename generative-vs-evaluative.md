@@ -1,5 +1,3 @@
-# Generative vs. Evaluative
-
 Do we have a clear hypothesis to _evaluate_ or do we need to _generate_ a clear idea? This distinction depends on our ability to understand what makes a clear hypothesis.
 
 > _“Our customers really want our product.”_
@@ -22,8 +20,6 @@ In this case, several things are unclear:
 
 * What is respect in this context? What behaviors would indicate “more respect”?
 
-
-
 Without defining the hypothesis very clearly, we might let the principals of schools ask the teachers on our behalf and they might ask them with varying degrees of persuasiveness.
 
 We might also argue about the results. Is calling a student “Mr.” instead of their first name a sign or respect or a sign of sarcasm?
@@ -34,7 +30,7 @@ Given this goal, we are better off doing customer discovery interviews \(a.k.a. 
 
 Defining good hypotheses can be a challenge, so here are some things to look for and a short checklist.
 
-### **Simple and Unambiguous**
+## **Simple and Unambiguous**
 
 The hypothesis should be clear and unambiguous so that anyone reading it will understand the context and be able to clearly interpret the results.
 
@@ -48,7 +44,7 @@ While this is more specific, not everyone knows what an honorific is, so we shou
 
 > _“If 250 Los Angeles teachers were asked to treat minority students with more respect, then at least 50 teachers would call their students using ‘Mr./Ms.’ and their last name instead of their first name.”_
 
-### Measurable
+## Measurable
 
 > _“Our customers have a strong desire to donate to charitable causes.”_
 
@@ -58,7 +54,7 @@ This hypothesis may be true, but it is not observable. At least not until we inv
 
 This new hypothesis has some other issues, but it is at least something observable.
 
-### Describes a Relationship
+## Describes a Relationship
 
 > _“50% of students at Dalton High School get a C or lower in at least one class per year.”_
 
@@ -68,7 +64,7 @@ This again may be true and it is observable, but it doesn’t tell us anything a
 
 There are still more issues, but the hypothesis must relate two or more variables to each other.
 
-### Cause and Effect
+## Cause and Effect
 
 > _“During the summer, ice cream consumption increases and more people drown per day.”_
 
@@ -80,7 +76,7 @@ This specifies a clear relationship and the causal direction of that relationshi
 
 > _“If we feed ice cream to people, then the average \# of drownings per day will increase.”_
 
-### Achievable
+## Achievable
 
 > _“If an astronaut in a stable orbit around a black hole extends one foot past the event horizon of a black hole, then they will be pulled in entirely.”_
 
@@ -90,7 +86,7 @@ Unfortunately, as entrepreneurs, we should restrict our hypotheses to ones that 
 
 \[warning call out: Many things seem untestable today but clever application of lean thinking can simplify the hypothesis into a testable first step.\]
 
-### Falsifiable
+## Falsifiable
 
 All of these conditions add up to a hypothesis beingfalsifiable. If a hypothesis cannot be proven incorrect, then it is not relevant to run a test on it.
 
@@ -100,7 +96,7 @@ When it doubt, we can ask ourselves, “What evidence would prove this hypothesi
 
 If there is no amount of evidence that would prove our hypothesis is invalid, then either the hypothesis is flawed or we are very stubborn.
 
-### Other Frameworks
+## Other Frameworks
 
 There are a number of frameworks and checklists for forming hypothesis, one of which is popular enough to comment on to avoid confusion:
 

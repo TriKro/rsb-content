@@ -1,5 +1,3 @@
-# How to Use This Book
-
 Do not read this book straight through. There is no plot or narrative that you’re going to miss.
 
 This book is not a step 1, step 2, step 3 guide to building a startup. Startups don’t work like that.
@@ -30,19 +28,19 @@ Once you know what you need to learn, consult the index to find a list of resear
 
 In each method section, you will find the following headers:
 
-##### In Brief
+### In Brief
 
 A quick 2-3 sentence description of the method.
 
-##### Helps Answer
+### Helps Answer
 
 A list of common questions about a business model that this method helps answer.
 
-##### Tags
+### Tags
 
 A list of terms that can also be used to navigate through the book such as B2B \(for methods commonly used for Business-to-Business models\) and qualitative \(for the type of data used by this method.\)
 
-##### Description
+### Description
 
 A more detailed description of the steps normally taken to run this research or experiment method including:
 
@@ -56,11 +54,10 @@ A more detailed description of the steps normally taken to run this research or 
 
 * _**Field Tips**_ from startup practitioners who have used this method.
 
-##### Case Studies
+### Case Studies
 
 Links to various case studies that might serve as examples and inspiration.
 
-##### References
+### References
 
 A list of additional materials or resources for those who want more information.
-

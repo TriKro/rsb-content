@@ -1,4 +1,4 @@
-# Writing a Good Hypothesis
+## Writing a Good Hypothesis
 
 Lean startup practices turn project managers, business leaders and designers into scientists who constantly validate their ideas through running an array of experiments. But experiments can get out of hand and turn perfectly sane people into mad scientists. A sure way to keep one’s sanity is to start the experiment with a strong hypothesis.
 
@@ -146,7 +146,7 @@ Learn from your mistakes. Look at the questions that you got wrong and pay atten
 
 * [http://www.slideshare.net/intelleto/lean-ux-meetupvegashypotheses201307](http://www.slideshare.net/intelleto/lean-ux-meetupvegashypotheses201307)
 
-### Hypothesis Checklist
+## Hypothesis Checklist
 
 | **Y** | **N** | **Questions** |
 | :--- | :--- | :--- |

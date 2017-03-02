@@ -1,5 +1,3 @@
-# Update History
-
 * **Version 0.4 - **Smushed \(minifying\) pictures, automated rolling release scripts.
 
 * **Version 0.3 - **Updated book’s formatting, added _Customer Discovery Interviews_ and merged with _Customer Discovery_, added Secondary Market Research, added _Concierge Test_, added _Net Promoter Score_, added _Appendices_ and _Biases_
