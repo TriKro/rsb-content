@@ -1,5 +1,3 @@
-# Paper Prototyping
-
 ## In Brief
 Quickly test a solution idea by simulating user-product interactions using paper drawings and cutouts.  Paper prototyping is often a form of usability testing although it can also be used to help generate and evaluate design alternatives during ideation.  
 

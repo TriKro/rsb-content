@@ -1,7 +1,4 @@
-# Focus Group
-
 ## In Brief
-
 A focus group is a small group discussion designed to rapidly gain customer feedback on a given topic. It is like customer development, but performed in a group. In the Lean Startup world, it is often criticised for falling into “group think”. The opinions of the most outgoing group members tend to dominate the discussion and distort the outcome. It can also be used to understand the dynamics behind group buying patterns / influences.
 
 ## Helps Answer
@@ -18,7 +15,6 @@ A focus group is a small group discussion designed to rapidly gain customer feed
  * Customer
 
 ## Description
-
 Focus groups are traditional tools that bigger companies use to hear the voice of the consumer/customer. Focus groups are a divergent tool to gather insights based on group conversiations. When done well, group conversations help chain associations among group participants, supposedly resulting in a better sense of the subjective essence. 
 
 Focus groups have a long history. They were first used over 60 years ago by US government sociologists investigating the effectiveness of WWII military propaganda movies. They are most often used in the context of:
@@ -43,11 +39,9 @@ According to B2BInternational.com, typical market research situations when focus
  * To explore perceptions of brand and service elements associated with the brand
 
 ### Time Commitment
-
 3 days prep (much less if you outsource participant recruitment) + 90 minutes per session + 1-4 hours to collate results
 
 ### How To
-
  1. Pick a single, clear purpose. Single product or issue.
  2. Narrow down your target audience. Pick and talk to one group at a time.
  3. Consider organizing a control group. To contrast group opinions against a larger market context.
@@ -82,11 +76,9 @@ According to B2BInternational.com, typical market research situations when focus
 (adapted from wikihow.com)
 
 ### Interpreting Results
-
 Use techniques to match patterns in responses, like affinity mapping using post-its. Also, note down language used by customers as well as any ideas generated during the discussion as a source of inspiration for further evaluation. 
 
 ### Potential Biases
-
  * Confirmation bias: Don't use focus groups to tell you what you already know. Listen for divergent opinions or the unexpected.
  * False positive: Your focus group may tell you things which aren't true for your market as a whole
  * Difference between what customers say vs what they do/buy: Assume consumers are not capable of accurately describing why they make decisions

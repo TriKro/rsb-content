@@ -1,5 +1,3 @@
-# Experience Sampling
-
 ## In Brief
 This research method is used to get information about a participant's daily behaviors, thoughts and feelings in real time or as close to as possible. Participants are asked to stop at certain times in their natural settings and make notes of their experiences. It is also known as daily diary or experience sampling method (ESM).
 

@@ -1,5 +1,3 @@
-# Name - Ask An Expert
-
 ## In Brief
 
 People ask experts and then do what they say. Asking experts is ok, but it's generative research...not evaluative.

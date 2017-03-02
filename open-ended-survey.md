@@ -1,5 +1,3 @@
- # Open Ended Survey
-
 ## In Brief
 
 An open ended survey asks a fixed set of questions usually via a mass communication channel such as email or website popup. Answers are not constrained as in the case of multiple choice or check boxes but are free text responses where the customer can choose the length and detail of their answer.

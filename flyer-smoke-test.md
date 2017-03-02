@@ -1,5 +1,3 @@
-# Flyer Smoke Test
-
 ## In Brief
 
 Flyers serve as placeholders for conversations which need to happen. Just like flyers are used to describe existing products, they can also be used to describe product plans. By choosing product benefits, features, and a visualization, you communicate the product vision to the prospect in order to see how they react. This is a common type of smoke test in enterprise sales.  

@@ -1,5 +1,3 @@
-# Fake Door Smoke Test
-
 ## In Brief
 
 People are bad at predicting what they want, but great at reacting to new offers. Building just the entry to an offer makes it possible to predict future reactions based on actual behavior. This test is also known as a 404 page test. 

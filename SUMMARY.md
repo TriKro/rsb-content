@@ -49,7 +49,7 @@
 * [Concierge Test](concierge-test.md)
 * [Demo Pitch](demo-pitch.md)
 * [Dogfooding](dogfooding.md)
-* Picnic in the Graveyard
+* [Picnic in the Graveyard](picnic-in-the-graveyard.md)
 * [Solution Interview](solution-interview.md)
 * [6 - Evaluative Product Experiment](6-evaluative-product-experiment.md)
 * [Dashboards](dashboards.md)

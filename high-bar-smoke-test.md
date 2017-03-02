@@ -1,5 +1,3 @@
-# High Bar Smoke Test
-
 ## In Brief
 
 A High Bar Test helps to gauge the customer’s willingness to pay without using any form of monetary payment. This particular form of smoke test is focused on having the customer go through a set of activities containing abnormal amounts of usability friction (e.g. a very long, complicated signup form) to gauge the customer’s desire for a particular solution. This can be combined with additional "pre-qualifying", to ensure that the customers who do take the action are exactly the right kind of customer for the product.

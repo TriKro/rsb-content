@@ -1,5 +1,3 @@
-# Name - Analog / Digital
-
 ## In Brief
 
 Sell a physical version of the product, even if your final product will be digital. This is especially effective for information or data-based products such as customer lists or how-to guides. 

@@ -1,5 +1,3 @@
-# Name Broken Promise Smoke Test
-
 ## In Brief
 
 They naturally want to share ideas or products they love with their friends. This smoke test helps test how much of a natural/inherent virality lies in the idea itself. It helps identify high potential ideas, before you've built a product. 

@@ -1,5 +1,3 @@
-# Product Market Fit Survey
-
 ## In Brief
 
 The Product/Market Fit survey specifically asks the customer, “How would you feel if you could no longer use [this product]?” with a multiple choice response. The survey is often used as a proxy metric for Product/Market Fit. If 40% or more customers answer they would be “very disappointed” without the product then it is assumed the product is ready for marketing to the entire segment which answers that way.
