@@ -1,5 +1,3 @@
-# **Forward**
-
 By Tristan Kromer
 
 **     
