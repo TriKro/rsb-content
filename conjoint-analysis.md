@@ -1,3 +1,6 @@
+
+<img src="./assets/illustration - conjoint analysis.comic.PNG">
+
 ## In Brief
 
 A complex survey method where customers choose between product offerings
@@ -54,16 +57,15 @@ required can take several weeks and human analysis.
 6.  Output formula revealing the “ideal” product based upon optimized
     mix of attributes
 
-|                               |                               |                                    |
-|-------------------------------|-------------------------------|------------------------------------|
-| Brand A                       | Brand B                       | Brand C                            |
-| 60 per month                  | 75 per month                  | 75 per month                       |
-| 1000 minutes                  | 1400 minutes                  | 1000 minutes                       |
-| Unused minutes rollover for   
- 1 year                         | Unused minutes rollover for   
-                                 1 month                        | Unused minutes rollover for 1 year |
-| Free calling top 5 contacts   | Free calling top 10 contacts  | No free calling                    |
-| 40% share                     | 36% share                     | 25% share                          |
+|                                     |                                     |                                    |
+|-------------------------------------|-------------------------------------|------------------------------------|
+| Brand A                             | Brand B                             | Brand C                            |
+| 60 per month                        | 75 per month                        | 75 per month                       |
+| 1000 minutes                        | 1400 minutes                        | 1000 minutes                       |
+| Unused minutes rollover for  1 year | Unused minutes rollover for 1 month | Unused minutes rollover for 1 year |
+| Free calling top 5 contacts         | Free calling top 10 contacts        | No free calling                    |
+| 40% share                           | 36% share                           | 25% share                          |
+|-------------------------------------|-------------------------------------|------------------------------------|
 
 ### Interpreting Results
 
@@ -123,23 +125,18 @@ use this method.
 
 **Invalid Target Audience:** Key to the success of conjoint analysis
     is knowing your audience well enough to be able to create products
-    with useful mix of attributes to begin with.
+    with useful mix of attributes to begin with. Conjoint analysis works 
+    best for products and services that rely more on logical comparison 
+    and less on emotion or impulse.
 
- * Conjoint analysis works best for products and services that rely
-        more on logical comparison and less on emotion or impulse.
-
-**Homogenous Market:**
-
- * Boiling market segments down to a series of equations and values
+**Homogenous Market:** Boiling market segments down to a series of equations and values
         has the drawback of treating every member of that
         segment identically. This is can often be reasonable within the
         specific price range studied but outside of these ranges, the
         mix of desirable attributes can change quite dramatically as
         customers enter and leave the market.
 
-**Indication of Price Sensitivity NOT Exact Pricing**
-
- * Conjoint analysis is great for providing an indication about
+**Indication of Price Sensitivity NOT Exact Pricing:** Conjoint analysis is great for providing an indication about
         which variables and ranges influence pricing but a separate
         pricing and elasticity of demand analysis should be performed
         separately to really nail this down.
