@@ -3,11 +3,7 @@
 
 ## In Brief
 
-A complex survey method where customers choose between product offerings
-that have different attributes such as price, screen size, or weight.
-Statistical analysis is then used to reveal the relative value of each
-attribute and predict the value of each possible combination of
-features.
+A complex survey method that estimates estimates psychological tradeoffs that consumers make when evaluating several attributes together.Customers choose among product offerings that have different attributes such as price, screen size, or weight. Statistical analysis is then used to reveal the relative value of each attribute and predict the value of each possible combination of features. It tries to uncover real or hidden drivers which may not be apparent to the respondent themselves. 
 
 ## Helps Answer
 
