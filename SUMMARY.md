@@ -15,7 +15,7 @@
 * [Market vs. Product](market-vs-product.md)
 * [Generative vs. Evaluative](generative-vs-evaluative.md)
 * [Hypothesis Checklist](hypothesis-checklist.md)
-* [Index of Question](index-of-question.md)
+* [Index of Questions](index-of-question.md)
 * [Index of Methods](index-of-methods.md)
 * [Tags & Other Frameworks](tags--other-frameworks.md)
 * [3 - Generative Market Research](3-generative-market-research.md)
