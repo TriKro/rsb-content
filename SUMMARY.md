@@ -60,6 +60,7 @@
 * [Takeaway Test](takeaway-test.md)
 * [Usability Testing](usability-testing.md)
 * [Wizard of Oz](wizard-of-oz.md)
+* [Conjoint Analysis](conjoint-analysis.md)
 * [7 - Out of the Box](7-out-of-the-box.md)
 * [A/B Testing](ab-testing.md)
 * [Off Brand Testing](off-brand-testing.md)
