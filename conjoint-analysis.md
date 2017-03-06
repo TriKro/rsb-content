@@ -25,6 +25,18 @@ features.
 
 ##Description
 
+Conjoint analysis is a statistical technique used in market research. In the new product context, it aims to create a few customized versions of a product which will appeal to specific segments, rather than to offer a generic mass-market version of a product. It's used frequently in testing customer acceptance of new product designs, in assessing the appeal of advertisements and in service design.
+
+It: 
+ * identifies clusters of consumer preferences, to help identify what features need to be produced together.
+ * determines how groups of people value different attributes (feature, function, benefits) that make up an individual product or service. 
+ * evaluates already created designs
+ * can be used before designing a product, in order to elicit feature sets that will be more likely to appeal to specific people. 
+ 
+Respondents are shown a set of products, prototypes, mock-ups, or pictures created from a combination of levels from all or some of the constituent attributes. Then they're asked to choose from, rank or rate the products they are shown. Each example is similar enough that consumers will see them as close substitutes, but dissimilar enough that respondents can clearly determine a preference. 
+
+By collating the responses of participants, conjoint analysis figures out what the most likely combinations of features will work for subsets of consumers. The output of such an analyis may consist of individual ratings, rank orders, or preferences among alternative combinations.
+
 ### Time Commitment and Resources
 
 1-2 hours offline for B2C or 24 hours online to gather responses. For
@@ -57,15 +69,14 @@ required can take several weeks and human analysis.
 6.  Output formula revealing the “ideal” product based upon optimized
     mix of attributes
 
-|                                     |                                     |                                    |
-|-------------------------------------|-------------------------------------|------------------------------------|
 | Brand A                             | Brand B                             | Brand C                            |
+|-------------------------------------|-------------------------------------|------------------------------------|
 | 60 per month                        | 75 per month                        | 75 per month                       |
 | 1000 minutes                        | 1400 minutes                        | 1000 minutes                       |
 | Unused minutes rollover for  1 year | Unused minutes rollover for 1 month | Unused minutes rollover for 1 year |
 | Free calling top 5 contacts         | Free calling top 10 contacts        | No free calling                    |
 | 40% share                           | 36% share                           | 25% share                          |
-|-------------------------------------|-------------------------------------|------------------------------------|
+
 
 ### Interpreting Results
 
