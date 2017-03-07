@@ -31,8 +31,7 @@ The benefits of taking this approach are:
 
 This is a common pattern in enterprise lean startup, particularly with bigger companies having a lot of legacy processes. 
 
-Note: This is not the same as Randy Komisar's [http://ecorner.stanford.edu/videos/2418/Analogs-and-Antilogs-Nothing-is-Revolutionary
-](analog/antilog thought experiment) for formulating a Value Proposition or identifying a problem. The goal here is to gather actual user feedback, based on something physical that approximates the final form of the product. 
+Note: This is not the same as Randy Komisar's [analog/antilog thought experiment](http://ecorner.stanford.edu/videos/2418/Analogs-and-Antilogs-Nothing-is-Revolutionary) for formulating a Value Proposition or identifying a problem. The goal here is to gather actual user feedback, based on something physical that approximates the final form of the product. 
 
 ### Time Commitment
 
