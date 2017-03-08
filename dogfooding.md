@@ -43,9 +43,7 @@ Completely missing edge cases are also particularly common, especially if the te
 When multiple team members dogfood their product, notes can be collected and sorted via card sorting, stack ranking, or other standard UX methods.
 
 ### Potential Biases
-- .
-
-### Confirmation Bias
+- Confirmation Bias
 Creators of a product can subconsciously avoid situations and use cases they know are incomplete or buggy, leaving a positive impression that the product works according to the specification, even if it has serious flaws in ordinary usage.
 
 ### Field Tips

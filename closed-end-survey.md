@@ -113,7 +113,7 @@ Then take action!
 * Allow the respondent the option of answering with ‘not appropriate’/‘don’t know’/‘have no strong feelings’.
 
 ## Case Studies
- * FourSquare used a closed-end survey to prioritize which city to launch in next (using a google form)[https://techcrunch.com/2009/10/15/foursquare-nearly-doubles-its-playing-field/]
+ * [FourSquare used a closed-end survey to prioritize which city to launch in next (using a google form)](https://techcrunch.com/2009/10/15/foursquare-nearly-doubles-its-playing-field/)
   * Got a case study? Add a link by emailing us: realbook@trikro.com
  
 ## References
