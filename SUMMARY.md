@@ -3,7 +3,7 @@
 * [The Real Startup Book](cover.md)
 * [Copyright](copyright.md)
 * [Dedications](dedications.md)
-* [Forward](forward.md)
+* [Foreword](forward.md)
 * [1 - Preface](preface.md)
 * [What's a Real Book?](README.md)
 * [Who is This Book For?](who-is-this-book-for.md)

@@ -98,4 +98,4 @@ Viewcount vanity: views with people outside your intended target audience is a v
  * http://tim.blog/2013/04/10/how-to-create-a-viral-book-trailer-or-get-1000000-views-for-almost-anything/
  * https://blog.launchtomorrow.com/2016/03/dropbox-mvpexplainer-video-youre-missing-most-of-the-story/
  * http://www.videobrewery.com/blog/5-tips-kickstarter-video
-
+ * https://www.nickkolenda.com/viral-marketing
