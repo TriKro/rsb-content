@@ -66,4 +66,5 @@
 * [Off Brand Testing](off-brand-testing.md)
 * [8 - Appendices](8-appendices.md)
 * [Biases](biases.md)
+* [9 - Afterword](9-afterword.md)
 
