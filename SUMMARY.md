@@ -64,4 +64,6 @@
 * [7 - Out of the Box](7-out-of-the-box.md)
 * [A/B Testing](ab-testing.md)
 * [Off Brand Testing](off-brand-testing.md)
+* [8 - Appendices](8-appendices.md)
+* [Biases](biases.md)
 
