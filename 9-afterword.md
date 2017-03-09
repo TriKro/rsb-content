@@ -11,4 +11,10 @@ This book won’t make you successful. You have to work for that.  Entrepreneurs
 Figure out what question you have about your product or market, pick a method, and start practicing.
 
 **For This Book**
-This book is not done, nor will it ever be. We learn faster together. Have you come up with a new method? Got a new tip? Let us know by emailing realbook@trikro.com
+This book is not done, nor will it ever be. We learn faster together. 
+
+* Have you come up with a new method?
+* Got a new tip?
+* Do you Want to share a case study of how you used the techniques in this book, so that the community can learn from your experience?
+ 
+Let us know by emailing realbook@trikro.com
