@@ -39,7 +39,7 @@ As this is a technique used to reduce bias, there are no major additional biases
 
 ### Field Tips
  * "Fight the urge to a big bang corporate-style launch when validating an idea using off brand testing. It works, and it gives you data you can stake your career on." --@LaunchTomorrow
- * "There is a time for brand compliance, security, and all of the other goodies you're used to. First do .a smoke test using off-brand testing" --@LaunchTomorrow
+ * "There is a time for brand compliance, security, and all of the other goodies you're used to. First do a smoke test using off-brand testing" --@LaunchTomorrow
  * “Corporations do not lack ideas, but rather have a hard time deciding on what ideas to invest in.” — @davidjbland https://medium.com/@davidjbland/lean-startup-comes-home-8f205993da40
 
 ## Case Studies
