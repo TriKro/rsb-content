@@ -88,11 +88,11 @@ Unfortunately, as entrepreneurs, we should restrict our hypotheses to ones that 
 
 ## Falsifiable
 
-All of these conditions add up to a hypothesis beingfalsifiable. If a hypothesis cannot be proven incorrect, then it is not relevant to run a test on it.
+All of these conditions add up to a hypothesis being falsifiable. If a hypothesis cannot be proven incorrect, then it is not relevant to run a test on it.
 
 > _“There is an invisible, intangible tea cup floating between the Earth and Mars.”_
 
-When it doubt, we can ask ourselves, “What evidence would prove this hypothesis incorrect?”
+When in doubt, we can ask ourselves, “What evidence would prove this hypothesis incorrect?”
 
 If there is no amount of evidence that would prove our hypothesis is invalid, then either the hypothesis is flawed or we are very stubborn.
 
