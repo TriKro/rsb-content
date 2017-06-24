@@ -1,4 +1,3 @@
-
 * Andy Cars, [Linkedin](https://se.linkedin.com/in/andycars), [Lean Ventures](http://leanventures.se/)
 
 * Austin Elford, [Linkedin](https://www.linkedin.com/in/austinefurd), [Twitter](https://twitter.com/austinefurd)
@@ -14,6 +13,8 @@
 * Gillian Julius, [Linkedin](https://www.linkedin.com/in/gillianjulius)
 
 * Hameed Haqparwar, [Linkedin](https://www.linkedin.com/in/haqparwar), [@haqparwar](https://twitter.com/haqparwar)
+
+* Jacob Fleming, [Linkedin](https://www.linkedin.com/in/jakeflem/)
 
 * Jan Kennedy, [Academy for Corporate Entrepreneurship](http://www.afce.co/), [@innovationmojo](https://twitter.com/innovationmojo)
 
@@ -48,6 +49,4 @@
 ## Editors
 
 Tristan Kromer, [TriKro LLC](http://www.trikro.com/), [Blog](http://grasshopperherder.com/)
-
-
 
