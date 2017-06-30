@@ -154,8 +154,6 @@ Learn from your mistakes. Look at the questions that you got wrong and pay atten
 |  |  | Is the cause and effect relationship clear? |
 |  |  | Is it achievable? |
 |  |  | Can there any evidence that would convince us the hypothesis is _invalid_? |
-| ** ** | ** ** | ** ** |
-| ** ** | ** ** | ** ** |
 
 
 
