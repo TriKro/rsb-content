@@ -11,7 +11,7 @@ Unlike various “fake books” out there which provide details on how to play e
 
 It was heaven.
 
-The Real Book answered a simple question for musicians, “How do we play that song?”
+The Real Book answered a simple question for musicians: “How do we play that song?”
 
 Where a musician’s job is play songs, the startup product manager’s job is learn. Learn about our customers, our value propositions, our channels. Learn about all the pieces of our business model.
 
