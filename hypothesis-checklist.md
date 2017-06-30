@@ -116,15 +116,11 @@ If I add a notification feature that allows the waiter/waitress to set reminders
 
 **Answers: **
 
-1 - A
-
-2 - C
-
-3 - D
-
-4 - D
-
-5 - B
+* 1 - A
+* 2 - C
+* 3 - D
+* 4 - D
+* 5 - B
 
 Learn from your mistakes. Look at the questions that you got wrong and pay attention see which key element is either missing or vague.
 
