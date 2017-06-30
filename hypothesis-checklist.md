@@ -60,7 +60,7 @@ This always depends on a number of variables within the company but let’s say 
 
 _The end hypothesis would be:_
 
-If I add a notification feature that allows the waiter/waitress to set reminders to add in his/her tips, then I am going to see a 10% increase in number of users opening the app 4 times or more in a week over the next three months.
+If I add a notification feature that allows the waiter/waitress to set reminders to add in his/her tips, then I am going to see a 10% increase in number of users opening the app four times or more in a week over the next three months.
 
 **Below is a worksheet that will test if you can figure out the strongest hypothesis for a given scenario.**
 
