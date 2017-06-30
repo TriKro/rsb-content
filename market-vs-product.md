@@ -29,6 +29,7 @@ To narrow down the large list of methods to something actionable, we can first s
 ## Product
 
 * _How can we solve this problem?_
+
 * _What form should this take?_
 
 * _How important is the design?_
@@ -55,8 +56,6 @@ To narrow down the large list of methods to something actionable, we can first s
 
 * _Why do prospects not buy from us?_
 
-
-
 In this case, “market” refers to any question or element that is mostly or completely connected to the identity of the Customer segment.
 
 For example, market questions include those about which Channels we can use to reach the Customers. We cannot use traditional broadcast television advertising to target customers who don’t have a television set.
@@ -72,6 +71,4 @@ The Value Proposition really sits at the intersection of the Market needs and th
 This book is agnostic about where we start. We may already have a product and are investigating who to sell it to or we may have a customer segment with a strong pain point and be trying to find a solution. However, when in doubt, start with the customer.
 
 If the customer segment changes, then the Product usually must be adapted to the Customer. However, if the product changes, Customers may simply use a different product. Human behavior is notoriously difficult to change although it is not impossible.
-
-
 
