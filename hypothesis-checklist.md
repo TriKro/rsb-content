@@ -16,9 +16,9 @@ Key elements of writing a good hypothesis:
 
 A hypothesis will end up looking like this:
 
-**This new feature** will cause **an 10% increase** of **new users visiting the homepage** in **3 months**.
-
-The change                                     the metric                               the impact                   the timeframe
+> **This new feature** will cause **an 10% increase** of **new users visiting the homepage** in **3 months**.
+>
+> \(the change\) ----------------------------\(the metric\)-------------------\(the impact\)----------------------\(the timeframe\)
 
 Let’s break down each aspect:
 
@@ -151,13 +151,13 @@ Learn from your mistakes. Look at the questions that you got wrong and pay atten
 | **Y** | **N** | **Questions** |
 | :--- | :--- | :--- |
 | ** ** | ** ** | Is it simple and unambiguous? |
-|   |   | I mean… is it simple...? |
-|   |   | ..and is it unambiguous? |
-|   |   | Is it measurable? |
-|   |   | Does it describe a relationship between two things? |
-|   |   | Is the cause and effect relationship clear? |
-|   |   | Is it achievable? |
-|   |   | Can there any evidence that would convince us the hypothesis is _invalid_? |
+|  |  | I mean… is it simple...? |
+|  |  | ..and is it unambiguous? |
+|  |  | Is it measurable? |
+|  |  | Does it describe a relationship between two things? |
+|  |  | Is the cause and effect relationship clear? |
+|  |  | Is it achievable? |
+|  |  | Can there any evidence that would convince us the hypothesis is _invalid_? |
 | ** ** | ** ** | ** ** |
 | ** ** | ** ** | ** ** |
 
