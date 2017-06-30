@@ -84,7 +84,7 @@ There are many theoretical physicist who create a number of hypotheses which are
 
 Unfortunately, as entrepreneurs, we should restrict our hypotheses to ones that can be tested within the immediate future or within our current resources.
 
-\[warning call out: Many things seem untestable today but clever application of lean thinking can simplify the hypothesis into a testable first step.\]
+* [ ] **Many things seem untestable today but clever application of lean thinking can simplify the hypothesis into a testable first step.**
 
 ## Falsifiable
 
