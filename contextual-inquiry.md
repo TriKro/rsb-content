@@ -1,3 +1,5 @@
+#Contextual Inquiry
+
 ## In Brief
 A combination of semi-structured interview and observations done in the actual location where the problem occurs or the solution will be used. This method avoids hypothetical statements and helps reveal knowledge that the customer may have, but be unaware of and thus unable to communicate in a traditional interview. It may also reveal substitute products, competitors, or workarounds that will help define the optimal solution.
 
