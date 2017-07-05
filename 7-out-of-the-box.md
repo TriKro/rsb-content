@@ -1,4 +1,4 @@
-
+# Out of the Box
 
 ![](/assets/illustration - trapped in a box.png)
 

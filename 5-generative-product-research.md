@@ -1,7 +1,4 @@
-
-
-
-
+# Generative Product Research
 
 ![](/assets/framework---lean-startup-playbook---generative-product-research.png)
 
