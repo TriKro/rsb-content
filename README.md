@@ -7,7 +7,7 @@ Each page is a jazz standard. All Blues by Miles Davis, Autumn Leaves by Johnny 
 
 Unlike various “fake books” out there which provide details on how to play each note and where to put your fingers, the Real Book was minimal. Each page had the key signature, time signature, chords, melody line, and not much else. It was just enough detail to play the song. It was vague enough to allow for the extensive improvisation that makes jazz jazz.[^1]
 
-It was heaven.
+It was heaven..
 
 The Real Book answered a simple question for musicians: “How do we play that song?”
 
