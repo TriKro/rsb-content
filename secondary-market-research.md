@@ -1,3 +1,5 @@
+# Secondary Market Research
+
 ## In Brief
 
 Secondary Market Research gathers and interprets available information about the target market such as published reports, newspaper articles, or academic journals. This method is used to figure out the size of the market or customer segment, pricing, and possible ways for the market to evolve. Secondary Market Research, also referred to as “Desk Research”, or “Market Study,” is always from 3rd party sources and there is no direct customer contact.

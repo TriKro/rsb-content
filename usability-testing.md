@@ -1,3 +1,5 @@
+# Usability Testing
+
 ## In Brief
 Usability testing is observing users trying to complete a series of tasks with an interactive product. The product can be any level of fidelity from a paper mockup to a fully functioning product. Users are asked to perform a series of tasks and the observer record whether the user is able to perform them and if they become confused or frustrated during the process.
 

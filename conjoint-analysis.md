@@ -1,3 +1,4 @@
+# Conjoint Analysis
 
 <img src="./assets/illustration - conjoint analysis.comic.PNG">
 

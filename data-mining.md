@@ -1,3 +1,5 @@
+#Data Mining
+
 ## In Brief
 Data mining uses statistics from large amounts of data to learn about target markets and customer behaviors. Data mining can make use of data warehouses or big data.
 

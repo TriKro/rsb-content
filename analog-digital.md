@@ -1,3 +1,5 @@
+# Analog/Digital
+
 ## In Brief
 
 This techniques helps decouple the risks around physical delivery of a product from a digital component of the product. You can sell a physical version of the product or service, even if your final product will be digital. Selling the physical form first may be easier, riskier, or more complicated. As a technique this works best for software, information or data-based products which have historically had a physical component. Alternatively, it works well if you want the end product to be decoupled from a computer or smartphone.

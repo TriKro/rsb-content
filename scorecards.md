@@ -1,3 +1,5 @@
+# Scorecards
+
 ## In Brief
 
 A scorecard is an evaluative decision-making or prioritizing shortcut, often done in a spreadsheet. It is a structured way to identify *one* top choice among a number of options, to help focus your use of resources (time, money). It helps achieve a goal one small step at a time. This technique be useful if there is no clear intuitive priority. 

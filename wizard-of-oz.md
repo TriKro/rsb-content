@@ -1,3 +1,5 @@
+# Wizard of Oz
+
 ## In Brief
 
 Wizard of Oz test involves one or more individuals simulating fully functioning product features without the use of technology. All inputs, outputs, and algorithms are performed manually by humans, but without the knowledge of the customer. This allows entrepreneurs to test a complete solution and gain accurate feedback from the customer without the cost of building a complex, fully automated solution.
