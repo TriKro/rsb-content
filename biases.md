@@ -1,3 +1,5 @@
+# Biases
+
 ## Cognitive
 - Anchoring Effect: Basing subsequent judgements of an event based on the event’s first piece of information.
 - Availability Bias: Judging an event because of how easy you can think of examples of the event.

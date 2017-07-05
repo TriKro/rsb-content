@@ -1,3 +1,5 @@
+# Picnic in the Graveyard
+
 ## In Brief
 
 This technique involves exploring "near miss" failures similar to your product idea, in order to generate ideas about what to test and how to build a business model that could work this time. 

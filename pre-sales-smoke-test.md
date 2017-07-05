@@ -1,3 +1,5 @@
+# Pre-Sales Smoke Test
+
 ## In Brief
 
 Pre-sales involves accepting payment in exchange for a promise to deliver the value proposition at a later date. Usually, the value proposition is the product or service itself. This is a highly committed form of smoke testing because it requires actually collecting money from the customer and usually carries a very strong implicit (if not legal) promise to deliver the product or service at a later date. Pre-sales are also known as pre-orders, vaporware, or vaporgoods.

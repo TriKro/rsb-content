@@ -1,3 +1,5 @@
+# Video Smoke Test
+
 ## In Brief
 
 The video smoke test consists of using a "trailer video" to test excitement and virality/buzz when describing the product to an early adopter audience. Unlike with a tradtional trailer, the video should create the illusion the product is real, in order to measure how much buzz it generates. The technique is particularly useful where there behavior can be easily simulated or demoed, before having a fully functional version of the product ready.

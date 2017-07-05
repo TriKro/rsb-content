@@ -1,3 +1,5 @@
+# Competitor Usability Testing
+
 ## In Brief
 Competitor Usability testing is observing our target market use a competitor’s products or services to gain insights on the mindset of the user, common issues, and potential improvements in our own product. In some cases, the need for an entirely new product can be revealed. In other cases, we can gain insights on what parts of a competitor product are unnecessary.
 

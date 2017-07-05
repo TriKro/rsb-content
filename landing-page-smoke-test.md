@@ -1,3 +1,5 @@
+# Landing Page Smoke Test
+
 ## In Brief
 A landing page used as a Minimum Viable Product evaluates whether a particular type of customer wants a proposed product based on actual behavior (as opposed to a declared preference). This technique typically includes buying advertising or generating targeted traffic to a small website which describes the product idea. The prospect confirms their interest by:
 

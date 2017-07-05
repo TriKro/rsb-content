@@ -1,3 +1,5 @@
+# Off Brand Testing
+
 ## In Brief
 
 Off-brand testing is a technique that helps established companies run experiments while minimizing risk to their brand equity. Off-brand testing prevents skewing the customers' response (up or down) due to their brand. In a nutshell, the product or service being evaluated is presented using a no-name brand or without branding at all. Typically, these are executed as very small scale tests in order to get a statistically meaningful result. If it comes back positive, the data justifies a larger batch of effort. 
