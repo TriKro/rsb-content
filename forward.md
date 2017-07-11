@@ -20,5 +20,5 @@ I used them because someone whose name I recognized used them and wrote it down 
 
 I used them with the same flawed logic that says, “Air Jordans makes great basketball players.”
 
-After 6 years of living lean, I’m starting to recognize that to build something great, to build something that will last, to be a great carpenter, we don’t need a great pair of sneakers, we need a great toolbox. And we need to know how to use it.
+After six years of living lean, I’m starting to recognize that to build something great, to build something that will last, to be a great carpenter, we don’t need a great pair of sneakers, we need a great toolbox. And we need to know how to use it.
 

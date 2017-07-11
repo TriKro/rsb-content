@@ -1,17 +1,18 @@
 Go to any jazz jam session and you’ll see one book on stage. The Real Book.  
+
 Every serious musician has it.
 
 The Real Book is a large tome with text that looks like someone took handwritten music charts, photocopied them, and then stuck them in a binder.
 
 Each page is a jazz standard. All Blues by Miles Davis, Autumn Leaves by Johnny Mercer, A Night in Tunisia by Dizzy Gillespie...even some more esoteric tunes like Peaches in Regalia by Frank Zappa.
 
-Unlike various “fake books” out there which provide details on how to play each note and where to put your fingers, the Real Book was minimal. Each page had the key signature, time signature, chords, melody line, and not much else. It was just enough detail to play the song. It was vague enough to allow for the extensive improvisation that makes jazz jazz.[^1]
+Unlike various “fake books” out there that provide details on how to play each note and where to put your fingers, the Real Book was minimal. Each page had the key signature, time signature, chords, melody line, and not much else. It was just enough detail to play the song. It was vague enough to allow for the extensive improvisation that makes jazz jazz.[^1]
 
 It was heaven.
 
 The Real Book answered a simple question for musicians: “How do we play that song?”
 
-Where a musician’s job is play songs, the startup product manager’s job is learn. Learn about our customers, our value propositions, our channels. Learn about all the pieces of our business model.
+Where a musician’s job is to play songs, the startup product manager’s job is to learn. Learn about our customers, our value propositions, our channels. Learn about all the pieces of our business model.
 
 The goal for the Real Startup Book is to answer a simple question for startups, “How do I learn about the different aspects of my business model?”
 
