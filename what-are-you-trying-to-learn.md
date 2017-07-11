@@ -2,7 +2,7 @@
 
 In school, we’re constantly taking tests to gauge how well we’ve learned last week’s material. We cram geographic boundaries, the dates of battles, and multiplication tables into our heads and spit out the results.
 
-Sadly, those rote memorization skills and the ability to answer pre-formulated questions doesn’t help us as entrepreneurs. When building a new business model, there is no test or quiz which we can cram for. It’s as if we sat down for our final and opened up the exam book only to find a blank piece of paper in front of us.
+Sadly, those rote memorization skills and the ability to answer pre-formulated questions doesn’t help us as entrepreneurs. When building a new business model, there is no test or quiz that we can cram for. It’s as if we sat down for our final and opened up the exam book only to find a blank piece of paper in front of us.
 
 “Where is the test?” we ask.
 
@@ -16,9 +16,9 @@ Sadly, those rote memorization skills and the ability to answer pre-formulated q
 
 “That’s what you have to figure out.”
 
-As an entrepreneur \(or intrapreneur\) we can’t just guess at the answers without first identifying the right questions to ask. If we just guess by building a fully functioning product, it’s very likely that the market will judge us wrong and punish us with zero sales and bankruptcy.
+As an entrepreneur \(or intrapreneur\), we can’t just guess at the answers without first identifying the right questions to ask. If we just guess by building a fully functioning product, it’s very likely that the market will judge us wrong and punish us with zero sales and bankruptcy.
 
-Our job, as an entrepreneur, is to first ask the right questions and only then can we find the right answers.
+Our job, as an entrepreneur, is to first ask the right questions, and only then can we find the right answers.
 
 ## What Are Good Questions?
 

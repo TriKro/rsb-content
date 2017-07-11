@@ -46,7 +46,7 @@ This book is particularly useful for those managing or assisting large numbers o
 
 If this is you, you’ll find this book serves as a versatile and quick reference guide for almost any startup you’ll be dealing with. It can also be used to diagnose typical startup problems.
 
-It is also a Creative Commons project which means you can use it as training material for your startups without any additional cost.
+It is also a Creative Commons project, which means you can use it as training material for your startups without any additional cost.
 
 ## Business Model
 
@@ -64,11 +64,11 @@ It also works for any industry, but there is a bias towards providing examples a
 
 This book is not for students trying to learn in a classroom environment. You’ll have to go out and use this book in the real world with real customers to get anything out of it. So if your teacher just handed this to you, get ready to get kicked out of the building to go talk to customers.
 
-This book is also not for companies executing on an existing business model. While some of the techniques listed here do work quite well for optimizing an existing product or service, it’s not designed for that. So you’ll have to have to modify the techniques and make sure you’re considering potential side effects.
+This book is also not for companies executing on an existing business model. While some of the techniques listed here do work quite well for optimizing an existing product or service, it’s not designed for that. So you’ll have to modify the techniques and make sure you’re considering potential side effects.
 
 ## Continual Improvement
 
-Future improvements may change or broaden the focus on this book. This is a living document which will be updated regularly.
+Future improvements may change or broaden the focus on this book. This is a living document that will be regularly updated.
 
   
 
