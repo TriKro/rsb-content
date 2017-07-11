@@ -20,13 +20,16 @@ We have unanswered questions about our business and the answers lie out in the r
 
 The Real Startup Book will help us find those answers by showing us which methods are the most appropriate. The methods should be adaptable for our situation, in our industry, in our country, in our business model.
 
-It should not be overly dogmatic. It should leave room for interpretation.  Depending on our unique circumstances, we can still improvise.
+It should not be overly dogmatic. It should leave room for interpretation. Depending on our unique circumstances, we can still improvise.
 
 This is not a textbook, it’s not a “How To” guide, and it’s not a “fake book.” It’s a well organized toolbox to help you find the right tool for the job at hand.  
+
 Keep it, refer to it, and toss it to the side when you need it.  
 More importantly, please write on it. Scribble, scratch, and change it.  
+
 If you think it’s wrong, submit a change to realbook@trikro.com.  
 If you have a suggestion, send it in. If you create a better method, let us know.  
+
 This book is creative common licensed and should be continually improved and shared. So please help us by finding problems and fixing them!
 
 [^1] Of course I learned much later that the Real Book was illegal.  

@@ -8,9 +8,9 @@ There are certain sections that you’ll want to read thoroughly, such as the In
 
 Think of this book as a toolbox.
 
-Like any toolbox, it’s organized to help us find what we’re looking for when we need it. When we need a way to test market demand, there’s a section on **Evaluative Market Experiments**. When we’re looking to prioritize our ever growing feature list into a **Minimum Viable Product**, there’s a section on **Generative Product Research**.
+Like any toolbox, it’s organized to help us find what we’re looking for when we need it. When we need a way to test market demand, there’s a section on **Evaluative Market Experiments**. When we’re looking to prioritize our ever-growing feature list into a **Minimum Viable Product**, there’s a section on **Generative Product Research**.
 
-We must know what tool we need before taking it out and using it. As innovators, we must be wary of [Maslow’s Hammer](https://en.wikipedia.org/wiki/Law_of_the_instrument), and make sure that we understand what research/experimental method or technique we need before we wind up repeatedly hitting ourselves in the thumb.
+We must know which tool we need before taking it out and using it. As innovators, we must be wary of [Maslow’s Hammer](https://en.wikipedia.org/wiki/Law_of_the_instrument) and make sure that we understand which research/experimental method or technique we need before we wind up repeatedly hitting ourselves in the thumb.
 
 The index for navigating this book is not alphabetical, chronological, or ontological. The index is ordered by what you’re trying to learn. Are you trying to learn about your customer? How to price your product? What will make your users come back?
 
@@ -20,7 +20,7 @@ It is _highly_ recommended that you read the index thoroughly. You will not get 
 
 When faced with an unknown aspect of your business model, first figure out what you need to learn. What’s your learning goal? What question are you trying to ask?
 
-Once you know what you need to learn, consult the index to find a list of research and experimental methods that will help. Then read each method and determine which will work best for your situation and resources.
+Once you know what you need to learn, consult the index to find a list of research and experimental methods that will help. Then read each method, and determine which will work best for your situation and resources.
 
 -
 

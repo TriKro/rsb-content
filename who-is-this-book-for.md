@@ -8,7 +8,7 @@ If you’ve ever recognized a giant gap or unanswered question in your **busines
 
 * Will people _actually_ pay for this?
 
-This book is for managing innovation projects where the business model is partly or completely unknown. Your job title might be:
+This book is for managing innovation projects where the business model is partially or completely unknown. Your job title might be:
 
 * Product Manager
 
