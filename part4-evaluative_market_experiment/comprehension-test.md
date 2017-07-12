@@ -41,11 +41,12 @@ Take note: if many of the participants use identical language to explain the val
 
 ### Field Tips
 - “Run a comprehension test before a landing page test or you won’t understand why it doesn’t work.” @TriKro
-- Got a tip? Add a tweetable quote by emailing us: realbook@trikro.com
+- Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
-- Got a case study? Add a link by emailing us: realbook@trikro.com
+- Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## References
 - [Tristan Kromer - Comprehension vs. Commitment](https://grasshopperherder.com/comprehension-vs-commitment/)
 - [Pearson - Technical Report: Cognitive Labs](http://images.pearsonassessments.com/images/tmrs/tmrs_rg/CognitiveLabs.pdf)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)

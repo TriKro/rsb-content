@@ -58,18 +58,18 @@ Interpretation is framed by how you formulated the experiment originally, i.e. w
 * Confirmation Bias
 
 ### Field Tips
-
 * “It’s only hard \[to market an idea\] if your idea or product isn’t loved.” @simonelucidi87
 * "Figure out your cutoff rate for referrals before you run a broken promise smoke test" @LaunchTomorrow
+- Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
-
-* Mike Chen and @simonelucidi87 in the referenced article
-* ...
+* http://artofcleverness.stfi.re/broken-promise/?sf=agvkwwg#ab
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## References
-
 * [http://artofcleverness.stfi.re/broken-promise/?sf=agvkwwg\#ab](http://artofcleverness.stfi.re/broken-promise/?sf=agvkwwg#ab)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
+
 
 
 

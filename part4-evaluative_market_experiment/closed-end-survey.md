@@ -109,16 +109,16 @@ Then take action!
 * While conducting surveys, never ask people what they would like to pay for. Usually they lie or they are simply unaware. 
 
 ### Field Tips
-
 * Keep questions simple on closed questionnaires. For example, avoid hypotheticals.
 * Ask (and learn) one thing at a time. You can check for correlation and causation later.
 * Allow the respondent the option of answering with ‘not appropriate’/‘don’t know’/‘have no strong feelings’.
+- Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
  * [FourSquare used a closed-end survey to prioritize which city to launch in next (using a google form)](https://techcrunch.com/2009/10/15/foursquare-nearly-doubles-its-playing-field/)
-  * Got a case study? Add a link by emailing us: realbook@trikro.com
+ * Got a case study? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
  
 ## References
  * https://www.surveymonkey.co.uk/mp/how-to-analyze-survey-data/
  * http://fluidsurveys.com/university/comparing-closed-ended-and-open-ended-questions/
- * Got a reference? Add a link by emailing us: realbook@trikro.com
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
