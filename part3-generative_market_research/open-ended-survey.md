@@ -73,13 +73,12 @@ In the case of very large data sets, algorithmic tools such as sentiment analysi
 
 ## Case Studies
 
+* https://conversionxl.com/open-ended-questions/
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## References
 - http://fluidsurveys.com/university/comparing-closed-ended-and-open-ended-questions/
 - http://scholar.harvard.edu/files/dtingley/files/topicmodelsopenendedexperiments.pdf
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1323316/
+* https://www.surveymonkey.com/mp/open-ended-questions-get-more-context-to-enrich-your-data/
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
-
-
-
