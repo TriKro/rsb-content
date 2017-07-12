@@ -1,3 +1,5 @@
+#How to Use This Book#
+
 Do not read this book straight through. There is no plot or narrative that you’re going to miss.
 
 This book is not a step 1, step 2, step 3 guide to building a startup. Startups don’t work like that.
