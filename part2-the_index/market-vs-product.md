@@ -1,3 +1,5 @@
+# Market vs. Product
+
 Do we need to learn about the _market_ or the _product_?
 
 To narrow down the large list of methods to something actionable, we can first separate our questions into those about the market and those about the product.

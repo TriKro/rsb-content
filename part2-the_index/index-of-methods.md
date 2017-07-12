@@ -1,3 +1,5 @@
+# Index of Methods
+
 | ** ** | **Market** | **Product** |
 | :--- | :--- | :--- |
 | **Generative** | - Customer Discovery Interviews </br> - Contextual inquiry / ethnography </br> - Data mining </br> - Focus groups\* </br> - Surveys\* \(open ended\) | - Solution interview </br> - Contextual inquiry / ethnography </br> - Demo pitch </br> - Concierge test / Consulting </br> - Competitor Usability </br> - Picnic in the Graveyard |

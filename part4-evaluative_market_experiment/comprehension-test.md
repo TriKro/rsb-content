@@ -1,4 +1,4 @@
-#Comprehension Test
+# Comprehension Test
 
 ## In Brief
 A Comprehension Test will evaluate whether the customer understands the marketing message explaining the value proposition. This eliminates a possible false negative bias on smoke tests where the customer indicates they do not want the value proposition when they actually do not understand it.

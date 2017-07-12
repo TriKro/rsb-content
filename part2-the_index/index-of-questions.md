@@ -1,3 +1,5 @@
+# Index of Questions
+
 |  | **Market** | **Product** |
 | :--- | :--- | :--- |
 | **Generative** | - Who is our customer? </br> -What are their pains? </br> - What job do they need done? </br> - Is our customer segment too broad? </br> - How do we find them? | - How can we solve this problem? </br> - What form should this take? </br> - How important is the design? </br> - What’s the quickest solution? </br> - What is the minimum feature set? </br> - How should we prioritize? |

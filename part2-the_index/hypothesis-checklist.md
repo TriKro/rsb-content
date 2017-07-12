@@ -1,4 +1,4 @@
-## Writing a Good Hypothesis
+# Writing a Good Hypothesis
 
 Lean startup practices turn project managers, business leaders and designers into scientists who constantly validate their ideas through running an array of experiments. But experiments can get out of hand and turn perfectly sane people into mad scientists. A sure way to keep one’s sanity is to start the experiment with a strong hypothesis.
 

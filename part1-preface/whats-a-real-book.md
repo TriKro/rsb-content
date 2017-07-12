@@ -1,4 +1,4 @@
-#What's a Real Book#
+# What's a Real Book
 
 Go to any jazz jam session and you’ll see one book on stage. The Real Book.  
 

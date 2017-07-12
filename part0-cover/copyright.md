@@ -1,4 +1,4 @@
-#Copyright#
+# Copyright
 
 Version 0.4
 
