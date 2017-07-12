@@ -68,7 +68,6 @@ In the case of very large data sets, algorithmic tools such as sentiment analysi
 
 ### Field Tips
 - “You can run an open ended survey once you know the best questions to ask. Talk to your customers to figure out the right questions” - @TriKro
-
 - Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies

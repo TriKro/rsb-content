@@ -62,7 +62,6 @@ Common biases include:
 
 ### Field Tips
  * “Make sure you are building the right it before you built it right.” @Pretotyping
- 
  - Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
