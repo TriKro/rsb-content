@@ -68,6 +68,9 @@ Common biases include:
  * Zappos' Wizard of Oz "web shop for shoes"
  * Palm Pilot's Pinocchio "wood block"
  * Best Buy's One Night Stand "technology trade-in"
+ * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
+
  
 ## References
  * www.quora.com/How-is-pretotyping-different-from-prototyping (IBM's “SPEECH-TO-TEXT MACHINE” AND PALM PILOT's “WOOD BLOCK”).

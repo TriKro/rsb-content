@@ -105,6 +105,10 @@ Successful:
 Unsuccessful:
  * Following a series of focus groups the company concluded that what teenage girls wanted was technologically-enhanced nail polish. This was a happy coincidence as technologically-enhanced nail polish was precisely what the company produced! However, in Cassell's own research with 3,062 children (60% of whom were girls) in 139 countries, in which the children were invited to describe what they would like to use technology for, not a single one of them said technologically-enhanced nail polish! source: userfocus.co.uk
  * the Yankelovich Minute Monitor recently provided data listing the top six attributes that respondents said will most strongly influence their purchase decisions for an SUV; and a list of the actual decision criteria used at the point of purchase.  You can guess the punch line. Not one of the six attributes nominated actually played a role in the final purchase decision. source: userfocus.co.uk
+ 
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
+
 
 ## References
  * http://ctb.ku.edu/en/table-of-contents/assessment/assessing-community-needs-and-resources/conduct-focus-groups/main

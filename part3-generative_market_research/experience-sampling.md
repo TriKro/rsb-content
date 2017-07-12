@@ -82,6 +82,9 @@ First, you need to look at the frequency distribution and identify the common th
 - [Daily Information Needs (DIN) - Google](https://medium.com/m/global-identity?redirectUrl=https://backchannel.com/googles-secret-study-to-find-out-our-needs-eba8700263bf#.y9sryu7gh)
 - [Using experience sampling methodology to understand how educational leadership students solve problems on the fly](http://www.emeraldinsight.com/doi/abs/10.1108/JEA-12-2012-0135)
 - [Teacher Motivation and Job Satisfaction: A Study Employing the Experience Sampling Method](http://www.hcs.harvard.edu/~jus/0303/bishay.pdf)
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
+
 
 ## References
 - [Experience Sampling Method (ESM)](http://psc.dss.ucdavis.edu/sommerb/sommerdemo/sampling/behavior.htm)
