@@ -69,14 +69,17 @@ In the case of very large data sets, algorithmic tools such as sentiment analysi
 ### Field Tips
 - “You can run an open ended survey once you know the best questions to ask. Talk to your customers to figure out the right questions” - @TriKro
 
+- Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
 ## Case Studies
-- .
 
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
-
-
 
 ## References
 - http://fluidsurveys.com/university/comparing-closed-ended-and-open-ended-questions/
 - http://scholar.harvard.edu/files/dtingley/files/topicmodelsopenendedexperiments.pdf
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1323316/
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
+
+
+

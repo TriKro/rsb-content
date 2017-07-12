@@ -62,6 +62,8 @@ Common biases include:
 
 ### Field Tips
  * “Make sure you are building the right it before you built it right.” @Pretotyping
+ 
+ - Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
  * IBM's Wizard of Oz "speech-to-text machine"
@@ -69,8 +71,6 @@ Common biases include:
  * Palm Pilot's Pinocchio "wood block"
  * Best Buy's One Night Stand "technology trade-in"
  * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
-
-
  
 ## References
  * www.quora.com/How-is-pretotyping-different-from-prototyping (IBM's “SPEECH-TO-TEXT MACHINE” AND PALM PILOT's “WOOD BLOCK”).
@@ -80,4 +80,8 @@ Common biases include:
  * www.pretotypelabs.com (SOURCE FOR THE EXCELLENT FREE E-BOOK "PRETOTYPING@WORK" BY JEREMY CLARK)
  * www.designmodo.com/wireframing-prototyping-mockuping (WIREFRAMING, PROTOTYPING, MOCKUPING - What's the Difference?)
  * www.uxbooth.com/articles/putting-the-vp-into-mvp (PUTTING THE "VP" INTO MVP)
- * www.skmurphy.com/blog/2012/03/06/pretotyping-techniques-for-building-the-right-product/ recaps basic pretotyping techniques and adds 5 new ones.
+ * www.skmurphy.com/blog/2012/03/06/pretotyping-techniques-for-building-the-right-product/ recaps basic pretotyping techniques and adds 5 new ones. 
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
+
+
+

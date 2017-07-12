@@ -98,25 +98,17 @@ Are you able to listen and record data based on the following?
 ## Case Studies
 
 * [Case study submitted anonymously via Lean Startup Circle Discussion thread](http://leanstartup.pbworks.com/w/page/15765212/Case Study One)
-
 * [How I Pivoted Product Strategy and Grew SaaS Deal Size by 10x](http://www.chrisred.com/how-i-pivoted-product-strategy-and-grew-saas-deal-size-by-10x/)
-
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## References
 
 * Rob Fitzpatrick - [The Mom Test](http://momtestbook.com/): How to talk to customers and learn if your business is a good idea when everyone is lying to you.
-
 * Alexander Cowan - [The Customer Discovery Handbook](http://www.alexandercowan.com/customer-discovery-handbook/)
-
 * Justin Wilcox - [How I Interview Customers](http://customerdevlabs.com/2013/11/05/how-i-interview-customers/)
-
 * Quora - [What are your favorite methods for doing problem interviews during Customer Discovery?](http://www.quora.com/What-are-your-favorite-methods-for-doing-problem-interviews-during-Customer-Discovery)
-
 * Kissmetrics - [26 Resources to Help You Master Customer Development Interviews](https://blog.kissmetrics.com/26-customer-development-resources/)
-
 * Kevin Dewalt - [Bad customer development questions and how to avoid my mistakes](http://kevindewalt.com/2013/01/21/bad-customer-development-questions-and-how-to-avoid-my-mistakes/)
-
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
 
 

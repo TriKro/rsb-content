@@ -17,7 +17,7 @@ A focus group is a small group discussion designed to rapidly gain customer feed
  * Customer
 
 ## Description
-Focus groups are traditional tools that bigger companies use to hear the voice of the consumer/customer. Focus groups are a divergent tool to gather insights based on group conversiations. When done well, group conversations help chain associations among group participants, supposedly resulting in a better sense of the subjective essence. 
+Focus groups are traditional tools that bigger companies use to hear the voice of the consumer/customer. Focus groups are a divergent tool to gather insights based on group conversations. When done well, group conversations help chain associations among group participants, supposedly resulting in a better sense of the subjective essence. 
 
 Focus groups have a long history. They were first used over 60 years ago by US government sociologists investigating the effectiveness of WWII military propaganda movies. They are most often used in the context of:
  * media consumption
@@ -89,10 +89,11 @@ Use techniques to match patterns in responses, like affinity mapping using post-
  * Your own ulterior motives: Don't turn a focus group into a PR or sales opportunity. It will skew your results.
 
 ### Field Tips
- * If you are considering focus groups, consider whether you can achieve the same with customer developent interviews. 
+ * If you are considering focus groups, consider whether you can achieve the same with customer development interviews. 
  * Start focus groups with simple questions which build comfort level.
  * Check technical equipment before starting a focus group and have a contingency plan in place.
  * Focus group members may bring up false information or offensive opinions. Have a plan in place to handle them. 
+ - Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
 
@@ -108,8 +109,6 @@ Unsuccessful:
  
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
-
-
 ## References
  * http://ctb.ku.edu/en/table-of-contents/assessment/assessing-community-needs-and-resources/conduct-focus-groups/main
  * http://www.nngroup.com/articles/focus-groups/
@@ -118,3 +117,4 @@ Unsuccessful:
  * https://assessment.trinity.duke.edu/documents/How_to_Conduct_a_Focus_Group.pdf
  * https://www.b2binternational.com/publications/market-research-focus-group/
  * http://www.userfocus.co.uk/articles/focuspocus.html
+ * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
