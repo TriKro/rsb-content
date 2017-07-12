@@ -117,4 +117,6 @@ Are you able to listen and record data based on the following?
 
 * Kevin Dewalt - [Bad customer development questions and how to avoid my mistakes](http://kevindewalt.com/2013/01/21/bad-customer-development-questions-and-how-to-avoid-my-mistakes/)
 
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
+
 

@@ -86,5 +86,4 @@ Since the data is primarily qualitative in nature and sample sizes are small, re
 
 * Whiteside, J. Bennett, J., & Holtzblatt, H. (1988). Usability engineering: Our experience and evaluation. In M. Helander (Ed.). Handbook of Human-Computer Interaction. New York, NY: Elsevier Science Publishing. 791-817.
 
-
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)

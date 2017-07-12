@@ -48,20 +48,26 @@ To counter these biases, you can:
 - Ignorance of Black Swans (rare and unprecedented events that can dramatically change or determine the future outcome)
 
 ### Field Tips
-- Got a tip? Add a tweetable quote by emailing us: [realbook@trikro.com](mailto:realbook@trikro.com)
+- Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
-- [Data mining answers questions for startup businesses in Northwest Colorado](http://www.steamboattoday.com/news/2013/may/11/data-mining-answers-questions-start-businesses-nor/) 
-- [Jaeger uses data mining to reduce losses from crime and waste](http://www.computerweekly.com/feature/Case-study-Jaeger-uses-data-mining-to-reduce-losses-from-crime-and-waste)
-- [MobileMiner: A real world case study of data mining in mobile communication ](http://www.cs.cornell.edu/~bishan/papers/sigmod09-bishanyang.pdf)
+* [Data mining answers questions for startup businesses in Northwest Colorado](http://www.steamboattoday.com/news/2013/may/11/data-mining-answers-questions-start-businesses-nor/) 
+
+* [Jaeger uses data mining to reduce losses from crime and waste](http://www.computerweekly.com/feature/Case-study-Jaeger-uses-data-mining-to-reduce-losses-from-crime-and-waste)
+
+* [MobileMiner: A real world case study of data mining in mobile communication ](http://www.cs.cornell.edu/~bishan/papers/sigmod09-bishanyang.pdf)
 
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 
 ## References
-- [Data mining knowledge discovery](http://www.tutorialspoint.com/data_mining/dm_knowledge_discovery.htm)
-- [Everything You Wanted to Know About Data Mining but Were Afraid to Ask - The Atlantic](https://www.theatlantic.com/technology/archive/2012/04/everything-you-wanted-to-know-about-data-mining-but-were-afraid-to-ask/255388/)
-- [SPSS. (2005). Data mining tips](http://www.spss.ch/upload/1124797262_DMtipsBooklet)
-- Got a reference? Add a link by emailing us: [realbook@trikro.com](realbook@trikro.com)
+
+* [Data mining knowledge discovery](http://www.tutorialspoint.com/data_mining/dm_knowledge_discovery.htm)
+
+* [Everything You Wanted to Know About Data Mining but Were Afraid to Ask - The Atlantic](https://www.theatlantic.com/technology/archive/2012/04/everything-you-wanted-to-know-about-data-mining-but-were-afraid-to-ask/255388/)
+
+* [SPSS. (2005). Data mining tips](http://www.spss.ch/upload/1124797262_DMtipsBooklet)
+
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
 
 
