@@ -70,13 +70,16 @@ For a B2B/Enterprise idea, causing some kind of a specific response in your pros
  * If the customer knows that the product doesn't exist yet, it may bias your results.
 
 ### Field Tips
- * use insights and language from customer development when crafting your first flyer @LaunchTomorrow
+* Use insights and language from customer development when crafting your first flyer @LaunchTomorrow
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
- * NextDoor: http://www.inc.com/alex-moazed/how-the-mailbox-can-be-the-best-way-for-startups-to-reach-potential-users.html
- * Dojo: http://observer.com/2014/09/forget-pr-emails-app-used-heartfelt-letters-nabbed-thousands-of-downloads-and-investor-interest/
- * Relatas: https://yourstory.com/2016/10/startup-marketing-watch-out/
+* NextDoor: http://www.inc.com/alex-moazed/how-the-mailbox-can-be-the-best-way-for-startups-to-reach-potential-users.html
+* Dojo: http://observer.com/2014/09/forget-pr-emails-app-used-heartfelt-letters-nabbed-thousands-of-downloads-and-investor-interest/
+* Relatas: https://yourstory.com/2016/10/startup-marketing-watch-out/
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
- * http://jodycalkins.com/7-tips-for-creating-effective-flyers-for-your-new-product/
- * https://www.linkedin.com/pulse/create-irresistible-one-page-sales-flyer-dave-palmer
+* http://jodycalkins.com/7-tips-for-creating-effective-flyers-for-your-new-product/
+* https://www.linkedin.com/pulse/create-irresistible-one-page-sales-flyer-dave-palmer
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)

@@ -74,12 +74,14 @@ depending on your results you have three options:
 ### Field Tips
 - Don’t scare off your users. Testing is okay, but be careful not to overdo this. 
 - Making (too many) false promises by fake doors might give the user an idea of a lousy product, or of an company that tricks me. 
-- Make sure you have a significant amount of users in order to judge.  
+- Make sure you have a significant amount of users in order to judge.
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
 - Gamestudio Zynga has a strong reputation of using fake doors and other quantitative product testing. They test new game ideas by  coming up with a five-word pitch for each one. Then they would publish the pitch as a  promotional link in there live games for a period of time to see how much interest it generates from existing users.
 
 - Local Dutch information aggregator Tippiq.nl uses fake doors extensively in their proposition development using a separate website (with www.tippiqlabs.nl). All new ideas are tested first using fake ads that will lead to a landing page on that website. On the landing page the product/service is explained and the visitor is asked if he would like to use the product. After they have expressed their interest they get a notification that the product is still in development and that they can leave their email if they want to stay up to date.    
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
 - https://vimeo.com/24744647
@@ -87,5 +89,8 @@ depending on your results you have three options:
 - Pretotype it! Make sure you are building the right it before you build it right - Alberto Savoia. 2011
 - Zynga’s Marc Pincus on quantitative testing. https://www.youtube.com/watch?v=81F1qSOq3cs
 - http://connecteev.com/using-fake-door-testing-to-make-better-product-decisions/
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
+
+
 
 

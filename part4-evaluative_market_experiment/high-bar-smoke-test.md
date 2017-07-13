@@ -61,14 +61,17 @@ As with all smoke tests, do not ask about future behavior.
 * Backfire effect: The reaction to disconfirming evidence by strengthening one's previous beliefs
 
 ### Field Tips
- * Agree what constitutes a "conversion event" before you do a high bar smoke test
- * Your "near miss prospects" don't count if they fill out your signup form when doing a high bar smoke test
- * Finally, a smoke test for B2B companies
+* Agree what constitutes a "conversion event" before you do a high bar smoke test
+* Your "near miss prospects" don't count if they fill out your signup form when doing a high bar smoke test
+* Finally, a smoke test for B2B companies
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
- * (A lead scoring quiz)[http://leanstartupquiz.launchtomorrow.com/] example
- * (Forms example)[http://www.marketingexperiments.com/blog/internet-marketing-strategy/lead-generation-testing-form-field-length-reduces-cost-per-lead-by-10-66.html]
- * VCs/accelators use high bars when selecting startups to take initial meetings 
- 
+* (A lead scoring quiz)[http://leanstartupquiz.launchtomorrow.com/] example
+* (Forms example)[http://www.marketingexperiments.com/blog/internet-marketing-strategy/lead-generation-testing-form-field-length-reduces-cost-per-lead-by-10-66.html]
+* VCs/accelators use high bars when selecting startups to take initial meetings 
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
+  
 ## References
- * ...
+* ...
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)

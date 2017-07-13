@@ -72,14 +72,14 @@ Common biases include:
  * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
  
 ## References
- * www.quora.com/How-is-pretotyping-different-from-prototyping (IBM's “SPEECH-TO-TEXT MACHINE” AND PALM PILOT's “WOOD BLOCK”).
- * www.cooper.com/prototyping-tools (AWESOME INTERACTIVE MATRIX TO COMPARE DIFFERENT PROTOYPING SOFTWARE)
- * www.slate.com/blogs/the_eye/2013/10/23/the_importance_of_prototyping_creative_confidence_by_tom_and_david_kelley.html (FUNNY EXAMPLE OF IDEO APPLYING PRETOTYPING)
- * www.albertosavoia.com (THE PERSON WHO COINED THE TERM "PRETOTYPING". ALSO SOURCE FOR THE EXCELLENT FREE E-BOOK "PRETOTYPE IT" BY ALBERTO SAVOIA
- * www.pretotypelabs.com (SOURCE FOR THE EXCELLENT FREE E-BOOK "PRETOTYPING@WORK" BY JEREMY CLARK)
- * www.designmodo.com/wireframing-prototyping-mockuping (WIREFRAMING, PROTOTYPING, MOCKUPING - What's the Difference?)
- * www.uxbooth.com/articles/putting-the-vp-into-mvp (PUTTING THE "VP" INTO MVP)
- * www.skmurphy.com/blog/2012/03/06/pretotyping-techniques-for-building-the-right-product/ recaps basic pretotyping techniques and adds 5 new ones. 
+* www.quora.com/How-is-pretotyping-different-from-prototyping (IBM's “SPEECH-TO-TEXT MACHINE” AND PALM PILOT's “WOOD BLOCK”).
+* www.cooper.com/prototyping-tools (AWESOME INTERACTIVE MATRIX TO COMPARE DIFFERENT PROTOYPING SOFTWARE)
+* www.slate.com/blogs/the_eye/2013/10/23/the_importance_of_prototyping_creative_confidence_by_tom_and_david_kelley.html (FUNNY EXAMPLE OF IDEO APPLYING PRETOTYPING)
+* www.albertosavoia.com (THE PERSON WHO COINED THE TERM "PRETOTYPING". ALSO SOURCE FOR THE EXCELLENT FREE E-BOOK "PRETOTYPE IT" BY ALBERTO SAVOIA
+* www.pretotypelabs.com (SOURCE FOR THE EXCELLENT FREE E-BOOK "PRETOTYPING@WORK" BY JEREMY CLARK)
+* www.designmodo.com/wireframing-prototyping-mockuping (WIREFRAMING, PROTOTYPING, MOCKUPING - What's the Difference?)
+* www.uxbooth.com/articles/putting-the-vp-into-mvp (PUTTING THE "VP" INTO MVP)
+* www.skmurphy.com/blog/2012/03/06/pretotyping-techniques-for-building-the-right-product/ recaps basic pretotyping techniques and adds 5 new ones. 
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
 
 
