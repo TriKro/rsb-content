@@ -46,16 +46,15 @@ If the conversion rate obtained exceeds your predetermined signpost value, the l
 - Warm traffic: If possible try to use completely cold traffic, particularly if you are comparing a few possible ideas. If prospects are already aware of your product, you as a founder, or your brand, this will skew your conversion rate upwards unpredictably.
 
 ### Field Tips
-- Got a tip? Add a tweetable quote by emailing us: realbook@trikro.com
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
 - [Dropbox](https://www.slideshare.net/gueste94e4c/dropbox-startup-lessons-learned-3836587)
 - [Buffer](https://blog.bufferapp.com/idea-to-paying-customers-in-7-weeks-how-we-did-it)
-- Got a case study? Add a link by emailing us: realbook@trikro.com
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
 - [Eric Ries - Using AdWords to Assess Demand](http://www.startuplessonslearned.com/2008/11/using-adwords-to-assess-demand-for-your.html)
 - [Luke Szyrmer - What is a good conversion rate for a landing page MVP?](http://blog.launchtomorrow.com/2015/01/good-landing-page-experiment-conversion-rate/)
 - [Luke Szyrmer - Landing Page MVPs](http://launchtomorrow.com)
-- Got a reference? Add a link by emailing us: realbook@trikro.com
-
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)

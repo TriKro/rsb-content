@@ -79,12 +79,12 @@ Confirmation biases are often obtained by suddenly importing an unfounded ratio 
 
 ### Field Tips
 - “When looking at available market surveys, take into account your product specificity” @tdagaeff 
-- Got a tip? Add a tweetable quote by emailing us: realbook@trikro.com
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
 - [Secondary Market Research versus Primary Market Research](http://businesscasestudies.co.uk/jd-sports/using-market-research-to-support-decision-making/)
 - [Example: Association Providing Links for Business in a Specific Area  - Queensland, Australia](https://www.business.qld.gov.au/starting-business/planning/market-customer-research/resources)
-- Got a case study? Add a link by emailing us: realbook@trikro.com
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
 - [Marketing Donut, General Description of Market Research](http://www.marketingdonut.co.uk/market-research/market-analysis)
@@ -96,8 +96,7 @@ Confirmation biases are often obtained by suddenly importing an unfounded ratio 
 - [European Commission, Consumer Market Studies](http://ec.europa.eu/consumers/consumer_evidence/market_studies/index_en.htm)
 - [US Commercial Services, Market Research Library](http://buyusainfo.net/adsearch.cfm)
 - [Cornell University, How Can I Find Market Research Data](https://johnson.library.cornell.edu/faqs/how-can-i-find-market-research-reports-and-data)
-- Got a reference? Add a link by emailing us: realbook@trikro.com
-
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
 
 
 

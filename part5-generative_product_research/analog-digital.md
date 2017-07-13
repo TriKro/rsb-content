@@ -57,17 +57,19 @@ Over-engineering/gold-plating: Sometimes a good physical product feature will so
 Over-focussing on technology: if the tech is proven or low risk, test the business model first (especially customer needs).
 
 ### Field Tips
- * "A minimum viable product is not always a smaller/cheaper version of your final product." @sgblank
+* "A minimum viable product is not always a smaller/cheaper version of your final product." @sgblank 
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
- * When selling a digital information product the experiment team gathered early versions of this data “by hand”, then produced a printed report for the test customers. This printed report provided real value, and was used to gather feedback. Eventually, the team created a digital version of this report. source: http://www.movestheneedle.com/blog/enterprise-lean-startup-experiment-examples/
- * Artivest had to deal with analog paperwork before they could deliver a digital version of its FinTech platform for individuals and IFAs: https://leanstartup.co/how-one-fitech-company-used-lean-startup-in-a-regulated-industry/ There was both an operational component and a regulatory one to the the analog paperwork.
- * Internet of Things: first design the physical object, then connect it to networks and deliver a digital service. 
-   * Flowserve offers "sensor-enabled valves along with as-a-service valve status monitoring": https://dupress.deloitte.com/dup-us-en/focus/internet-of-things/connected-products-designing-for-internet-of-things.html
- * Wagamama (fast food Asian fusion restaurant chain): initially took orders like in a traditional restauraunt, and noted down orders via a number system on paper placemats, then introduced a wireless handheld PoS (Compaq iPAQ Pocket PC via Geac) which waiters used to take orders, communicate with the kitchen, and manage operations data. 
- * Drones in precision farming: https://steveblank.com/2013/07/22/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/
+* When selling a digital information product the experiment team gathered early versions of this data “by hand”, then produced a printed report for the test customers. This printed report provided real value, and was used to gather feedback. Eventually, the team created a digital version of this report. source: http://www.movestheneedle.com/blog/enterprise-lean-startup-experiment-examples/
+* Artivest had to deal with analog paperwork before they could deliver a digital version of its FinTech platform for individuals and IFAs: https://leanstartup.co/how-one-fitech-company-used-lean-startup-in-a-regulated-industry/ There was both an operational component and a regulatory one to the the analog paperwork.
+* Internet of Things: first design the physical object, then connect it to networks and deliver a digital service. 
+* Flowserve offers "sensor-enabled valves along with as-a-service valve status monitoring": https://dupress.deloitte.com/dup-us-en/focus/internet-of-things/connected-products-designing-for-internet-of-things.html
+* Wagamama (fast food Asian fusion restaurant chain): initially took orders like in a traditional restauraunt, and noted down orders via a number system on paper placemats, then introduced a wireless handheld PoS (Compaq iPAQ Pocket PC via Geac) which waiters used to take orders, communicate with the kitchen, and manage operations data. 
+* Drones in precision farming: https://steveblank.com/2013/07/22/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
  
 ## References
- * https://hbr.org/2016/07/how-to-create-an-exponential-mindset
- * https://hbr.org/2014/02/what-drones-and-crop-dusters-can-teach-about-minimum-viable-product
- 
+* https://hbr.org/2016/07/how-to-create-an-exponential-mindset
+* https://hbr.org/2014/02/what-drones-and-crop-dusters-can-teach-about-minimum-viable-product
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com) 

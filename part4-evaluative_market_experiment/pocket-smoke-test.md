@@ -46,18 +46,17 @@ Ask lots of questions about what the user would find valuable. Hone in on how yo
 You don't need to be able to mass produce the prototype in order to run this smoke test. Scaling requires a different set of tests. Also you don't need to be concerned too much about production costs and revenues at this stage. You just want to get an idea of user expectations.
 
 ### Field Tips
-
-* ...
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
-
-* ...
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
 
 * [https://medium.com/london-tech-startups/a-guide-to-building-a-hardware-prototype-df449e002f06\#.v1huqveix](https://medium.com/london-tech-startups/a-guide-to-building-a-hardware-prototype-df449e002f06#.v1huqveix)
 * [https://blog.bolt.io/the-illustrated-guide-to-product-development-part-2-design-ab69efb8084a\#.opf01fro8](https://blog.bolt.io/the-illustrated-guide-to-product-development-part-2-design-ab69efb8084a#.opf01fro8) good framework for hardware design in a Lean Startup context
 * [https://www.hwtrek.com/](https://www.hwtrek.com/) a global open source platform for hardware
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
 
 
 

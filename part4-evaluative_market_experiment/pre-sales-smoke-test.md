@@ -41,8 +41,7 @@ Is the customer actually willing to pay money for the value proposition?
 - False Negative
 
 ### Field Tips
-… Combine it with an A/B Test
-- Got a tip? Add a tweetable quote by emailing us: realbook@trikro.com
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
 - [Soma water filters](http://tim.blog/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc/)
@@ -50,7 +49,11 @@ Is the customer actually willing to pay money for the value proposition?
 - [ElasticSales & Close.io](https://www.linkedin.com/pulse/20140423214327-7006635-how-to-charge-money-for-things-that-don-t-exist-yet)
 - [My Sky](https://thefoundation.com/podcast/episode25)
 -  [MixedMade](http://bushwickkitchen.com/blogs/startup-journey/12362041-selling-a-product-that-doesnt-exist-day-22)
-- Got a case study? Add a link by emailing us: realbook@trikro.com
+### Field Tips 
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
+## Case Studies
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
 - [Indiegogo](https://www.indiegogo.com/#/picks_for_you)
@@ -61,6 +64,5 @@ Is the customer actually willing to pay money for the value proposition?
 - http://blog.trycelery.com/successful-preorder-website-campaigns/
 - https://hbr.org/2013/12/sell-your-product-before-it-exists
 - https://yourfirstcustomers.com/the-5-step-formula-for-effectively-pre-selling-your-product-to-your-audience/
-- Got a reference? Add a link by emailing us: realbook@trikro.com
-
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
 

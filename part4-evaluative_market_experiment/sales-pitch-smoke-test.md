@@ -64,20 +64,22 @@ This smoke test does not suggest the optimal price point for the product, or whe
 * Curse of knowledge: You know your product, service, or solution better than your prospects. You may overwhelm or confuse them, preventing them from buying, even though they actually need it. When fielding objections, try asking them directly whether or not they understand the proposition or use comprehension testing.
 
 ### Field Tips
- * When starting to initiate a conversation with prospect, make small talk by observing and commenting on them or the situation.
- * Use open-ended questions to discover more about the customer and what they're looking for.
- * Ask about your customer's goals and intentions first, to adapt your pitch to their circumstances.
- * An in person sale is usually made by overcoming one or a few top objections, and each customer will have a different one.
- * "When" is a powerful question, that helps establish the urgency of the problem for the customer.
+* When starting to initiate a conversation with prospect, make small talk by observing and commenting on them or the situation.
+* Use open-ended questions to discover more about the customer and what they're looking for.
+* Ask about your customer's goals and intentions first, to adapt your pitch to their circumstances.
+* An in person sale is usually made by overcoming one or a few top objections, and each customer will have a different one.
+* "When" is a powerful question, that helps establish the urgency of the problem for the customer.
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
- * Minivid: http://thestartuptoolkit.com/blog/2010/11/minivid-iteration-case-study/
+* Minivid: http://thestartuptoolkit.com/blog/2010/11/minivid-iteration-case-study/
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
  
 ## References
- * SPIN Selling by Neil Rackham for B2B sales
- * Pitch Anything by Oren Klaff
- * The Ultimate Sales Machine by Chet Holmes
- * http://sterlingchase.com/2011/10/13/7-killer-closing-techniques-to-increase-sales/#sthash.1b1rtmNZ.dpuf
- * https://blog.hubspot.com/sales/the-5-most-common-objections-during-prospecting-and-how-to-overcome-them#sm.000vd672z1bmrcz3rcd1ty8tb8r6k
- * http://firstround.com/review/the-three-frameworks-you-need-to-kick-start-sales/
- 
+* SPIN Selling by Neil Rackham for B2B sales
+* Pitch Anything by Oren Klaff
+* The Ultimate Sales Machine by Chet Holmes
+* http://sterlingchase.com/2011/10/13/7-killer-closing-techniques-to-increase-sales/#sthash.1b1rtmNZ.dpuf
+* https://blog.hubspot.com/sales/the-5-most-common-objections-during-prospecting-and-how-to-overcome-them#sm.000vd672z1bmrcz3rcd1ty8tb8r6k
+* http://firstround.com/review/the-three-frameworks-you-need-to-kick-start-sales/
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
