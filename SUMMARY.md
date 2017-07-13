@@ -66,5 +66,5 @@
     * [Scorecards](part7-out-of-the-box/scorecards.md)
 * [Appendices](part8-appendices/8-appendices.md)
     * [Biases](part8-appendices/biases.md)
-Afterword](part9-afterword/9-afterword.md)
+* [Afterword](part9-afterword/9-afterword.md)
     * [Afterword](part9-afterword/9-afterword.md)
