@@ -1,7 +1,7 @@
 # Summary
 
 * [The Real Startup Book](cover.md)
-    * [Copyright](copyright.md)
+    * [Copyright](part0-cover/copyright.md)
     * [Dedications](dedications.md)
     * [Foreword](forward.md)
 * [1 - Preface](preface.md)
