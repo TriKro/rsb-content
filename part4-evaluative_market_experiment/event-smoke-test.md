@@ -73,7 +73,7 @@ You won't know if you are getting a clear indicator there is high demand, or if 
  * ["Greet participants individually and make them feel welcome. It's customer development you've earned."](https://ctt.ec/ycSE0) - @LaunchTomorrow
  * ["Make it very clear how to reach the event venue, both online and offline. Dropoff sucks."](https://ctt.ec/Gs4cF) - @LaunchTomorrow
  * ["If you can, use arrows and signs to make sure everyone interested reaches your event smoke test"](https://ctt.ec/Ywbpi) - @LaunchTomorrow
- * Got a tip? Add a tweetable quote by emailing us: [realbook@trikro.com](mailto:realbook@trikro.com)
+ * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
  * Ash Maurya used events to test demand and confirm the quality of his content when writing his book "Running Lean"
