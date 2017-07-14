@@ -75,15 +75,18 @@ Look for differences in qualititative responses between very disappointed and so
  * “Survey.io is neccessary but not sufficient for product market fit. You better have 40%, but it’s not the only metric you need.” - @TriKro
  * " If you aren't sure if you have product-market fit, you probably don't. Use this quantitative validation technique to track your progress." - @LaunchTomorrow
  * "Acheiving product-market fit isn't a goal in its own right. Know your product's role in your customers' lives and the market as a whole." - @LaunchTomorrow
+ * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
- * https://hitenism.com/slack-product-market-fit-survey/
+* https://hitenism.com/slack-product-market-fit-survey/
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
  
 ## References
- * http://pmarchive.com/guide_to_startups_part4.html (original definition of product-market fit)
- * http://www.startup-marketing.com/the-startup-pyramid/
- * https://grasshopperherder.com/false-positives-and-product-market-fit/
- * https://www.slideshare.net/hiten1/measuring-understanding-productmarket-fit-qualitatively/8-Do_you_have_productmarket_fit
- * http://www.startup-marketing.com/using-survey-io/
- * https://www.fastcompany.com/3014841/why-you-should-find-product-market-fit-before-sniffing-around-for-venture-money?show_rev_content
- * https://www.cobloom.com/blog/how-good-is-david-cummings-approach-to-product/market-fit (another set of criteria for PMF in SaaS companies)
+* http://pmarchive.com/guide_to_startups_part4.html (original definition of product-market fit)
+* http://www.startup-marketing.com/the-startup-pyramid/
+* https://grasshopperherder.com/false-positives-and-product-market-fit/
+* https://www.slideshare.net/hiten1/measuring-understanding-productmarket-fit-qualitatively/8-Do_you_have_productmarket_fit
+* http://www.startup-marketing.com/using-survey-io/
+* https://www.fastcompany.com/3014841/why-you-should-find-product-market-fit-before-sniffing-around-for-venture-money?show_rev_content
+* https://www.cobloom.com/blog/how-good-is-david-cummings-approach-to-product/market-fit (another set of criteria for PMF in SaaS companies)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)

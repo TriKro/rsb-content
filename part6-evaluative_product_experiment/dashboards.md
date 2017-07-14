@@ -79,12 +79,15 @@ Graphs and visualizations can very easily be misleading.
 6. Ignoring conventions, i.e. pie charts that don't add up to 100%
 
 ### Field Tips
- * "A good dashboard coomunicates everything you need to know even when looking at it from across the room" @LaunchTomorrow
+* "A good dashboard communicates everything you need to know even when looking at it from across the room" @LaunchTomorrow
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
- * https://www.geckoboard.com/learn/dashboard-examples/aarrr-pirate-metrics-dashboard-example/#.WQhMl9rytpg
- * https://venturebeat.com/2015/07/31/6-dashboards-i-use-daily-and-why-every-startup-ceo-should-as-well/
- 
+* https://www.geckoboard.com/learn/dashboard-examples/aarrr-pirate-metrics-dashboard-example/#.WQhMl9rytpg
+* https://venturebeat.com/2015/07/31/6-dashboards-i-use-daily-and-why-every-startup-ceo-should-as-well/
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
+  
 ## References
- * http://www.statisticshowto.com/misleading-graphs/
- * All work by Edward Tufte: https://www.edwardtufte.com/tufte/
+* http://www.statisticshowto.com/misleading-graphs/
+* All work by Edward Tufte: https://www.edwardtufte.com/tufte/
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)

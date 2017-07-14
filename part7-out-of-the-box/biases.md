@@ -56,3 +56,12 @@
 - [Omitted-Variable Bias](https://en.wikipedia.org/wiki/Omitted-variable_bias)
 - [Planning Effect](http://www.sciencedirect.com/science/article/pii/S0191886906002194)
 - [Selection Bias](https://en.wikipedia.org/wiki/Selection_bias)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
+
+
+
+
+
+
+
+

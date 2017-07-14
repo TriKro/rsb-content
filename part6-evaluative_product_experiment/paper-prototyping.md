@@ -40,11 +40,12 @@ You are looking for places where the Customer got stuck, was not able to find wh
 - If user performing the test is more experienced, you may miss issues that a less savvy user would have revealed. 
 
 ### Field Tips
-...
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
 - http://www.nngroup.com/articles/mozilla-paper-prototype/  
 - http://www.id-book.com/secondedition/casestudy_11-2_paper2.htm 
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
 - Carolyn Snyder, Paper Prototying.  Morgan Kaufmann, 2003. http://www.paperprototyping.com/
@@ -55,3 +56,4 @@ You are looking for places where the Customer got stuck, was not able to find wh
 - http://www.nngroup.com/articles/paper-prototyping/
 - http://blogs.atlassian.com/2011/11/usability-testing-with-paper-prototyping/ 
 - http://www.humanfactors.com/newsletters/prototyping2.asp
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)

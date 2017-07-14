@@ -56,16 +56,17 @@ A scorecard may generate a result which is counterintuitive. If that is the case
 As this technique does not gather data, it is purely a subjective ranking tool, in order to take action. Even though it looks very considered and rational, it should not be confused with data-backed decision tools. The numbers used are subjective estimates. 
 
 ### Field Tips
- * "Scorecards get you "out of the building" and executing, if you lack the intuition to know what to do next." @LaunchTomorrow
- * "There can only be one top priority at any given time. Use a scorecard to identify yours." @LaunchTomorrow
+* "Scorecards get you "out of the building" and executing, if you lack the intuition to know what to do next." @LaunchTomorrow
+* "There can only be one top priority at any given time. Use a scorecard to identify yours." @LaunchTomorrow
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
- * Founders often ask who to interview first or what their riskiest assumption is during Lean Startup Machine weekend workshops. Scorecards help answer that, if you don't have a readily available answer. 
-
+* Founders often ask who to interview first or what their riskiest assumption is during Lean Startup Machine weekend workshops. Scorecards help answer that, if you don't have a readily available answer. 
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
  
 ## References
- * http://customerdevlabs.com/2012/08/23/prioritizing-customer-segments-with-excel/
- * https://dkander.wordpress.com/2013/05/07/how-to-diagnose-your-riskiest-assumptions/
- * http://sixteenventures.com/startup-customer-development-hacks
- * https://medium.com/@ipsita/leaning-into-the-startup-methodology-b5327ac02d98
-
+* http://customerdevlabs.com/2012/08/23/prioritizing-customer-segments-with-excel/
+* https://dkander.wordpress.com/2013/05/07/how-to-diagnose-your-riskiest-assumptions/
+* http://sixteenventures.com/startup-customer-development-hacks
+* https://medium.com/@ipsita/leaning-into-the-startup-methodology-b5327ac02d98
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)

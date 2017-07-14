@@ -53,12 +53,12 @@ By understanding the “Why” components of NPS surveys better, you can identif
 Timing of sending the NPS questionnaire to customers can lead potential bias on the results. For example, if you sent out the survey shortly after you have upset several customers, they will not give high scores on the questions. Likewise, if you have recently made several customers happy, they will rate your customer, product, or service higher. 
 
 ### Field Tips
-- Got a tip? Add a tweetable quote by emailing us: realbook@trikro.com
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
 - [GrooveHQ - Lessons Learned Sending a Net Promoter Survey to 4,000 Users](https://www.groovehq.com/blog/net-promoter-score)
 - [Zendesk -  Measure customer loyalty with Net Promoter Score surveys in Zendesk](https://www.zendesk.com/blog/nps-net-promoter-score/)
-- Got a case study? Add a link by emailing us: realbook@trikro.com
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
 - [Survey Monkey - Net Promoter® Score (NPS) Survey](https://www.surveymonkey.com/mp/net-promoter-score/)
@@ -66,6 +66,5 @@ Timing of sending the NPS questionnaire to customers can lead potential bias on 
 - [Zendesk - NPS best practices: The most effective way to send a Net Promoter Score](https://support.zendesk.com/hc/en-us/articles/203759086-NPS-best-practices-The-most-effective-way-to-send-a-Net-Promoter-Score-survey)
 - [Qualtrics - Net Promoter® Score System Questions Answered](https://www.qualtrics.com/market-research/nps/)
 - [Customer Satisfaction Strategy - Pros and Cons of Net Promoter Score](http://customersatisfactionstrategy.com/netpromoterscore.html)
-- Got a reference? Add a link by emailing us: realbook@trikro.com
-
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
 

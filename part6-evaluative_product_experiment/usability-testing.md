@@ -60,17 +60,15 @@ If all users can successfully complete the tasks, that indicates the product is 
 - “A usability test is the place to synthesize what you believe and what reality will accept” @ericries 
 - “The goal of a usability test is to make the users’ experience with the product easy and intuitive” @dharanidhar21
 - “When testing usability, find users who are a little less savvy and aim to simplify your product” @TriKro
-- Got a tip? Add a tweetable quote by emailing us: realbook@trikro.com
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
 - [Maryellen Allen - A case study of usability testing of the University of South Florida’s virtual library interface design](http://www.geocities.ws/scienceofinformation_dc/Documentos/OnlineInformation/p40.pdf)
-- Got a case study? Add a link by emailing us: realbook@trikro.com
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
 - [Usability Testing (Nielsen Norman Group, n.d.)](https://www.nngroup.com/courses/usability-testing/)
 - [The Myth of Usability Testing, by Robert Hoekman Jr. October 20, 2009](https://alistapart.com/article/the-myth-of-usability-testing)
 - [Practical Usability Testing (Human Factors International, n.d.)](http://www.humanfactors.com/training/practical_usability_testing.asp)
 - [The 12 cognitive biases that prevent you from being rational (George Dvorsky, io9)](http://io9.gizmodo.com/5974468/the-most-common-cognitive-biases-that-prevent-you-from-being-rational)
-- Got a reference? Add a link by emailing us: realbook@trikro.com
-
-
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)

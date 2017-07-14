@@ -87,12 +87,12 @@ A/B testing is not so good for testing:
 ## Field Tips
 * [“Keep your A/B Testing variations to a minimum to ensure meaningful results”](http://ctt.ec/bJa0R)   @sircastel
 * [“Define your metrics and minimum success rate before running A/B Testing”](http://ctt.ec/4xpy1) @sircastel
-* Got a tip? Add a tweetable quote by emailing us: [realbook@trikro.com](mailto:realbook@trikro.com)
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
 * VWO - Website Redesign Increased Conversions 
 * VWO - SaaS Pricing A/B Testing 
-* Got a case study? Add a link by emailing us: [realbook@trikro.com](mailto:realbook@trikro.com)
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
 * Optimizely - [A/B Testing](https://www.optimizely.com/ab-testing/)
@@ -100,3 +100,4 @@ A/B testing is not so good for testing:
 * Udacity - [Online A/B Testing Course](https://www.udacity.com/course/ab-testing--ud257)
 * Evan Miller - [A/B Testing Sample Size Calculator Tool](http://www.evanmiller.org/ab-testing/sample-size.html)
 * Got a reference? Add a link by emailing us: [realbook@trikro.com](mailto:realbook@trikro.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
