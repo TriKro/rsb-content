@@ -149,13 +149,14 @@ use this method.
         pricing and elasticity of demand analysis should be performed
         separately to really nail this down.
 
-Case Studies
-------------
+### Field Tips
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
- *  Got a tip? Add a tweetable quote by emailing us: realbook@trikro.com
+## Case Studies
 
-References
-----------
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
+
+## References
 
  * MIT Sloan Courseware - [*Note on Conjoint
     Analysis*](http://www.mit.edu/~hauser/Papers/NoteonConjointAnalysis.pdf)
@@ -200,6 +201,5 @@ Conjoint Software Resources
  * [*1000minds.com*](https://www.1000minds.com/) ($20,000 for
     enterprise, free for students)
 
- * Got a reference? Add a link by emailing us: realbook@trikro.com
-
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
 

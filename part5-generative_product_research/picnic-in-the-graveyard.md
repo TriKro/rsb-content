@@ -50,25 +50,28 @@ Overconfidence: could prevent you from using the technique
 Dismissing it too quickly: on the other side, exploring the reasons why others failed can make you doubt an idea too much if you can't find a unique angle to test the idea. 
 
 ### Field Tips
- * "Picnic in the Graveyad: If you try to hold a night-time picnic in a cemetery that doesn't allow it you might get arrested." @RebelCircus
- * "Our idea is not unique. Use the Picnic in the Graveyard technique." @TriKro
- * "Get help from other founders when you can. Use the Picnic in the Graveyard technique." @TriKro
+* "Picnic in the Graveyad: If you try to hold a night-time picnic in a cemetery that doesn't allow it you might get arrested." @RebelCircus
+* "Our idea is not unique. Use the Picnic in the Graveyard technique." @TriKro
+* "Get help from other founders when you can. Use the Picnic in the Graveyard technique." @TriKro
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
 
 Clearly could have used this technique:
- * Critica: "Annotating the web is not a new concept. This idea has been tried going as far back as the early 90s — back when the three of us were enjoying our nap time in kindergarten. Google even tried it, and it didn’t work. Now that doesn’t mean it will never work (I still believe it will). But with my first-time founder blinders on, it didn’t matter that others failed, those people were not us — we were better, and we were going to succeed." https://medium.com/@jasonhuertas/my-startup-failed-6c54bd68c654#.hxj2dkt4o
+* Critica: "Annotating the web is not a new concept. This idea has been tried going as far back as the early 90s — back when the three of us were enjoying our nap time in kindergarten. Google even tried it, and it didn’t work. Now that doesn’t mean it will never work (I still believe it will). But with my first-time founder blinders on, it didn’t matter that others failed, those people were not us — we were better, and we were going to succeed." https://medium.com/@jasonhuertas/my-startup-failed-6c54bd68c654#.hxj2dkt4o
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
  
 ## References
 
 On the technique itself:
- * https://grasshopperherder.com/generative-research-picnic-graveyard/
- * http://www.skmurphy.com/blog/2012/03/06/pretotyping-techniques-for-building-the-right-product/
+* https://grasshopperherder.com/generative-research-picnic-graveyard/
+* http://www.skmurphy.com/blog/2012/03/06/pretotyping-techniques-for-building-the-right-product/
 
- Sources of failed company histories:
- * http://autopsy.io/
- * https://www.cbinsights.com/blog/startup-failure-post-mortem/
- * F'D Companies: Spectacular Dotcom flameouts by Phillip Kaplan
+Sources of failed company histories:
+* http://autopsy.io/
+* https://www.cbinsights.com/blog/startup-failure-post-mortem/
+* F'D Companies: Spectacular Dotcom flameouts by Phillip Kaplan
 
- Classic pivot types:
- * https://www.forbes.com/sites/martinzwilling/2011/09/16/top-10-ways-entrepreneurs-pivot-a-lean-startup/#9838ab12d2bd
+Classic pivot types:
+* https://www.forbes.com/sites/martinzwilling/2011/09/16/top-10-ways-entrepreneurs-pivot-a-lean-startup/#9838ab12d2bd
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 

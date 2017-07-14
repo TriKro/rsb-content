@@ -71,16 +71,19 @@ Use the solution interview to plan the intial feature set of your product and to
  * Be certain you are interviewing the right user, i.e. someone who is currently seeking out a product like the one you are making. 
 
 ### Field Tips
- * "Forget all about the art of Pitching, you want the art of Dialogue." @Justin_Wilcox
- * "Don’t ask users to imagine a feature." @DaisyHappy2014
- * "Allow the user to tell you what she thinks the product does and what it could do for her" @LauraKlein
- 
+* "Forget all about the art of Pitching, you want the art of Dialogue." @Justin_Wilcox
+* "Don’t ask users to imagine a feature." @DaisyHappy2014
+* "Allow the user to tell you what she thinks the product does and what it could do for her" @LauraKlein
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+  
 ## Case Studies
- * pskyler: https://www.slideshare.net/egarbugli/apply-the-lean-startup-in-b2b-to-build-products-businesses-want-course-slides/133-How_to_Write_the_Agreement
- 
+* pskyler: https://www.slideshare.net/egarbugli/apply-the-lean-startup-in-b2b-to-build-products-businesses-want-course-slides/133-How_to_Write_the_Agreement
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
+  
 ## References
- * http://customerdevlabs.com/2014/08/05/problem-solution-interviews-b2b-sales-pitch/
- * https://leansteps.wordpress.com/11-2/step-3-lean-experiment/solution-interviews/
- * https://medium.com/@DaisyHappy2014/3-common-mistakes-to-avoid-during-user-interviews-4f3aa97347f#.9g4a8cbk3
- * https://www.slideshare.net/LauraKlein1/shut-the-hell-up-other-tips-for-learning-from-users
- * https://www.slideshare.net/egarbugli/apply-the-lean-startup-in-b2b-to-build-products-businesses-want-course-slides/
+* http://customerdevlabs.com/2014/08/05/problem-solution-interviews-b2b-sales-pitch/
+* https://leansteps.wordpress.com/11-2/step-3-lean-experiment/solution-interviews/
+* https://medium.com/@DaisyHappy2014/3-common-mistakes-to-avoid-during-user-interviews-4f3aa97347f#.9g4a8cbk3
+* https://www.slideshare.net/LauraKlein1/shut-the-hell-up-other-tips-for-learning-from-users
+* https://www.slideshare.net/egarbugli/apply-the-lean-startup-in-b2b-to-build-products-businesses-want-course-slides/
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)

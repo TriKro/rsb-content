@@ -50,14 +50,16 @@ Creators of a product can subconsciously avoid situations and use cases they kno
 
 ### Field Tips
 “Dogfooding only works when your team is as diverse as your customer base.” - @TriKro
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
-- .
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
-https://blog.intercom.com/the-danger-of-dogfooding/
-http://www.forbes.com/sites/michaeldefranco/2014/03/04/not-eating-your-own-dog-food-you-probably-should-be-2/#6d2f7ad51d6e
-http://www.bitglass.com/blog/dogfooding-at-bitglass-we-secure-our-own-corporate-data
-https://www.cnet.com/news/googles-eric-schmidt-why-i-love-my-blackberry/
-http://www.digitaltrends.com/mobile/eric-schmidt-iphone-use/
-http://fortune.com/2016/07/13/airbnb-chesky-discrimination/
+- https://blog.intercom.com/the-danger-of-dogfooding/
+- http://www.forbes.com/sites/michaeldefranco/2014/03/04/not-eating-your-own-dog-food-you-probably-should-be-2/#6d2f7ad51d6e
+- http://www.bitglass.com/blog/dogfooding-at-bitglass-we-secure-our-own-corporate-data
+- https://www.cnet.com/news/googles-eric-schmidt-why-i-love-my-blackberry/
+- http://www.digitaltrends.com/mobile/eric-schmidt-iphone-use/
+- http://fortune.com/2016/07/13/airbnb-chesky-discrimination/
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)

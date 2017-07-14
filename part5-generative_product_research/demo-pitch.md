@@ -47,12 +47,12 @@ The most important data will be who moves forward to the next stage of the buyin
 - People may have very nice comments but if they don’t move with you further along the buying process, then you are knocking on the wrong door or need to make changes to your offering
 
 ## Field Tips
-- Got a tip? Add a tweetable quote by emailing us: realbook@trikro.com
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
-- Got a case study? Add a link by emailing us: realbook@trikro.com
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
 - [Salesforce - How to Make a Good Sales Pitch](https://www.salesforce.com/blog/2014/02/how-to-make-good-sales-pitch.html)
 - [Forbes - 10 Steps for Giving a Convincing Sales Pitch](http://www.forbes.com/forbes/welcome/?toURL=http://www.forbes.com/sites/theyec/2014/04/18/10-steps-for-giving-a-convincing-sales-pitch/&refURL=&referrer=)
-- Got a reference? Add a link by emailing us: realbook@trikro.com
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)

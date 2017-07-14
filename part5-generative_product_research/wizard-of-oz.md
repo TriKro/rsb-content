@@ -38,12 +38,12 @@ The Wizard of Oz test can provide valuable information especially quantitative d
 - “Be lazy. If you can hire five interns to fake a feature, don’t bother coding it.” - @TriKro
 - “The Wizard of Oz method is for evaluating a solution hypothesis.” - @TriKro
 - “Pareto Principle + Wizard of Oz Experiment is all you need to invest your time in a successful business” - @andreftavares
-- Got a case study? Add a link by emailing us: ​realbook@trikro.com
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
 - HBR - https://hbr.org/product/Aardvark/an/811064-PDF-ENG
 - Cardmunch - http://www.fastcompany.com/1807189/year-after-linkedin-came-calling-cardmunch-poised-make-rolodex-obsolete
-- Got a reference? Add a link by emailing us: ​realbook@trikro.com
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
 - https://grasshopperherder.com/what-type-of-lean-startup-experiment-should-i-run/
@@ -53,3 +53,4 @@ The Wizard of Oz test can provide valuable information especially quantitative d
 - https://www.quora.com/What-are-the-pros-and-cons-of-Wizard-of-Oz-testing
 - http://www.usabilitynet.org/tools/wizard.htm
 - http://www.ucc.ie/hfrg/projects/respect/urmethods/wizard.htm
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)

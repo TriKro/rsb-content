@@ -45,19 +45,19 @@ The main benefit of this method is to generate idea around the potential solutio
 - Sampling Bias: As the concierge test is manually performed you have to find a balance. On the one hand having too much customers leads you to be overwhelmed. You find yourself or your team just busy to deliver the promised service. Which leaves very little time to analyze the data and using the insights to adjust. On the other hand you have to make sure that your customer batch is not too small. Insights you get from e.g. just one or two customers might not be enough. You risk that the collected feedback is not representative for your customer segment you are targeting. 
 
 ### Field Tips
-- “A concierge test is an experience not a product.” @poornima 
-- Got a tip? Add a tweetable quote by emailing us: realbook@trikro.com
+* “A concierge test is an experience not a product.” @poornima 
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
-- [Food on the Table - The Ultimate Guide to Minimum Viable Products](http://scalemybusiness.com/the-ultimate-guide-to-minimum-viable-products/)
-- [SlideShare - Manuel Rosso: Concierge MVP Lean Startup](https://de.slideshare.net/startuplessonslearned/manuel-rosso-conciergemvpleanstartupsxsw?qid=56a1d65d-b6ed-432d-8e0a-f1a6803783df&v=default&b=&from_search=3)
-- [Medium - On MVPs Glueing Things Together and 270 Flights to South Africa](https://medium.com/@zacharycohn/on-mvps-glueing-things-together-and-270-flights-to-south-africa-721d7208fb16#.29kw7lsdt)
-- [Moves the Needle - Enterprise Lean Startup Experiment Examples](http://www.movestheneedle.com/blog/enterprise-lean-startup-experiment-examples/)
-- Got a case study? Add a link by emailing us: realbook@trikro.com
+* [Food on the Table - The Ultimate Guide to Minimum Viable Products](http://scalemybusiness.com/the-ultimate-guide-to-minimum-viable-products/)
+* [SlideShare - Manuel Rosso: Concierge MVP Lean Startup](https://de.slideshare.net/startuplessonslearned/manuel-rosso-conciergemvpleanstartupsxsw?qid=56a1d65d-b6ed-432d-8e0a-f1a6803783df&v=default&b=&from_search=3)
+* [Medium - On MVPs Glueing Things Together and 270 Flights to South Africa](https://medium.com/@zacharycohn/on-mvps-glueing-things-together-and-270-flights-to-south-africa-721d7208fb16#.29kw7lsdt)
+* [Moves the Needle - Enterprise Lean Startup Experiment Examples](http://www.movestheneedle.com/blog/enterprise-lean-startup-experiment-examples/)
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
-- [Cindy Alvarez - Lean Customer Development: Building Products Your Customers Will Buy](https://books.google.de/books?id=jH-XAwAAQBAJ&lpg=PA216&ots=QwQBmw7jHV&dq=case%20study%20concierge%20mvp&hl=de&pg=PA138#v=onepage&q=concierge&f=false)
-- [I Build MVPs - The Concierge Minimum Viable Product Maximizes Customer Learning](http://ibuildmvps.com/blog/the-concierge-minimum-viable-product-maximizes-customer-learning)
-- [HBR - Building a Minimum Viable Product](https://hbr.org/2013/09/building-a-minimum-viable-prod)
-- [The Concierge MVP Board](https://docs.google.com/spreadsheets/d/1yjsrdKiRwks9H9a0oec8LfZzC81zTXuo74mCmbeDc1o/edit#gid=0)
-- Got a reference? Add a link by emailing us: realbook@trikro.com
+* [Cindy Alvarez - Lean Customer Development: Building Products Your Customers Will Buy](https://books.google.de/books?id=jH-XAwAAQBAJ&lpg=PA216&ots=QwQBmw7jHV&dq=case%20study%20concierge%20mvp&hl=de&pg=PA138#v=onepage&q=concierge&f=false)
+* [I Build MVPs - The Concierge Minimum Viable Product Maximizes Customer Learning](http://ibuildmvps.com/blog/the-concierge-minimum-viable-product-maximizes-customer-learning)
+* [HBR - Building a Minimum Viable Product](https://hbr.org/2013/09/building-a-minimum-viable-prod)
+* [The Concierge MVP Board](https://docs.google.com/spreadsheets/d/1yjsrdKiRwks9H9a0oec8LfZzC81zTXuo74mCmbeDc1o/edit#gid=0)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)

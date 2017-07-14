@@ -35,14 +35,16 @@ Any results should be taken as generative and not evaluative. In addition, any i
 Before building a solution, any ideas should be tested via alternative generative product research methods such as Solutions Interviews or Concierge Testing.
 
 ### Field Tips
-“Don’t reinvent the wheel, figure out what’s wrong with walking to begin with.” - @TriKro
+* “Don’t reinvent the wheel, figure out what’s wrong with walking to begin with.” - @TriKro
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
 
 ## References
-https://www.nngroup.com/articles/competitive-usability-evaluations/
-http://www.trymyui.com/blog/2015/04/02/5-secrets-for-comparative-usability-study/
-http://ux.stackexchange.com/questions/37982/should-usability-testing-of-a-competitors-website-be-a-part-of-your-usability-t
-https://www.rickwhittington.com/blog/user-testing-your-competitors-website-to-improve-your-own/
-https://testfort.com/articles/usability-testing-competitor%E2%80%99s-site-4-tips-and-reasons
-
+* https://www.nngroup.com/articles/competitive-usability-evaluations/
+* http://www.trymyui.com/blog/2015/04/02/5-secrets-for-comparative-usability-study/
+* http://ux.stackexchange.com/questions/37982/should-usability-testing-of-a-competitors-website-be-a-part-of-your-usability-t
+* https://www.rickwhittington.com/blog/user-testing-your-competitors-website-to-improve-your-own/
+* https://testfort.com/articles/usability-testing-competitor%E2%80%99s-site-4-tips-and-reasons
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
