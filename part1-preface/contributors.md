@@ -1,3 +1,4 @@
+![](/assets/illustration-UserLaptop-shaded.jpg)
 # Contributors
 
 * Andy Cars, [Linkedin](https://se.linkedin.com/in/andycars), [Lean Ventures](http://leanventures.se/)

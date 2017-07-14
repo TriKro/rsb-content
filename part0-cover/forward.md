@@ -1,3 +1,5 @@
+![](/assets/illustration-hammer.png)
+
 # Forward
 
 By Tristan Kromer

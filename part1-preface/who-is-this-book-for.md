@@ -1,3 +1,4 @@
+![](/assets/illustration-Reflection02-HalfFigure.jpg)
 # Who Is This Book For
 
 If you’ve ever recognized a giant gap or unanswered question in your **business model** and had no idea how to go about filling that gap, this book is for you. You may be asking:
@@ -60,7 +61,7 @@ While many of the methods listed here can be used to investigate other business 
 
 The methods here work fine for small, early stage startups and equally fine for teams in large companies trying something new, risky, and outside the normal business model.
 
-It also works for any industry, but there is a bias towards providing examples and case studies from the technology industry. Other industries will be included as case studies become available. Please send any such case studies to [realbook@trikro.com](mailto:realbook@trikro.com) to be included.
+It also works for any industry, but there is a bias towards providing examples and case studies from the technology industry. Other industries will be included as case studies become available. Please send any such case studies to [realbook@kromatic.com](mailto:realbook@kromatic.com) to be included.
 
 ## Warnings: Academics and Existing Businesses
 

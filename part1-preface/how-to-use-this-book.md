@@ -1,3 +1,5 @@
+![](/assets/illustration-disappointing-toaster.jpg)
+
 # How to Use This Book
 
 Do not read this book straight through. There is no plot or narrative that you’re going to miss.
