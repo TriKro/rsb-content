@@ -10,9 +10,9 @@ By Tristan Kromer
 **    
   **
 
-My first encounter with the term lean startup introduced me to the concept of a smoke test. The idea was elegant, place a value proposition onto a landing page with the intent to gauge customer demand. So of course I applied it immediately.
+My first encounter with the term _lean startup_ introduced me to the concept of a smoke test. The idea was elegant &mdash place a value proposition onto a landing page with the intent to gauge customer demand. So of course I applied it immediately.
 
-When I heard about Sean Ellis’“How disappointed would you be” survey, I used that.
+When I heard about Sean Ellis' “How disappointed would you be” survey, I used that.
 
 When I heard about concierge testing, Wizard of Oz testing, paper prototyping, I used them.
 

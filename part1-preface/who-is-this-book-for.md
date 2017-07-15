@@ -53,9 +53,9 @@ It is also a Creative Commons project, which means you can use it as training ma
 
 ## Business Model
 
-This book is best used to answer questions about certain business model elements such as the **Customer**, the **Value Proposition**, **Channel**, **Relationship**, & **Revenue**. In other words, the critical elements in **Product / Market Fit**.
+This book is best used to answer questions about certain business model elements such as the **Customer**, the **Value Proposition**, **Channel**, **Relationship**, and **Revenue**. In other words, the critical elements in **Product/Market Fit**.
 
-While many of the methods listed here can be used to investigate other business model elements such as **Partners** & **Resources**, it may take some extra interpretation on the part of the reader.
+While many of the methods listed here can be used to investigate other business model elements such as **Partners** and **Resources**, it may take some extra interpretation on the part of the reader.
 
 ## Stage and Industry
 
