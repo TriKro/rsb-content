@@ -4,13 +4,13 @@
 
 ## In Brief
 
-A complex survey method that estimates estimates psychological tradeoffs that consumers make when evaluating several attributes together.Customers choose among product offerings that have different attributes such as price, screen size, or weight. Statistical analysis is then used to reveal the relative value of each attribute and predict the value of each possible combination of features. It tries to uncover real or hidden drivers which may not be apparent to the respondent themselves. 
+A complex survey method that estimates psychological tradeoffs that consumers make when evaluating several attributes together. Customers choose among product offerings that have different attributes such as price, screen size, or weight. Statistical analysis is then used to reveal the relative value of each attribute and predict the value of each possible combination of features. It tries to uncover real or hidden drivers that may not be apparent to the respondent themselves. 
 
 ## Helps Answer
 
  * Does a particular new feature have any value in the eyes of the customer?
  * Which product attributes are more/less important to the customer?
- * What dollar value can we be assigned with each feature?
+ * What dollar value can be assigned with each feature?
  * Which features should we build next?
 
 ##Tags
@@ -22,7 +22,7 @@ A complex survey method that estimates estimates psychological tradeoffs that co
 
 ##Description
 
-Conjoint analysis is a statistical technique used in market research. In the new product context, it aims to create a few customized versions of a product which will appeal to specific segments, rather than to offer a generic mass-market version of a product. It's used frequently in testing customer acceptance of new product designs, in assessing the appeal of advertisements and in service design.
+Conjoint analysis is a statistical technique used in market research. In the new product context, it aims to create a few customized versions of a product that will appeal to specific segments, rather than to offer a generic mass-market version of a product. It's used frequently in testing customer acceptance of new product designs, in assessing the appeal of advertisements and in service design.
 
 It: 
  * identifies clusters of consumer preferences, to help identify what features need to be produced together.
@@ -126,28 +126,13 @@ use this method.
 
 ### Potential Biases
 
-**Confirmation Bias:** If administering the surveys face-to-face,
-    overly enthusiastic entrepreneurs will sometimes over explain,
-    correct, or nonverbally prompt the participant with the
-    desired answer.
+**Confirmation Bias:** If administering the surveys face-to-face, overly enthusiastic entrepreneurs will sometimes over explain, correct, or nonverbally prompt the participant with the desired answer.
 
-**Invalid Target Audience:** Key to the success of conjoint analysis
-    is knowing your audience well enough to be able to create products
-    with useful mix of attributes to begin with. Conjoint analysis works 
-    best for products and services that rely more on logical comparison 
-    and less on emotion or impulse.
+**Invalid Target Audience:** Key to the success of conjoint analysis is knowing your audience well enough to be able to create products with useful mix of attributes to begin with. Conjoint analysis works best for products and services that rely more on logical comparison and less on emotion or impulse.
 
-**Homogenous Market:** Boiling market segments down to a series of equations and values
-        has the drawback of treating every member of that
-        segment identically. This is can often be reasonable within the
-        specific price range studied but outside of these ranges, the
-        mix of desirable attributes can change quite dramatically as
-        customers enter and leave the market.
+**Homogenous Market:** Boiling market segments down to a series of equations and values has the drawback of treating every member of that segment identically. This is can often be reasonable within the specific price range studied but outside of these ranges, the mix of desirable attributes can change quite dramatically as customers enter and leave the market.
 
-**Indication of Price Sensitivity NOT Exact Pricing:** Conjoint analysis is great for providing an indication about
-        which variables and ranges influence pricing but a separate
-        pricing and elasticity of demand analysis should be performed
-        separately to really nail this down.
+**Indication of Price Sensitivity NOT Exact Pricing:** Conjoint analysis is great for providing an indication about which variables and ranges influence pricing but a separate pricing and elasticity of demand analysis should be performed separately to really nail this down.
 
 ### Field Tips
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
