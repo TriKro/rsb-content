@@ -103,26 +103,16 @@ What matters most is:
 
 1.  The relative importance of each attribute compared with the others
 
-2.  The formula that allows you to predict the relative preferences of
-    any kind of mix
+2.  The formula that allows you to predict the relative preferences of any kind of mix
 
-3.  Elasticity of demand for pricing simulations (presuming that price
-    was an attribute that was tested)
+3.  Elasticity of demand for pricing simulations (presuming that price was an attribute that was tested)
 
-Conjoint analysis is most often used in existing markets where the
-product attributes are generally known by the customer. When brand new
-attributes are introduced, customers may not initially understand them
-and therefore may not be able to accurately include the potential value
-of those attributes in their choices, producing a false negative of
-sorts.
+Conjoint analysis is most often used in existing markets where the product attributes are generally known by the customer. When brand new attributes are introduced, customers may not initially understand them and therefore may not be able to accurately include the potential value
+of those attributes in their choices, producing a false negative of sorts.
 
-For this reason, generative market research methods are generally used
-before conjoint analysis to ensure that the attributes being tested are
-the correct one.
+For this reason, generative market research methods are generally used before conjoint analysis to ensure that the attributes being tested are the correct one.
 
-The method also tends to be extensive and requires a high level of
-expertise to design. Early stage innovation projects therefore rarely
-use this method.
+The method also tends to be extensive and requires a high level of expertise to design. Early stage innovation projects therefore rarely use this method.
 
 ### Potential Biases
 
