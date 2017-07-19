@@ -101,11 +101,11 @@ Types*](http://www.qualtrics.com/research-suite/survey-types/conjoint-types/))
 
 What matters most is:
 
-1.  The relative importance of each attribute compared with the others
+1.  The relative importance of each attribute compared with the others.
 
-2.  The formula that allows you to predict the relative preferences of any kind of mix
+2.  The formula that allows you to predict the relative preferences of any kind of mix.
 
-3.  Elasticity of demand for pricing simulations (presuming that price was an attribute that was tested)
+3.  Elasticity of demand for pricing simulations (presuming that price was an attribute that was tested).
 
 Conjoint analysis is most often used in existing markets where the product attributes are generally known by the customer. When brand new attributes are introduced, customers may not initially understand them and therefore may not be able to accurately include the potential value
 of those attributes in their choices, producing a false negative of sorts.
