@@ -4,7 +4,7 @@
 
 Do not read this book straight through. There is no plot or narrative that you’re going to miss.
 
-This book is not a step 1, step 2, step 3 guide to building a startup. Startups don’t work like that.
+This book is not a Step 1, Step 2, Step 3 guide to building a startup. Startups don’t work like that.
 
 There are certain sections that you’ll want to read thoroughly, such as the Intro and Index. Those sections allow you to figure out which parts of the rest of the book are relevant to you and your startup. Read those parts, then reference the methods described in the remaining pages as needed.
 
