@@ -1,6 +1,6 @@
 # What Are You Trying to Learn
 
-**“If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions.” - Albert Einstein**
+_“If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions.” - Albert Einstein_
 
 In school, we’re constantly taking tests to gauge how well we’ve learned last week’s material. We cram geographic boundaries, the dates of battles, and multiplication tables into our heads and spit out the results.
 
@@ -40,11 +40,11 @@ If we can identify the right question, there is a corresponding method or method
 
 If we attempt to execute a method in this book without first identifying the right question to ask, the results of that experiment are typically very difficult if not impossible to interpret correctly.
 
-For example, let’s say we’re selling a new type of shoe that cures plantar fasciitis. We put up a landing page test \(a type of smoke test\) with our value proposition and a “buy now” button. Then we put $1000 in to Google Adwords for “shoes” to drive traffic and sit back to wait for the money to start rolling in…
+For example, let’s say we’re selling a new type of shoe that cures plantar fasciitis. We put up a landing page test \(a type of smoke test\) with our value proposition and a “buy now” button. Then we put $1000 in to Google AdWords for “shoes” to drive traffic and sit back to wait for the money to start rolling in…
 
 ![](/assets/illustration - smoke test - cures plantar fasciitis.png)
 
-…and our conversion rate is 0%
+…and our conversion rate is 0 percent
 
 Should we give up? That’s what the landing page test says. There is insufficient demand for this product.
 
@@ -66,15 +66,15 @@ Unfortunately, it’s these blind spots that often hold the deadliest questions 
 
 One way to generate these questions is brainstorming around your problems/challenges/opportunities and reframing them as questions. There are many ways to brainstorm questions and identify gaps in our business model such as using the Business Model Canvas, but most of them still leave blind spots. Fortunately, it’s quite easy for other people who have a little emotional distance from our business to see where we are making risky assumptions. So instead of listing a variety of brainstorming methods, the only advice we’ll offer in this book is just to ask someone else.
 
-A _peer review_ is a time honored method to eliminate oversights. It can be used to proofread a document or just to make sure we’re not about to walk out of the house with mismatching socks.
+A _peer review_ is a time-honored method to eliminate oversights. It can be used to proofread a document or just to make sure we’re not about to walk out of the house with mismatching socks.
 
 To peer review our business model, we don’t even need to ask a seasoned entrepreneur or industry expert. Almost anyone is able to provide the input we need.
 
 We can present our business idea and business model to someone else and ask _them_ to ask _us_ questions. Encourage them to ask any question they want and make sure to mention that there are no dumb questions.
 
-We simply to write down those questions. They may be questions that we have failed to ask ourselves. If we do four or five peer reviews and everyone asks us, “Who is your target customer?” or “Gee….your target customer seems very broad” we probably haven’t defined our target customer very well.
+We simply to write down those questions. They may be questions that we have failed to ask ourselves. If we do four or five peer reviews and everyone asks us, “Who is your target customer?” or “Gee … your target customer seems very broad” we probably haven’t defined our target customer very well.
 
-We should not defend our idea or try and explain in excruciating detail why their question is **not** a risk for us. Our job is only to note the questions that are being asked and include them when we prioritize.
+We should not defend our idea or try and explain in excruciating detail why their question is _not_ a risk for us. Our job is only to note the questions that are being asked and include them when we prioritize.
 
 ## Priority Does Not Have a Plural
 

@@ -90,29 +90,29 @@ If I add a notification feature that allows the waiter/waitress to set reminders
 
 2. If you advertise about the photo feature in your app, you will have more users and fewer complaints within the next 10 weeks.
 
-3. If you add three pages to the onboarding process that explains the pictures, then you will get 25% increase of dog pictures.
+3. If you add three pages to the onboarding process that explains the pictures, then you will get 25 percent increase of dog pictures.
 
-4. By moving the download photos to be part of the home screen, you will receive 50% fewer complaints about the photos section in the next three months
+4. By moving the download photos to be part of the home screen, you will receive 50 percent fewer complaints about the photos section in the next three months
 
 **Scenario 4: **You are so sick of wearing the same outfits that you developed an AI software to pick out your clothes every morning. A venture capitalist saw your tweets about it and gave you a million dollars to start the company. You need the AI to address weather conditions when choosing the clothes. You want to run an experiment to test a method for collecting data for when it is 80 degrees and sunny.
 
-1. If you poll people in popular cities on sunny days, then you will be able to add 5% more data points.
+1. If you poll people in popular cities on sunny days, then you will be able to add 5 percent more data points.
 
-2. If you see what is in clothing stores on sunny days, you will be able to add 10% more data points to the algorithm in a month.
+2. If you see what is in clothing stores on sunny days, you will be able to add 10 percent more data points to the algorithm in a month.
 
-3. If you send out a survey to ask people what they are wearing when it is 80 degrees and sunny, then you will get a 75% answer rate in a week.
+3. If you send out a survey to ask people what they are wearing when it is 80 degrees and sunny, then you will get a 75 percent answer rate in a week.
 
-4. By collecting data points of Instagram selfies dates to days of 80 degrees and sunny, your AI can identify 75% of the clothing in 3 months.
+4. By collecting data points of Instagram selfies dates to days of 80 degrees and sunny, your AI can identify 75 percent of the clothing in 3 months.
 
 **Scenario 5: **Men’s socks are a great way to jazz up an outfit so you decided to start a men’s sock e-commerce store. Your customers are not completing the check-out process and usability tests show that some users question the “site’s security”. You want to add a small adjustment to the payments page to see if more users complete the check-out process.
 
 1. If you add a password strength indicator then more people will create passwords in the next 2 months.
 
-2. If you add a lock icon next to the credit card info, the completion of the checkout process will increase by 15% in 3 months.
+2. If you add a lock icon next to the credit card info, the completion of the checkout process will increase by 15 percent in 3 months.
 
-3. If you make the site prettier, the completion of the checkout process will increase by 25% in 6 months.
+3. If you make the site prettier, the completion of the checkout process will increase by 25 percent in 6 months.
 
-4. If you add a review page before the confirmation page, then 20% of customers will be able to complete the checkout flow in 10 mins.
+4. If you add a review page before the confirmation page, then 20 percent of customers will be able to complete the checkout flow in 10 mins.
 
 **Answers: **
 
@@ -128,9 +128,9 @@ Learn from your mistakes. Look at the questions that you got wrong and pay atten
 
 * There are too many variables. If you are testing multiple things then you cannot pinpoint which variable caused the results.
 
-* There has to be an achievable metric attached to the hypothesis. You have to know the point at which experiment succeeds or fails.
+* There has to be an achievable metric attached to the hypothesis. You have to know the point at which the experiment succeeds or fails.
 
-* The success or failure directly is not linked to the experiment. If the success or failure could have happened because of a number of variables, then you don’t know if the experiment was the reason for the change.
+* The success or failure of the experiment is not directly linked to the experiment. If the success or failure could have happened because of a number of variables, then you don’t know if the experiment was the reason for the change.
 
 * The time box is too long or too short. Some experiments are going to take a longer time but you have to make sure that the time box is reasonable for the growth rate of your company. You don’t want to have an experiment that takes years or that is overextended past the runway of your company.
 
