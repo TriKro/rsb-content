@@ -4,7 +4,7 @@
 
 In school, we’re constantly taking tests to gauge how well we’ve learned last week’s material. We cram geographic boundaries, the dates of battles, and multiplication tables into our heads and spit out the results.
 
-Sadly, those rote memorization skills and the ability to answer pre-formulated questions doesn’t help us as entrepreneurs. When building a new business model, there is no test or quiz that we can cram for. It’s as if we sat down for our final and opened up the exam book only to find a blank piece of paper in front of us.
+Sadly, those rote memorization skills and the ability to answer preformulated questions doesn’t help us as entrepreneurs. When building a new business model, there is no test or quiz that we can cram for. It’s as if we sat down for our final and opened up the exam book only to find a blank piece of paper in front of us.
 
 “Where is the test?” we ask.
 

@@ -16,7 +16,7 @@ Key elements of writing a good hypothesis:
 
 A hypothesis will end up looking like this:
 
-> **This new feature** will cause **an 10% increase** of **new users visiting the homepage** in **3 months**.
+> **This new feature** will cause **a 10 percent increase** of **new users visiting the homepage** in **3 months**.
 >
 > \(the change\) ----------------------------\(the metric\)-------------------\(the impact\)----------------------\(the timeframe\)
 
@@ -40,7 +40,7 @@ This is the length of time it takes to run the test. If the timebox is too short
 
 **Let’s go through an example scenario of writing a hypothesis:**
 
-Say that you are a product manager at startup that creates a mobile app to help waiters and waitresses keep track of their tips. You have noticed that users who document their tips 4 times a week have a higher retention rate. You want to see if you can increase the number of times current users use the app within a week.
+Say that you are a product manager at startup that creates a mobile app to help waiters and waitresses keep track of their tips. You have noticed that users who document their tips four times a week have a higher retention rate. You want to see if you can increase the number of times current users use the app within a week.
 
 _What are you going to change within the app?_
 
@@ -60,7 +60,7 @@ This always depends on a number of variables within the company but let’s say 
 
 _The end hypothesis would be:_
 
-If I add a notification feature that allows the waiter/waitress to set reminders to add in his/her tips, then I am going to see a 10% increase in number of users opening the app four times or more in a week over the next three months.
+If I add a notification feature that allows the waiter/waitress to set reminders to add in his/her tips, then I am going to see a 10 percent increase in number of users opening the app four times or more in a week over the next three months.
 
 **Below is a worksheet that will test if you can figure out the strongest hypothesis for a given scenario.**
 
@@ -76,9 +76,9 @@ If I add a notification feature that allows the waiter/waitress to set reminders
 
 **Scenario 2: **You already made your millions with the Uber for parrots so you decided to invest your money into saving the manatees. You designed a tracking app that shows boaters where herds of manatees are sleeping so they don’t run the herds over. You are having a hard time getting the boaters to download the app so you decided to start advertising. You want to conduct a test to see if a promotion will increase the app’s downloads.
 
-1. If you pair up piers to give 10% off of a month of docking their boat if the owner download the app, then you will see a 10% increase in downloads over the next three years.
+1. If you pair up piers to give 10 percent off of a month of docking their boat if the owner download the app, then you will see a 10 percent increase in downloads over the next three years.
 
-2. If you give out 10% coupons to boat rentals for downloading the app, 15% off tack shops and advertise around piers, then you will see an increase of 15% new downloads the next 3 months.
+2. If you give out 10 percent coupons to boat rentals for downloading the app, 15 percent off tack shops and advertise around piers, then you will see an increase of 15% new downloads the next 3 months.
 
 3. By pairing up with 10 boat rentals to give a coupon of 10% off the boat rentals for downloading the app, you will see a 5% increase of downloads over a 6 month period.
 
@@ -126,13 +126,13 @@ Learn from your mistakes. Look at the questions that you got wrong and pay atten
 
 **Common Mistakes:**
 
-* There are too many variables. If you are testing multiple things then you can not pinpoint which variable caused the results.
+* There are too many variables. If you are testing multiple things then you cannot pinpoint which variable caused the results.
 
 * There has to be an achievable metric attached to the hypothesis. You have to know the point at which experiment succeeds or fails.
 
 * The success or failure directly is not linked to the experiment. If the success or failure could have happened because of a number of variables, then you don’t know if the experiment was the reason for the change.
 
-* The time box is too long or too short. Some experiments are going to take a longer time but you have to make sure that the time box is reasonable for the growth rate of your company. You don’t want to have an experiment that takes years or that is over extended past the runway of your company.
+* The time box is too long or too short. Some experiments are going to take a longer time but you have to make sure that the time box is reasonable for the growth rate of your company. You don’t want to have an experiment that takes years or that is overextended past the runway of your company.
 
 **Other Resources**
 
