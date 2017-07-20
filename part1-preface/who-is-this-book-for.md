@@ -1,7 +1,7 @@
 ![](/assets/illustration-Reflection02-HalfFigure.jpg)
 # Who Is This Book For
 
-If you’ve ever recognized a giant gap or unanswered question in your **business model** and had no idea how to go about filling that gap, this book is for you. You may be asking:
+If you’ve ever recognized a giant gap or unanswered question in your business model and had no idea how to go about filling that gap, this book is for you. You may be asking:
 
 * _Who_ are our customers?
 
@@ -53,15 +53,15 @@ It is also a Creative Commons project, which means you can use it as training ma
 
 ## Business Model
 
-This book is best used to answer questions about certain business model elements such as the **Customer**, the **Value Proposition**, **Channel**, **Relationship**, and **Revenue**. In other words, the critical elements in **Product/Market Fit**.
+This book is best used to answer questions about certain business model elements such as the _customer_, the _value proposition_, _channel_, _relationship_, and _revenue_. In other words, the critical elements in _product/market fit_.
 
-While many of the methods listed here can be used to investigate other business model elements such as **Partners** and **Resources**, it may take some extra interpretation on the part of the reader.
+While many of the methods listed here can be used to investigate other business model elements such as _partners_ and _resources_, it may take some extra interpretation on the part of the reader.
 
 ## Stage and Industry
 
 The methods here work fine for small, early stage startups and equally fine for teams in large companies trying something new, risky, and outside the normal business model.
 
-It also works for any industry, but there is a bias towards providing examples and case studies from the technology industry. Other industries will be included as case studies become available. Please send any such case studies to [realbook@kromatic.com](mailto:realbook@kromatic.com) to be included.
+These methods work for any industry, but there is a bias towards providing examples and case studies from the technology industry. Other industries will be included as case studies become available. Please send any such case studies to [realbook@kromatic.com](mailto:realbook@kromatic.com) to be included.
 
 ## Warnings: Academics and Existing Businesses
 
