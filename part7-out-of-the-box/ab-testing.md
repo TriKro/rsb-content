@@ -22,7 +22,7 @@ A/B testing (also known as split testing and bucket testing) is a randomized met
 * Relationship
 
 ## Description
-A/B Testing is similar to the experiments you did in Science 101. Remember the experiment in which you tested various substances to see which supports plant growth and which suppresses it? At different intervals, you measured the growth of plants as they were subjected to different conditions, and in the end you tallied the increase in height of the different plants.
+A/B Testing is similar to the experiments you did in Science 101. Remember the one where you tested various substances to see which supports plant growth and which suppresses it? At different intervals, you measured the growth of plants as they were subjected to different conditions, and in the end you tallied the increase in height of the different plants.
 
 A/B testing allows you to show potential customers and users two versions of the same element and let them determine the winner. As the name implies, two versions (A and B) are compared, which are identical except for one variation that might affect a user's behavior. Version A might be the currently used version (control), while version B is modified in some respect (variation).
 
