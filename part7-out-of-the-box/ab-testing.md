@@ -9,7 +9,7 @@ A/B testing (also known as split testing and bucket testing) is a randomized met
 * Which features of my product or service will increase my conversion rate?
 * Which is the most effective design of my product or service to increase sales?
 * What is the most effective design of my website to generate traffic?
-* Which layout of my website leads to a higher sales conversion rate?
+* Which website layout will lead to a higher sales conversion rate?
 
 ## Tags
 * Quantitative
@@ -28,7 +28,7 @@ A/B testing allows you to show potential customers and users two versions of the
 
 In online settings, such as web design (especially user experience design), the goal is to identify changes to web pages that increase or maximize an outcome of interest. Constantly testing and optimizing your web page can increase revenue, donations, leads, registrations, downloads, and user generated content, while providing teams with valuable insight about their visitors.
 
-For instance, on an ecommerce website the purchase funnel is typically a good candidate for A/B testing, as even marginal improvements in drop-off rates can represent a significant gain in sales. Significant improvements can sometimes be seen through testing elements like copy text, layouts, images, and colors, but not always.
+For instance, on an ecommerce website the purchase funnel is typically a good candidate for A/B testing, as even marginal improvements in drop-off rates can represent a significant gain in sales. Significant improvements can sometimes be seen through testing elements like copy, layouts, images, and colors, but not always.
 
 By measuring the impact that changes have on your metrics such as signups, downloads, purchases, or whatever else your goals might be, you can ensure that every change produces positive results.
 
@@ -44,8 +44,8 @@ As the test runs, all visitors to the Acme Cables site are bucketed into a varia
 
 Once enough visitors have run through the test, the Acme team ends the test and is able to declare a winner. The results show that 4.5 percent of visitors clicked on the red buy button and 1 percent clicked on the original version. The red “Buy” button led to a significant uplift in conversion rate, so Acme then redesigns their product pages accordingly. In subsequent A/B tests, Acme will apply the insight that red buttons convert better on their site than grey buttons.
 
-You can also use it when you want to test your headline, but you have three possible variations. In that case, running a single test and splitting your visitors (or recipients in the case of an email) into three groups instead of two is reasonable, and would likely still be considered an A/B test. This is more efficient than running three separate tests (A vs. B, B vs. C, and A vs. C). You may want to give your test an extra couple of days to run, so that you still have enough results to base any conclusions on.
-Testing more than one thing at a time, such as a headline and call to action, is a multivariate test, and is more complicated to run. There are plenty of resources out there for multivariate testing, but we won’t be covering that when talking about A/B testing.
+You can also use it when you want to test your headline, but you have three possible variations. In that case, running a single test and splitting your visitors (or recipients in the case of an email) into three groups instead of two is reasonable and would likely still be considered an A/B test. This is more efficient than running three separate tests (A vs. B, B vs. C, and A vs. C). You may want to give your test an extra couple of days to run, so that you still have enough results to base any conclusions on.
+Testing more than one thing at a time, such as a headline and call to action, is a multivariate test, which is more complicated to run. There are plenty of resources out there for multivariate testing, but we won’t be covering that when talking about A/B testing.
 Once you've concluded the test, you should update your product and/or site with the desired content variation(s) and remove all elements of the test as soon as possible.
 
 ### Time Commitment
@@ -66,7 +66,7 @@ Construct a hypothesis: define the hypothesis you want to test in a concise and 
 
 6. Analyze data and draw conclusions: If the footer with more links reduces bounce rate more than the target set, then you can conclude that increased number of links in the footer is one of the factors that reduces bounce. If there is no meaningful difference in bounce, then go back to step 3 and construct a new hypothesis.
 
-7. Report results to all concerned: let others in Marketing, IT and UI/UX know of the test results and insights generated.
+7. Report results to all concerned: let others in marketing, IT and UI/UX know of the test results and insights generated.
 
 ### Interpreting Results
 We must set from the beginning the significant difference (practically significant), that is, what difference between the version will lead to change. This decision is based on several factors such as: investment of the changes, periodicity of changes, etc. For online testing, a 1-2 percent difference is enough to justify the change. For offline testing (e.g. new medicine or new hardware product), the difference to make the change beneficial can be around 10-15 percent difference in magnitude.

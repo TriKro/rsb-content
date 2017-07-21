@@ -7,7 +7,7 @@ Off-brand testing is a technique that helps established companies run experiment
 ## Helps Answer
  * Is there merit in the idea itself, or is there interest because of high brand value?
  * Would our existing customers be interested in this type of product, even if they didn't know it was from our company?
- * Would there be alternative market segments which might be interested in this product?
+ * Would there be alternative market segments that might be interested in this product?
 
 ## Tags
  * Brand
