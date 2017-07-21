@@ -36,35 +36,25 @@ By collating the responses of participants, conjoint analysis figures out what a
 
 ### Time Commitment and Resources
 
-1-2 hours offline for B2C or 24 hours online to gather responses. For
-B2B, participant recruitment times can vary widely. Analysis of the data
-can be very rapid with off the shelf software for analyzing less than 10
-attributes. For analyzing dozens of factors the expertise and software
+1-2 hours offline for B2C or 24 hours online to gather responses. For B2B, participant recruitment times can vary widely. Analysis of the data can be very rapid with off-the-shelf software for analyzing less than 10 attributes. For analyzing dozens of factors the expertise and software
 required can take several weeks and human analysis.
 
 ### How To
 
-1.  Create a list of the top 3-5 product attributes you want to rank
-    based on deep consumer understanding gained from prior experience
-    and research.
+1.  Create a list of the top three to five product attributes you want to rank based on deep consumer understanding gained from prior experience and research.
 
-2.  No hard & fast rule but a good guideline is: Sample Size = \[ (Total
+2.  No hard and fast rule but a good guideline is: Sample Size = \[ (Total
     \# of levels for all attributes) - (Number of attributes + 1) \] x
     10 -- [*ref*](http://www.quirks.com/articles/a2001/20010602.aspx)
 
-3.  Use software program to mix attributes into new product offerings
+3.  Use software program to mix attributes into new product offerings.
 
-4.  Show participants selected product offerings side by side and have
-    them choose which one they would prefer (see example below from
-    [*Pragmatic
-    Marketing*](http://pragmaticmarketing.com//resources/conjoint-analysis-101?p=0) article)
+4.  Show participants selected product offerings side by side and have them choose which one they would prefer (see example below from
+    [*Pragmatic Marketing*](http://pragmaticmarketing.com//resources/conjoint-analysis-101?p=0) article)
 
-5.  Use statistical analysis software (or consultant / service) to
-    analyze the results and compute a relative value ranking for each
-    stand-alone attribute
+5.  Use statistical analysis software (or consultant/service) to analyze the results and compute a relative value ranking for each stand-alone attribute.
 
-6.  Output formula revealing the “ideal” product based upon optimized
-    mix of attributes
+6.  Output formula revealing the “ideal” product based upon optimized mix of attributes.
 
 | Brand A                             | Brand B                             | Brand C                            |
 |-------------------------------------|-------------------------------------|------------------------------------|
