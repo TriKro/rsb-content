@@ -49,8 +49,7 @@ required can take several weeks and human analysis.
 
 3.  Use software program to mix attributes into new product offerings.
 
-4.  Show participants selected product offerings side by side and have them choose which one they would prefer (see example below from
-    [*Pragmatic Marketing*](http://pragmaticmarketing.com//resources/conjoint-analysis-101?p=0) article)
+4.  Show participants selected product offerings side by side and have them choose which one they would prefer (see example below from [*Pragmatic Marketing*] (http://pragmaticmarketing.com//resources/conjoint-analysis-101?p=0) article).
 
 5.  Use statistical analysis software (or consultant/service) to analyze the results and compute a relative value ranking for each stand-alone attribute.
 

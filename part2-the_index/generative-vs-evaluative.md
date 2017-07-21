@@ -12,7 +12,7 @@ Yet these types of flawed hypotheses are common. Here is a slightly more subtle 
 
 > _“If 250 Los Angeles teachers were asked to treat minority students with more respect, then at least 50 teachers would do so.”_
 
-While not as flawed as the first example, it has fundamental problems that would prevent us from designing a good experiment. If we force an experiment, we will most likely have ambiguous data or be unable to interpret it correctly.
+While not as flawed as the first example, it has fundamental problems that would prevent us from designing a good experiment. If we force an experiment, we will most likely have ambiguous data or be unable to correctly interpret it.
 
 In this case, several things are unclear:
 
@@ -20,13 +20,13 @@ In this case, several things are unclear:
 
 * How should we ask the teachers? Will we ask each teacher differently? Will we let the principals ask them?
 
-* What is respect in this context? What behaviors would indicate “more respect”?
+* What is respect in this context? Which behaviors would indicate “more respect”?
 
 Without defining the hypothesis very clearly, we might let the principals of schools ask the teachers on our behalf, and they might ask them with varying degrees of persuasiveness.
 
 We might also argue about the results. Is calling a student “Mr.” instead of their first name a sign of respect or a sign of sarcasm?
 
-When we do not have a clear, well-defined, and falsifiable hypothesis we are best served by doing generative research instead of an experiment. In this case, our learning goal could be “What teacher behaviors indicate teacher respect to minority students?”
+When we do not have a clear, well-defined, and falsifiable hypothesis we are best served by doing generative research instead of an experiment. In this case, our learning goal could be “Which teacher behaviors indicate teacher respect to minority students?”
 
 Given this goal, we are better off doing customer discovery interviews \(a.k.a. speaking to the students\) rather that testing our vague hypothesis. The outcome of the generative research should be a clear, well-defined, and falsifiable hypothesis that we can then go and test with an evaluative experiment.
 
@@ -38,7 +38,7 @@ The hypothesis should be clear and unambiguous so that anyone reading it will un
 
 > _“If 250 Los Angeles teachers were asked to treat minority students with more respect, then at least 50 teachers would do so.”_
 
-In this case, we may have different opinions as to what “respect” means. In order for us to agree that someone is being treated with “more respect,” we must agree on what behaviors would indicate respect.
+In this case, we may have different opinions as to what “respect” means. In order for us to agree that someone is being treated with “more respect,” we must agree on which behaviors would indicate respect.
 
 > _“If 250 Los Angeles teachers were asked to treat minority students with more respect, then at least 50 teachers would refer to their students using an honorific.”_
 
@@ -58,7 +58,7 @@ This new hypothesis has some other issues, but it is at least something observab
 
 ## Describes a Relationship
 
-> _“50% of students at Dalton High School get a C or lower in at least one class per year.”_
+> _“50 percent of students at Dalton High School get a C or lower in at least one class per year.”_
 
 This again may be true and it is observable, but it doesn’t tell us anything about the cause of the low grades. A good hypothesis should allow us to change one thing and observe the effect in another.
 
@@ -108,7 +108,7 @@ The entire sentence is _not_ the hypothesis. Let’s break this into its parts:
 
 > _We believe ..._
 
-That section just confirms we think the hypothesis is _correct_. It is not part of the hypothesis and there are many situations where we may test a hypothesis that we believe is _incorrect_.
+That section just confirms we think the hypothesis is _correct_. It is not part of the hypothesis, and there are many situations where we may test a hypothesis that we believe is _incorrect_.
 
 > _...**&lt;this capability&gt;** will result in **&lt;this outcome&gt;**..._
 
