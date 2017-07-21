@@ -45,7 +45,7 @@ As the test runs, all visitors to the Acme Cables site are bucketed into a varia
 Once enough visitors have run through the test, the Acme team ends the test and is able to declare a winner. The results show that 4.5 percent of visitors clicked on the red buy button and 1 percent clicked on the original version. The red “Buy” button led to a significant uplift in conversion rate, so Acme then redesigns their product pages accordingly. In subsequent A/B tests, Acme will apply the insight that red buttons convert better on their site than grey buttons.
 
 You can also use it when you want to test your headline, but you have three possible variations. In that case, running a single test and splitting your visitors (or recipients in the case of an email) into three groups instead of two is reasonable, and would likely still be considered an A/B test. This is more efficient than running three separate tests (A vs. B, B vs. C, and A vs. C). You may want to give your test an extra couple of days to run, so that you still have enough results to base any conclusions on.
-Testing more than one thing at a time, such as headline and call to action, is a multivariate test, and is more complicated to run. There are plenty of resources out there for multivariate testing, but we won’t be covering that when talking about A/B testing.
+Testing more than one thing at a time, such as a headline and call to action, is a multivariate test, and is more complicated to run. There are plenty of resources out there for multivariate testing, but we won’t be covering that when talking about A/B testing.
 Once you've concluded the test, you should update your product and/or site with the desired content variation(s) and remove all elements of the test as soon as possible.
 
 ### Time Commitment
@@ -55,10 +55,10 @@ Considering the impact A/B testing can have on your bottom line, though, it’s 
 ### How To
 1. Define the question you want to answer: "Why is the bounce rate of my website higher than industry standard?" Start an A/B test by identifying a goal for your company. E.g. reduce bounce rate.
 
-2. Do background research: Understand your customer/consumer behavior. For website purposes you can use Google Analytics and any other analytics tools. For other purposes you can use consumer behaviour analytics available.
+2. Do background research: Understand your customer/consumer behavior. For website purposes you can use Google Analytics and any other analytics tools. For other purposes you can use consumer behavior analytics if they are available.
 Construct a hypothesis: define the hypothesis you want to test in a concise and measurable manner. E.g. "Adding more links in the footer will reduce the bounce rate".
 
-3. Define metrics and significant difference: derive one metric that measures the hypothesis, in this case “bounce rate”. Once defined the metric, set the significance difference, that is, the minimum difference between the two versions’ metrics that will mean the change is worth it. E.g. significance difference: version B must have at least 3% less bounce rate than version A to consider it a successful and meaningful improvement. 
+3. Define metrics and significant difference: derive one metric that measures the hypothesis, in this case “bounce rate”. Once you have defined the metric, set the significance difference, that is, the minimum difference between the two versions’ metrics that will mean the change is worth it. E.g. significance difference: version B must have at least 3% less bounce rate than version A to consider it a successful and meaningful improvement. 
 
 4. Calculate the number of visitors/days you need to run the test for: Always calculate the number of visitors required for a test before starting the test. You can use an A/B Test Duration Calculator for website purposes.
 
