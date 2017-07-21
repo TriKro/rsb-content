@@ -28,9 +28,9 @@ A/B testing allows you to show potential customers and users two versions of the
 
 In online settings, such as web design (especially user experience design), the goal is to identify changes to web pages that increase or maximize an outcome of interest. Constantly testing and optimizing your web page can increase revenue, donations, leads, registrations, downloads, and user generated content, while providing teams with valuable insight about their visitors.
 
-For instance, on an ecommerce website the purchase funnel is typically a good candidate for A/B testing, as even marginal improvements in drop-off rates can represent a significant gain in sales. Significant improvements can sometimes be seen through testing elements like copy text, layouts, images and colors, but not always.
+For instance, on an ecommerce website the purchase funnel is typically a good candidate for A/B testing, as even marginal improvements in drop-off rates can represent a significant gain in sales. Significant improvements can sometimes be seen through testing elements like copy text, layouts, images, and colors, but not always.
 
-By measuring the impact that changes have on your metrics such as sign-ups, downloads, purchases, or whatever else your goals might be, you can ensure that every change produces positive results.
+By measuring the impact that changes have on your metrics such as signups, downloads, purchases, or whatever else your goals might be, you can ensure that every change produces positive results.
 
 This differs from multivariate testing, which tests out multiple variations of a page at the same time.
 
