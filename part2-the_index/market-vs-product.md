@@ -6,71 +6,71 @@ To narrow down the large list of methods to something actionable, we can first s
 
 ## Market
 
-* _Who is our customer?_
+* Who is our customer?
 
-* _What are their pains?_
+* What are their pains?
 
-* _What job needs to be done?_
+* What job needs to be done?
 
-* _How are they doing this job today?_
+* How are they doing this job today?
 
-* _Does the customer segment already have a solution to this pain?_
+* Does the customer segment already have a solution to this pain?
 
-* _Is this customer segment really willing to pay for a better solution for this job?_
+* Is this customer segment really willing to pay for a better solution for this job?
 
-* _Is our customer segment too broad?_
+* Is our customer segment too broad?
 
-* _How do we find them?_
+* How do we find them?
 
-* _How much will this customer segment pay?_
+* How much will this customer segment pay?
 
-* _How do we convince this customer segment to buy?_
+* How do we convince this customer segment to buy?
 
-* _What is the cost to acquire a customer in this customer segment?_
+* What is the cost to acquire a customer in this customer segment?
 
 ## Product
 
-* _How can we solve this problem?_
+* How can we solve this problem?
 
-* _What form should this take?_
+* What form should this take?
 
-* _How important is the design?_
+* How important is the design?
 
-* _What’s the quickest solution?_
+* What’s the quickest solution?
 
-* _What is the minimum feature set?_
+* What is the minimum feature set?
 
-* _How should we prioritize?_
+* How should we prioritize?
 
-* _Is this solution working?_
+* Is this solution working?
 
-* _Are people using it?_
+* Are people using it?
 
-* _Which solution is better?_
+* Which solution is better?
 
-* _How should we optimize this?_
+* How should we optimize this?
 
-* _What do people like / dislike?_
+* What do people like / dislike?
 
-* _Why do they do that?_
+* Why do they do that?
 
-* _Why do prospects buy from us?_
+* Why do prospects buy from us?
 
-* _Why do prospects not buy from us?_
+* Why do prospects not buy from us?
 
-In this case, “market” refers to any question or element that is mostly or completely connected to the identity of the Customer segment.
+In this case, “market” refers to any question or element that is mostly or completely connected to the identity of the customer segment.
 
-For example, market questions include those about which Channels we can use to reach the Customers. We cannot use traditional broadcast television advertising to target customers who don’t have a television set.
+For example, market questions include those about which channels we can use to reach the customers. We cannot use traditional broadcast television advertising to target customers who don’t have a television set.
 
-“Product” \(or service\) is simplified to mean anything regarding the Value Proposition or the production of it. This includes Resources needed to produce the Value Proposition, as well as any Key Activities, Partners, or Costs.
+“Product” \(or service\) is simplified to mean anything regarding the value proposition or the production of it. This includes resources needed to produce the value proposition, as well as any key activities, partners, or costs.
 
-The Value Proposition really sits at the intersection of the Market needs and the Product itself. The Product has no value outside of the customer using it, but in this case, we are again simplifying for navigation.
+The value proposition really sits at the intersection of the market needs and the product itself. The product has no value outside of the customer using it, but in this case, we are again simplifying for navigation.
 
-**If we are using the Business Model Canvas, “market” questions are those on the right side of the canvas including: Customer, Channel, Relationship, & Revenue. “product” questions are those about the Value Proposition and everything left of it including: Key Activities, Key Resources, Key Partners, & Costs.**
+_If we are using the Business Model Canvas, market questions are those on the right side of the canvas, including: customer, channel, relationship, and revenue. Product questions are those about the value proposition and everything left of it including: key activities, key resources, key partners, and costs._
 
 ## Where Should We Start?
 
-This book is agnostic about where we start. We may already have a product and are investigating who to sell it to or we may have a customer segment with a strong pain point and be trying to find a solution. However, when in doubt, start with the customer.
+This book is agnostic about where we start. We may already have a product and are investigating who to sell it to or we may have a customer segment with a strong pain point and are trying to find a solution. However, when in doubt, start with the customer.
 
-If the customer segment changes, then the Product usually must be adapted to the Customer. However, if the product changes, Customers may simply use a different product. Human behavior is notoriously difficult to change although it is not impossible.
+If the customer segment changes, then the product usually must be adapted to the customer. However, if the product changes, customers may simply use a different product. Human behavior is notoriously difficult to change, although it is not impossible.
 

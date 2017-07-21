@@ -1,24 +1,24 @@
 # What Are You Trying to Learn
 
-_“If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions.” - Albert Einstein_
+    “If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions.” - Albert Einstein
 
 In school, we’re constantly taking tests to gauge how well we’ve learned last week’s material. We cram geographic boundaries, the dates of battles, and multiplication tables into our heads and spit out the results.
 
 Sadly, those rote memorization skills and the ability to answer preformulated questions doesn’t help us as entrepreneurs. When building a new business model, there is no test or quiz that we can cram for. It’s as if we sat down for our final and opened up the exam book only to find a blank piece of paper in front of us.
 
-“Where is the test?” we ask.
+    “Where is the test?” we ask.
 
-“Right there in front of you,” answers our teacher.
+    “Right there in front of you,” answers our teacher.
 
-“Is there a right answer?” we hesitantly inquire.
+    “Is there a right answer?” we hesitantly inquire.
 
-“Yes there is,” assures our teacher.
+    “Yes there is,” assures our teacher.
 
-“What are the questions?” we plead.
+    “What are the questions?” we plead.
 
-“That’s what you have to figure out.”
+    “That’s what you have to figure out.”
 
-As an entrepreneur \(or intrapreneur\), we can’t just guess at the answers without first identifying the right questions to ask. If we just guess by building a fully functioning product, it’s very likely that the market will judge us wrong and punish us with zero sales and bankruptcy.
+As an entrepreneur \(or intrapreneur\), we can’t just guess at the answers without first identifying the right questions to ask. If we just guess by building a fully functioning product, it’s very likely that the market will judge us wrong and punish us with zero sales and eventual bankruptcy.
 
 Our job, as an entrepreneur, is to first ask the right questions, and only then can we find the right answers.
 
@@ -40,7 +40,7 @@ If we can identify the right question, there is a corresponding method or method
 
 If we attempt to execute a method in this book without first identifying the right question to ask, the results of that experiment are typically very difficult if not impossible to interpret correctly.
 
-For example, let’s say we’re selling a new type of shoe that cures plantar fasciitis. We put up a landing page test \(a type of smoke test\) with our value proposition and a “buy now” button. Then we put $1000 in to Google AdWords for “shoes” to drive traffic and sit back to wait for the money to start rolling in…
+For example, let’s say we’re selling a new type of shoe that cures plantar fasciitis. We put up a landing page test \(a type of smoke test\) with our value proposition and a “buy now” button. Then we put $1000 into Google AdWords for “shoes” to drive traffic and sit back to wait for the money to start rolling in…
 
 ![](/assets/illustration - smoke test - cures plantar fasciitis.png)
 

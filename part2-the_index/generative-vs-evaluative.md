@@ -22,13 +22,13 @@ In this case, several things are unclear:
 
 * What is respect in this context? What behaviors would indicate “more respect”?
 
-Without defining the hypothesis very clearly, we might let the principals of schools ask the teachers on our behalf and they might ask them with varying degrees of persuasiveness.
+Without defining the hypothesis very clearly, we might let the principals of schools ask the teachers on our behalf, and they might ask them with varying degrees of persuasiveness.
 
-We might also argue about the results. Is calling a student “Mr.” instead of their first name a sign or respect or a sign of sarcasm?
+We might also argue about the results. Is calling a student “Mr.” instead of their first name a sign of respect or a sign of sarcasm?
 
-When we do not have a clear, well defined, and falsifiable hypothesis we are best served by doing generative research instead of an experiment. In this case, our learning goal could be “What teacher behaviors indicate teacher respect to minority students?”
+When we do not have a clear, well-defined, and falsifiable hypothesis we are best served by doing generative research instead of an experiment. In this case, our learning goal could be “What teacher behaviors indicate teacher respect to minority students?”
 
-Given this goal, we are better off doing customer discovery interviews \(a.k.a. speaking to the students\) rather that testing our vague hypothesis. The outcome of the generative research should be a clear, well defined, and falsifiable hypothesis that we can then go and test with an Evaluative Experiment.
+Given this goal, we are better off doing customer discovery interviews \(a.k.a. speaking to the students\) rather that testing our vague hypothesis. The outcome of the generative research should be a clear, well-defined, and falsifiable hypothesis that we can then go and test with an evaluative experiment.
 
 Defining good hypotheses can be a challenge, so here are some things to look for and a short checklist.
 
@@ -82,7 +82,7 @@ This specifies a clear relationship and the causal direction of that relationshi
 
 > _“If an astronaut in a stable orbit around a black hole extends one foot past the event horizon of a black hole, then they will be pulled in entirely.”_
 
-There are many theoretical physicist who create a number of hypotheses which are not testable now, but may be testable at some point in the future. While this black hole/astronaut hypothesis is theoretically testable, it is not testable today.
+There are many theoretical physicists who create a number of hypotheses that are not testable now but may be testable in the future. While this black hole/astronaut hypothesis is theoretically testable, it is not testable today.
 
 Unfortunately, as entrepreneurs, we should restrict our hypotheses to ones that can be tested within the immediate future or within our current resources.
 
@@ -100,21 +100,21 @@ If there is no amount of evidence that would prove our hypothesis is invalid, th
 
 ## Other Frameworks
 
-There are a number of frameworks and checklists for forming hypothesis, one of which is popular enough to comment on to avoid confusion:
+There are a number of frameworks and checklists for forming a hypothesis, one of which is popular enough to comment on to avoid confusion:
 
-> _We believe **&lt;this capability&gt;** will result in **&lt;this outcome&gt;** and we will know we have succeeded when **&lt;we see a measurable signal&gt;**_
+> _We believe this capability will result in this outcome and we will know we have succeeded when we see a measurable signal_
 
-The entire sentence is **not** the hypothesis. Let’s break this into it’s parts:
+The entire sentence is _not_ the hypothesis. Let’s break this into its parts:
 
-> _We believe..._
+> _We believe ..._
 
-That section just confirms we think the hypothesis is **correct**. It is not part of the hypothesis and there are many situations where we may test a hypothesis that we believe is **incorrect**.
+That section just confirms we think the hypothesis is _correct_. It is not part of the hypothesis and there are many situations where we may test a hypothesis that we believe is _incorrect_.
 
 > _...**&lt;this capability&gt;** will result in **&lt;this outcome&gt;**..._
 
 That is the hypothesis.
 
-> _...we will know we have succeeded when **&lt;we see a measurable signal&gt;**_
+> _... we will know we have succeeded when **&lt;we see a measurable signal&gt;**_
 
 That is the data we will collect including any information about sample size, margin of error, success conditions, or fail criteria.
 
