@@ -22,17 +22,17 @@ A complex survey method that estimates psychological tradeoffs that consumers ma
 
 ##Description
 
-Conjoint analysis is a statistical technique used in market research. In the new product context, it aims to create a few customized versions of a product that will appeal to specific segments, rather than to offer a generic mass-market version of a product. It's used frequently in testing customer acceptance of new product designs, in assessing the appeal of advertisements and in service design.
+Conjoint analysis is a statistical technique used in market research. In the new product context, it aims to create a few customized versions of a product that will appeal to specific segments, rather than offer a generic mass-market version of a product. It's used frequently in testing customer acceptance of new product designs, in assessing the appeal of advertisements, and in service design.
 
 It: 
- * identifies clusters of consumer preferences, to help identify what features need to be produced together.
- * determines how groups of people value different attributes (feature, function, benefits) that make up an individual product or service. 
- * evaluates already created designs
- * can be used before designing a product, in order to elicit feature sets that will be more likely to appeal to specific people. 
+ * Identifies clusters of consumer preferences, to help identify what features need to be produced together.
+ * Determines how groups of people value different attributes (feature, function, benefits) that make up an individual product or service. 
+ * Evaluates already created designs.
+ * Can be used before designing a product, in order to elicit feature sets that will be more likely to appeal to specific people. 
  
 Respondents are shown a set of products, prototypes, mock-ups, or pictures created from a combination of levels from all or some of the constituent attributes. Then they're asked to choose from, rank or rate the products they are shown. Each example is similar enough that consumers will see them as close substitutes, but dissimilar enough that respondents can clearly determine a preference. 
 
-By collating the responses of participants, conjoint analysis figures out what the most likely combinations of features will work for subsets of consumers. The output of such an analyis may consist of individual ratings, rank orders, or preferences among alternative combinations.
+By collating the responses of participants, conjoint analysis figures out what are the most likely combinations of features that will work for subsets of consumers. The output of such an analysis may consist of individual ratings, rank orders, or preferences among alternative combinations.
 
 ### Time Commitment and Resources
 
