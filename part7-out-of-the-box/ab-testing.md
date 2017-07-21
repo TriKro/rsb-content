@@ -56,9 +56,9 @@ Considering the impact A/B testing can have on your bottom line, though, it’s 
 1. Define the question you want to answer: "Why is the bounce rate of my website higher than industry standard?" Start an A/B test by identifying a goal for your company. E.g. reduce bounce rate.
 
 2. Do background research: Understand your customer/consumer behavior. For website purposes you can use Google Analytics and any other analytics tools. For other purposes you can use consumer behavior analytics if they are available.
-Construct a hypothesis: define the hypothesis you want to test in a concise and measurable manner. E.g. "Adding more links in the footer will reduce the bounce rate".
+Construct a hypothesis: define the hypothesis you want to test in a concise and measurable manner. E.g. "Adding more links in the footer will reduce the bounce rate."
 
-3. Define metrics and significant difference: derive one metric that measures the hypothesis, in this case “bounce rate”. Once you have defined the metric, set the significance difference, that is, the minimum difference between the two versions’ metrics that will mean the change is worth it. E.g. significance difference: version B must have at least 3% less bounce rate than version A to consider it a successful and meaningful improvement. 
+3. Define metrics and significant difference: derive one metric that measures the hypothesis, in this case the “bounce rate.” Once you have defined the metric, set the significant difference, that is, the minimum difference between the two versions’ metrics that will mean the change is worth it. E.g. significant difference: version B must have at least 3 percent less bounce rate than version A to consider it a successful and meaningful improvement. 
 
 4. Calculate the number of visitors/days you need to run the test for: Always calculate the number of visitors required for a test before starting the test. You can use an A/B Test Duration Calculator for website purposes.
 
@@ -69,18 +69,18 @@ Construct a hypothesis: define the hypothesis you want to test in a concise and 
 7. Report results to all concerned: let others in Marketing, IT and UI/UX know of the test results and insights generated.
 
 ### Interpreting Results
-We must set from the beginning the significant difference (practically significant), that is, what difference between the version will lead to change. This decision is based on several factors such as: investment of the changes, periodicity of changes, etc. For online testing, a 1-2% difference is enough to justify the change. For offline testing (e.g. new medicine or new hardware product), the difference to make the change beneficial can be around 10-15% difference in magnitude.
+We must set from the beginning the significant difference (practically significant), that is, what difference between the version will lead to change. This decision is based on several factors such as: investment of the changes, periodicity of changes, etc. For online testing, a 1-2 percent difference is enough to justify the change. For offline testing (e.g. new medicine or new hardware product), the difference to make the change beneficial can be around 10-15 percent difference in magnitude.
 
 We must ensure that what has been observed is repeatability, and not an isolated case. The size of the experiment must be in a way that the statistical significance bar is lower than the practical significance.
 
 ### Potential Biases
-It is important to note that if segmented results are expected from the A/B test, the test should be properly designed at the outset to be evenly distributed across key customer attributes, such as gender. That is, the test should both (a) contain a representative sample of men vs. women, and (b) assign men and women randomly to each “treatment” (treatment A vs. treatment B). Failure to do so could lead to experiment bias and inaccurate conclusions to be drawn from the test
+It is important to note that if segmented results are expected from the A/B test, the test should be properly designed at the outset to be evenly distributed across key customer attributes, such as gender. That is, the test should both (a) contain a representative sample of men vs. women, and (b) assign men and women randomly to each “treatment” (treatment A vs. treatment B). Failure to do so could lead to experiment bias and inaccurate conclusions being drawn from the test.
 
 Giving a test insufficient time can mean skewed results, as you don’t get a large enough group of visitors to be statistically accurate. Running a test for too long can also give skewed results, though, since there are more variables you can’t control over a longer period. Make sure that you stay abreast of anything that might affect your test results, so that you can account for any statistic anomalies when reviewing your results. If you’re in doubt, it’s perfectly reasonable to retest.
 
 A/B testing is not so good for testing:
 
-* New things (e.g. change of version, or novelty effect)
+* New things (e.g. change of version or novelty effect)
 * Too many changes, as the results will not be conclusive
 * If something is missing (e.g. feature, style, information)
 
