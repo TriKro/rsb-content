@@ -32,15 +32,15 @@ This is the expected results of the experiment. If you change _x_, then you expe
 
 **The metric:**
 
-This is a measurement that needs to be hit or surpassed. This can be a fail metric where if the experiment does not meet the minimum goal, then the project must completely pivot into a new direction. The metric can also be a success metric, where the experiment is deemed to be a success if it hits the goal. Choosing between success and fail metric is dependent on if you want the baseline to know when to scrap a project or when to launch a project.
+This is a measurement that needs to be hit or surpassed. This can be a fail metric where if the experiment does not meet the minimum goal, then the project must completely pivot into a new direction. The metric can also be a success metric, where the experiment is deemed to be a success if it hits the goal. Choosing between the success or fail metric is dependent on if you want the baseline to know when to scrap a project or when to launch a project.
 
 **The timebox:**
 
-This is the length of time it takes to run the test. If the timebox is too short then the data size might be too small or the effects might not have had time to take place. But if the timebox is too long then you are wasting valuable time collecting unnecessary data.
+This is the length of time it takes to run the test. If the timebox is too short then the data size might be too small or the effects might not have had time to take place. But if the timebox is too long you are wasting valuable time collecting unnecessary data.
 
 **Let’s go through an example scenario of writing a hypothesis:**
 
-Say that you are a product manager at startup that creates a mobile app to help waiters and waitresses keep track of their tips. You have noticed that users who document their tips four times a week have a higher retention rate. You want to see if you can increase the number of times current users use the app within a week.
+Say that you are a product manager at a startup that creates a mobile app to help waiters and waitresses keep track of their tips. You have noticed that users who document their tips four times a week have a higher retention rate. You want to see if you can increase the number of times current users use the app within a week.
 
 _What are you going to change within the app?_
 
@@ -48,11 +48,11 @@ How about adding a notification system so the user can set reminders to ping the
 
 _What do you want the outcome to be?_
 
-You want more users to open the app 4 or more times in a week.
+You want more users to open the app four or more times in a week.
 
 _What is the metric of failure or success?_
 
-At this time you have 50,000 monthly users and 10,000 use the app 4 days a week. You want to increase the current user’s rate of opening the app from 10,000 to 15,000. This translates to a 10% increase.
+At this time you have 50,000 monthly users and 10,000 use the app four days a week. You want to increase the current user’s rate of opening the app from 10,000 to 15,000. This translates to a 10 percent increase.
 
 _How long are you going to run the test?_
 
@@ -60,27 +60,27 @@ This always depends on a number of variables within the company but let’s say 
 
 _The end hypothesis would be:_
 
-If I add a notification feature that allows the waiter/waitress to set reminders to add in his/her tips, then I am going to see a 10 percent increase in number of users opening the app four times or more in a week over the next three months.
+If I add a notification feature that allows the waiter/waitress to set reminders to add in his/her tips, then I am going to see a 10 percent increase in the number of users opening the app four times or more in a week over the next three months.
 
 **Below is a worksheet that will test if you can figure out the strongest hypothesis for a given scenario.**
 
-**Scenario 1: **You work for a company that rents out toddlers’ clothes. It is a monthly subscription where families get a box of 5 pieces of clothing and when the toddler grows out of them, they return the clothes for a new box. The data shows that there might be a correlation between members who frequently send items back to higher customer retention rates. Your goal is to have members return more boxes. You have decided that you can do this by adding pieces that are seasonal, holiday or super trendy so that the family will need to keep updating the clothes.
+**Scenario 1: **You work for a company that rents out toddlers’ clothes. It is a monthly subscription where families get a box of five pieces of clothing, and when the toddler grows out of them, they return the clothes for a new box. The data shows that there might be a correlation between members who frequently send items back to higher customer retention rates. Your goal is to have members return more boxes. You have decided that you can do this by adding pieces that are seasonal, holiday themed or super trendy so that the family will need to keep updating the clothes.
 
-1. By adding one piece of special occasion clothing, you will see a 10% rise in returned boxes in 3 months.
+1. By adding one piece of special occasion clothing, you will see a 10 percent rise in returned boxes in three months.
 
-2. If you include one special occasion outfit, a new designer piece and a seasonal accessory, then you will see a 15% increase in returned boxes in the next 12 weeks.
+2. If you include one special occasion outfit, a new designer piece and a seasonal accessory, then you will see a 15 percent increase in returned boxes in the next 12 weeks.
 
-3. When you add three seasonal pieces then families will learn to request more items and you will see growth in the next 2 months.
+3. When you add three seasonal pieces, families will learn to request more items, and you will see growth in the next 2 months.
 
-4. By including one trending designer piece, then you will see a 15% increase in requests for those designers once the experiment is completed.
+4. By including one trending designer piece, you will see a 15 percent increase in requests for those designers once the experiment is completed.
 
-**Scenario 2: **You already made your millions with the Uber for parrots so you decided to invest your money into saving the manatees. You designed a tracking app that shows boaters where herds of manatees are sleeping so they don’t run the herds over. You are having a hard time getting the boaters to download the app so you decided to start advertising. You want to conduct a test to see if a promotion will increase the app’s downloads.
+**Scenario 2: **You already made your millions with the Uber for parrots so you decided to invest your money into saving the manatees. You designed a tracking app that shows boaters where herds of manatees are sleeping so they don’t run the herds over. You are having a hard time getting the boaters to download the app, so you decide to start advertising. You want to conduct a test to see if a promotion will increase the app’s downloads.
 
 1. If you pair up piers to give 10 percent off of a month of docking their boat if the owner download the app, then you will see a 10 percent increase in downloads over the next three years.
 
-2. If you give out 10 percent coupons to boat rentals for downloading the app, 15 percent off tack shops and advertise around piers, then you will see an increase of 15% new downloads the next 3 months.
+2. If you give out 10 percent coupons to boat rentals for downloading the app, 15 percent off tack shops, and advertise around piers, then you will see an increase of 15 percent new downloads the next three months.
 
-3. By pairing up with 10 boat rentals to give a coupon of 10% off the boat rentals for downloading the app, you will see a 5% increase of downloads over a 6 month period.
+3. By pairing up with 10 boat rentals to give a coupon fpr 10 percent off the boat rentals for downloading the app, you will see a 5 percent increase of downloads over a 6 month period.
 
 4. When you have a special where someone downloads the app, they get a one of a kind lure at Ted’s tack shop \(which has 15 stores in Florida\), then you will see 10% decrease in Manatee deaths over the next 5 months.
 
