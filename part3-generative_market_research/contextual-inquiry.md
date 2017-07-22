@@ -1,7 +1,7 @@
 # Contextual Inquiry
 
 ## In Brief
-A combination of semi-structured interview and observations done in the actual location where the problem occurs or the solution will be used. This method avoids hypothetical statements and helps reveal knowledge that the customer may have, but be unaware of and thus unable to communicate in a traditional interview. It may also reveal substitute products, competitors, or workarounds that will help define the optimal solution.
+A combination of semi-structured interview and observations done in the actual location where the problem occurs or the solution will be used. This method avoids hypothetical statements and helps reveal knowledge that the customer may have but is unaware of and thus unable to communicate in a traditional interview. It may also reveal substitute products, competitors, or workarounds that will help define the optimal solution.
 
 ## Helps Answer
 - What are the customer’s pain points?
@@ -15,11 +15,11 @@ A combination of semi-structured interview and observations done in the actual l
 - B2B
 - Qualitative
 - Channels
-- Value Proposition
-- Jobs to be Done
-- Key Resources
-- Key Activities
-- Key Partners
+- Value proposition
+- Jobs to be done
+- Key resources
+- Key activities
+- Key partners
 
 ## Description
 
@@ -28,7 +28,7 @@ Can be very expensive depending on the proximity to the customer and the frequen
 
 Expect at least one hour per customer with a minimum of five customers, and two hours to debrief.
 
-It is helpful to have already conducted Customer Discovery Interviews and have both customer personas and a preliminary storyboard of the user experience.
+It is helpful to have already conducted customer discovery interviews and have both customer personas and a preliminary storyboard of the user experience.
 
 ### How To
 
@@ -39,26 +39,26 @@ It is helpful to have already conducted Customer Discovery Interviews and have b
 
 #### Conduct the Interview
 
-- Frame the Interview
+- Frame the interview
 - The researcher must establish rapport and put the customer at ease.
 - The customer must not feel judged. 
 - The researcher is there to learn.
 - Establish the rules for observation. 
-- The customer will be doing work so the research must establish up front when they can or can not interrupt the workflow to ask questions.
+- The customer will be doing work so the research must establish up front when they can or cannot interrupt the workflow to ask questions.
 
 #### Observation
 
 - The researcher should take notes on the workflow, asking questions to clarify any points of confusion.
-- Take care to note extraneous activities which may be outside the scope of the solution to be designed, but may impact the workflow of the user. E.g. Coworkers engaging in distracting chit-chat
+- Take care to note extraneous activities that may be outside the scope of the solution to be designed but may impact the workflow of the user. E.g. Coworkers engaging in distracting chit-chat
 
 #### Summarize
 - Summarize the observations and ask the customer for confirmation.
 - Ask any additional clarifying questions.
 
 ### Interpreting Results
-A number of different debriefing methods can be used after reviewing recordings or notes. These could include Affinity diagramming, Card sorting, or creating Jobs to be Done.
+A number of different debriefing methods can be used after reviewing recordings or notes. These could include affinity diagramming, card sorting, or creating jobs to be done.
 
-Since the data is primarily qualitative in nature and sample sizes are small, researchers must be careful not extrapolate a pattern of behavior to the entire population but can usually synthesize a clear hypothesis for further evaluative testing methods.
+Since the data is primarily qualitative in nature and sample sizes are small, researchers must be careful not to extrapolate a pattern of behavior to the entire population but can usually synthesize a clear hypothesis for further evaluative testing methods.
 
 ### Potential Biases
 - Confirmation Bias
