@@ -36,16 +36,16 @@ You can either acquire outside (industry or market) data or distill your own (cu
 5. Draw conclusions or refine the process by starting at step 2 (or sometimes even start back from step 1 to acquire better data).
 
 ### Interpreting Results
-In data mining, data matters but perspective matters more. There is a saying, “Garbage In, Garbage Out.” But as human beings, we tend to see what we want to see and draw conclusions based on our own biases.  
+In data mining, data matters but perspective matters more. There is a saying, “Garbage in, garbage out.” But as human beings, we tend to see what we want to see and draw conclusions based on our own biases.  
 
 To counter these biases, you can:
 1. Get outside help or another pair of eyes to help interpret the data.
-2. Get two data points that are counter to each other. (In research methodology, that is called the Control Group and Experimental Group.)
+2. Get two data points that are counter to each other. (In research methodology, that is called the control group and experimental group.)
 
 ### Potential Biases
 - Confirmation bias
 - False positives
-- Ignorance of Black Swans (rare and unprecedented events that can dramatically change or determine the future outcome)
+- Ignorance of black swans (rare and unprecedented events that can dramatically change or determine the future outcome)
 
 ### Field Tips
 - Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
