@@ -15,7 +15,7 @@ Data mining uses statistics from large amounts of data to learn about target mar
 - Quantitative
 
 ## Description
-Data mining can start with a result from a few questionnaires. However, it is more effective to use a large dataset. Identifying the source information (where you get the data) and extracting the key values (how you pick the data points) are two important aspects in getting the quality results. 
+Data mining can start with a result from a few questionnaires. However, it is more effective to use a large dataset. Identifying the source information (where you get the data) and extracting the key values (how you pick the data points) are two important aspects in getting quality results. 
 
 Data mining is best used for pattern discovery in customer perceptions and behaviors. It is useful in understanding your customers and/or your target market. 
 
@@ -31,7 +31,7 @@ You can either acquire outside (industry or market) data or distill your own (cu
 
 1. Acquire data (integrate from various sources, if required)
 2. Identify data points (determine which data or information is relevant to the research)
-3. Transform and extract data (many tools to choose from business intelligent tools to database software with built-in reporting tools)
+3. Transform and extract data (many tools to choose from, from business intelligent tools to database software with built-in reporting tools)
 4. Recognize and search for patterns
 5. Draw conclusions or refine the process by starting at step 2 (or sometimes even start back from step 1 to acquire better data).
 
