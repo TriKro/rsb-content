@@ -32,7 +32,7 @@ Based on our completed canvas, we choose the area of greatest risk to our succes
 
 Each method in this book tagged with these blocks. If we can identify the greatest risk to our business model via the Business Model Canvas, we can search the tags for a complete list of experimental methods relating to that building block.
 
-For example, if the Customer is the biggest risk to our customer segment, then we are asking “Who is our customer?” or “Is this our correct customer segment?”. Based on that, there are several tools available to learn more about our customer, including:
+For example, if the customer is the biggest risk to our customer segment, then we are asking “Who is our customer?” or “Is this our correct customer segment?”. Based on that, there are several tools available to learn more about our customer, including:
 
 * Customer discovery interviews
 
@@ -44,5 +44,5 @@ For example, if the Customer is the biggest risk to our customer segment, then w
 
 * Focus groups
 
-**This won’t differentiate between Generative Research and Evaluative Experiments, so you’ll still need to take that extra step.**
+_This won’t differentiate between generative research and evaluative experiments, so you’ll still need to take that extra step._
 
