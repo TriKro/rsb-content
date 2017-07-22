@@ -2,7 +2,7 @@
 
 ## In Brief
 
-Interviewing potential customers to gain insights about their perspective, pain points, purchasing habits, and so forth. Interviews also generative empathy between the customer and the entrepreneur to better aid the design and ideation process. The best interviews help narrow down the target market and provide a deep understanding of what causes a market need and the underlying psychology of the customer.
+Interviewing potential customers to gain insights about their perspective, pain points, purchasing habits, and so forth. Interviews also generate empathy between the customer and the entrepreneur to better aid the design and ideation process. The best interviews help narrow down the target market and provide a deep understanding of what causes a market need and the underlying psychology of the customer.
 
 ## Helps Answer
 
@@ -22,13 +22,13 @@ Interviewing potential customers to gain insights about their perspective, pain 
 
 ### Time Commitment and Resources
 
-Typical rounds of customer discovery interviews require at least 5 separate interviews with individual customers but some entrepreneurs advocate as many as 100 before drawing a conclusion.
+Typical rounds of customer discovery interviews require at least five separate interviews with individual customers, but some entrepreneurs advocate as many as 100 before drawing a conclusion.
 
 Time commitment can be as little as 15 minutes per interview for consumer products to 2 hour conversations for B2B sales.
 
 The most significant investment of time can be in recruiting customers to interview which can again vary from a 5 minute walk to the local coffeeshop to a lengthy cold outreach program via LinkedIn in the case of an entrepreneur with no market access into a highly specialized vertical.
 
-Costs are typically zero or very low. In many cases, interview subjects are offered a gift certificate for their time which can be anywhere from $5 USD to $50 USD.
+Costs are typically zero or very low. In many cases, interview subjects are offered a gift certificate for their time that can be anywhere from $5 USD to $50 USD.
 
 ### How To
 

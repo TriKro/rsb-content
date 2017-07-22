@@ -24,7 +24,7 @@ For example, by using email campaigns and gathering the results, you can identif
 By sending out customer satisfaction questionnaires or feedbacks, you can gather customer information. Alternatively, you can also track customer behaviors or mouse clicks on your websites. By combining these two data points, you can determine customer behavioral links between reported satisfaction and actual usage. This can identify key drivers for customer loyalty and churn. 
 
 ### Time Commitment and Resources 
-Depending on the amount of data that you need to crunch and data points that you want to discover, it will take 2-3 hours to a few weeks. You should pick one or two most important data points to start the learning process.
+Depending on the amount of data that you need to crunch and data points that you want to discover, it will take 2-3 hours to a few weeks. You should pick one or two of the most important data points to start the learning process.
 
 ### How To
 You can either acquire outside (industry or market) data or distill your own (customer or product) data. Once you identify the area that you want to test:
@@ -36,15 +36,15 @@ You can either acquire outside (industry or market) data or distill your own (cu
 5. Draw conclusions or refine the process by starting at step 2 (or sometimes even start back from step 1 to acquire better data).
 
 ### Interpreting Results
-In data mining, data matters but perspective matters more. There is a saying “Garbage In, Garbage Out.” But as human beings, we tend to see what we want to see and draw conclusions based on our own biases.  
+In data mining, data matters but perspective matters more. There is a saying, “Garbage In, Garbage Out.” But as human beings, we tend to see what we want to see and draw conclusions based on our own biases.  
 
 To counter these biases, you can:
-1. Get outside help or another pair of eyes to help interpret the data
-2. Get two data points that are counter to each other (in research methodology, that will be called the Control Group and Experimental Group)
+1. Get outside help or another pair of eyes to help interpret the data.
+2. Get two data points that are counter to each other. (In research methodology, that is called the Control Group and Experimental Group.)
 
 ### Potential Biases
-- Confirmation Bias
-- False Positives
+- Confirmation bias
+- False positives
 - Ignorance of Black Swans (rare and unprecedented events that can dramatically change or determine the future outcome)
 
 ### Field Tips
