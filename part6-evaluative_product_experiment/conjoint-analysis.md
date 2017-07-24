@@ -58,7 +58,7 @@ One to two hours offline for B2C or 24 hours online to gather responses. For B2B
 |-------------------------------------|-------------------------------------|------------------------------------|
 | 60 per month                        | 75 per month                        | 75 per month                       |
 | 1000 minutes                        | 1400 minutes                        | 1000 minutes                       |
-| Unused minutes rollover for  1 year | Unused minutes rollover for 1 month | Unused minutes rollover for 1 year |
+| Unused minutes roll over for 1 year | Unused minutes roll over for 1 month | Unused minutes roll over for 1 year |
 | Free calling top 5 contacts         | Free calling top 10 contacts        | No free calling                    |
 | 40% share                           | 36% share                           | 25% share                          |
 
@@ -72,18 +72,15 @@ Conjoint analysis can be complex and, depending on the tools and exact statistic
 ([*XLStat Demo
 Screenshot*](http://www.xlstat.com/en/products-solutions/conjoint.html))
 
-Other methods of displaying the results can be more straightforward, but
-lack details:
+Other methods of displaying the results can be more straightforward, but lack details:
 
 <img src="./assets/example - conjoint analysis.worth sensitivity analysis.png" width="491" height="293" />
 
-([*Relative Parts-Worth Sensitivity
-Analysis*](http://www.sawtoothsoftware.com/download/techpap/interpca.pdf))
+([*Relative Parts-Worth Sensitivity Analysis*](http://www.sawtoothsoftware.com/download/techpap/interpca.pdf))
 
 <img src="./assets/example - conjoint analysis.qualtrics conjoint types.png" width="423" height="410" />
 
-([*Qualtrics Conjoint
-Types*](http://www.qualtrics.com/research-suite/survey-types/conjoint-types/))
+([*Qualtrics Conjoint Types*](http://www.qualtrics.com/research-suite/survey-types/conjoint-types/))
 
 What matters most is:
 
@@ -93,8 +90,7 @@ What matters most is:
 
 3.  Elasticity of demand for pricing simulations (presuming that price was an attribute that was tested).
 
-Conjoint analysis is most often used in existing markets where the product attributes are generally known by the customer. When brand new attributes are introduced, customers may not initially understand them and therefore may not be able to accurately include the potential value
-of those attributes in their choices, producing a false negative of sorts.
+Conjoint analysis is most often used in existing markets where the product attributes are generally known by the customer. When brand new attributes are introduced, customers may not initially understand them and therefore may not be able to accurately include the potential value of those attributes in their choices, producing a false negative of sorts.
 
 For this reason, generative market research methods are generally used before conjoint analysis to ensure that the attributes being tested are the correct one.
 
