@@ -71,12 +71,12 @@ Dasboard colors, shapes (traffic light), and status icons help you quickly inter
 ### Potential Biases
 
 Graphs and visualizations can very easily be misleading. 
-1. For example, using scales on an axis that doesn't start from 0 will make the immediate trend swings seem much bigger and therefore draw attention away for the fact that the absolute value is quite high. example: https://blog.heapanalytics.com/wp-content/uploads/2014/04/misleading1_yaxis.png
-2. Also labels and naming on axes are often overlooked or unclear. 
-3. Data can intentionally or inadvertently be left out, thus making it possible to draw conclusions which do not reflect the full picture of the situation. 
+1. For example, using scales on an axis that doesn't start from zero will make the immediate trend swings seem much bigger and therefore draw attention away for the fact that the absolute value is quite high. For example: https://blog.heapanalytics.com/wp-content/uploads/2014/04/misleading1_yaxis.png
+2. Also, labels and naming on axes are often overlooked or unclear. 
+3. Data can intentionally or inadvertently be left out, thus making it possible to draw conclusions that do not reflect the full picture of the situation. 
 4. Sources should be fully documented, clear, and agreed upon by all sides.
-5. Using cumulative graphs rather than breaking down data by time period, e,g, https://qz.com/122921/the-chart-tim-cook-doesnt-want-you-to-see/
-6. Ignoring conventions, i.e. pie charts that don't add up to 100%
+5. Using cumulative graphs rather than breaking down data by time period, e.g. https://qz.com/122921/the-chart-tim-cook-doesnt-want-you-to-see/
+6. Ignoring conventions, i.e. pie charts that don't add up to 100 percent
 
 ### Field Tips
 * "A good dashboard communicates everything you need to know even when looking at it from across the room" @LaunchTomorrow
