@@ -2,7 +2,7 @@
 
 ## In Brief
 
-A dashboard is a simple view of product metrics that shows the general health and viability of the product. While more detailed metrics are generally used to analyze the results of a specific feature level experiment, a dashboard can indicate when complex factors are impacting the product. For example, competitor behaviors, seasonality, or multiple conflicting experiments.
+A dashboard is a simple view of product metrics that shows the general health and viability of the product. While more detailed metrics are generally used to analyze the results of a specific feature-level experiment, a dashboard can indicate when complex factors are impacting the product. For example, competitor behaviors, seasonality, or multiple conflicting experiments.
 
 ## Helps Answer
  * What is going on in the business right now?
@@ -21,15 +21,15 @@ A dashboard is a simple view of product metrics that shows the general health an
 
 ## Description
 
-In situtations where there is great uncertainty, planning for the future has less value than having a clear picture of the current status. Dashboards give you a visual "information radiator", which shows exactly what the current status is on key metrics affecting operations: 
+In situations where there is great uncertainty, planning for the future has less value than having a clear picture of the current status. Dashboards give you a visual "information radiator," which shows the exact current status on key metrics affecting operations: 
 
-* How much of a product is built or a goal is acheived already?
+* How much of a product is built, or a goal already achieved?
 * What is the state of current channel testing in marketing? 
 * What is our market share?
 
-Dashboards help visualize inter-relationships among parts of a business. For example, a $10k investment in a channel may seem like a lot of money, unless if you knew that last year's revenue was $250k. 
+Dashboards help visualize inter-relationships among parts of a business. For example, a $10k investment in a channel may seem like a lot of money, unless you knew that last year's revenue was $250k. 
 
-Dashboards are inherently motivating. They pre-suppose an open and data driven culture. For many employees and partners, this level of trust and transparency motivates them to do their best work. By going through the effort of choosing one or a handful of key metrics for the whole organization, you generate a lot of focus. Dasboards help maintain this focus operationally, if everyone continually checks a dashboard which contains those key metrics driving the business. 
+Dashboards are inherently motivating. They presuppose an open and data-driven culture. For many employees and partners, this level of trust and transparency motivates them to do their best work. By going through the effort of choosing one or a handful of key metrics for the whole organization, you generate a lot of focus. Dashboards help maintain this focus operationally, if everyone continually checks a dashboard which contains those key metrics driving the business. 
 
 This technique can be used for:
 * the company as a whole
