@@ -29,26 +29,26 @@ In situations where there is great uncertainty, planning for the future has less
 
 Dashboards help visualize inter-relationships among parts of a business. For example, a $10k investment in a channel may seem like a lot of money, unless you knew that last year's revenue was $250k. 
 
-Dashboards are inherently motivating. They presuppose an open and data-driven culture. For many employees and partners, this level of trust and transparency motivates them to do their best work. By going through the effort of choosing one or a handful of key metrics for the whole organization, you generate a lot of focus. Dashboards help maintain this focus operationally, if everyone continually checks a dashboard which contains those key metrics driving the business. 
+Dashboards are inherently motivating. They presuppose an open and data-driven culture. For many employees and partners, this level of trust and transparency motivates them to do their best work. By going through the effort of choosing one or a handful of key metrics for the whole organization, you generate a lot of focus. Dashboards help maintain this focus operationally, if everyone continually checks a dashboard that contains those key metrics driving the business. 
 
 This technique can be used for:
-* the company as a whole
-* for specific departments
-* for key roles (i.e. the VP of Marketing's dashboard)
-* for individual contributors
+* The company as a whole
+* Specific departments
+* Key roles (i.e. the VP of Marketing's dashboard)
+* Individual contributors
 
 In terms of how it works, it can be anywhere from  "manually using a spreadsheet" to a custom-built monitoring system that integrates a number of the business systems so that you have a "real-time view" of the company. 
 
-Approaches which may or may not be helpful: 
+Approaches that may or may not be helpful: 
 * AARRR: pirate metrics can help 
 
 ### Time Commitment
 
-This tends to require a significant investment of thought to decide what needs to be on each dashboard (1-5 days). The implementation of the dashboard itself can vary widely. If done manually, it could cost one hour a week of a junior employee's time. If automated, there would be no recurring cost, but instead you'd have an up-front technical implementation cost which can be significant. The actual cost would vary widely based on exactly what systems and what data needs to be visualized. There are also off-the-shelf SaaS solutions which can provide a sufficient subset of the data required in order to reap most of the benefits in a small company, without bearing a significant cost. 
+This tends to require a significant investment of thought to decide what needs to be on each dashboard (1-5 days). The implementation of the dashboard itself can vary widely. If done manually, it could cost one hour a week of a junior employee's time. If automated, there would be no recurring cost, but instead you'd have an up-front technical implementation cost, which can be significant. The actual cost would vary widely based on exactly which systems and data need to be visualized. There are also off-the-shelf SaaS solutions that can provide a sufficient subset of the data required in order to reap most of the benefits in a small company, without bearing a significant cost. 
 
 ### How To
 
-1. Get all of the key decisionmakers in one room, ideally physically (even if it's one startup founder)
+1. Get all of the key decision makers in one room, ideally physically (even if it's one startup founder).
 2. Decide what needs to be on the dashboard(s). What are the key metrics and drivers of the business as a whole? 
 3. Design a process and/or a visualization of those key metrics. 
 4. Include visual cues to help interpret quantitative data, i.e. 2 standard deviations. 
