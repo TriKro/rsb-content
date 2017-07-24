@@ -51,13 +51,13 @@ This tends to require a significant investment of thought to decide what needs t
 1. Get all of the key decision makers in one room, ideally physically (even if it's one startup founder).
 2. Decide what needs to be on the dashboard(s). What are the key metrics and drivers of the business as a whole? 
 3. Design a process and/or a visualization of those key metrics. 
-4. Include visual cues to help interpret quantitative data, i.e. 2 standard deviations. 
+4. Include visual cues to help interpret quantitative data, i.e. two standard deviations. 
 5. Consider how much you need to integrate "change over time" or cohort analysis in the dashboard, so that it's actionable. 
 6. Publish them in a visually accesible place for everyone they affect
 
 Possible resources include:
 * Google Sheets: manually keeping track of key metrics in a spreadsheet
-* Cyfe.com: Basic integration with a lot of standard startup tools
+* Cyfe.com: basic integration with a lot of standard startup tools
 * Geckoboard.com: geared towards being a TV interface in an open office space
 * GuidingMetrics.com: example of a company that builds dashboards for small businesses
 * BareMetrics.com: subscription analytics and insights for SaaS or other subscription businesses
@@ -66,7 +66,7 @@ Possible resources include:
 
 ### Interpreting Results
 
-Dasboard colors, shapes (traffic light), and status icons help you quickly interprest the reported data. The size of each dashboard component should also reflect the importance of the particular data point. 
+Dasboard colors, shapes (traffic light), and status icons help you quickly interpret the reported data. The size of each dashboard component should also reflect the importance of the particular data point. 
 
 ### Potential Biases
 
