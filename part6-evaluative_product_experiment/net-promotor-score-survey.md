@@ -1,7 +1,7 @@
 # Net Promotor Score Survey
 
 ## In Brief
-Net Promoter Score identifies customer loyalty to the brand or product. The survey uses a score of 0 to 10 to the answer to the question: “How likely is it that you would recommend [company X or product Y] to a friend or colleague?”.
+Net Promoter Score identifies customer loyalty to the brand or product. The survey uses a score of 0 to 10 to the answer to the question: “How likely is it that you would recommend [company X or product Y] to a friend or colleague?”
 
 Net Promoter Score was first introduced by Frederick F. Reichheld in a Harvard Business Review article: “The One Number You Need to Grow”. 
 
