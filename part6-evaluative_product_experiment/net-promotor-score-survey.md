@@ -50,7 +50,7 @@ However, interpreting the scores is only half the benefit of the NPS questionnai
 By understanding the “Why” components of NPS surveys better, you can identify which customer segments are more valuable and what do they want more from your company, product, or service. Moreover, you can also identify the reasons certain customer segments become detractors or passives. 
 
 ### Potential Biases
-The timing of sending the NPS questionnaire to customers can lead to biased results. For example, if you sent out the survey shortly after you have upset several customers, they will not give high scores on the questions. Likewise, if you have recently made several customers happy, they will rate your customer, product, or service higher. 
+The timing of sending the NPS questionnaire to customers can lead to biased results. For example, if you sent out the survey shortly after you have upset several customers, they will not give high scores. Likewise, if you have recently made several customers happy, they will rate your customer, product, or service higher. 
 
 ### Field Tips
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
