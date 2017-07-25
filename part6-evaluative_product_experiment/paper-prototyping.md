@@ -1,14 +1,14 @@
 # Paper Prototyping
 
 ## In Brief
-Quickly test a solution idea by simulating user-product interactions using paper drawings and cutouts.  Paper prototyping is often a form of usability testing although it can also be used to help generate and evaluate design alternatives during ideation.  
+Quickly test a solution idea by simulating user-product interactions using paper drawings and cutouts. Paper prototyping is often a form of usability testing, although it can also be used to help generate and evaluate design alternatives during ideation.  
 
 One person plays the role of product user while others simulate the behavior of the product in response to the user’s actions using paper mock-ups of screen images or other user interface elements.  
  
 ## Helps Answer
 - What basic form(s) might our solution take?
 - Where are there usability issues in our solution concept?
-- Is our solution intuitive for our customer to use / navigate?
+- Is our solution intuitive for our customer to use/navigate?
 - Are there other use cases or error conditions we didn’t think of?
 - What pieces of information do we need to provide to our customers?
  
@@ -31,13 +31,13 @@ Anywhere from a few minutes to several days.  As a formal usability testing appr
 7. If desired, alternate interaction flows and layouts, and/or modifications to proposed interactions can be quickly mocked up and tested if changes are desired
 
 ###Interpreting Results
-You are looking for places where the Customer got stuck, was not able to find what she was looking for, or went down a wrong path accidentally.  Anything that is misleading, confusing, or hard-to-find would be noteworthy.  For any items like this, you’d want to dig into what information was the Customer missing that led to the confusion, and how best might that information be provided (or how might the need for it be eliminated).  You would also be looking for situations which may have come up where the response by the Computer was not defined, or where an action was possible that you did not want to be possible.  You might also consider revisiting assumptions about your customers’ motivations or the knowledge and experience base they bring – the test may reveal incorrect assumptions and provide insight for improving your solution. 
+You are looking for places where the customer got stuck, was not able to find what she was looking for, or went down a wrong path accidentally. Anything that is misleading, confusing, or hard-to-find would be noteworthy. For any items like this, you’d want to dig into what information the customer was missing that led to the confusion, and how best might that information might be provided (or how might the need for it be eliminated). You would also be looking for situations which may have come up where the response by the Computer was not defined, or where an action was possible that you did not want to be possible. You might also consider revisiting assumptions about your customers’ motivations or the knowledge and experience base they bring – the test may reveal incorrect assumptions and provide insight for improving your solution. 
 
 ### Potential Biases
-- Confirmation bias is possible, especially if a facilitator or other participant knowledgeable about the software provides too many “hints” to the Customer. 
-- Can miss more fine-grained usability issues such as those relating to placement, size, scrolling, mouse / keyboard interactions, etc.  Digital tools may be more appropriate for this level of detailed usability testing. 
-- Customer may hide feedback if they are concerned about appearing incompetent or offending others.
-- If user performing the test is more experienced, you may miss issues that a less savvy user would have revealed. 
+- Confirmation bias is possible, especially if a facilitator or other participant knowledgeable about the software provides too many “hints” to the customer. 
+- Can miss more fine-grained usability issues such as those relating to placement, size, scrolling, mouse/keyboard interactions, etc. Digital tools may be more appropriate for this level of detailed usability testing. 
+- Customers may hide feedback if they are concerned about appearing incompetent or offending others.
+- If the user performing the test is more experienced, you may miss issues that a less savvy user would have revealed. 
 
 ### Field Tips
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
