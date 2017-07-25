@@ -1,11 +1,11 @@
 # Net Promotor Score Survey
 
 ## In Brief
-Net Promoter Score identifies customer loyalty to the brand or product. The survey uses a score of 0 to 10 to the answer to the question: “How likely is it that you would recommend [company X or product Y] to a friend or colleague?”
+The Net Promoter Score (NPS) identifies customer loyalty to the brand or product. The survey uses a score of 0 to 10 to answer the question: “How likely is it that you would recommend [company X or product Y] to a friend or colleague?”
 
-Net Promoter Score was first introduced by Frederick F. Reichheld in a Harvard Business Review article: “The One Number You Need to Grow”. 
+NPS was first introduced by Frederick F. Reichheld in a Harvard Business Review article, “The One Number You Need to Grow.” 
 
-From the score of 0 to 10, people who give score 9 to 10 are considered “Promoters.” People who give score 7 to 8 are considered “Passives,” meaning who are satisfied but are not very loyal to your brand or product. People who give score 0 to 6 are considered “Detractors.” 
+Out of a score of 0 to 10, people who give a score from 9 to 10 are considered “Promoters.” People who give score 7 to 8 are considered “Passives,” meaning who are satisfied but are not very loyal to your brand or product. People who give score 0 to 6 are considered “Detractors.” 
 
 The Net Promoter Score question can be followed up with another question to find out the reason(s) for the score the customer gave. By doing so, the Net Promoter Score can be associated with both qualitative and quantitative results.
 
