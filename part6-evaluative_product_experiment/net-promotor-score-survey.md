@@ -24,33 +24,33 @@ The NPS question can be followed up with another question to find out the reason
 - Qualitative
 
 ## Description
-NPS tracks loyalty and can identify the ambassadors amongst your customers. It is commonly used as a simple customer satisfaction metric.
+NPS tracks loyalty and can identify the ambassadors among your customers. It is commonly used as a simple customer satisfaction metric.
 
 The NPS is not just one question but rather a group of questions probing to understand the customer’s feeling or loyalty towards the company, product, or service. 
 
-By understanding the reasons of the scores, you can determine how many people will become ambassadors. It can also determine where your company, product, or service stands in word of mouth marketing.
+By understanding the reasons of the scores, you can determine how many people will become ambassadors. It can also determine where your company, product, or service stands in word-of-mouth marketing.
 
 ### Time Commitment and Resources
 The survey can be sent to customers at one time. The results can be compiled and analyzed in about a week. NPS surveys can be sent every six months or every year to determine changes as well.
 
 ### How To
-NPS survey is simple and straightforward. You can use third party survey company/services like Survey Monkey or traditional pen-and-paper methods. You can even just send the question via email to your customers directly. 
+An NPS survey is simple and straightforward. You can use third party survey companies such as Survey Monkey or traditional pen-and-paper methods. You can even just send the question via email to your customers directly. 
 
-Many companies send NPS question together with other survey questions to save time and resources. 
+Many companies send NPS questions together with other survey questions to save time and resources. 
 
 ### Interpreting Results
-By understanding the reasons why the customers are loyal to (or recommend) your company, product, service, loyalty economics can be calculated. 
+By understanding the reasons why customers are loyal to (or recommend) your company, product, or service, loyalty economics can be calculated. 
 
-While there are some variances on the interpretations of an NPS result, the original NPS score calculation is achieved by subtracting the percentage of respondents that are labeled “Detractors” from the percentage of respondents that are labeled “Promoters” like this: 
+While there are some variances in the interpretations of an NPS result, the original NPS score calculation is achieved by subtracting the percentage of respondents that are labeled “Detractors” from the percentage of respondents that are labeled “Promoters” like this: 
 
 NPS = % of Promoters – % of Detractors
 
-However, interpreting the scores is only half the benefit of NPS questionnaire. The second part of “Why” question is equally important if not more than the actual Net Promoter Score itself. By understanding the reasons why your customers may or may not promote your company, product, or service can lead to breakthrough insights.
+However, interpreting the scores is only half the benefit of the NPS questionnaire. The second part of the “Why” question is equally important if not more than the actual NPS itself. Understanding the reasons why your customers may or may not promote your company, product, or service can lead to breakthrough insights.
 
 By understanding the “Why” components of NPS surveys better, you can identify which customer segments are more valuable and what do they want more from your company, product, or service. Moreover, you can also identify the reasons certain customer segments become detractors or passives. 
 
 ### Potential Biases
-Timing of sending the NPS questionnaire to customers can lead potential bias on the results. For example, if you sent out the survey shortly after you have upset several customers, they will not give high scores on the questions. Likewise, if you have recently made several customers happy, they will rate your customer, product, or service higher. 
+The timing of sending the NPS questionnaire to customers can lead to biased results. For example, if you sent out the survey shortly after you have upset several customers, they will not give high scores on the questions. Likewise, if you have recently made several customers happy, they will rate your customer, product, or service higher. 
 
 ### Field Tips
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
