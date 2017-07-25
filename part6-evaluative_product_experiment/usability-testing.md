@@ -1,7 +1,7 @@
 # Usability Testing
 
 ## In Brief
-Usability testing is observing users trying to complete a series of tasks with an interactive product. The product can be any level of fidelity from a paper mockup to a fully functioning product. Users are asked to perform a series of tasks and the observer record whether the user is able to perform them and if they become confused or frustrated during the process.
+Usability testing is observing users trying to complete a series of tasks with an interactive product. The product can be any level of fidelity from a paper mockup to a fully functioning product. Users are asked to perform a series of tasks, and the observer records whether the user is able to perform them and if they become confused or frustrated during the process.
 
 ## Helps Answer
 How do people use the product or service? 
@@ -10,17 +10,17 @@ What do people experience at different touch points while using the product or s
 
 ## Tags
 Qualitative
-Value Proposition
+Value proposition
 Customers
 Description
 
 ## Time Commitment & Resources
-Usability Tests with 5 users can be finished in half of a working day with minimal resources. Tests are typically no more than 5 -7 users, unless the tasks users perform are complex and involve several parties collaborating simultaneously to complete the test.
-Tests are often performed with extensive equipment including full usability labs with cameras, eye tracking software, and one way mirrors. However, this is not strictly necessary.
+Usability tests with five users can be finished in half of a working day with minimal resources. Tests are typically no more than five to seven users, unless the tasks users perform are complex and involve several parties collaborating simultaneously to complete the test.
+Tests are often performed with extensive equipment, including full usability labs with cameras, eye tracking software, and one way mirrors. However, this is not strictly necessary.
 
 ### How To
 
-1. Prepare: Preparation is critical for usability testing since test produces a number of potential biases in interpreting the qualitative results. At the minimum, the experimenter should have:
+1. Prepare: Preparation is critical for usability testing since the test produces a number of potential biases in interpreting the qualitative results. At the minimum, the experimenter should have:
   * Introduction script
   * List of use cases and tasks
   * Context of the task (e.g. “You are thinking of buying a car.”)
