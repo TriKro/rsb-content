@@ -31,7 +31,7 @@ This is a fundamentally easy test to run and is generally used on existing produ
 
 Removing a commonly used feature or one with considerable value will generally cause an immediate negative reaction from users. So it is relatively easy to identify any change in user behavior. However, users can react negatively to any change in the user experience, regardless if it is positive or negative.
 
-Regardless of whether or not the users notice the feature has been removed, the actual user behavior and metrics should be used to make a decision rather than user reports. While particularly vocal users may complain about a change, that does not necessarily indicate that removing the feature is negative for the larger population. So we must use care.
+Whether or not users notice the feature has been removed, use actual user behavior and metrics rather than user reports to make a decision. While particularly vocal users may complain about a change, that does not necessarily indicate that removing the feature is negative for the larger population. So we must use care.
 
 In addition, when removing a feature from a large user base, it may require significant time to pass before user behavior stabilizes and an initial wave of complaints stop.
 
