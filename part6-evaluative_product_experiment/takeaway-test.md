@@ -22,7 +22,7 @@ This is a fundamentally easy test to run and is generally used on existing produ
 1. Select the segment of users who will be involved in the test group.
 2. * The user segment must be relatively isolated so that a user that has the feature removed can't ask a user who still has access to the feature for support.
    * In some cases removing the feature from a new cohort of users may provide an ideal test group.
-3. Do not inform the users about the pending product change.
+3. Do not inform users about the pending product change.
 4. Remove or hide the selected feature.
 5. * For example, on a web application, a feature could be hidden from the user interface with minimal effort while keeping the actual feature available and easily re-activated.
 6. Observe relevant user behavior and/or metrics.
