@@ -19,19 +19,19 @@ One person plays the role of product user while others simulate the behavior of 
 ## Description
  
 ### Time Commitment
-Anywhere from a few minutes to several days.  As a formal usability testing approach, more time would be needed to allow for advance planning of time with customers and more complex preparation of mockups and planning of scenarios.  Alternatively, can be used in the moment as part of generative design work with very little prep in the time it takes a produce a few rough sketches to help quickly visualize a concept and test it out for weaknesses. 
+Anywhere from a few minutes to several days. As a formal usability testing approach, more time may be needed to allow for advance planning of time with customers and more complex preparation of mockups and planning of scenarios. Alternatively, can be used in the moment as part of generative design work with very little prep in the time it takes a to produce a few rough sketches to help quickly visualize a concept and test it out for weaknesses. 
  
 ### How To
-1. For each screen / interface that is part of the interaction you are testing, create a simple mockup on paper illustrating what will appear on the screen for the various scenarios you are exploring
-2. One person (or a pair) plays the role of the customer / end user (Customer)
-3. Another person (or several people) plays the role of the software (Computer)
-4. The Customer interacts with the paper prototype as if it is a “real” application, physically interacting with the paper interface just as they would the real thing.  They are encouraged to explain their thinking out loud as much as possible.
-5. For each action the Customer takes, the Computer then moves / updates the paper prototype to reflect the new state in response to the Customer’s action.  As a general rule, the Computer should not talk.
-6. For more formal forms, observers would typically watch for additional insights and capture notes.  A facilitator may also be desired, as they can encourage the Customer to ask questions and think aloud
-7. If desired, alternate interaction flows and layouts, and/or modifications to proposed interactions can be quickly mocked up and tested if changes are desired
+1. For each screen/interface that is part of the interaction you are testing, create a simple mockup on paper illustrating what will appear on the screen for the various scenarios you are exploring.
+2. One person (or a pair) plays the role of the customer/end user (customer).
+3. Another person (or several people) plays the role of the software (computer).
+4. The customer interacts with the paper prototype as if it is a “real” application, physically interacting with the paper interface just as they would the real thing.  They are encouraged to explain their thinking out loud as much as possible.
+5. For each action the customer takes, the computer then moves/updates the paper prototype to reflect the new state in response to the customer’s action. As a general rule, the computer should not talk.
+6. For more formal forms, observers would typically watch for additional insights and capture notes. A facilitator may also be desired, as they can encourage the customer to ask questions and think aloud.
+7. If desired, alternate interaction flows and layouts, and/or modifications to proposed interactions can be quickly mocked up and tested if changes are desired.
 
 ###Interpreting Results
-You are looking for places where the customer got stuck, was not able to find what she was looking for, or accidentally went down the wrong path. Anything that is misleading, confusing, or hard-to-find is noteworthy. For items like this, dig into what information the customer was missing that led to the confusion, and how best might that information be provided (or how might the need for it be eliminated). You can look for situations that may have come up where the response by the computer was not defined, or where an action was possible that you did not want to be possible. Also consider revisiting assumptions about your customers’ motivations or the knowledge and experience base they bring – the test may reveal incorrect assumptions and provide insight for improving your solution. 
+You are looking for places where the customer got stuck, was not able to find what she was looking for, or accidentally went down the wrong path. Anything that is misleading, confusing, or hard-to-find is noteworthy. For items like this, dig into what information the customer was missing that led to the confusion and how best that information might be provided (or how might the need for it be eliminated). You can look for situations that may have come up where the response by the computer was not defined, or where an action was possible that you did not want to be possible. Also consider revisiting assumptions about your customers’ motivations or the knowledge and experience base they bring – the test may reveal incorrect assumptions and provide insight for improving your solution. 
 
 ### Potential Biases
 - Confirmation bias is possible, especially if a facilitator or other participant knowledgeable about the software provides too many “hints” to the customer. 
