@@ -1,32 +1,32 @@
 # Net Promotor Score Survey
 
 ## In Brief
-The Net Promoter Score (NPS) identifies customer loyalty to the brand or product. The survey uses a score of 0 to 10 to answer the question: “How likely is it that you would recommend [company X or product Y] to a friend or colleague?”
+The Net Promoter Score (NPS) identifies customer loyalty to the brand or product. The survey uses a score from 0 to 10 to answer the question: “How likely is it that you would recommend [company X or product Y] to a friend or colleague?”
 
 NPS was first introduced by Frederick F. Reichheld in a Harvard Business Review article, “The One Number You Need to Grow.” 
 
-Out of a score of 0 to 10, people who give a score from 9 to 10 are considered “Promoters.” People who give score 7 to 8 are considered “Passives,” meaning who are satisfied but are not very loyal to your brand or product. People who give score 0 to 6 are considered “Detractors.” 
+Out of a score of 0 to 10, people who give a score from 9 to 10 are considered “Promoters.” People who give a score from 7 to 8 are considered “Passives,” meaning those who are satisfied but not very loyal to your brand or product. People who give a score from 0 to 6 are considered “Detractors.” 
 
-The Net Promoter Score question can be followed up with another question to find out the reason(s) for the score the customer gave. By doing so, the Net Promoter Score can be associated with both qualitative and quantitative results.
+The NPS question can be followed up with another question to find out the reason(s) for the score the customer gave. By doing so, the Net Promoter Score can be associated with both qualitative and quantitative results.
 
 ## Helps Answer
 - What is your customer loyalty rate?
 - How to segment your customers to promote the product/services?
-- Who are brand ambassadors among the customers?
+- Who are the brand ambassadors among your customers?
 
 ## Tags
 - B2C
 - B2B
 - Customer
 - Relationship
-- Value Proposition
+- Value proposition
 - Quantitative
 - Qualitative
 
 ## Description
-Net Promoter Score tracks loyalty and can identify the ambassadors amongst your customers. It is commonly used as a simple customer satisfaction metric.
+NPS tracks loyalty and can identify the ambassadors amongst your customers. It is commonly used as a simple customer satisfaction metric.
 
-The Net Promoter Score is not just one question but rather, a group of questions probing to understand the customer’s feeling or loyalty towards the company, product, or service. 
+The NPS is not just one question but rather a group of questions probing to understand the customer’s feeling or loyalty towards the company, product, or service. 
 
 By understanding the reasons of the scores, you can determine how many people will become ambassadors. It can also determine where your company, product, or service stands in word of mouth marketing.
 
