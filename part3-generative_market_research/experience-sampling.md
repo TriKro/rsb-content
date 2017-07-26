@@ -34,7 +34,7 @@ You should offer your participants some kind of incentive, measured on the numbe
 ### Preparation
 - Carefully phrase the question.
 - Make sure the answering process takes no more than a minute.
-- Plan how often you want to send alerts - how many times a day and distribution over the days. Be careful with the frequency. If the behavior doesn’t happen in the time between alerts, the questions can be nagging very quickly.
+- Plan how often you want to send alerts - how many times a day and distribution over the days. Be careful that the frequency doesn't lead to the perception of being nagged. If the user hasn't completed the behavior, another alert may create an undesirable affect."
 - Choose your medium of contact - SMS, phone, email, app, etc.
 - Plan how to collect the data - a spreadsheet is common.
 - Decide how many participants you want and start recruiting as soon as possible.
