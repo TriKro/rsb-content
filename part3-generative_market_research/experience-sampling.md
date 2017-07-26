@@ -1,7 +1,7 @@
 # Experience Sampling
 
 ## In Brief
-This research method is used to get information about a participant's daily behaviors, thoughts and feelings in real time or as close to as possible. Participants are asked to stop at certain times in their natural settings and make notes of their experiences. It is also known as daily diary or experience sampling method (ESM).
+This research method is used to get information about a participant's daily behaviors, thoughts, and feelings in real-time or as close to it as possible. Participants are asked to stop at certain times in their natural settings and make notes of their experiences. It is also known as the daily diary or experience sampling method (ESM).
 
 ## Helps Answer
 - Who is our customer?
@@ -18,10 +18,10 @@ This research method is used to get information about a participant's daily beha
 - Value Proposition
 
 ## Description
-The key element to experience sampling, is asking the right question. You need to be very careful in phrasing it, since you will be asking the question over and over again. This method makes most sense when you want to solve a frequently reoccurring problem. You get the most useful and viable input when asking about repeated behavior, and more specifically the last time it occurred.
+The key element to experience sampling is asking the right question. You need to be very careful in phrasing it, since you will be asking the question over and over again. This method makes most sense when you want to solve a frequently reoccurring problem. You get the most useful and viable input when asking about repeated behavior and more specifically the last time it occurred.
 
 ## Time Commitment & Resources
-How much data you want to collect determines the time your participants should commit to this method. The more data you get, the more confident are your interpretations. You should aim for at least 100 data points, depending on your goals and customer segment. There are three dimensions into which you can expand your data pool: how many times a day are you asking the question, on how many days are you asking the question, and the number of participants you ask the question to about repeated behavior. Keep in mind that usually two thirds of the answers will be useful and adjust your planning accordingly.
+How much data you want to collect determines the time your participants should commit to this method. The more data you get, the more confident are your interpretations. You should aim for at least 100 data points, depending on your goals and customer segment. There are three dimensions into which you can expand your data pool: how many times a day are you asking the question, on how many days are you asking the question, and the number of participants you ask the question to about repeated behavior. Keep in mind that usually two-thirds of the answers will be useful and adjust your planning accordingly.
 
 The recruiting process will often take up a lot of time since only participants who are part of your target group can ensure valuable data. That’s why you will need to create a screener to make sure the participants qualify for your target group. How long the recruiting takes depends on how many participants you want and could range from a day to multiple days. One fast and cheap way to find them is to look in social media settings corresponding to the theme of your study. 
 
@@ -66,10 +66,10 @@ Remember to thank the participants for each participation.
 - Create frequency charts.
 
 ### Interpreting Results
-First, you need to look at the frequency distribution and identify the common themes. You will get an insight on the current pain points and delights of the participants. From that you should be able to tell what you have been doing well so far in solving the problems of your target group, what you have not been doing well and where you got opportunities for future improvement. You may find the problem you need to obsess over to be slightly different than expected, ideas for additional product features or even what you thought was a problem, not being one at all. In any way, you end up with data on different experience categories and therefore many opportunities. 
+First, you need to look at the frequency distribution and identify the common themes. You will gain insight into the current pain points and delights of the participants. From that you should be able to tell what you have been doing well so far in solving the problems of your target group, what you have not been doing well, and where you have opportunities for future improvement. You may find the problem you need to obsess over to be slightly different than expected, ideas for additional product features or even what you thought was a problem, not being one at all. In any way, you end up with data on different experience categories and therefore many opportunities. 
 
 ### Potential Biases
-- Prediction bias: Do not ask about people’s opinions on potential products, situations, what they think they need - we are bad at predicting the future! Ask about recent behaviour and problems.
+- Prediction bias: Do not ask about people’s opinions on potential products, situations, or what they think they need - we are bad at predicting the future! Ask about recent behavior and problems.
 - Confirmation bias: Be careful not to use leading questions or give examples for what kind of answers you expect.
 
 ### Field Tips
