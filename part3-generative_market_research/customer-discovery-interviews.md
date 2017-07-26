@@ -47,7 +47,7 @@ _Something like this:_
 * What, if anything, have you done to solve that problem?
 * What don't you love about the solutions you've tried?
 
-* Prepare a handy template to put your notes in afterwards or check on the tools to record your interview \(check first legal restrictions that may apply to recordings\);
+* Prepare a handy template to put your notes in afterwards or check on the tools to record your interview \(first check legal restrictions that may apply to recordings\);
 
 * Prepare any thank you gifts, e.g. gift cards.
 
