@@ -21,7 +21,7 @@ Data mining is best used for pattern discovery in customer perceptions and behav
 
 For example, by using email campaigns and gathering the results, you can identify the profile of potential buyers or customers. This data point can help in your customer acquisition efforts.
 
-By sending out customer satisfaction questionnaires or feedbacks, you can gather customer information. Alternatively, you can also track customer behaviors or mouse clicks on your websites. By combining these two data points, you can determine customer behavioral links between reported satisfaction and actual usage. This can identify key drivers for customer loyalty and churn. 
+By sending out customer satisfaction questionnaires or feedback forms, you can gather customer information. Alternatively, you can also track customer behaviors or mouse clicks on your websites. By combining these two data points, you can determine customer behavioral links between reported satisfaction and actual usage. This can identify key drivers for customer loyalty and churn. 
 
 ### Time Commitment and Resources 
 Depending on the amount of data that you need to crunch and data points that you want to discover, it will take 2-3 hours to a few weeks. You should pick one or two of the most important data points to start the learning process.
@@ -29,10 +29,10 @@ Depending on the amount of data that you need to crunch and data points that you
 ### How To
 You can either acquire outside (industry or market) data or distill your own (customer or product) data. Once you identify the area that you want to test:
 
-1. Acquire data (integrate from various sources, if required)
-2. Identify data points (determine which data or information is relevant to the research)
-3. Transform and extract data (many tools to choose from, from business intelligent tools to database software with built-in reporting tools)
-4. Recognize and search for patterns
+1. Acquire data (integrate from various sources, if required).
+2. Identify data points (determine which data or information is relevant to the research).
+3. Transform and extract data (many tools to choose from, from business intelligent tools to database software with built-in reporting tools).
+4. Recognize and search for patterns.
 5. Draw conclusions or refine the process by starting at step 2 (or sometimes even start back from step 1 to acquire better data).
 
 ### Interpreting Results
