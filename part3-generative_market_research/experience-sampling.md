@@ -13,9 +13,9 @@ This research method is used to get information about a participant's daily beha
 - B2C
 - B2B
 - Qualitative
-- Customer Segment
+- Customer segment
 - Channels
-- Value Proposition
+- Value proposition
 
 ## Description
 The key element to experience sampling is asking the right question. You need to be very careful in phrasing it, since you will be asking the question over and over again. This method makes most sense when you want to solve a frequently reoccurring problem. You get the most useful and viable input when asking about repeated behavior and more specifically the last time it occurred.
@@ -35,8 +35,8 @@ You should offer your participants some kind of incentive, measured on the amoun
 - Carefully phrase the question.
 - Make sure the answering process takes no more than a minute.
 - Plan how often you want to send alerts - how many times a day, distribution over the days. Be careful with the frequency. If the behavior doesn’t happen in the time between alerts, the questions can be nagging very quickly.
-- Choose your medium of contact - sms, phone, email, app, ..
-- Plan how to collect the data - spreadsheet is common.
+- Choose your medium of contact - SMS, phone, email, app, ..
+- Plan how to collect the data - a spreadsheet is common.
 - Decide how many participants you want and start recruiting as soon as possible.
 - Plan the analysis depending on the expected amount of data - team size, process, etc.
 
