@@ -59,8 +59,8 @@ Remember to thank the participants for each participation.
 - Eyeball the data to get a general impression.
 - Decide on categories to organize the data. 
 - Adjust categories during the process if necessary - split if too big, combine if too small.
-- Clean the data from unuseful answers as you run across them.
-- If you analyse in a team, work on the first 50-100 data points together, deciding on categories and classifying the answers.
+- Clean the data of unuseful answers as you run across them.
+- If you analyze in a team, work on the first 50-100 data points together, deciding on categories and classifying the answers.
 - Distribute the following data amongst the team for classification - answers may match multiple categories.
 - Switch the data within the team for a second blind classification and discuss possible discrepancies.
 - Create frequency charts.
