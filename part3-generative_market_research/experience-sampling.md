@@ -27,15 +27,15 @@ The recruiting process will often take up a lot of time since only participants 
 
 If you plan on a big amount of data you should have a team ready to analyze that data. Aim for a couple of analyzing sessions, each after a certain amount of data is obtained. The first session will take the longest and depending on the amount of data could range from two hours to a day. 
 
-You should offer your participants some kind of incentive, measured on the amount of answers they were giving - ranging from $5 to $50, a coupon or similar.
+You should offer your participants some kind of incentive, measured on the number of answers they were giving - ranging from $5 to $50, a coupon or similar.
 
 ## How To
 
 ### Preparation
 - Carefully phrase the question.
 - Make sure the answering process takes no more than a minute.
-- Plan how often you want to send alerts - how many times a day, distribution over the days. Be careful with the frequency. If the behavior doesn’t happen in the time between alerts, the questions can be nagging very quickly.
-- Choose your medium of contact - SMS, phone, email, app, ..
+- Plan how often you want to send alerts - how many times a day and distribution over the days. Be careful with the frequency. If the behavior doesn’t happen in the time between alerts, the questions can be nagging very quickly.
+- Choose your medium of contact - SMS, phone, email, app, etc.
 - Plan how to collect the data - a spreadsheet is common.
 - Decide how many participants you want and start recruiting as soon as possible.
 - Plan the analysis depending on the expected amount of data - team size, process, etc.
