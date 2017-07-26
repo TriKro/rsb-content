@@ -66,10 +66,10 @@ Remember to thank the participants for each participation.
 - Create frequency charts.
 
 ### Interpreting Results
-First, you need to look at the frequency distribution and identify common themes to gain insight into your participants' pain points and delights. Then you can pinpoint what you have and have not been doing well in solving your target group's problems, as well as opportunities for improvement. You may find the problem you need to obsess over to be slightly different than expected, or what you thought was a problem may not be one at all. You may get ideas for additional product features. In any way, you end up with data on different experience categories and therefore many opportunities. 
+First, look at the frequency distribution and identify common themes to gain insight into participants' pain points and delights. Then pinpoint what you have and have not been doing well in solving your target group's problems, as well as opportunities for improvement. You may find that the problem is slightly different than expected, or what you thought was a problem may not be one at all. You may get ideas for additional product features. In any case, you end up with data on different experience categories and therefore many opportunities. 
 
 ### Potential Biases
-- Prediction bias: Do not ask about people’s opinions on potential products, situations, or what they think they need - we are bad at predicting the future! Ask about recent behavior and problems.
+- Prediction bias: Do not ask about people’s opinions on potential products, situations, or what they think they need. People are bad at predicting the future! Ask about recent behavior and problems.
 - Confirmation bias: Be careful not to use leading questions or give examples for what kind of answers you expect.
 
 ### Field Tips
