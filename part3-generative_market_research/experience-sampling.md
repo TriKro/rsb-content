@@ -45,7 +45,7 @@ You should offer your participants some kind of incentive. The amount depends on
 - Identify participant criteria and formulate questions accordingly - if possible use quantifying questions (e.g. how often participant does something).
 - Additionally think of non-criteria that your questions might not cover yet.
 - Check willingness to participate by collecting contact information.
-- Check the availability. 
+- Check availability. 
 - Select your participants.
 - Set their expectations on how often they will be asked to give answers.
 
