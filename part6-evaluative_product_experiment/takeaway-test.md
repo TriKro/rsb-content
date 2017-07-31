@@ -37,7 +37,7 @@ In addition, when removing a feature from a large user base, it may require sign
 
 ### Potential Biases
 
-Sunk cost bias is when we have put so much effort into a project that we will not abandon it regardless of how little value it adds. Removing a feature frequently leads to this problem. We built this feature, and we will likely react negatively to the idea of removing it.
+Sunk cost bias is when we have put so much effort into a project that we will not abandon it regardless of how little value it adds. Removing a feature frequently leads to this problem. We built this feature and will likely react negatively to the idea of removing it.
 
 ### Field Tips
 
