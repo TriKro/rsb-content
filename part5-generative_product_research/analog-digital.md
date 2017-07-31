@@ -13,8 +13,8 @@ This techniques helps decouple the risks around physical delivery of a product f
 ## Tags
  * Generative
  * Product
- * Value Proposition
- * Key Resources
+ * Value proposition
+ * Key resources
  * Costs
 
 ## Description
@@ -22,13 +22,13 @@ This techniques helps decouple the risks around physical delivery of a product f
 Many industries have been experiencing a convergence of their existing products with a digital component. Information or software add extra value to an existing product type. In his Harvard Business Review article, Mark Bonchek says, "Digital business models are a bit of a misnomer. It’s not digital technology that defines them; it’s their ability to create exponential value. The music and video industries, for example, weren’t redefined by converting analog to digital formats. Just ask Sony about Minidisc players and Netflix about their DVD business." Founders who want to de-risk assumptions around using a particular delivery vehicle for a product or service will be well-served with this technique. 
 
 While it can be used in different areas, here are a few examples of when/where it is best applied:
- * Internet of Things (IoT): design and sell the physical object first, before adding the distributed software (e.g. monitoring)
- * Enterprise software: design or map out the existing process in great depth using paper or other analog formats, and ideally streamline it as much as possible this way, before creating a software version of it
- * Users without computers: design a paper-based version (or an event) of an information product before selling it in digital format
+ * Internet of Things (IoT): Design and sell the physical object first, before adding the distributed software (e.g. monitoring).
+ * Enterprise software: Design or map out the existing process in great depth using paper or other analog formats, and ideally streamline it as much as possible this way before creating a software version of it.
+ * Users without computers: Design a paper-based version (or an event) of an information product before selling it in digital format.
 
 The benefits of taking this approach are:
  * Greater flexibility before committing to a large digital product development project, especially in the context of software
- * The ability to get user or customer feedback based on a tactile responses and observing how they actually interact with a physical product
+ * The ability to get user or customer feedback based on tactile responses and observing how they actually interact with a physical product
  * Understanding the design criteria and economics of a physical form first, before trying to make the product digital
 
 This is a common pattern in enterprise lean startup, particularly with bigger companies having a lot of legacy processes. 
