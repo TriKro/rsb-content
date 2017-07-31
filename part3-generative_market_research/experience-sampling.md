@@ -53,7 +53,7 @@ You should offer your participants some kind of incentive. The amount depends on
 Remember to thank the participants for each participation.
 
 ### Analysis
-- Check the first answers to see if they are sufficient for your research - if necessary expand your question or explain to participants the level of detail you need in their answers.
+- Check the first answers to see if they are sufficient for your research - if necessary expand your question or explain to participants the level of detail you need.
 - Check if the questions are correctly understood - if necessary adjust your question or correct individual participants.
 - Begin the analysis as soon as possible - do not wait until you have collected all the data.
 - Eyeball the data to get a general impression.
@@ -61,7 +61,7 @@ Remember to thank the participants for each participation.
 - Adjust categories during the process if necessary - split if too big, combine if too small.
 - Clean the data of answers that are not useful as you run across them.
 - If you analyze in a team, work on the first 50-100 data points together, deciding on categories and classifying the answers.
-- Distribute the following data amongst the team for classification - answers may match multiple categories.
+- Distribute the following data among the team for classification - answers may match multiple categories.
 - Switch the data within the team for a second blind classification and discuss possible discrepancies.
 - Create frequency charts.
 
