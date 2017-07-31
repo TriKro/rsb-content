@@ -2,12 +2,12 @@
 
 ## In Brief
 
-This techniques helps decouple the risks around physical delivery of a product from a digital component of the product. You can sell a physical version of the product or service, even if your final product will be digital. Selling the physical form first may be easier, riskier, or more complicated. As a technique this works best for software, information or data-based products which have historically had a physical component. Alternatively, it works well if you want the end product to be decoupled from a computer or smartphone.
+This techniques helps decouple the risks around physical delivery of a product from a digital component of the product. You can sell a physical version of the product or service, even if your final product will be digital. Selling the physical form first may be easier, riskier, or more complicated. As a technique this works best for software, information or data-based products that historically have had a physical component. Alternatively, it works well if you want the end product to be decoupled from a computer or smartphone.
 
 ## Helps Answer
 
  * What is the most usable way to gather or deliver an information based service/product (assuming the customer won't need or doesn't want desktop or mobile)?
- * How does this (analog) process work currently, so that we understand the details of what we're turning into a digial form?
+ * How does this (analog) process work currently, so that we understand the details of what we're turning into a digital form?
  * What are the biggest risks around the physical form of our product?
 
 ## Tags
