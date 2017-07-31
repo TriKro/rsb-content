@@ -5,11 +5,11 @@
 Pretotyping tests the initial appeal and actual usage of a potential new product by simulating its core experience with the smallest possible investment of time and money. An often cited reason for prototyping is to test if what you want to build is technically feasible. Another perspective on prototyping is to answer the question, "Should we build it?" Since the biggest risk is not if we can build it, but actually to find a market for it in the first place, it's only logical that the first step of prototyping should be focused on understanding market needs (as in jobs to be done) rather than technical constraints. The term was coined by Alberto Savoia (formerly Innovation Agitator at Google).
 
 ## Helps Answer
- * Is "it" worth building?
- * Who might be interested in "it"?
- * How would they want to use "it"?
+ * Is it worth building?
+ * Who might be interested in it?
+ * How would they want to use it?
  * What's the right problem to solve?
- * What would they use "it" for?
+ * What would they use it for?
 
 ## Tags
  * Pretotyping
@@ -56,9 +56,9 @@ Often in the early stage of a new venture, simple, cheap tests can be extremely 
 Pretotyping in particular is about minimizing bias by not blindly following false positives and negatives (opinions) about an idea and instead collecting feedback from actual user and product tests (data). 
 
 Common biases include:
- * interviewer bias
- * confirmation bias
- * response bias 
+ * Interviewer bias
+ * Confirmation bias
+ * Response bias 
 
 ### Field Tips
  * “Make sure you are building the right it before you built it right.” @Pretotyping
