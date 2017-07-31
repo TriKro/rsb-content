@@ -46,9 +46,9 @@ According to B2BInternational.com, typical market research situations that might
 ### How To
  1. Pick a single, clear purpose. Single product or issue.
  2. Narrow down your target audience. Pick and talk to one group at a time.
- 3. Consider organizing a control group. To contrast group opinions against a larger market context.
+ 3. Consider organizing a control group to contrast group opinions against a larger market context.
  4. Refrain from using the focus group for ulterior motives. 
- 5. Find a second facilitator. Helps with note taking and all other organizational issues to avoid group distractions.
+ 5. Find a second facilitator. Helps with note taking and other organizational issues to avoid group distractions.
  6. Choose a comfortable venue and recording method. Comfort and safety are critical when helping participants relax.
  7. Prepare questions up to 10 questions.
   * Use open-ended questions. 
