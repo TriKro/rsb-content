@@ -65,7 +65,7 @@ Over-focusing on technology: If the tech is proven or low risk, test the busines
 * Artivest had to deal with analog paperwork before they could deliver a digital version of its FinTech platform for individuals and IFAs: https://leanstartup.co/how-one-fitech-company-used-lean-startup-in-a-regulated-industry/ There was both an operational component and a regulatory one to the the analog paperwork.
 * Internet of Things: First design the physical object, then connect it to networks and deliver a digital service. 
 * Flowserve offers "sensor-enabled valves along with as-a-service valve status monitoring": https://dupress.deloitte.com/dup-us-en/focus/internet-of-things/connected-products-designing-for-internet-of-things.html
-* Wagamama (fast food Asian fusion restaurant chain): initially took orders like in a traditional restaurant and noted down orders via a number system on paper placemats, then introduced a wireless handheld PoS (Compaq iPAQ Pocket PC via Geac) that waiters used to take orders, communicate with the kitchen, and manage operations data. 
+* Wagamama (fast food Asian fusion restaurant chain) initially took orders like in a traditional restaurant and noted down orders via a number system on paper placemats, then introduced a wireless handheld PoS (Compaq iPAQ Pocket PC via Geac) that waiters used to take orders, communicate with the kitchen, and manage operations data. 
 * Drones in precision farming: https://steveblank.com/2013/07/22/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
  
