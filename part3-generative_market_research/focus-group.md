@@ -17,18 +17,18 @@ A focus group is a small group discussion designed to rapidly gain customer feed
  * Customer
 
 ## Description
-Focus groups are traditional tools that bigger companies use to hear the voice of the consumer/customer. Focus groups are a divergent tool to gather insights based on group conversations. When done well, group conversations help chain associations among group participants, supposedly resulting in a better sense of the subjective essence. 
+Focus groups are a traditional method that larger companies use to hear the voice of the customer. Focus groups are a divergent tool to gather insights based on group conversations. When done well, group conversations help chain associations among group participants, supposedly resulting in a better sense of the subjective essence. 
 
-Focus groups have a long history. They were first used over 60 years ago by US government sociologists investigating the effectiveness of WWII military propaganda movies. They are most often used in the context of:
+Focus groups have a long history. They were first used over 60 years ago by U.S. government sociologists investigating the effectiveness of WWII military propaganda movies. They are most often used in the context of:
  * media consumption
  * consumer product advertising
  * traditional market research
 
-According to Harvard Business Professor, Gerald Zaltman, focus groups tap into only about 5% of people's thought processes — the 5% that lies above the level of consciousness.
+According to Harvard Business Professor Gerald Zaltman, focus groups tap into only about 5 percent of people's thought processes — the 5 percent that lies above the level of consciousness.
 
-Focus groups are quick and easy to design and use, particularly if there is a bigger budget available, as there are many companies and third parties that help recruit and organise focus group sessions. 
+Focus groups are quick and easy to design and use, particularly if there is a bigger budget available, as there are many companies and third parties that help recruit and organize focus group sessions. 
 
-If used as a source of idea generation, they tend be more effective than if used as a tool for verification. Overall, they are used to try to understand "unarticulated needs", directly in the voice of the customer. 
+If used as a source of idea generation, they tend be more effective than if used as a tool for verification. Overall, they are used to try to understand "unarticulated needs," directly in the voice of the customer. 
 
 According to B2BInternational.com, typical market research situations when focus groups include:
 
@@ -68,7 +68,7 @@ According to B2BInternational.com, typical market research situations when focus
  11. Have everyone introduce themselves.
  12. Announce the purpose of the meeting, say it's being recorded, and that the purpose of the meeting is a brainstorming session in order to get participants' opinions.
  13. Ask questions. Use your original ones, but also throuw in other ones. Ideally, participants will start to talk among themselves so that you can withdraw from the conversation at some point.
- 14. Stay neutral and empathatic. Establish eye contact with participants who are speaking less. 
+ 14. Stay neutral and empathetic. Establish eye contact with participants who are speaking less. 
  15. Take written notes during the session (assistant), including non-verbal cues as well as what was said. 
  16. Prevent any individual from dominating the discussion. Use questions like "Does anyone else have a different perspective?"
  17. Finish anywhere between 45 and 90 minutes after the start.
@@ -78,7 +78,7 @@ According to B2BInternational.com, typical market research situations when focus
 (adapted from wikihow.com)
 
 ### Interpreting Results
-Use techniques to match patterns in responses, like affinity mapping using post-its. Also, note down language used by customers as well as any ideas generated during the discussion as a source of inspiration for further evaluation. 
+Use techniques to match patterns in responses, such as affinity mapping using post-its. Also, note down language used by customers as well as any ideas generated during the discussion as a source of inspiration for further evaluation. 
 
 ### Potential Biases
  * Confirmation bias: Don't use focus groups to tell you what you already know. Listen for divergent opinions or the unexpected.
