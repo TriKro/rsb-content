@@ -1,7 +1,7 @@
 # Focus Groups
 
 ## In Brief
-A focus group is a small group discussion designed to rapidly gain customer feedback on a given topic. It is like customer development, but performed in a group. In the Lean Startup world, it is often criticised for falling into “group think”. The opinions of the most outgoing group members tend to dominate the discussion and distort the outcome. It can also be used to understand the dynamics behind group buying patterns / influences.
+A focus group is a small group discussion designed to rapidly gain customer feedback on a given topic. It is like customer development, but performed in a group. In the Lean Startup world, it is often criticized for devolving into groupthink. The opinions of the most outgoing group members tend to dominate the discussion and distort the outcome. It can also be used to understand the dynamics behind group buying patterns/influences.
 
 ## Helps Answer
  * How do customers influence one another in a group setting?
