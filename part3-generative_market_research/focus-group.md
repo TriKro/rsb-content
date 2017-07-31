@@ -64,15 +64,15 @@ According to B2BInternational.com, typical market research situations that might
   * Advertising
   * Specialized focus group recruiter
   * Other existing marketing channels (from business model canvas)
- 10. Pass out consent forms at the beginning of the meeting
+ 10. Pass out consent forms at the beginning of the meeting.
  11. Have everyone introduce themselves.
  12. Announce the purpose of the meeting, say it's being recorded, and that the purpose of the meeting is a brainstorming session in order to get participants' opinions.
- 13. Ask questions. Use your original ones, but also throw in other ones. Ideally, participants will start to talk among themselves so that you can withdraw from the conversation at some point.
+ 13. Ask questions. Use your original ones, but also throw in others. Ideally, participants will start to talk among themselves at some point so that you can withdraw from the conversation.
  14. Stay neutral and empathetic. Establish eye contact with participants who are speaking less. 
  15. Take written notes during the session (assistant), including non-verbal cues as well as what was said. 
- 16. Prevent any individual from dominating the discussion. Use questions like "Does anyone else have a different perspective?"
+ 16. Prevent any individual from dominating the discussion. Use questions like, "Does anyone else have a different perspective?"
  17. Finish anywhere between 45 and 90 minutes after the start.
- 18. Provide a feedback form
+ 18. Provide a feedback form.
  19. Repeat if you can. Run a few focus groups, just to get a diversity of opinions. 
 
 (adapted from wikihow.com)
