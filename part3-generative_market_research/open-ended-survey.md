@@ -2,7 +2,7 @@
 
 ## In Brief
 
-An open-ended survey asks a fixed set of questions usually via a mass communication channel such as an email or website popup. Answers are not constrained as in the case of multiple choice or check boxes but are free-text responses where the customer can choose the length and detail of their answer.
+An open-ended survey asks a fixed set of questions usually via a mass communication channel such as an email or website pop-up. Answers are not constrained as in the case of multiple choice or check boxes but are free-text responses where the customer can choose the length and detail of their answer.
 
 ## Helps Answers
 - Who is our customer?
@@ -19,9 +19,9 @@ An open-ended survey asks a fixed set of questions usually via a mass communicat
 ## Description
 
 ### Time Commitment & Resources
-Surveys can be quick to write and execute, often only taking 1 to 2 hours to set up. However, designing effective questions that don’t introduce biases into the customer’s answers can require a high degree of skill, multiple revisions, and even comprehension tests run on the survey itself.
+Surveys can be quick to write and execute, often only taking 1 to 2 hours to set up. However, designing effective questions that don’t introduce biases into customers' answers can require a high degree of skill, multiple revisions, and even comprehension tests run on the survey itself.
 
-Collecting the results typically takes more time and depends on the communication channels available to distribute the survey. Response rates can vary from 1 percent to 20 percent on a survey sent to existing customers depending on the level of customer engagement so large volumes of target customers and time may be required to collect data.
+Collecting results typically takes more time and depends on the communication channels available to distribute the survey. Response rates can vary from 1 percent to 20 percent on a survey sent to existing customers depending on the level of customer engagement, so large numbers of target customers and time may be required to collect data.
 
 Analyzing the data can take 4 to 8 hours, depending on the length of the survey, number of respondents, and quality of responses. As answers are free text, a large amount of reading, transcribing, and synthesizing may be required.
 
@@ -30,7 +30,7 @@ Analyzing the data can take 4 to 8 hours, depending on the length of the survey,
 #### Preparation
 1. Write Screening Questions: 
   * These are typically close-ended questions that help identify if the respondent is in the desired target segment. E.g “How old are you?” 
-  * Occasionally leading questions can be placed in a survey to identify “professional survey respondents” who will lie in order to be included in a survey or have a chance to participate in a follow up research project for cash.
+  * A few leading questions can be placed in a survey to identify “professional survey respondents” who will lie in order to be included in a survey or have a chance to participate in a follow-up research project for cash.
   
 2. Write Questions: 
   * Questions should be non-leading and non-hypothetical. 
@@ -67,7 +67,7 @@ In the case of very large data sets, algorithmic tools such as sentiment analysi
 - Sampling Bias: Although the sample may not match the general population to be surveyed, if the data is taken as generative and not evaluative, this bias is less relevant. Any ideas generated still must be validated by an evaluative method.
 
 ### Field Tips
-- “You can run an open ended survey once you know the best questions to ask. Talk to your customers to figure out the right questions” - @TriKro
+- “You can run an open-ended survey once you know the best questions to ask. Talk to your customers to figure out the right questions” - @TriKro
 - Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
