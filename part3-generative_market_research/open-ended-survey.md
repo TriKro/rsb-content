@@ -36,7 +36,7 @@ Analyzing the data can take 4 to 8 hours, depending on the length of the survey,
   * Questions should be non-leading and non-hypothetical. 
   * Asking for anecdotes or historical information can generate more concrete insights. 
   * Conduct comprehension tests on survey questions. 
-  * This ensures that the questions are being interpreted correctly and can often reveal leading questions.
+  * This ensures that the questions are being correctly interpreted and can often reveal leading questions.
 
 #### Distribution
 Surveys can be sent out via any method to the target audience.
@@ -50,7 +50,7 @@ Typical distribution methods include:
 - SMS
 
 #### Debriefing & Interpreting Results
-An open-ended survey is a generative research technique, and as such, a lot of care must be taken to take any input as simply ideas, not as a vote from the customer. The data is qualitative in nature. 
+An open-ended survey is a generative research technique, and as such, be careful to interpret any input as simply ideas, not as a vote from the customer. The data is qualitative in nature. 
 
 Because surveys are flexible, easy to write, and easy to deploy, they are more likely to be misunderstood and misused. Surveys are often a default research method when researchers do not feel they have the time to conduct ethnography or customer interviews. They are often highly favored in a corporate setting because a large number of respondents may be considered statistically significant, even if the survey responses are qualitative.
 
