@@ -41,7 +41,7 @@ Sunk cost bias is when we have put so much effort into a project that we will no
 
 ### Field Tips
 
-* If you think no one ever wants to remove a feature, think about the last time you filed your taxes online or the last time you got lost in a supermarket with too many aisles of useless stuff. - @TriKro
+* If you think no one ever wants to remove a feature, think about the last time you filed your taxes online or got lost in a supermarket with too many aisles of useless stuff. - @TriKro
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
