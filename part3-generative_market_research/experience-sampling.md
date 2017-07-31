@@ -18,16 +18,16 @@ This research method is used to get information about a participant's daily beha
 - Value proposition
 
 ## Description
-The key to experience sampling is asking the right question. Be very careful how you phrase it, since you will be asking the question over and over again. This method makes most sense when you want to solve a frequently reoccurring problem. You get the most useful and viable input when asking about repeated behavior and, more specifically, the last time it occurred.
+The key to experience sampling is asking the right question. Be very careful with phrasing, since you will be asking the question over and over again. This method makes most sense when you want to solve a frequently reoccurring problem. You get the most useful and viable input when asking about repeated behavior and, more specifically, the last time it occurred.
 
 ## Time Commitment & Resources
-Your participants' time commitment will depend on the amount of data you want to collect. The more data you get, the more confident your interpretations. You should aim for at least 100 data points, depending on your goals and customer segment. There are three dimensions to expanding your data pool: how many times a day are you asking the question, on how many days are you asking the question, and the number of participants you ask the question to about repeated behavior. Keep in mind that usually two-thirds of the answers will be useful, and adjust your planning accordingly.
+Your participants' time commitment will depend on the amount of data you want to collect. The more data you get, the more confident your interpretations. You should aim for at least 100 data points, depending on your goals and customer segment. There are three dimensions to expanding your data pool: How many times a day are you asking the question? On how many days are you asking the question? To how many participants do you ask the question about repeated behavior? Keep in mind that usually two-thirds of the answers will be useful, and adjust your planning accordingly.
 
 The recruiting process will often take up a lot of time since only participants who are part of your target group can ensure valuable data. That’s why you will need to create a screener to make sure the participants qualify for your target group. How long the recruiting takes depends on how many participants you want and could range from a day to multiple days. One fast and cheap way to find them is to look in social media settings corresponding to the theme of your study. 
 
-If you plan on a big amount of data you should have a team ready to analyze that data. Aim for a couple of analyzing sessions, each after a certain amount of data is obtained. The first session will take the longest and depending on the amount of data could range from two hours to a day. 
+If you plan on a big amount of data you should have a team ready to analyze that data. Aim for a couple of analysis sessions; each after a certain amount of data is obtained. The first session will take the longest and depending on the amount of data could range from two hours to a day. 
 
-You should offer your participants some kind of incentive, measured on the number of answers they were giving - ranging from $5 to $50, a coupon or similar.
+You should offer your participants some kind of incentive. The amount depends on the number of questions answered - ranging from $5 to $50, a coupon or similar.
 
 ## How To
 
@@ -66,7 +66,7 @@ Remember to thank the participants for each participation.
 - Create frequency charts.
 
 ### Interpreting Results
-First, look at the frequency distribution and identify common themes to gain insight into participants' pain points and delights. Then pinpoint what you have and have not been doing well in solving your target group's problems, as well as opportunities for improvement. You may find that the problem is slightly different than expected, or what you thought was a problem may not be one at all. You may get ideas for additional product features. In any case, you end up with data on different experience categories and therefore many opportunities. 
+First, look at the frequency distribution and identify common themes to gain insight into participants' pain points and delights. Then pinpoint what you have and have not been doing well in solving your target group's problems, as well as opportunities for improvement. You may find that the problem is slightly different than expected, or what you thought was a problem is not one at all. You may get ideas for additional product features. In any case, you end up with data on different experience categories and therefore many opportunities. 
 
 ### Potential Biases
 - Prediction bias: Do not ask about people’s opinions on potential products, situations, or what they think they need. People are bad at predicting the future! Ask about recent behavior and problems.
