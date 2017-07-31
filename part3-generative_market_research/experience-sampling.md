@@ -53,7 +53,7 @@ You should offer your participants some kind of incentive. The amount depends on
 Remember to thank the participants for each participation.
 
 ### Analysis
-- Check the first answers to see if they are sufficient for your research - if necessary expand your question or tell the participants, the level of detail in their answers is what you need.
+- Check the first answers to see if they are sufficient for your research - if necessary expand your question or explain to participants the level of detail you need in their answers.
 - Check if the questions are correctly understood - if necessary adjust your question or correct individual participants.
 - Begin the analysis as soon as possible - do not wait until you have collected all the data.
 - Eyeball the data to get a general impression.
