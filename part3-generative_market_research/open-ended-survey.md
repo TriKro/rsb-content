@@ -54,7 +54,7 @@ An open-ended survey is a generative research technique, and as such, be careful
 
 Because surveys are flexible, easy to write, and easy to deploy, they are more likely to be misunderstood and misused. Surveys are often a default research method when researchers do not feel they have the time to conduct ethnography or customer interviews. They are often highly favored in a corporate setting because a large number of respondents may be considered statistically significant, even if the survey responses are qualitative.
 
-Open-ended surveys are also sometimes combined with close-ended surveys, making it very tempting to spend extended periods of time analyzing the data and looking for correlation that will draw a definitive conclusion to act upon. This tendency to use the data to drive a firm conclusion even when the data is generative in nature is the biggest argument to avoid surveys at all costs.
+Open-ended surveys are also sometimes combined with close-ended surveys, making it tempting to spend extended periods of time analyzing the data and looking for correlation that will draw a definitive conclusion to act upon. This tendency to use the data to drive a firm conclusion even when the data is generative in nature is the biggest argument to avoid surveys at all costs.
 
 A typical debrief method to analyze the generative data is to read each answer and transcribe salient points on post-it notes for a sorting exercise. Patterns can then be identified.
 
