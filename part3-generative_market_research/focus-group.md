@@ -66,7 +66,7 @@ According to B2BInternational.com, typical market research situations that might
   * Other existing marketing channels (from business model canvas)
  10. Pass out consent forms at the beginning of the meeting.
  11. Have everyone introduce themselves.
- 12. Announce the purpose of the meeting, say it's being recorded, and that the purpose of the meeting is a brainstorming session in order to get participants' opinions.
+ 12. Announce that the purpose of the meeting is to hold a brainstorming session in order to get participants' opinions, and inform participants that the session is being recorded.
  13. Ask questions. Use your original ones, but also throw in others. Ideally, participants will start to talk among themselves at some point so that you can withdraw from the conversation.
  14. Stay neutral and empathetic. Establish eye contact with participants who are speaking less. 
  15. Take written notes during the session (assistant), including non-verbal cues as well as what was said. 
@@ -78,20 +78,20 @@ According to B2BInternational.com, typical market research situations that might
 (adapted from wikihow.com)
 
 ### Interpreting Results
-Use techniques to match patterns in responses, such as affinity mapping using post-its. Also, note down language used by customers as well as any ideas generated during the discussion as a source of inspiration for further evaluation. 
+Use techniques to match patterns in responses, such as affinity mapping using post-its. Also, take note of language used by customers as well as any ideas generated during the discussion as a source of inspiration for further evaluation. 
 
 ### Potential Biases
  * Confirmation bias: Don't use focus groups to tell you what you already know. Listen for divergent opinions or the unexpected.
- * False positive: Your focus group may tell you things which aren't true for your market as a whole
- * Difference between what customers say vs what they do/buy: Assume consumers are not capable of accurately describing why they make decisions
+ * False positive: Your focus group may tell you things that aren't true for your market as a whole.
+ * Difference between what customers say vs what they do/buy: Assume consumers are not capable of accurately describing why they make decisions.
  * Ability of moderator to lead a session: Moderators need to have enough skill to lead a group and manage the dynamic so that you don't lose useful information.
  * Unrepresentative sampling: Choosing the wrong participants devalues any insights you gain, as they won't be actionable.
  * Your own ulterior motives: Don't turn a focus group into a PR or sales opportunity. It will skew your results.
 
 ### Field Tips
  * If you are considering focus groups, consider whether you can achieve the same with customer development interviews. 
- * Start focus groups with simple questions which build comfort level.
- * Check technical equipment before starting a focus group and have a contingency plan in place.
+ * Start focus groups with simple questions that build participants' comfort level.
+ * Check technical equipment before starting and have a contingency plan in place.
  * Focus group members may bring up false information or offensive opinions. Have a plan in place to handle them. 
  - Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
