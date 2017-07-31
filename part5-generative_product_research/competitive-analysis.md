@@ -1,7 +1,7 @@
 # Competitor Analysis
 
 ## In Brief
-Competitive Analysis is very much a secondary research method which you can perform online, relatively quickly and comprehensively. It can be used for generative market analysis as well as generative product analysis. The analysis is absolutely crucial for any new business idea. 
+Competitive analysis is very much a secondary research method that you can perform online relatively quickly and comprehensively. It can be used for generative market analysis as well as generative product analysis. The analysis is absolutely crucial for any new business idea. 
 
 As you are defining your idea, you need to conduct research in order to paint a picture of the competitor landscape. You will likely start out with quite a wide capture of different players and will then be able to zoom in over time as your other experiments guide you towards the exact customer segment and solution you will build. A detailed competitor analysis can help you communicate your idea to others as well as differentiate it. The analysis is a form of due diligence repeated over time and is expected by investors or sponsors. 
 
@@ -17,7 +17,7 @@ As you are defining your idea, you need to conduct research in order to paint a 
 - B2B
 - Qualitative
 - Channels
-- Value Proposition
+- Value proposition
 
 ## Description
 
@@ -25,18 +25,18 @@ As you are defining your idea, you need to conduct research in order to paint a 
 Initially 1-2 days and then keep adding on and perform regular scans of the market.
 
 ### How To
-The typical way to display a competitive analysis has been to plot performance on an X/Y graph with all the competitors located at the bottom left and your company at the top right. This method is typical when existing companies launched a new product into an existing crowded market place and is therefore not so relevant for startups or existing companies looking to create new markets (true innovation). Steve Blank suggests using a “petal diagram” where you plot your idea at the centre of the slide. Then highlight where your new customers are likely to come from (adjacent markets segments) using a cloud around your company (as many as needed) and then fill in each section with names of companies that are representative players in each segment. You can then try to identify which companies are private and note how much investment they had received to identify which spaces are being perceived as “attractive” to investors. On top of this, you can note the current and projected market size of each segment to understand how big your new market could be.
+The typical way to display a competitive analysis has been to plot performance on an X/Y graph with all the competitors located at the bottom left and your company at the top right. This method is typical when existing companies launch a new product into an existing crowded market place and is therefore not as relevant for startups or existing companies looking to create new markets (true innovation). Steve Blank suggests using a “petal diagram” where you plot your idea at the center of the slide. Highlight where your new customers are likely to come from (adjacent markets segments) using a cloud around your company (as many as needed) and fill in each section with names of companies that are representative players in each segment. You can then try to identify which companies are private and note how much investment they received to identify which spaces are being perceived as “attractive” to investors. On top of this, you can note the current and projected market size of each segment to understand how big your new market could be.
 
 After initial analysis, you should know three things: who your biggest competitors are, the basics of their company strategy, and how you are (or will be) different from what they’re doing. By understanding the market landscape, you are able to gather more clues about how you might approach distribution, positioning and pricing. 
 
 Some tools you can use to extract competitor information are:
 - Crunchbase
-- Angel List
+- AngelList
 - Quora
 - Google Finance (listed companies and their “related companies”)
 - Google Search (industry key words)
 - Google News Alerts (industry key words) 
-- Forrester Research / IDC / Gartner etc (market reports)
+- Forrester Research/IDC/Gartner etc. (market reports)
 
 When doing competitive research on other web-based companies here are a few other tools you can use:
 - Compete to see their traffic data, and which way it’s trending
@@ -44,7 +44,7 @@ When doing competitive research on other web-based companies here are a few othe
 - AppData (if they have a Facebook or mobile app) to see how engaged their users are
 
 ### Interpreting Results
-By understanding the key players in your space and adjacent segments, you will increase your domain knowledge around your business. If you can’t find any similar organisation or research being conducted, it means you have not looked hard enough as it is highly unlikely that no one in the entire world is working on the same or very similar business idea. On the flip side, uncovering many competitors does not mean you should not continue. The discovery will help you to refine your offering and business model for a market which is growing overall. 
+By understanding the key players in your space and adjacent segments, you will increase your domain knowledge around your business. If you can’t find any similar organization or research being conducted, it means you have not looked hard enough as it is highly unlikely that no one in the entire world is working on the same or very similar business idea. On the flip side, uncovering many competitors does not mean you should not continue. The discovery will help you to refine your offering and business model for a market which is growing overall. 
 
 “A rising tide can lift all boats” - so focus on being one of the boats and not worrying about how to dominate the entire segment from day one. “Competitors” can also become key partners to help each other get off the ground in the new market. They can also give you clues as to where you can gain initial traction in the market. 
 
