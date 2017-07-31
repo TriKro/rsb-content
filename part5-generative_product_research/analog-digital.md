@@ -33,7 +33,7 @@ The benefits of taking this approach are:
 
 This is a common pattern in enterprise lean startup, particularly with bigger companies having a lot of legacy processes. 
 
-Note: This is not the same as Randy Komisar's [analog/antilog thought experiment](http://ecorner.stanford.edu/videos/2418/Analogs-and-Antilogs-Nothing-is-Revolutionary) for formulating a Value Proposition or identifying a problem. The goal here is to gather actual user feedback, based on something physical that approximates the final form of the product. 
+Note: This is not the same as Randy Komisar's [analog/antilog thought experiment](http://ecorner.stanford.edu/videos/2418/Analogs-and-Antilogs-Nothing-is-Revolutionary) for formulating a value proposition or identifying a problem. The goal here is to gather actual user feedback, based on something physical that approximates the final form of the product. 
 
 ### Time Commitment
 
@@ -41,10 +41,10 @@ Can vary widely. It depends on how long both the physical and digital forms of t
 
 ### How To
 
-1. confirm that the current "riskiest assumption" lies in Value Proposition, Key Resources, or Cost area 
-2. formulate a hypothesis which implies the existence of a physical version of the product in order to conduct testing
-3. recruit users/customers
-4. validate your hypothesis
+1. Confirm that the current "riskiest assumption" lies in Value Proposition, Key Resources, or Cost area 
+2. Formulate a hypothesis which implies the existence of a physical version of the product in order to conduct testing
+3. Recruit users/customers
+4. Validate your hypothesis
 
 ### Interpreting Results
 
@@ -54,14 +54,14 @@ Digital is not good for its own sake. Make sure that you are adding useful featu
 
 Over-engineering/gold-plating: Sometimes a good physical product feature will solve the problem better than fancy software and engineering.
 
-Over-focussing on technology: if the tech is proven or low risk, test the business model first (especially customer needs).
+Over-focusing on technology: If the tech is proven or low risk, test the business model first (especially customer needs).
 
 ### Field Tips
 * "A minimum viable product is not always a smaller/cheaper version of your final product." @sgblank 
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
-* When selling a digital information product the experiment team gathered early versions of this data “by hand”, then produced a printed report for the test customers. This printed report provided real value, and was used to gather feedback. Eventually, the team created a digital version of this report. source: http://www.movestheneedle.com/blog/enterprise-lean-startup-experiment-examples/
+* When selling a digital information product the experiment team gathered early versions of this data “by hand,” then produced a printed report for test customers. This printed report provided real value and was used to gather feedback. Eventually, the team created a digital version of this report. source: http://www.movestheneedle.com/blog/enterprise-lean-startup-experiment-examples/
 * Artivest had to deal with analog paperwork before they could deliver a digital version of its FinTech platform for individuals and IFAs: https://leanstartup.co/how-one-fitech-company-used-lean-startup-in-a-regulated-industry/ There was both an operational component and a regulatory one to the the analog paperwork.
 * Internet of Things: first design the physical object, then connect it to networks and deliver a digital service. 
 * Flowserve offers "sensor-enabled valves along with as-a-service valve status monitoring": https://dupress.deloitte.com/dup-us-en/focus/internet-of-things/connected-products-designing-for-internet-of-things.html
