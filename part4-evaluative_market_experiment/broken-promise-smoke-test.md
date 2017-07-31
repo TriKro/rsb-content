@@ -26,11 +26,11 @@ This smoke test puts up a small social barrier \(the social pressure of a person
 
 This test is most relevant for early stage founders, particularly when testing a variety of ideas. It helps identify which of a number of ideas actually have relative merit. Ultimately, it helps focus your resources on an attractive and buzz-worthy product.
 
-In terms of the mechanics, it works similar to a landing page. There is a dedicated web page with a call-to-action. On the thank you page or in follow up communication, the copy explicitly asks the registrant NOT to share the idea with others. After some time passes, you compare the original list of people you contacted with the actual list of signups. Anyone who wasn't in your original list of people you told about about the idea is counted as a referral.
+In terms of the mechanics, it works similar to a landing page. There is a dedicated web page with a call-to-action. On the thank you page or in follow-up communication, the copy explicitly asks the registrant NOT to share the idea with others. After some time passes, you compare the original list of people you contacted with the actual list of signups. Anyone who wasn't in your original list of people you told about about the idea is counted as a referral.
 
 Referral rate = \(total number of signups in a time period/total number of original people contacted\)
 
-If this is above 100%, then you are seeing referrals.
+If this is above 100 percent, then you are seeing referrals.
 
 With this smoke test, you aren't testing conversion rate but referral rate. Has anyone referred the product despite being told that it's not to be shared?
 
@@ -38,20 +38,20 @@ To the extent possible, it's also worth noting who is being referred. This provi
 
 ### Time Commitment
 
-Minimal: 1-2 day dev and designer time or you can use a viral landing page template like the ones at KickoffLabs.com
+Minimal: 1-2 day developer and designer time, or you can use a viral landing page template like the ones at KickoffLabs.com
 
 ### How To
 
 \(from [http://artofcleverness.stfi.re/broken-promise/?sf=agvkwwg\#ab](http://artofcleverness.stfi.re/broken-promise/?sf=agvkwwg#ab)\)
 
-1. Send out a few early landing pages/code-free MVPs to a group of 10-15 people
-2. Ask them not to share with anyone
-3. Track email signups or a different CTA \(follows, FB page likes\)
-4. See which or any of the pages gets signups outside of the group you sent it to \(broken promise = formula for growth\)
+1. Send out a few early landing pages/code-free MVPs to a group of 10-15 people.
+2. Ask them not to share with anyone.
+3. Track email signups or a different CTA \(follows, FB page likes\).
+4. See which or any of the pages gets signups outside of the group you sent it to \(broken promise = formula for growth\).
 
 ### Interpreting Results
 
-Interpretation is framed by how you formulated the experiment originally, i.e. what is the cutoff value for the referral rate, in order to make a go/no-no decision. Also, be clear on exactly who you count, both in the original and referred group. For example, immediate family like your mom don't count \(as well as anyone she refers\) unless if she really is representative of your target market.
+Interpretation is framed by how you formulated the experiment originally, i.e., what is the cutoff value for the referral rate, in order to make a go/no-no decision? Also, be clear on exactly who you count, both in the original and referred group. For example, immediate family like your mom don't count \(as well as anyone she refers\) unless she really is representative of your target market.
 
 ### Potential Biases
 

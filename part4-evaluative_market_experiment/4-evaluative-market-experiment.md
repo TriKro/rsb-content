@@ -4,4 +4,4 @@
 
 **“Life is an experiment in which you may fail or succeed. Explore more, expect least.”**
 
-_– Santosh Kalwar_
+_– Santosh Kalwar
