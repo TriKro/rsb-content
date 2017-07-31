@@ -39,23 +39,23 @@ As a general rule, though, using third-party expertise to evaluate existing opti
  * Clarity.fm
  * PopExpert.com
  * FounderDating.com forums  
-3. Contact the expert and arrange a phone call or meeting in person. 
+3. Contact the expert, and arrange a phone call or meeting in person. 
 4. Prepare:
- * questions you'd like to ask 
- * areas where you'd like feedback
- * topics you'd like to brainstorm
+ * Questions you'd like to ask 
+ * Areas where you'd like feedback
+ * Topics you'd like to brainstorm
 5. Conduct the meeting
 6. Note down key ideas or recommendations
-7. Ask for a referral to another expert in the same or a related area if needed 
+7. Ask for a referral to another expert in the same or related area if needed.
 8. Use your learnings to formulate a falsifiable hypothesis, and test whether their advice applies to your specific case.
 
 ### Interpreting Results
 
 In general, it is best to limit yourself to experts who either 
- * have personal experience (success or failure) in the topic area
- * have gained significant insight through academic or journalistic research 
+ * Have personal experience (success or failure) in the topic area
+ * Have gained significant insight through academic or journalistic research 
 
-Keep in mind that all advice is context-dependent. Even if an expert was successful before, the situation and competitive landscape changes over time. And despite their best intentions, an expert's advice might not be relevant to your specific your case. 
+Keep in mind that all advice is context-dependent. Even if an expert was successful before, the situation and competitive landscape changes over time. And despite their best intentions, an expert's advice might not be relevant to your specific case. 
 
 ### Potential Biases
 
