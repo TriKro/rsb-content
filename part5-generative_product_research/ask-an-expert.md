@@ -63,7 +63,7 @@ If you take advice from anyone, make sure their interests are genuinely aligned 
 
 Free advice may or may not be useful. You may get what you paid for. Time spent executing bad advice is still wasted.
 
-Some topics naturally invite strong opinions. To the extent possible try to get access to data which the expert used to formulate their recommendations or advice, in order to evaluate how relevant it is.
+Some topics naturally invite strong opinions. To the extent possible try to get access to data which the expert used to formulate their recommendations or advice, in order to evaluate its relevance.
 
 Think for yourself after being given advice.
 
