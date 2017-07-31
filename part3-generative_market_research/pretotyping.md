@@ -9,7 +9,7 @@ Pretotyping tests the initial appeal and actual usage of a potential new product
  * Who might be interested in "it"?
  * How would they want to use "it"?
  * What's the right problem to solve?
- * What would the use "it" for?
+ * What would they use "it" for?
 
 ## Tags
  * Pretotyping
@@ -49,7 +49,7 @@ Mix and match any of the above techniques to construct experiments. See the othe
 
 Before launching an experiment by using any of the abovementioned techniques, you should set a measurable target. What does "success" mean to you? 
 
-Often in the early stage of a new venture, simple cheap tests can be extremely informative. Let's say you're running a Smoke Test to verify initial demand for a new idea. Out of 1 000 views, you get only 10 clicks and zero sign-ups. Something tells you this is a bummer! But let's say you get 1 000 views, 10 clicks and 8 sign-ups. This tells you that you probably have to look closer at the ad copy.
+Often in the early stage of a new venture, simple, cheap tests can be extremely informative. Let's say you're running a Smoke Test to verify initial demand for a new idea. Out of 1 000 views, you get only 10 clicks and zero sign-ups. Something tells you this is a bummer! But let's say you get 1 000 views, 10 clicks and 8 sign-ups. This tells you that you probably have to look closer at the ad copy.
 
 ### Potential Biases
 
