@@ -47,7 +47,7 @@ Mix and match any of the above techniques to construct experiments. See the othe
 
 ### Interpreting Results
 
-Before launching an experiment by using any of the above mentioned techniques, you should set a measurable target. What does "success" mean to you? 
+Before launching an experiment by using any of the abovementioned techniques, you should set a measurable target. What does "success" mean to you? 
 
 Often in the early stage of a new venture, simple cheap tests can be extremely informative. Let's say you're running a Smoke Test to verify initial demand for a new idea. Out of 1 000 views, you get only 10 clicks and zero sign-ups. Something tells you this is a bummer! But let's say you get 1 000 views, 10 clicks and 8 sign-ups. This tells you that you probably have to look closer at the ad copy.
 
@@ -81,6 +81,3 @@ Common biases include:
 * www.uxbooth.com/articles/putting-the-vp-into-mvp (PUTTING THE "VP" INTO MVP)
 * www.skmurphy.com/blog/2012/03/06/pretotyping-techniques-for-building-the-right-product/ recaps basic pretotyping techniques and adds 5 new ones. 
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
-
-
-
