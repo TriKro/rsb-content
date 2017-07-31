@@ -46,10 +46,10 @@ When doing competitive research on other web-based companies here are a few othe
 ### Interpreting Results
 By understanding the key players in your space and adjacent segments, you will increase your domain knowledge around your business. If you can’t find any similar organization or research being conducted, it means you have not looked hard enough as it is highly unlikely that no one in the entire world is working on the same or very similar business idea. On the flip side, uncovering many competitors does not mean you should not continue. The discovery will help you to refine your offering and business model for a market which is growing overall. 
 
-“A rising tide can lift all boats” - so focus on being one of the boats and not worrying about how to dominate the entire segment from day one. “Competitors” can also become key partners to help each other get off the ground in the new market. They can also give you clues as to where you can gain initial traction in the market. 
+“A rising tide can lift all boats” - so focus on being one of the boats and don't worry about how to dominate the entire segment from day one. “Competitors” can also become key partners to help each other get off the ground in the new market. They can also give you clues as to where you can gain initial traction in the market. 
 
 ### Potential Biases
-- Confirmation Bias: Entrepreneurs naturally don’t want to find competitors so they can put the blinders on. They prefer to simply focus on their own vision of how the world is. Make sure your methods are exhaustive, compelling and repeated to keep up to date with new entrants. Get external / neutral help to make the analysis to avoid this kind of bias.
+- Confirmation Bias: Entrepreneurs naturally don’t want to find competitors so they can put their blinders on. They prefer to simply focus on their own vision of how the world is. Make sure your methods are exhaustive, compelling, and repeated to keep up to date with new entrants. Get external/neutral help to make the analysis to avoid this kind of bias.
 - The Numbers: Don’t worry about too few or too many players but learn how can you fit into the space that is being created. Know your strengths and weaknesses against each player. 
 - Too Local: Don’t limit your search to your local area. For most new business ideas today we need to be taking a global perspective and that also means doing global research. 
 
