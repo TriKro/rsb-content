@@ -1,7 +1,7 @@
 # Focus Groups
 
 ## In Brief
-A focus group is a small group discussion designed to rapidly gain customer feedback on a given topic. It is like customer development, but performed in a group. In the Lean Startup world, it is often criticized for devolving into groupthink. The opinions of the most outgoing group members tend to dominate the discussion and distort the outcome. It can also be used to understand the dynamics behind group buying patterns/influences.
+A focus group is a small group discussion designed to rapidly gain customer feedback on a given topic. It is like customer development, but performed in a group. In the lean startup world, it is often criticized for devolving into groupthink. The opinions of the most outgoing group members tend to dominate the discussion and distort the outcome. It can also be used to understand the dynamics behind group buying patterns/influences.
 
 ## Helps Answer
  * How do customers influence one another in a group setting?
@@ -30,7 +30,7 @@ Focus groups are quick and easy to design and use, particularly if there is a bi
 
 They tend be more effective when used as a source of idea generation rather than a tool for verification. Overall, they are used to try to understand "unarticulated needs" directly in the voice of the customer. 
 
-According to B2BInternational.com, typical market research situations when focus groups include:
+According to B2BInternational.com, typical market research situations that might involve focus groups include:
 
  * To unravel complex processes from the basics e.g. a complicated buying process
  * To identify customer needs i.e. where there is a complex interaction of factors influencing motives
@@ -48,14 +48,14 @@ According to B2BInternational.com, typical market research situations when focus
  2. Narrow down your target audience. Pick and talk to one group at a time.
  3. Consider organizing a control group. To contrast group opinions against a larger market context.
  4. Refrain from using the focus group for ulterior motives. 
- 5. Find a second facilitator. Helps with notetaking and all other organisational issues to avoid group distractions.
+ 5. Find a second facilitator. Helps with note taking and all other organizational issues to avoid group distractions.
  6. Choose a comfortable venue and recording method. Comfort and safety are critical when helping participants relax.
  7. Prepare questions up to 10 questions.
   * Use open-ended questions. 
   * Establish rapport. 
   * Avoid jargon. 
   * Avoid embarrassing or intimidating questions if you can, or only ask them towards the end of a session if participants feel comfortable. 
- 8. Plan out how you will record data. Consider 
+ 8. Plan out how you will record data. Consider: 
   * Post-its
   * Evernote
   * Excel
