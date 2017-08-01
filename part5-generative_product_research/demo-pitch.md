@@ -1,7 +1,7 @@
 # Demo Pitch
 
 ## In Brief
-A Demo Pitch is when you are presenting or pitching your solution using some kind of product or service demonstration in the hope to convince a potential customer. As a method it is similar to a Solution Interview but typically takes place at a later stage, as the solution becomes more baked and you have more elements to demonstrate. However, this can be done early in the process using the most realistic examples available. The style is more of a presentation than an interview and the goal is to assess how positive the reaction is and why. A Demo Pitch is essentially a sales pitch to a potential customer in order to test their willingness to buy or recommend you to the economic buyer.
+A demo pitch is when you are presenting or pitching your solution using some kind of product or service demonstration in the hope of convincing a potential customer. As a method it is similar to a solution interview but typically takes place at a later stage, as the solution becomes more baked and you have more elements to demonstrate. However, this can be done early in the process using the most realistic examples available. The style is more of a presentation than an interview and the goal is to assess how positive the reaction is and why. A demo pitch is essentially a sales pitch to a potential customer in order to test their willingness to buy or recommend you to the economic buyer.
 
 ## Helps Answer
 - Who is our early adopter or first customer?
@@ -17,12 +17,12 @@ A Demo Pitch is when you are presenting or pitching your solution using some kin
 ## Tags
 - B2C
 - B2B
-- Key Partners
-- Channel Partners
-- Value Proposition
+- Key partners
+- Channel partners
+- Value proposition
 
 ## Description
-There are many ways a demo pitch may be deployed. For B2C you may try to catch consumers in a physical location at the point of sale of similar products and demo them. This may be done online via a targeted video ad in a particular social media channel so you can measure conversion. For B2B you will need to identify “influencers” and “decision makers” along with other key stakeholders in order to meet with them. Be careful to select people who you think will be early adopters and won’t be too worried about the “who has already used this” question. How do they react, what feedback do they give? You might start with a cold call or via introduction and be able to demonstrate your solution via video call or screen sharing. 
+There are many ways a demo pitch may be deployed. For B2C you may try to catch consumers in a physical location at the point of sale of similar products and demo them. This may be done online via a targeted video ad in a particular social media channel so you can measure conversion. For B2B you will need to identify “influencers” and “decision makers” along with other key stakeholders in order to meet with them. Be careful to select people who you think will be early adopters and won’t be too worried about the “Who has already used this?” question. How do they react? What feedback do they give? You might start with a cold call or via introduction and be able to demonstrate your solution via video call or screen sharing. 
 
 You are looking for a “wow” reaction as a result and a significant next step in the buying process. You may be able to offer a pre-order option, secure a signed letter of intent, take a deposit, have a purchase order issues, get added to the vendor list, have your purchase agreement approved etc. 
 
@@ -43,8 +43,8 @@ You will receive qualitative signals during and after your pitch demo where the 
 The most important data will be who moves forward to the next stage of the buying process as a result
 
 ## Potential Biases
-- Being able to secure a high number of demo pitches in itself is not an indication of success
-- People may have very nice comments but if they don’t move with you further along the buying process, then you are knocking on the wrong door or need to make changes to your offering
+- Being able to secure a high number of demo pitches in itself is not an indication of success.
+- People may make positive comments, but if they don’t move further along the buying process you are knocking on the wrong door or need to make changes to your offering.
 
 ## Field Tips
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
