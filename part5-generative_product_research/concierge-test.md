@@ -13,10 +13,10 @@ Concierge is a technique to test the solution of a customer problem by manually 
 - B2C
 - B2B
 - Qualitative
-- Value Proposition
+- Value proposition
 
 ## Description
-In a concierge test the value proposition is delivered as a service. Like a hotel concierge the focus is on a highly customized customer facing service. For this method you need to perform the tasks manually, usually with a few customers as it is not cost efficient to scale. However the high customer touch allows you to get quality feedback from the targeted segment. The key advantage is that services can be almost instantly adjusted at a very low cost. Hence iterations based on insights from customer feedback are easily completed. 
+In a concierge test the value proposition is delivered as a service. Like a hotel concierge the focus is on a highly customized customer facing service. For this method you need to perform the tasks manually, usually with a few customers as it is not cost efficient to scale. However, the high customer touch allows you to get quality feedback from the targeted segment. The key advantage is that services can be almost instantly adjusted at a very low cost. Hence iterations based on insights from customer feedback are easily completed. 
 
 To conduct a successful concierge test you need to be clear about your value proposition and have it well formulated. As as an evolution of problem-solution interview techniques the goal is to test the solution and figure out if it matches your customer’s expectations. Design your value proposition as a service with the leap-of-faith assumptions in mind. When using the service your customers should go through the same steps as they would go through later with your product idea.
 
