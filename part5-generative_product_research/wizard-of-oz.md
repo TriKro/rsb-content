@@ -2,12 +2,12 @@
 
 ## In Brief
 
-Wizard of Oz test involves one or more individuals simulating fully functioning product features without the use of technology. All inputs, outputs, and algorithms are performed manually by humans, but without the knowledge of the customer. This allows entrepreneurs to test a complete solution and gain accurate feedback from the customer without the cost of building a complex, fully automated solution.
+The Wizard of Oz (WOZ) test involves one or more individuals simulating fully functioning product features without the use of technology. All inputs, outputs, and algorithms are performed manually by humans, but without the knowledge of the customer. This allows entrepreneurs to test a complete solution and gain accurate feedback from the customer without the cost of building a complex, fully automated solution.
 
-Often confused with Concierge Testing.
+Often confused with concierge testing.
 
 ## Helps Answer
-- What features will provide the best solution?
+- Whhich features will provide the best solution?
 
 ## Tags
 - B2C
@@ -16,14 +16,14 @@ Often confused with Concierge Testing.
 - Value Proposition
 
 ## Description
-Wizard of Oz Experiment (WOZ) is a well known experiment from the 1970s. It involves one or more humans, so called wizards, to simulate the functionality of a product manually. However the wizards are hidden from the user, which means the user does not know that someone is doing the work manually.
+The WOZ experiment is a well-known experiment from the 1970s. It involves one or more humans, so called wizards, simulating the functionality of a product manually. However the wizards are hidden from the user, which means the user does not know that someone is manually doing the work.
 
 ### Time Commitment
-Wizard of Oz (WOZ) is no 'quick and dirty' prototyping method as it requires higher commitment of resources. Depending on the individual test there can be more than one wizard (human) interacting ‘behind the curtains’ with the customers. The time commitment also depends heavily on the task domain and the number of users exposed to the product. For instance categorizing images by a wizard (human) is easier and faster than transcribing voice for a speech recognition. Hence the time commitment can vary from days to even several weeks. 
+WOZ is no "quick and dirty" prototyping method as it requires a higher commitment of resources. Depending on the individual test there can be more than one wizard (human) interacting "behind the curtains" with the customers. The time commitment also depends heavily on the task domain and the number of users exposed to the product. For instance categorizing images by a wizard (human) is easier and faster than transcribing voice for a speech recognition. Hence the time commitment can vary from days to even several weeks. 
 
 ### How To
 1. Build a prototype of your product without the fancy algorithms / technology
-2. Allocate at least one person (the “Wizard” behind the curtains) who simulates the interactive behaviour of the product
+2. Allocate at least one person (the “Wizard” behind the curtains) who simulates the interactive behavior of the product
 3. Show your product to your users and let them use it
 4. Collect data to see if your product delivers value to your users
 
