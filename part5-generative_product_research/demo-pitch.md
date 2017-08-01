@@ -22,9 +22,9 @@ A demo pitch is when you present or pitch your solution using some kind of produ
 - Value proposition
 
 ## Description
-There are many ways a demo pitch may be deployed. For B2C you may try to catch consumers in a physical location at the point of sale of similar products and demo them. This may be done online via a targeted video ad in a particular social media channel so you can measure conversion. For B2B you will need to identify influencers and decision makers along with other key stakeholders in order to meet with them. Be careful to select people who you think will be early adopters and won’t be too worried about the “Who has already used this?” question. How do they react? What feedback do they give? You might start with a cold call or via introduction and be able to demonstrate your solution via video call or screen sharing. 
+There are many ways a demo pitch may be deployed. For B2C you may try to catch consumers in a physical location at the point of sale of similar products. It may be done online via a targeted video ad in a particular social media channel so you can measure conversion. For B2B you will need to identify influencers and decision makers along with other key stakeholders in order to meet with them. Be careful to select people who you think will be early adopters and won’t be too worried about the “Who has already used this?” question. How do they react? What feedback do they give? You might start with a cold call or via introduction and be able to demonstrate your solution via video call or screen sharing. 
 
-You are looking for a “wow” reaction as a result and a significant next step in the buying process. You may be able to offer a pre-order option, secure a signed letter of intent, take a deposit, have a purchase order issued, get added to the vendor list, have your purchase agreement approved, etc. 
+You are looking for a “wow” reaction and a significant next step in the buying process. You may be able to offer a pre-order option, secure a signed letter of intent, take a deposit, have a purchase order issued, get added to the vendor list, have your purchase agreement approved, etc. 
 
 You may also use this method to test commitment from key partners and channel partners as an indication if they will enter into agreements or trial phases with you. You therefore are collecting insights on how you can go-to-market with your offering. 
 
@@ -40,7 +40,7 @@ A few days for B2C and a few weeks for B2B depending how quickly you can set up 
 ## Interpreting Results
 You will receive qualitative signals during and after your pitch demo where the challenge is to differentiate between who is just being nice and who is genuinely excited and why.
 
-The most important data will be who moves forward to the next stage of the buying process as a result.
+The most important data will be who moves forward to the next stage of the buying process.
 
 ## Potential Biases
 - Being able to secure a high number of demo pitches in itself is not an indication of success.
