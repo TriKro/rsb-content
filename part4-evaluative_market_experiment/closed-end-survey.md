@@ -26,7 +26,7 @@ Closed-end surveys consist of closed-end questions only. These types of surveys 
  3. There are still holes in your knowledge.  
 For example, a startup founder who has achieved problem-solution fit and has performed some smoke testing around key "happy case" assumptions could use a closed-end survey to prioritize or discover other issues.
 
-As the survey giver, you are interested in finding patterns in the answers. By focussing in depth of a particular group of people, you hope to uncover hidden patterns in the data you gather.
+As the survey giver, you are interested in finding patterns in the answers. By focusing in depth of a particular group of people, you hope to uncover hidden patterns in the data you gather.
 
 Here are a few examples of closed-end questions:
 
