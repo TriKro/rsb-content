@@ -41,13 +41,13 @@ With this technique, you are aiming to construct a fuller picture of what's been
 
 ### Interpreting Results
 
-This is a wonderful technique to generate a lot of ideas, in an area you are already operating in. Particularly at the beginning of a startup journey, this technique can help zoom in on what to avoid and exactly what to test, to verify for your yourself if a particular assumption is still true/false. 
+This is a wonderful technique to generate a lot of ideas in an area you are already operating in. Particularly at the beginning of a startup journey, this technique can help zoom in on what to avoid and exactly what to test, to verify for yourself if a particular assumption is still true/false. 
 
 ### Potential Biases
 
 Overconfidence: could prevent you from using the technique
 
-Dismissing it too quickly: on the other side, exploring the reasons why others failed can make you doubt an idea too much if you can't find a unique angle to test the idea. 
+Dismissing it too quickly: On the other side, exploring the reasons why others failed can make you doubt an idea too much if you can't find a unique angle to test the idea. 
 
 ### Field Tips
 * "Picnic in the Graveyad: If you try to hold a night-time picnic in a cemetery that doesn't allow it you might get arrested." @RebelCircus
