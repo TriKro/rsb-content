@@ -32,7 +32,7 @@ A comprehension test will evaluate whether the customer understands the marketin
 
 ### Interpreting Results
 
-If the participant’s explanation is roughly comparable to our own, we count that as a positive result. If not, then it’s a negative. For this sort of test, we generally want a sample size of about 20 people and a positive conversion of about 80%.
+If the participant’s explanation is roughly comparable to our own, we count that as a positive result. If not, then it’s a negative. For this sort of test, we generally want a sample size of about 20 people and a positive conversion of about 80 percent.
 
 The conversion has to be very high because regardless of what our value proposition is, people should understand it.
 
@@ -41,7 +41,7 @@ Take note: if many of the participants use identical language to explain the val
 ### Potential Biases
 
 * Confirmation Bias: Overly enthusiastic entrepreneurs will sometimes over explain, correct, or nonverbally prompt the participant with the correct answer.
-* Invalid Target Audience: Participants do not need to be the target customers, but they must have the same level of language and vocabulary as the target customer. e.g. A junior marketing manager can be used instead of a Chief Marketing Officer.
+* Invalid Target Audience: Participants do not need to be the target customers, but they must have the same level of language and vocabulary as the target customer, e.g., a junior marketing manager can be used instead of a chief marketing officer.
 * False Negative: When using online surveys such as FiveSecondTest, the distractions of an online can often result in a higher than normal failure rate.
 
 ### Field Tips
