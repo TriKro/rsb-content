@@ -36,7 +36,7 @@ For smaller $ value products, you may want to perform some kind of a smoke test 
 
 For a larger $ value product, the solution interview may feel like a consultative sale. Nonetheless, it's primarily a research tool to help adjust or customize a product to real customer needs. 
 
-Like other types of customer interviews, solution interviews are best done in pairs. One person takes notes during the interview. The other actually asks the questions and focusses on building rapport with the user. 
+Like other types of customer interviews, solution interviews are best done in pairs. One person takes notes during the interview. The other actually asks the questions and focuses on building rapport with the user. 
 
 ### Time Commitment and Resources
 
