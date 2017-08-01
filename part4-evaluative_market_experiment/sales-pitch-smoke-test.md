@@ -61,8 +61,8 @@ This smoke test does not suggest the optimal price point for the product, or whe
 
 ### Potential Biases
 
-* Anchoring bias: one sale does not a business model make. A fully functioning sales system is what you need ultimately; however, a smoke test is still useful to prove that you have a sellable product.
-* Clustering illusion: it can be tempting to overgeneralize learnings from one sale smoke test. Try to make a few sales, particularly if the product is not very expensive.
+* Anchoring bias: One sale does not a business model make. A fully functioning sales system is what you ultimately need; however, a smoke test is still useful to prove that you have a sellable product.
+* Clustering illusion: It can be tempting to overgeneralize learnings from one sale smoke test. Try to make a few sales, particularly if the product is not very expensive.
 * Estimation fallacy: underestimating the amount of time to get to that first sale
 * Curse of knowledge: You know your product, service, or solution better than your prospects. You may overwhelm or confuse them, preventing them from buying, even though they actually need it. When fielding objections, try asking them directly whether or not they understand the proposition or use comprehension testing.
 
