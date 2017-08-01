@@ -27,12 +27,12 @@ After some time you learn what your customers' expectations are and what is real
 ### Time Commitment & Resources
 Concierge tests can be the most time consuming test as it requires manually solving the customer problem. For a complex B2B IT solution, a concierge solution can be a complete consulting engagement lasting many months. For a consumer, it might be as simple as personally going shopping with a customer.
 
-Similarly, resources can be extremely intense, or as little as a pen and paper. In the case of a B2B concierge service, it is often possible to charge for the solution up front which eliminates any resource constraints.
+Similarly, the method can require substantial resources or nothing but a pen and paper. In the case of a B2B concierge service, it is often possible to charge for the solution up front, which eliminates any resource constraints.
 
 ### How To
 - Write down the value proposition that needs to be tested. 
 - Design the value proposition as a personalized, customer touching service.
-- Talk to potential customers (early adopters) and offer them your service in exchange for a payment.
+- Talk to potential customers (early adopters) and offer them your service in exchange for payment.
 - Execute the service by performing tasks manually even though it is not effective.
 
 ### Interpreting Results
