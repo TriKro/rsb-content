@@ -37,18 +37,18 @@ Ultimately, what matters is sales. This type of smoke test helps provide a proxy
 
 ### Time Commitment
 
-Online: a few hours to a few days of developer time for simple approach  
+Online: a few hours to a few days of developer time for a simple approach  
 Existing packages: integration time  
-Offline: depends on your existing approach/processes, and also what you want to learn
+Offline: depends on your existing approach/processes, and what you want to learn
 
 ### How To
 
-1. Determine what else you want to know about your target market and in what time frame \(timebox\)
-2. Determine the current conversion rate on your existing signup process
-   * Make it clear exactly how this is calculated, i.e. what constitutes a "conversion event" particularly if you are doing it manually
+1. Determine what else you want to know about your target market and in what time frame \(timebox\).
+2. Determine the current conversion rate on your existing signup process.
+   * Make it clear exactly how this is calculated, i.e. what constitutes a "conversion event" particularly if you are doing it manually.
    * Also be clear on the ideal prospect, i.e. your "near miss prospects" don't count if they fill out the form
 3. Add some "friction" to the process in the form of additional form fields or introduce an application process
-   * If you have enough traffic, you can try to set this up as an A/B split test
+   * If you have enough traffic, you can try to set this up as an A/B split test.
 4. Once the timebox expires, compare your conversion rate 
 
 ### Interpreting Results
@@ -59,14 +59,14 @@ As with all smoke tests, do not ask about future behavior.
 
 ### Potential Biases
 
-* Abiguity: Even more so than with other test types, it is critical to be very clear up front what "counts" and what doesn't. 
+* Ambiguity: Even more so than with other test types, it is critical to be clear up front what "counts" and what doesn't. 
 * Backfire effect: The reaction to disconfirming evidence by strengthening one's previous beliefs
 
 ### Field Tips
 
-* Agree what constitutes a "conversion event" before you do a high bar smoke test
-* Your "near miss prospects" don't count if they fill out your signup form when doing a high bar smoke test
-* Finally, a smoke test for B2B companies
+* Agree what constitutes a "conversion event" before you do a high bar smoke test.
+* Your "near miss prospects" don't count if they fill out your signup form when doing a high bar smoke test.
+* Finally, a smoke test for B2B companies.
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
