@@ -92,7 +92,7 @@ Be sure that you have enough respondents to be able to use rigorous tools. Check
 
 Based on your responses, check to see if any of the questions were too obviously worded or confusing.
 
-Look at overall scores. Compare average answers to a benchmark you have or predetermined expectations.
+Look at overall scores. Compare average answers to a benchmark or predetermined expectations.
 
 Also look at the distributions of responses. Are they normally distributed? Skewed? A power law distribution \(i.e. 80/20\)?
 
@@ -102,13 +102,13 @@ Then take action!
 
 ### Potential Biases
 
-* Avoid overly sensitive questions – you are unlikely to get a ‘true’ response.
-* Avoid leading questions, which subtly prompts the respondent to answer in a particular way.
+* Avoid overly sensitive questions – you are unlikely to get a "true" response.
+* Avoid leading questions, which subtly prompt the respondent to answer in a particular way.
   * "Are you for or against an increase in tobacco tax rates?"
-  * "Are you in favor of increasing tobacco tax rates in order to protect our children's health?" \(leading\)
-* Take into account that your respondents will often not want to admit to unsavory or socially undesirable behavior or preferences, particularly if they don't feel safe or if the results aren't confidential. 
-* Using an emotionally loaded content can skew results predictably to a "yes" or a "no", or cause the respondent to abandon the survey if they don't identify. For example, "Where do you enjoy drinking beer?" implies that the respondent enjoys drinking beer specifically and would yield unpredicatble results at an AA meeting.
-* While conducting surveys, never ask people what they would like to pay for. Usually they lie or they are simply unaware. 
+  * "Are you in favor of increasing tobacco tax rates in order to protect our children's health?" \(Leading\)
+* Take into account that your respondents will often not want to admit to unsavory or socially undesirable behavior or preferences, particularly if they don't feel safe or the results aren't confidential. 
+* Using emotionally loaded content can predictably skew results to a "yes" or a "no" or cause the respondent to abandon the survey if they don't identify. For example, "Where do you enjoy drinking beer?" implies that the respondent enjoys drinking beer specifically and would yield unpredictable results at an AA meeting.
+* While conducting surveys, never ask people what they would like to pay for. Usually they lie or are simply unaware. 
 
 ### Field Tips
 
