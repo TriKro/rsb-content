@@ -21,15 +21,15 @@ This smoke test applies to physical goods or products with hardware components -
 
 ## Description
 
-This type of smoke test helps validate whether the type of solution is appropriate for the problem you want to solve. It's meant to be a discussion starter. You can lead with a number of questions, particularly to confirm the problem\(s\) which you want to address.
+This type of smoke test helps validate whether the type of solution is appropriate for the problem you want to solve. It's meant to start a discussion. You can lead with a number of questions, particularly to confirm the problem\(s\) you want to address.
 
 By showing a specific solution to a voiced problem, you can go in much greater depth with questions. You can also observe how the user expects to use the product.
 
-This is a smoke test. Treat the prototype as a conversation piece. You are focussing on the main "happy case". Is it something users want? Could it believably address their problem? It's fine for a prototype to be ugly, as long as you use it to learn something you didn't know already.
+This is a smoke test. Treat the prototype as a conversation piece. You are focusing on the main "happy case." Is it something users want? Could it believably address their problem? It's fine for a prototype to be ugly, as long as you use it to learn something you didn't already know.
 
 ### Time Commitment
 
-Varies significantly on the actual product. On the low end, it's easy to use mobile phone mockup software to show "average person on the street" a mobile phone app prototype. This takes a few hours, in the hands of a decent designer using software like InVision or Prototyping on Paper \(POP\).You can create a simulated version using simple materials like wood and plastic, to discuss form factors for instance. On the high end, it might take a lot of time to design and source custom parts, in order to build a prototype that addresses a specific pain point.
+Varies significantly on the actual product. On the low end, it's easy to use mobile phone mockup software to show the average person on the street a mobile phone app prototype. This takes a few hours in the hands of a decent designer using software like InVision or Prototyping on Paper \(POP\).You can create a simulated version using simple materials like wood and plastic, to discuss form factors for instance. On the high end, it might take a lot of time to design and source custom parts, in order to build a prototype that addresses a specific pain point.
 
 ### How To
 
