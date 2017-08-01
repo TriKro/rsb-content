@@ -19,20 +19,20 @@ Often confused with concierge testing.
 The WOZ experiment is a well-known experiment from the 1970s. It involves one or more humans, so called wizards, simulating the functionality of a product manually. However the wizards are hidden from the user, which means the user does not know that someone is manually doing the work.
 
 ### Time Commitment
-WOZ is no "quick and dirty" prototyping method as it requires a higher commitment of resources. Depending on the individual test there can be more than one wizard (human) interacting "behind the curtains" with the customers. The time commitment also depends heavily on the task domain and the number of users exposed to the product. For instance categorizing images by a wizard (human) is easier and faster than transcribing voice for a speech recognition. Hence the time commitment can vary from days to even several weeks. 
+WOZ is no "quick and dirty" prototyping method as it requires a higher commitment of resources. Depending on the individual test there can be more than one wizard (human) interacting "behind the curtains" with the customers. The time commitment also depends heavily on the task domain and the number of users exposed to the product. For instance, categorizing images by a wizard (human) is easier and faster than transcribing voice for speech recognition. Hence the time commitment can vary from days to even several weeks. 
 
 ### How To
-1. Build a prototype of your product without the fancy algorithms / technology
-2. Allocate at least one person (the “Wizard” behind the curtains) who simulates the interactive behavior of the product
-3. Show your product to your users and let them use it
-4. Collect data to see if your product delivers value to your users
+1. Build a prototype of your product without the fancy algorithms/technology.
+2. Allocate at least one person (the “Wizard” behind the curtains) who simulates the interactive behavior of the product.
+3. Show your product to your users and let them use it.
+4. Collect data to see if your product delivers value to your users.
 
 ### Interpreting Results
-The Wizard of Oz test can provide valuable information especially quantitative data. Also you can gather information about the nature of interaction with your product.  Summarize all your observations and use the insights to adjust your solution accordingly.
+The Wizard of Oz test can provide valuable information, especially quantitative data. Also you can gather information about the nature of interaction with your product. Summarize all your observations and use the insights to adjust your solution accordingly.
 
 ### Potential Biases
-- Sampling Bias --> same as concierge test
-- Confirmation Bias --> same as concierge test
+- Sampling bias --> same as concierge test
+- Confirmation bias --> same as concierge test
 
 ### Field Tips
 - “Be lazy. If you can hire five interns to fake a feature, don’t bother coding it.” - @TriKro
