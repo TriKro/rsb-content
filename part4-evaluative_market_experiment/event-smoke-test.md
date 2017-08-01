@@ -81,7 +81,7 @@ You won't know if you are getting a clear indicator there is high demand, or if 
 
 ## Case Studies
 
-* Ash Maurya used events to test demand and confirm the quality of his content while writing his book _Running Lean_
+* Ash Maurya used events to test demand and confirm the quality of his content while writing his book _Running Lean._
 * Got a case study? Add a link by emailing us: [realbook@trikro.com](mailto:realbook@trikro.com)
 
 ## References
