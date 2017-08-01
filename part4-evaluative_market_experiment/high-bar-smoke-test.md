@@ -45,10 +45,10 @@ Offline: depends on your existing approach/processes, and also what you want to 
 
 1. Determine what else you want to know about your target market and in what time frame \(timebox\)
 2. Determine the current conversion rate on your existing signup process
-   * make it clear exactly how this is calculated, i.e. what constitutes a "conversion event" particularly if you are doing it manually
-   * also be clear on the ideal prospect, i.e. your "near miss prospects" don't count if they fill out the form
+   * Make it clear exactly how this is calculated, i.e. what constitutes a "conversion event" particularly if you are doing it manually
+   * Also be clear on the ideal prospect, i.e. your "near miss prospects" don't count if they fill out the form
 3. Add some "friction" to the process in the form of additional form fields or introduce an application process
-   * if you have enough traffic, you can try to set this up as an A/B split test
+   * If you have enough traffic, you can try to set this up as an A/B split test
 4. Once the timebox expires, compare your conversion rate 
 
 ### Interpreting Results
