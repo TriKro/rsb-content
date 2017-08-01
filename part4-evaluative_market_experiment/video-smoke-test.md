@@ -29,25 +29,25 @@ The difference here is that:
  2. The goal is to test how early evangelists actually react.  
  3. Usually the key metric to observe is the virality coefficient, which is somewhat easier than it was with classic movie trailers.
 
-Often the production of a video will require comprehension testing. In high tech industries, it's quite common to create products that have clear benefits to geeks but are incomprehensible to the general population. A video used for a smoke test should be using concepts which are clear to a young child.
+Often the production of a video will require comprehension testing. In high tech industries, it's quite common to create products that have clear benefits to geeks but are incomprehensible to the general population. A video used for a smoke test should be using concepts that are clear to a young child.
 
 According to Lee LeFever, a good video:
 
-* establishes empathy
-* is unique
-* is easy to understand
-* communicates a key insight 
-* answers "why" the product exists
-* get prospects to care or hooks into why they would care about it
+* Establishes empathy
+* Is unique
+* Is easy to understand
+* Communicates a key insight 
+* Answers "why" the product exists
+* Get prospects to care or hooks into why they would care about it
 
-A good video also delivers enough impact, that many propects want to share it with their friends in order to:
+A good video also delivers enough impact that many prospects want to share it with their friends in order to:
 
-* appear "in-the-know"
-* also help address or identify the problem mentioned in the video
+* Appear "in-the-know"
+* Also help address or identify the problem mentioned in the video
 
 This is measured via the virality coefficient, as mentioned in the Broken Promise smoke test. In practice, it's possible to check for video virality by using social media platforms like Facebook or Twitter, particularly if these platforms are used by the target audience. It's easy to use them to gathering baseline organic sharing metrics there.
 
-Then some thought and planning needs to be put into promotion. In particular, channel testing is an important part of testing virality. Which Facebook groups exactly? Which Sub-Reddits? Where exactly to guest post? Posting the video should also take into account the "news cycle" on social platforms, i.e. when is the right time to post it?
+Then some thought and planning needs to be put into promotion. In particular, channel testing is an important part of testing virality. Which Facebook groups exactly? Which Sub-Reddits? Where exactly to guest post? Posting the video should also take into account the news cycle on social platforms, i.e., when is the right time to post it?
 
 To some extent, this technique is also embedded in crowdfunding platforms like Kickstarter and IndieGogo.
 
