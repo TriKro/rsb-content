@@ -1,7 +1,7 @@
 # Concierge Test
 
 ## In Brief
-Concierge is a technique to test the solution of a customer problem by manually performing tasks as a service. Typically it is inefficient in terms of cost effectiveness, but can provide detailed information about how a solution can be created and what minimum viable feature set should be included in an automated and optimized product.
+Concierge is a technique to test the solution of a customer problem by manually performing tasks as a service. It is typically not very cost effective but can provide detailed information about how a solution can be created and what minimum viable feature set should be included in an automated and optimized product.
 
 ## Helps Answer
 - Does the solution solve a real customer problem?
@@ -16,7 +16,7 @@ Concierge is a technique to test the solution of a customer problem by manually 
 - Value Proposition
 
 ## Description
-In a concierge test the value proposition is delivered as a service. Like a hotel concierge the focus is on a highly customized customer facing service. For this method you need to perform the tasks manually usually with a few customers as it is not cost efficient to scale. However the high customer touch allows you to get quality feedback from the targeted segment. Key advantage is that services can be almost instantly adjusted at a very low cost. Hence iterations based on insights from customer feedback are easily done. 
+In a concierge test the value proposition is delivered as a service. Like a hotel concierge the focus is on a highly customized customer facing service. For this method you need to perform the tasks manually, usually with a few customers as it is not cost efficient to scale. However the high customer touch allows you to get quality feedback from the targeted segment. Key advantage is that services can be almost instantly adjusted at a very low cost. Hence iterations based on insights from customer feedback are easily done. 
 
 To conduct a successful concierge test you need to be clear about your value proposition and have it well formulated. As as an evolution of problem-solution interview techniques the goal is to test the solution and figure out if it matches your customer’s expectations. Design your value proposition as a service with the leap-of-faith assumptions in mind. When using the service your customers should go through the same steps as they would go through later with your product idea.
 

@@ -32,7 +32,7 @@ See Usability Testing but use a competitor’s products or a substitute good. Fo
 ### Interpreting Results
 Any results should be taken as generative and not evaluative. In addition, any ideas generated tend to be highly unstructured and piecemeal. So they must be properly integrated in a viable solution.
 
-Before building a solution, any ideas should be tested via alternative generative product research methods such as Solutions Interviews or Concierge Testing.
+Before building a solution, any ideas should be tested via alternative generative product research methods such as solutions interviews or concierge testing.
 
 ### Field Tips
 * “Don’t reinvent the wheel, figure out what’s wrong with walking to begin with.” - @TriKro
