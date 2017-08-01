@@ -22,10 +22,10 @@ The video smoke test consists of using a trailer video to test excitement and vi
 
 ## Description
 
-Movie trailers have existed for decades. Book trailers have been used to great effect to help launch books. With a video smoke test, however, you are using video to explicitly run an experiment.
+Movie trailers have existed for decades. Book trailers have been used to launch books. With a video smoke test, however, you are using video to explicitly run an experiment.
 
 The difference here is that:  
- 1. The product does not have to exist yet, particularly if the product concept is very "new and different" compared to existing technology.  
+ 1. The product does not have to exist yet, particularly if the product concept is very new and different from existing technology.  
  2. The goal is to test how early evangelists actually react.  
  3. Usually the key metric to observe is the virality coefficient, which is somewhat easier than it was with classic movie trailers.
 
@@ -49,7 +49,7 @@ This is measured via the virality coefficient, as mentioned in the Broken Promis
 
 Then some thought and planning needs to be put into promotion. In particular, channel testing is an important part of testing virality. Which Facebook groups exactly? Which Sub-Reddits? Where exactly to guest post? Posting the video should also take into account the news cycle on social platforms, i.e., when is the right time to post it?
 
-To some extent, this technique is also embedded in crowdfunding platforms like Kickstarter and IndieGogo.
+To some extent, this technique is also embedded in crowdfunding platforms like Kickstarter and Indiegogo.
 
 ### Time Commitment
 
@@ -77,11 +77,11 @@ The following is adapted from [Tim Ferriss' detailed breakdown](http://tim.blog/
 10. Add music: The right music should add to the mood and intended emotional tone of the entire video. Also make sure it doesn't overpower other important audio, such as "spoken word" narration.  
 11. Launch/Promote: Try to get it out in front of as many \(relevant\) prospects as possible
 
-1. Analyze: tally up your metrics and figure out what referral rate you achieved 
+1. Analyze: Tally up your metrics and figure out what referral rate you achieved. 
 
 ### Interpreting Results
 
-Referral rate is difficult to track accurately. Most referrals \(93%\) in tradtional businesses happen offline. If you can track aggregate exposure and then total number of referrals, this will be the best you can get. If you only need a high level metric this will be enough to pass/fail your original hypothesis.
+Referral rate is difficult to track accurately. Most referrals \(93 percent\) in traditional businesses happen offline. If you can track aggregate exposure and then total number of referrals, this will be the best you can get. If you only need a high level metric this will be enough to pass/fail your original hypothesis.
 
 ### Potential Biases
 
