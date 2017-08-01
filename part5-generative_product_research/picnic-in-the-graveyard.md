@@ -9,7 +9,7 @@ This technique involves exploring "near miss" failures similar to your product i
  * What did customers like/not like about previously created products?
  * What advice would founders of failed products similar to your idea (near misses) give you, if they were to go after the idea again?
  * Which features have to be included in the product? 
- * How is this product different to similar products offered in the past?
+ * How is this product different from similar products offered in the past?
 
 ## Tags
  * Generative
@@ -20,28 +20,28 @@ This technique involves exploring "near miss" failures similar to your product i
 
 ## Description
 
-Sean Murphy described it best: "Do research on what’s been tried and failed. Many near misses have two out of three values in a feature set combination correct (some just have too many features and it’s less a matter of changing features than deleting a few). If you are going to introduce something that’s “been tried before” be clear in your own mind of what’s different about it and why it will make a difference to your customer."
+Sean Murphy described it best: "Do research on what’s been tried and failed. Many near misses have two out of three values in a feature set combination correct (some just have too many features and it’s less a matter of changing features than deleting a few). If you are going to introduce something that’s “been tried before” be clear in your own mind what’s different about it and why it will make a difference to your customer."
 
-The goal of this technique is to indentify a unique way to angle a product, so that you avoid a previously committed error. You will be introducing the idea at a later time, which will be to your benefit; however, it's likely that previous failures will have useful feedback for you. 
+The goal of this technique is to identify a unique way to angle a product, so that you avoid a previously committed error. You will be introducing the idea at a later time, which will be to your benefit; however, it's likely that previous failures will have useful feedback for you. 
 
-With this technique, you are aiming to construct a fuller picture of what's been tried in the past, in order to identify potential "landmines". This helps navigate a similar space, but with the benefit of the previous founders' experience. It may help generate ideas on the product side, e.g. in terms of feature set. It may also help generate ideas about targetting to a different market segment, or any of the 10 other pivots in Eric Reis' The Lean Startup.
+With this technique, you are aiming to construct a fuller picture of what's been tried in the past, in order to identify potential landmines. This helps navigate a similar space, but with the benefit of the previous founders' experience. It may help generate ideas on the product side, e.g., in terms of feature set. It may also help generate ideas about targeting to a different market segment, or any of the 10 other pivots in Eric Reis' _The Lean Startup_.
 
 ### Time Commitment
 
 * Desk research: 1-2 days
 * Customer development: similar to customer discovery interviews
-* Founder interviews: It depends on how difficult it is to find contact details to former founders. Probably a good idea to timebox contact detail searches. Actual timebox size will depend on how useful/helpful you think advice would be from that founders. For example, choose a timebox of one day per founder, if there were a few startups similar to yours. After that, it's similar to customer discovery interviews.
+* Founder interviews: It depends on how difficult it is to find contact details for former founders. It is probably a good idea to timebox contact detail searches. Actual timebox size will depend on how useful/helpful you think advice would be from that founder. For example, choose a timebox of one day per founder, if there were a few startups similar to yours. After that, it's similar to customer discovery interviews.
 
 ### How To
 
-1. Peform some desk research (Google, etc) to identify previous attempts at entering a similar market with a similar product to your product/product idea. Depending on the idea type, you may also find it useful to ask your local librarian if they can help you find relevant case studies. 
-2. Use social media platforms to seek out customers of these previous companies. Look for "Likes" on facebook of the product/company name. Look for old tweets mentioning the company, etc. 
-3. Reach out and contact these previous customers, and interview them. In particular do both problem and solution interviews. Find out what they liked and disliked about the previous company. 
-4. Then try to find the founders or project/product leads if at a big company. And interview them about their experiences. 
+1. Perform some desk research (Google, etc.) to identify previous attempts at entering a similar market with a similar product to your product/product idea. Depending on the idea type, you may also find it useful to ask your local librarian if they can help you find relevant case studies. 
+2. Use social media platforms to seek out customers of these previous companies. Look for "Likes" on Facebook of the product/company name. Look for old tweets mentioning the company, etc. 
+3. Reach out and contact these previous customers, and interview them. Do both problem and solution interviews. Find out what they liked and disliked about the previous company. 
+4. Then try to find the founders or project/product leads if at a big company, and interview them about their experiences. 
 
 ### Interpreting Results
 
-This is a wonderful technique to generate a lot of ideas, in an area you are already operating in. Particularly at the begining of a startup journey, this technique can help zoom in on what to avoid and exactly what to test, to verify for your yourself if a particular assumption is still true/false. 
+This is a wonderful technique to generate a lot of ideas, in an area you are already operating in. Particularly at the beginning of a startup journey, this technique can help zoom in on what to avoid and exactly what to test, to verify for your yourself if a particular assumption is still true/false. 
 
 ### Potential Biases
 
