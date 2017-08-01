@@ -38,7 +38,7 @@ Similarly, resources can be extremely intense, or as little as a pen and paper. 
 ### Interpreting Results
 The data you collect will be mainly qualitative data as you are delivering a manual service. You need to aggregate the data from all your current customers for the various aspects of your service. Use the insights to adjust your service accordingly.
 
-The main benefit of this method is to generate idea around the potential solution/product and identify any obstacles to implementing that solution. 
+The main benefit of this method is to generate ideas around the potential solution/product and identify obstacles to implementing that solution. 
 
 ### Potential Biases
 - False Positive Bias: This method does not serve to validate the solution as the manual component provides an extra value proposition of trust and responsiveness. Entrepreneurs can therefore mistake positive feedback on the service as validation of the product concept. When moving to an automated solution, the extra “human” value proposition is removed and the customer can reject the solution.
