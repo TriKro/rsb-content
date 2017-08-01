@@ -29,10 +29,10 @@ Often solution interviews are performed with some kind of a proxy for a product,
 
 The primary goals of solution interviews are to:
 
-* Define the minimum features needed to solve a previously identified problem
-* Have a found price the customer is willing to pay (to check that you can build a business around it)
+* Define the minimum features needed to solve a previously identified problem.
+* Have a found price the customer is willing to pay (to check that you can build a business around it).
 
-For smaller $ value products, you may want to perform some kind of a smoke test instead. A solution interview is a useful way to prepare a smoke test, or to understand why a smoke test didn't pass your research hypothesis. 
+For smaller $ value products, you may want to perform some kind of a smoke test instead. A solution interview is a useful way to prepare a smoke test or to understand why a smoke test didn't pass your research hypothesis. 
 
 For a larger $ value product, the solution interview may feel like a consultative sale. Nonetheless, it's primarily a research tool to help adjust or customize a product to real customer needs. 
 
