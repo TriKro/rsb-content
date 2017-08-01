@@ -22,12 +22,12 @@ To conduct a successful concierge test you need a clear and well-formulated valu
 
 Deliver your service manually in a customized and personal way. To avoid being overwhelmed, start with just a small batch of customers. At this point you do not need a single line of code or automation. Even though it is inefficient and time consuming keep in mind that the direct customer touch you can learn from is more valuable. While delivering your service keep collecting customer feedback and adjust your service accordingly. 
 
-After some time you learn what your customers' expectations are and what is really valuable to them. Gradually automate the parts of your service that work. Be careful not to run your concierge test forever! Keep automating and expanding your service until you are not getting new major insights.
+After some time you learn about your customers' expectations and what is really valuable to them. Gradually automate the parts of your service that work. Be careful not to run your concierge test forever! Keep automating and expanding your service until you are not getting new major insights.
 
 ### Time Commitment & Resources
-Concierge tests can be the most time consuming test as it requires manually solving the customer problem. For a complex B2B IT solution, a concierge solution can be a complete consulting engagement lasting many months. For a consumer, it might be as simple as personally going shopping with a customer.
+Concierge tests can be the most time consuming method as it requires manually solving the customer problem. For a complex B2B IT solution, a concierge solution can be a complete consulting engagement lasting many months. For a consumer, it might be as simple as personally going shopping with a customer.
 
-Similarly, the method can require substantial resources or nothing but a pen and paper. In the case of a B2B concierge service, it is often possible to charge for the solution up front, which eliminates any resource constraints.
+Similarly, the method can require substantial resources or nothing but a pen and paper. In the case of a B2B concierge service, it is often possible to charge for the solution up-front, which eliminates resource constraints.
 
 ### How To
 - Write down the value proposition that needs to be tested. 
@@ -36,7 +36,7 @@ Similarly, the method can require substantial resources or nothing but a pen and
 - Execute the service by performing tasks manually even though it is not effective.
 
 ### Interpreting Results
-The data you collect will be mainly qualitative data as you are delivering a manual service. You need to aggregate the data from all your current customers for the various aspects of your service. Use the insights to adjust your service accordingly.
+You will collect mostly qualitative data as you are delivering a manual service. You need to aggregate the data from all your current customers for the various aspects of your service. Use the insights to adjust your service accordingly.
 
 The main benefit of this method is to generate ideas around the potential solution/product and identify obstacles to implementing that solution. 
 
