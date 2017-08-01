@@ -39,7 +39,7 @@ Some tools you can use to extract competitor information are:
 - Forrester Research/IDC/Gartner etc. (market reports)
 
 When doing competitive research on other web-based companies here are a few other tools you can use:
-- Compete to see their traffic data, and which way it’s trending
+- Compete to see their traffic data and which way it’s trending
 - Quantcast to get a rough feel for the demographics of their average customer
 - AppData (if they have a Facebook or mobile app) to see how engaged their users are
 
