@@ -53,7 +53,7 @@ To some extent, this technique is also embedded in crowdfunding platforms like K
 
 ### Time Commitment
 
-Depends on the expected production value of the video. Basic videos can be recorded and edited in 1-2 days; however, there is always the risk that the video falls short because it doesn't deliver on one of the key criteria above. A full production can take 1-3 weeks.
+Depends on the expected production value of the video. Basic videos can be recorded and edited in 1-2 days; however, there is always the risk that the video will fall short because it doesn't deliver on one of the key criteria above. A full production can take 1-3 weeks.
 
 To be effective, promotion planning starts a few weeks before posting. Actual work required depends on how much you want to promote the video, in order to get valid test results. As a minimum, you'd want to schedule at least 5 working days. More realistically, it requires at least a part-time effort of a few hours a day from idea to video launch.
 
