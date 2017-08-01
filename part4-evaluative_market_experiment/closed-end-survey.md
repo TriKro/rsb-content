@@ -2,7 +2,7 @@
 
 ## In Brief
 
-Closed-end surveys help converge on what's relevant in great detail, particularly to customers or prospects. They are designed to create structured quantitative data, which lends itself to statistical techniques. These surveys preselect a number of possible answers for each question. They also help explore categories of data, to explore segmentation for example.
+Closed-end surveys help converge on what's relevant in great detail, particularly to customers or prospects. They are designed to create structured quantitative data, which lends itself to statistical techniques. These surveys preselect a number of possible answers for each question. They also help explore categories of data, for example, to explore segmentation.
 
 ## Helps Answer
 
