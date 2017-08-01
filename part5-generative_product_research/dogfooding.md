@@ -36,12 +36,12 @@ Take notes whenever something works surprisingly well or fails to live up to exp
 Record any additional insights or ideas that occur while using the product.
 Note any time when the workflow is interrupted or another service is needed to finish the task.
 
-### Debriefing & Interpreting Results
-Care has to be taken to interpret the results as generative and not evaluative. The makers of a product have an intimate knowledge about the product design and likely cannot capture the uneducated user’s perspective.
+### Debriefing and Interpreting Results
+Be careful to interpret the results as generative and not evaluative. The makers of a product have an intimate knowledge of the product design and likely cannot capture the uneducated user’s perspective.
 
-This is especially true in dogfooding the new user process, where the makers of the product have a massive amount of prior information and expectations regarding the sign up and onboarding process.
+This is especially true in dogfooding the new user process, where the makers of the product have a massive amount of prior information and expectations regarding the signup and onboarding process.
 
-Completely missing edge cases are also particularly common, especially if the team is not particularly diverse. For example, a team may not analyze the product for use by handicapped or minority users and thus overlook substantial aspects of its user experience. This can be a more substantive problem as a product scales beyond an initial niche audience.
+Completely missing edge cases are also particularly common, especially if the team is not particularly diverse. For example, a team may not analyze the product for use by handicapped or minority users and thus overlook substantial aspects of its user experience. This can be more of a problem as a product scales beyond an initial niche audience.
 
 When multiple team members dogfood their product, notes can be collected and sorted via card sorting, stack ranking, or other standard UX methods.
 
