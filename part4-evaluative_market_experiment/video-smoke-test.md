@@ -22,14 +22,14 @@ The video smoke test consists of using a trailer video to test excitement and vi
 
 ## Description
 
-Movie trailers have existed for decades. Book trailers have been used to great effect to help launch books. With a video smoke test, though, you are using video to explicitly run an experiment.
+Movie trailers have existed for decades. Book trailers have been used to great effect to help launch books. With a video smoke test, however, you are using video to explicitly run an experiment.
 
 The difference here is that:  
- 1. the product does not have to exist yet, particularly if the product concept is very "new and different" compared to existing technology  
- 2. the goal is to test how early evangelists actually react  
- 3. usually the key metric to observe is the virality co-efficient, which is somewhat easier than it was with classic movie trailers
+ 1. The product does not have to exist yet, particularly if the product concept is very "new and different" compared to existing technology.  
+ 2. The goal is to test how early evangelists actually react.  
+ 3. Usually the key metric to observe is the virality coefficient, which is somewhat easier than it was with classic movie trailers.
 
-Often the production of a video will require comprehension testing. In high tech industries, it's quite common to create products which have clear benefits to geeks, but which are incomprehensible to the population at large. A video used for a smoke test should be using concepts which are clear to a young child.
+Often the production of a video will require comprehension testing. In high tech industries, it's quite common to create products that have clear benefits to geeks but are incomprehensible to the general population. A video used for a smoke test should be using concepts which are clear to a young child.
 
 According to Lee LeFever, a good video:
 
@@ -74,7 +74,7 @@ The following is adapted from [Tim Ferriss' detailed breakdown](http://tim.blog/
 7. Scout locations: Choose backdrops which reinforce your message or at least that is familiar and relevant for the target audience.  
 8. Shoot principal footage: Take a lot of shots  
 9. Editing: Choose the best shots and arrange them  
-10. Add music: The right music should add to the mood and intended emotional tone of the entire video. Also make sure it doesn't overpower other important audio, such as "spoken word" narration.   
+10. Add music: The right music should add to the mood and intended emotional tone of the entire video. Also make sure it doesn't overpower other important audio, such as "spoken word" narration.  
 11. Launch/Promote: Try to get it out in front of as many \(relevant\) prospects as possible
 
 1. Analyze: tally up your metrics and figure out what referral rate you achieved 
