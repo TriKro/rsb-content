@@ -17,7 +17,7 @@ This smoke test applies to physical goods or products with hardware components -
 
 * Solution
 * Design
-* Value Proposition
+* Value proposition
 
 ## Description
 
@@ -33,9 +33,9 @@ Varies significantly on the actual product. On the low end, it's easy to use mob
 
 ### How To
 
-1. Sketch out roughly how the product needs to look. This can be very simple or a full electronics blueprint. 
+1. Roughly sketch how the product should look. This can be very simple or a full electronics blueprint. 
 2. Build or assemble the product \(manually, 3d printing, Arduinos and Raspberry Pis, sensors, breadboards, etc\)
-3. Show it to pre-qualified customers who have the problem you want to address
+3. Show it to prequalified customers who have the problem you want to address.
 
 ### Interpreting Results
 
@@ -43,12 +43,14 @@ Ask lots of questions about what the user would find valuable. Hone in on how yo
 
 ### Potential Biases
 
-You don't need to be able to mass produce the prototype in order to run this smoke test. Scaling requires a different set of tests. Also you don't need to be concerned too much about production costs and revenues at this stage. You just want to get an idea of user expectations.
+You don't need to be able to mass produce the prototype in order to run this smoke test. Scaling requires a different set of tests. Also you don't need to be overly concerned about production costs and revenue at this stage. You just want to get an idea of user expectations.
 
 ### Field Tips
+
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
+
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
