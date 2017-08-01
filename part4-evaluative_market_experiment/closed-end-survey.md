@@ -20,11 +20,11 @@ Closed-end surveys help converge on what's relevant in great detail, particularl
 
 ## Description
 
-Closed end surveys consist of closed-end questions only. These types of surveys are most useful for exploring "known unknowns". Typically, this means that:  
- 1. you've tried exploring what you don't know  
- 2. you've already chosen direction, and  
- 3. there are still holes in your knowledge  
-For example, a startup founder who has achieved problem-solution fit, and has performed some smoke testing around key "happy case" assumptions could use a closed-end survey to prioritize or discover other issues.
+Closed-end surveys consist of closed-end questions only. These types of surveys are most useful for exploring "known unknowns." Typically, this means that:  
+ 1. You've tried exploring what you don't know.  
+ 2. You've already chosen direction, and  
+ 3. There are still holes in your knowledge.  
+For example, a startup founder who has achieved problem-solution fit and has performed some smoke testing around key "happy case" assumptions could use a closed-end survey to prioritize or discover other issues.
 
 As the survey giver, you are interested in finding patterns in the answers. By focussing in depth of a particular group of people, you hope to uncover hidden patterns in the data you gather.
 
@@ -42,33 +42,33 @@ These surveys can be delivered offline \(expert with clipboard\), online \(popup
 
 ### Time Commitment
 
-Varies significantly with the survey length and methodology chosen. It can take an hour to configure an exit survey on a website, or it can take weeks to perform a large scale in-person survey and manually entering the data into a useful format.
+Varies significantly with the survey length and methodology chosen. It can take an hour to configure an exit survey on a website, or it can take weeks to perform a large scale in-person survey and manually enter the data into a useful format.
 
 ### How To
 
 1. Be very clear what you want to learn up front when designing the questionnaire. For example, a survey would have very different questions for each of these goals:
-   * discovering user problems 
-   * improving an existing product/UX
-   * keep track of user statisfaction \(as a proxy for referrals\)
-   * improve customer service
+   * Discovering user problems 
+   * Improving an existing product/UX
+   * Keep track of user statisfaction \(as a proxy for referrals\)
+   * Improve customer service
 
 Usually this goal will feed from your current overarching goal in the business. Ideally write out the goal of the survey in one sentence.
 
-1. Formulate questions you'd like respondents to answer. As a rule of thumb, only include questions which you think will result in specific actions. For example, how will you use the data you gather to inform your decisions when it comes to catering, lodging, transportation, registration, event activities/workshops, and speakers?
+1. Formulate questions you'd like respondents to answer. As a rule of thumb, only include questions that you think will result in specific actions. For example, how will you use the data you gather to inform your decisions when it comes to catering, lodging, transportation, registration, event activities/workshops, and speakers?
 
 Types of questions include:
 
 * Dichotomous: Do you have private health insurance? yes/no
 * Likert-type scale: To what extent are you satisfied? 
-  * 100%
-  * 75%
-  * 50%
-  * 25%
-  * 0%
+  * 100 percent
+  * 75 percent
+  * 50 percent
+  * 25 percent
+  * 0 percent
 * List of items: My favorite food group is:
   * Grains
   * Meat
-  * Fruit & Veg
+  * Fruit and Vegetable
   * Milk
 * Ordinal: Sort the following according to the order of importance to you:
   * Price
@@ -88,7 +88,7 @@ Types of questions include:
 
 Use simple statistical techniques like correlation, ANOVA, or regression for further insights. Alternatively, hire a data scientist to help you interpret your results.
 
-Be sure that you have enough respondents to be able to use rigorous tools. Check your sample size as a whole, but also for each sub-group. If you don't have enough within a segment, you can't make a statistically informed statement about that group of people.
+Be sure that you have enough respondents to be able to use rigorous tools. Check your sample size as a whole, but also for each subgroup. If you don't have enough within a segment, you can't make a statistically informed statement about that group of people.
 
 Based on your responses, check to see if any of the questions were too obviously worded or confusing.
 
