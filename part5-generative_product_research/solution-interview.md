@@ -2,7 +2,7 @@
 
 ## In Brief
 
-The solution interview builds on your research about the problem and proposes a solution, in order to see how they react. Solution interviews result in qualitative feedback from users or prospects about the product, when presented with the product or a prototype. Use a “demo” to help customers understand your solution and confirm that it will solve their problem. 
+The solution interview builds on your research about the problem and proposes a solution, in order to see how potential customers react. Solution interviews result in qualitative feedback from users or prospects about the product, when presented with the product or a prototype. Use a “demo” to help customers understand your solution and confirm that it will solve their problem. 
 
 ## Helps Answer
  * What is the minimum feature set needed to launch?
@@ -23,9 +23,9 @@ The solution interview builds on your research about the problem and proposes a 
 
 ## Description
 
-The biggest risk product entrepreneurs face is that they’ll create a product which absolutely no one wants to buy. Problem interviews help identify common problems within a particular market segment. When you have identified a clear problem, solution interviews help nail down the reasons why or whether a particular product "works" for your early adopters. 
+The biggest risk product entrepreneurs face is that they’ll create a product that absolutely no one wants to buy. Problem interviews help identify common problems within a particular market segment. When you have identified a clear problem, solution interviews help nail down the reasons why or whether a particular product "works" for your early adopters. 
 
-Often solution interviews are performed with some kind of a proxy for a product, created to spark a conversation with the prospect or customer. According to @ashmaurya, "You want to build enough of the solution (or a proxy, like screenshots, a prototype, etc) that you can put in front of customers for the purpose of measuring their reaction and further defining the requirements for your minimum viable product (MVP) ” 
+Often solution interviews are performed with some kind of a proxy for a product, created to spark a conversation with the prospect or customer. According to @ashmaurya, "You want to build enough of the solution (or a proxy, like screenshots, a prototype, etc.) that you can put in front of customers for the purpose of measuring their reaction and further defining the requirements for your minimum viable product (MVP).” 
 
 The primary goals of solution interviews are to:
 
@@ -42,27 +42,27 @@ Like other types of customer interviews, solution interviews are best done in pa
 
 This is similar to initial customer discovery/problem interviews. 
  * Rounds of interviews to test one hypothesis can range from 5 to 100 interviews. 
- * Actual interviews last anywhere from a 5 minutes, for consumer products tested using "man on the street" interviews, to 2 hours for detailed B2B requirements gathering. 
- * Time costs can be significant, in terms of recruiting appropriate interviewees, particularly ones who current have the problem you want to solve and who are in the target segment.
+ * Actual interviews last anywhere from 5 minutes, for consumer products tested using "man on the street" interviews, to 2 hours, for detailed B2B requirements gathering. 
+ * Time costs can be significant, in terms of recruiting appropriate interviewees, particularly ones who currently have the problem you want to solve and who are in the target segment.
  * Financial costs: Depending on context, you can offer gift certificates or a symbolic gift if you feel it's appropriate (e.g. in a B2B scenario).
 
 ### How To
 
 Determine what you want to learn before conducting interviews, and formulate a research hypothesis. 
 
-1. Greet the user/prospect
-2. Confirm that they fit all of your criteria, and that they have the problem you want to solve currently
-3. Set the problem context by telling a story
-4. Reflect/re-confirm the problem back to the customer
-5. Propose/demo a specific solution
-6. Optionally discuss pricing, particularly relative to alternative products
+1. Greet the user/prospect.
+2. Confirm that they fit all of your criteria and that they have the problem you currently want to solve.
+3. Set the problem context by telling a story.
+4. Reflect/reconfirm the problem back to the customer.
+5. Propose/demo a specific solution.
+6. Optionally discuss pricing, particularly relative to alternative products.
 7. Ask "what you need to do to make progress?"
-8. Get permission to follow up and/or for referrals
+8. Get permission to follow up and/or for referrals.
 9. Document your results, ideally a small A6 notepad that fits in your pocket if you are out on the street.
 
 ### Interpreting Results
 
-Use the solution interview to plan the intial feature set of your product and to determine pricing strategy. 
+Use the solution interview to plan the initial feature set of your product and determine pricing strategy. 
 
 ### Potential Biases
  * Leading questions: “Do you usually add products to the cart or use the one-click-purchase?” miss the opportunity to actually learn how the user uses Amazon
