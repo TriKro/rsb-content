@@ -2,7 +2,7 @@
 
 ## In Brief
 
-They naturally want to share ideas or products they love with their friends. This smoke test helps test how much of a natural/inherent virality lies in the idea itself. It helps identify high potential ideas, before you've built a product.
+People naturally want to share ideas or products they love with their friends. This smoke test helps test how much of a natural/inherent virality lies in the idea itself. It helps identify high potential ideas, before you've built a product.
 
 ## Helps Answer
 
@@ -51,7 +51,7 @@ Minimal: 1-2 day developer and designer time, or you can use a viral landing pag
 
 ### Interpreting Results
 
-Interpretation is framed by how you originally formulated the experiment, i.e., what is the cutoff value for the referral rate, in order to make a go/no-no decision? Also, be clear on exactly who you count, both in the original and referred group. For example, immediate family like your mom doesn't count \(as well as anyone she refers\) unless she really is representative of your target market.
+Interpretation is framed by how you originally formulated the experiment, i.e., what is the cutoff value for the referral rate in order to make a go/no-go decision? Also, be clear on exactly who you count, both in the original and referred group. For example, immediate family like your mom doesn't count \(as well as anyone she refers\) unless she really is representative of your target market.
 
 ### Potential Biases
 
