@@ -50,12 +50,12 @@ Breaks during the event are critical. They give participants time to network, go
 ### How To
 
 1. Find a venue that is appropriate to the type of event you want to organize.
-2. Decide what you want to charge and how to pitch the event
+2. Decide what you want to charge and how to pitch the event.
 3. Create an event page on an appropriate platform: meetup.com, eventbrite.com, or another platform. Use insights about the customer problem and language from customer interviews to inform the event description.
-4. Promote the event with your target audience, using suggestions from previous customer development about appropriate channels
-5. If appropriate, run a survey before or during the event to customize the event to audience needs
-6. Run the event. Be sure to have many unstructured conversations with attendees, in addition to the formal agenda and event goals
-7. Follow up afterwards with a survey. Optionally, create buzz on social media, sharing any photos, blog posts, or other artefacts from the event.
+4. Promote the event with your target audience, using suggestions from previous customer development about appropriate channels.
+5. If appropriate, run a survey before or during the event to customize the event to audience needs.
+6. Run the event. Be sure to have many unstructured conversations with attendees, in addition to the formal agenda and event goals.
+7. Follow up afterwards with a survey. Optionally, create buzz on social media by sharing any photos, blog posts, or other artifacts from the event.
 
 ### Interpreting Results
 
