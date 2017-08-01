@@ -42,7 +42,7 @@ The main benefit of this method is to generate ideas around the potential soluti
 
 ### Potential Biases
 - False Positive Bias: This method does not serve to validate the solution as the manual component provides an extra value proposition of trust and responsiveness. Entrepreneurs can therefore mistake positive feedback on the service as validation of the product concept. When moving to an automated solution, the extra “human” value proposition is removed and the customer can reject the solution.
-- Sampling Bias: As the concierge test is manually performed you have to find a balance. On the one hand having too much customers can be overwhelming. You find yourself or your team just busy to deliver the promised service, which leaves very little time to analyze the data and use the insights to make adjustments. On the other hand, you have to make sure that your customer batch is not too small. Insights you get from just one or two customers might not be enough. You risk that the collected feedback is not representative for your customer segment you are targeting. 
+- Sampling Bias: As the concierge test is manually performed you have to find a balance. On the one hand having too many customers can be overwhelming. You find yourself or your team just busy to deliver the promised service, which leaves very little time to analyze the data and use the insights to make adjustments. On the other hand, you have to make sure that your customer batch is not too small. Insights you get from just one or two customers might not be enough. You risk that the collected feedback is not representative for your customer segment you are targeting. 
 
 ### Field Tips
 * “A concierge test is an experience not a product.” @poornima 
