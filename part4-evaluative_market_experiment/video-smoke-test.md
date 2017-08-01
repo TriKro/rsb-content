@@ -29,7 +29,7 @@ The difference here is that:
  2. The goal is to test how early evangelists actually react.  
  3. Usually the key metric to observe is the virality coefficient, which is somewhat easier than it was with classic movie trailers.
 
-Often the production of a video will require comprehension testing. In high tech industries, it's quite common to create products that have clear benefits to geeks but are incomprehensible to the general population. A video used for a smoke test should be using concepts that are clear to a young child.
+Often the production of a video will require comprehension testing. In high-tech industries, it's quite common to create products that have clear benefits to geeks but are incomprehensible to the general population. A video used for a smoke test should use concepts that could be understood by a young child.
 
 According to Lee LeFever, a good video:
 
