@@ -39,7 +39,7 @@ Tends to vary significantly based on cost of product and method of distribution.
    * Do your homework and check out the prospect on social media before meeting them \(LinkedIn, Facebook, etc\).
 4. Ask well thought-out and observant questions. Match the customer's motivations with product attributes. 
 5. If/when appropriate, pitch the product.
-6. After the pitch, expect objections and be ready to handle them
+6. After the pitch, expect objections and be ready to handle them.
    * This is where you will learn the most about how your prospect perceives your offer and your product.
    * Listen closely and give the prospect a chance to explain what's bothering them.
    * If appropriate repeat the concern back to the prospect to make sure that you understand what they're saying.
@@ -64,15 +64,15 @@ This smoke test does not suggest the optimal price point for the product, or whe
 * Anchoring bias: One sale does not a business model make. A fully functioning sales system is what you ultimately need; however, a smoke test is still useful to prove that you have a sellable product.
 * Clustering illusion: It can be tempting to overgeneralize learnings from one sale smoke test. Try to make a few sales, particularly if the product is not very expensive.
 * Estimation fallacy: underestimating the amount of time to get to that first sale
-* Curse of knowledge: You know your product, service, or solution better than your prospects. You may overwhelm or confuse them, preventing them from buying, even though they actually need it. When fielding objections, try asking them directly whether or not they understand the proposition or use comprehension testing.
+* Curse of knowledge: You know your product, service, or solution better than your prospects. You may overwhelm or confuse them, preventing them from buying, even though they actually need it. When fielding objections, try directly asking them whether or not they understand the proposition or use comprehension testing.
 
 ### Field Tips
 
-* When starting to initiate a conversation with prospect, make small talk by observing and commenting on them or the situation.
+* When starting to initiate a conversation with a prospect, make small talk by observing and commenting on them or the situation.
 * Use open-ended questions to discover more about the customer and what they're looking for.
 * Ask about your customer's goals and intentions first, to adapt your pitch to their circumstances.
-* An in person sale is usually made by overcoming one or a few top objections, and each customer will have a different one.
-* "When" is a powerful question, that helps establish the urgency of the problem for the customer.
+* An in-person sale is usually made by overcoming one or a few top objections, and each customer will have a different one.
+* "When" is a powerful question that helps establish the urgency of the problem for the customer.
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
