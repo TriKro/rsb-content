@@ -38,14 +38,14 @@ According to Lee LeFever, a good video:
 * Is easy to understand
 * Communicates a key insight 
 * Answers "why" the product exists
-* Get prospects to care or hooks into why they would care about it
+* Gets prospects to care or hooks into why they would care about it
 
-A good video also delivers enough impact that many prospects want to share it with their friends in order to:
+A good video also delivers enough impact that prospects want to share it with their friends in order to:
 
 * Appear "in-the-know"
 * Also help address or identify the problem mentioned in the video
 
-This is measured via the virality coefficient, as mentioned in the Broken Promise smoke test. In practice, it's possible to check for video virality by using social media platforms like Facebook or Twitter, particularly if these platforms are used by the target audience. It's easy to use them to gathering baseline organic sharing metrics there.
+This is measured via the virality coefficient, as mentioned in the Broken Promise smoke test. In practice, it's possible to check for video virality by using social media platforms like Facebook or Twitter, particularly if these platforms are used by the target audience. It's easy to use them to gather baseline organic sharing metrics.
 
 Then some thought and planning needs to be put into promotion. In particular, channel testing is an important part of testing virality. Which Facebook groups exactly? Which Sub-Reddits? Where exactly to guest post? Posting the video should also take into account the news cycle on social platforms, i.e., when is the right time to post it?
 
