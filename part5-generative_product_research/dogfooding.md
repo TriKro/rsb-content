@@ -14,9 +14,9 @@ Dogfooding is simply using the product as if one was the customer and experienci
 - Generative product research
 
 ## Description
-Using one’s own product is a standard practice among many technology startups and entrepreneurs. In many cases, entrepreneurs are building a product to solve their own pain points so it is common to then use the product.
+Using one’s own product is a standard practice among many technology startups and entrepreneurs. In many cases, entrepreneurs are building a product to solve their own pain points, so it is common to then use the product.
 
-There is no predefined script for dogfooding and it is not a formal quality assurance (QA) process. The main advantage to dogfooding is it may reveal unorthodox use cases that may not have been covered in the requirements or QA tests. Therefore, dogfooding should primarily be considered generative research and not an experiment.
+There is no predefined script for dogfooding and it is not a formal quality assurance (QA) process. The main advantage to this method is it may reveal unorthodox use cases that were not covered in the requirements or QA tests. Therefore, dogfooding should primarily be considered generative research and not an experiment.
 
 Companies that do not use their own products and services are sometimes criticized, [in some cases very publically](https://www.cnet.com/news/googles-eric-schmidt-why-i-love-my-blackberry/).
 
