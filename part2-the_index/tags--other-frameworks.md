@@ -1,3 +1,4 @@
+![](/assets/Icon-Tools.png)
 # Other Frameworks
 
 There are many great methods, books, and frameworks out there on how to identify and prioritize risky assumptions, hypotheses, and questions.
@@ -24,8 +25,8 @@ The Business Model Canvas is a very popular framework that identifies the nine b
 
 
 
-\[IMAGE\]
-
+![\[IMAGE\]
+](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Business_Model_Canvas.png/1200px-Business_Model_Canvas.png)
 
 
 Based on our completed canvas, we choose the area of greatest risk to our success. Sometimes this is the customer segment, but in the case of an existing market it may be the value proposition, channels, or even key partners.
