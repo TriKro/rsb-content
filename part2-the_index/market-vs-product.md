@@ -1,3 +1,5 @@
+![](/assets/illustration-market-vs-product-color.png)
+
 # Market vs. Product
 
 Do we need to learn about the _market_ or the _product_?

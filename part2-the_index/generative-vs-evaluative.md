@@ -1,3 +1,4 @@
+![](/assets/illustration-generative-vs-evaluative.png)
 # Generative vs. Evaluative
 
 Do we have a clear hypothesis to _evaluate_ or do we need to _generate_ a clear idea? This distinction depends on our ability to understand what makes a clear hypothesis.
