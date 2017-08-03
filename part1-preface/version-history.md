@@ -1,4 +1,4 @@
-![](/assets/illustration-Checkmark-small-shaded.png)
+![](/assets/illustration-Calendar01-shaded.png)
 # Version History
 
 * **Version 0.4 - **Moved book to Gitbook
