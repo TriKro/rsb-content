@@ -1,3 +1,4 @@
+![](/assets/illustration-UserMobile01-shaded.png)
 # Contextual Inquiry
 
 ## In Brief

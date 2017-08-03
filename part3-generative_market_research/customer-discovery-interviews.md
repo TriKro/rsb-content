@@ -1,3 +1,4 @@
+![](/assets/illustration-Customer-small-shaded.png)
 # Customer Discovery Interviews
 
 ## In Brief
