@@ -1,3 +1,4 @@
+![](/assets/illustration-lean-startup-playbook-empty-color.png)
 # Index of Methods
 
 | ** ** | **Market** | **Product** |
