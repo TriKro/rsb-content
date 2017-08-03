@@ -1,3 +1,4 @@
+![](/assets/illustration-activities-digging-hole-shovel-FullFigure-shaded.png)
 # Dedications
 
 _To everyone_
