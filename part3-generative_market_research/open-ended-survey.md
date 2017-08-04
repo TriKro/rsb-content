@@ -1,3 +1,4 @@
+![](/assets/illustration-surveysopenendedv2-what-who-where-why-how-squares.png)
 # Open-Ended Survey
 
 ## In Brief
