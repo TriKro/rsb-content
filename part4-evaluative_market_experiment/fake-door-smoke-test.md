@@ -41,15 +41,15 @@ Clear communication that the feature or product is in development can prevent th
 
 The internal fake door is great for testing to determine if a potential new feature appeals to current users. Usually a link or button is created on a website for this new function.
 
-For example on a local news website a button that says: “Switch to map view,” when the information is currently presented in a tile view. If users are satisfied with how the information is presented, it is likely they will not click this button. If users assume a map view would better suit their needs, then it is likely they will click. The clickthrough rate \(the amount of clicks divided by the number of views\) will help to gauge user interest.
+For example, on a local news website a button that says: “Switch to map view,” when the information is currently presented in a tile view. If users are satisfied with how the information is presented, it is likely they will not click this button. If users assume a map view would better suit their needs, then it is likely they will click. The clickthrough rate \(the amount of clicks divided by the number of views\) will help to gauge user interest.
 
 Be careful when interpreting results. For example, the location of a button can have more influence than the button itself. Make sure to experiment with placing buttons in different locations.
 
-Using an external fake door is a great test if your concept is interesting for a certain audience. A common way to test this is using a ‘fake ad’. For example: you have the idea of starting an online community for Kingfisher-enthusiasts. This community gathers on a website. Before building a complete website, you set up a test and check if there are more kingfisher enthusiasts looking for such an online community. Beforehand you determine that if more than 5 percent of all views convert to a click, enough users are interested in an online community. Doing so, you can simply test if your idea suits the need.
+Using an external fake door is a great test if your concept is interesting for a certain audience. A common way to test this is using a "fake ad." For example, you have the idea to start an online community for Kingfisher enthusiasts. This community gathers on a website. Before building a complete website, you set up a test and check if there are more Kingfisher enthusiasts looking for such an online community. You determine beforehand that if more than 5 percent of all views convert to a click, enough users are interested in an online community. Doing so, you can simply test if your idea suits the need.
 
-Be careful: The text in the header and body of your Ad have great impact on how people react to the advertisement. Therefore always try a variation of sentences in your headers and body of the Ad to overcome this bias.
+Be careful: The text in the header and body of your ad have great impact on how people react to the advertisement. Therefore, always try a variation of sentences in your headers and body of the ad to overcome this bias.
 
-Fake doors are not suitable for testing your minimum viable product and basic functionality. Some functionalities are considered to be so essential, that you just need them. For example your Registration-process.
+Fake doors are not suitable for testing your minimum viable product and basic functionality. Some functionalities, such as your registration process, are so essential that you just need them.
 
 ### How To
 
