@@ -61,7 +61,7 @@ Fake doors are not suitable for testing your minimum viable product and basic fu
 
 ### Interpreting Results
 
-Check your initial hypothesis and see if the results match your success-rate:   
+Check your initial hypothesis and see if the results match your success-rate:  
 depending on your results you have three options:
 
 * Success! Congratulations, you were right. You decide to build the feature.
@@ -93,7 +93,7 @@ depending on your results you have three options:
 
 * Local Dutch information aggregator Tippiq.nl uses fake doors extensively in their proposition development using a separate website \(with www.tippiqlabs.nl\). All new ideas are tested first using fake ads that will lead to a landing page on that website. On the landing page the product/service is explained and the visitor is asked if he would like to use the product. After they have expressed their interest they get a notification that the product is still in development and that they can leave their email if they want to stay up to date.
 
-* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## References
 
