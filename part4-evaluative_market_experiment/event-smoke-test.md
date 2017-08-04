@@ -22,7 +22,7 @@ You can use an event to smoke test a problem, and to some extent, content that i
 
 Organizing an event speeds up your validated learning by scaling it up one step above one-to-one interviews. The goal is to create a safe and fun environment for your target prospects, in order to confirm what you've learned from individual problem and solution interviews.
 
-An event allows you to create a product for your target market. By organizing one, you need to figure out how to reach your target market, what to say exactly, and how to create an experience which they find useful, pleasant, or inspiring.
+An event allows you to create a product for your target market. By organizing one, you need to figure out how to reach your target market, what to say exactly, and how to create an experience that they find useful, pleasant, or inspiring.
 
 The choice of format can vary widely:
 
@@ -35,17 +35,17 @@ The choice of format can vary widely:
 * Networking or drinks 
 * Conference
 
-This type of smoke test is easiest to organize in a larger city, where there are already lots of events and lots of people. Even though an event focuses on your target clients in one location, it can be used to establish a more in-depth relationship giving you much more information than interacting online.
+This type of smoke test is easiest to organize in a larger city, where there are already lots of events and people. Even though an event focuses on your target clients in one location, it can be used to establish a more in-depth relationship, giving you much more information than interacting online.
 
 Events themselves are attractive as a low upfront investment product. They can be considered valuable content. They can be used as a source of highly qualified leads \(or a way to test a channel\), leading into an upsell or presell of a different product/service.
 
-Because an event is a mini-product in and of itself, it can be used to test a number of different hypotheses around related business models. Most frequently, events help with scaling up exploratory customer discovery. They help with exploring customers and problems the most. They can also be combined with other techniques, like basic landing page smoke tests \(with a minimum audience size to confirm there is enough interest in the audience\). Also they can be considered or combined with a concierge MVP, where the event is combined with delivering a service.
+Because an event is a mini-product in and of itself, it can be used to test a number of different hypotheses around related business models. Most frequently, events help with scaling up exploratory customer discovery. They help the most with exploring customers and problems. They can also be combined with other techniques, like basic landing page smoke tests \(with a minimum audience size to confirm there is enough interest in the audience\). Also they can be considered or combined with a concierge MVP, where the event is combined with delivering a service.
 
 ### Time Commitment
 
 Most evening events will take 5-10 hours to organize. This will usually be enough for validation purposes. The biggest "time suck" tends to be finding a venue, particularly if you want to run a specific type of event. The event itself typically lasts 1-3 hours. The key is to make it long enough to seem valuable to the target audience.
 
-Breaks during the event are critical. They give participants time to network, go to the bathroom, and eat or drink anything you've provided. They help consolidate anything learned. From a validation POV, breaks  provide you with unstructured time to interview your target audience.
+Breaks during the event are critical. They give participants time to network, go to the bathroom, and eat or drink anything you've provided. They help consolidate anything learned. From a validation POV, breaks provide you with unstructured time to interview your target audience.
 
 ### How To
 
@@ -55,11 +55,11 @@ Breaks during the event are critical. They give participants time to network, go
 4. Promote the event with your target audience, using suggestions from previous customer development about appropriate channels.
 5. If appropriate, run a survey before or during the event to customize the event to audience needs.
 6. Run the event. Be sure to have many unstructured conversations with attendees, in addition to the formal agenda and event goals.
-7. Follow up afterwards with a survey. Optionally, create buzz on social media by sharing any photos, blog posts, or other artifacts from the event.
+7. Follow up afterwards with a survey. You can also create buzz on social media by sharing any photos, blog posts, or other artifacts from the event.
 
 ### Interpreting Results
 
-Because you can use events to prove many kinds of hypotheses, it's critical to be clear what you want to learn and why it's important for you--before you start organizing the event. As long as there is a clear cutoff value formulated up front, you will find it easy to use events as a source of validation.
+Because you can use events to prove many kinds of hypotheses, it's critical to be clear what you want to learn and why it's important for you--before you start organizing the event. As long as there is a clear cutoff value formulated upfront, you will find it easy to use events as a source of validation.
 
 ### Potential Biases
 
