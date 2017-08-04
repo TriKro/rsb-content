@@ -22,7 +22,7 @@ People are bad at predicting what they want, but they are great at reacting to n
 
 The fake door or 404 page test is a quantitative validation method that is useful in two circumstances:
 
-* To test if your idea arouses the interest of potential customers.
+* To test if your idea sparks the interest of potential customers.
 * To test if an additional feature is a welcome addition to an existing product.  
 
 The idea of this test is to build a fake advertisement or button on a website to gauge the interest of potential users by looking at the clickthrough rate. The fake door could link to a “coming soon” page and prompt the user to add their email address to be notified when the product or feature is available.
@@ -76,7 +76,7 @@ Check your initial hypothesis and see if the results match your success rate. De
 
 ### Potential Biases
 
-* Copy bias: The words used in the fake door will greatly influence your results. Make sure you try copy variations.
+* Copy bias: The words used in the fake door will greatly influence your results. Make sure to try copy variations.
 * Location bias. The location of your ad \(which platform\) or your link \(relative position on your website\) will also influence your results. Make sure you try different variations. 
 
 ### Field Tips
