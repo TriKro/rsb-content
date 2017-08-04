@@ -17,7 +17,7 @@
 
 * Hameed Haqparwar, [Linkedin](https://www.linkedin.com/in/haqparwar), [@haqparwar](https://twitter.com/haqparwar)
 
-* Jacob Fleming, [Linkedin](https://www.linkedin.com/in/jakeflem/)
+* Jake Fleming, [Linkedin](https://www.linkedin.com/in/jakeflem/)
 
 * Jan Kennedy, [Academy for Corporate Entrepreneurship](http://www.afce.co/), [@innovationmojo](https://twitter.com/innovationmojo)
 
@@ -44,6 +44,8 @@
 * Rammohan Reddy, [LeanMantra](http://leanmantra.in/), [Linkedin](https://in.linkedin.com/in/rammohankreddy)
 
 * Sean K. Murphy, [Linkedin](https://www.linkedin.com/in/skmurphy), [SKMurphy](http://www.skmurphy.com/)
+
+* Soojung Chang, [Linkedin](https://www.linkedin.com/in/soojungc/)
 
 * Thierry Dagaeff, [Linkedin](https://ch.linkedin.com/pub/thierry-dagaeff/2/473/127)
 
