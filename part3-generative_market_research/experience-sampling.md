@@ -1,3 +1,4 @@
+![](/assets/illustration-notebook-yellow-colored.png)
 # Experience Sampling
 
 ## In Brief
