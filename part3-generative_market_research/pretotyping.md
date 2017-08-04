@@ -60,7 +60,7 @@ Pretotyping in particular is about minimizing bias by not blindly following fals
 Common biases include:
  * Interviewer bias
  * Confirmation bias
- * Response bias 
+ * Response bias
 
 ### Field Tips
  * “Make sure you are building the right it before you built it right.” @Pretotyping
