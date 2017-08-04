@@ -1,3 +1,4 @@
+![](/assets/illustration-focus-group-talk-bubbles-FullFigure-color.png)
 # Focus Groups
 
 ## In Brief
