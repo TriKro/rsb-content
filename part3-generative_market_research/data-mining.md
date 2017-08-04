@@ -1,3 +1,4 @@
+![](/assets/illustration-data-mining-shovel-dig-hole-color.png)
 # Data Mining
 
 ## In Brief
