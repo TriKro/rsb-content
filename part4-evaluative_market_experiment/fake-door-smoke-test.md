@@ -25,7 +25,7 @@ The fake door or 404 page test is a quantitative validation method that is usefu
 * To test if your idea arouses the interest of potential customers.
 * To test if an additional feature is a welcome addition to an existing product.  
 
-The idea of this test is to build a fake advertisement or button on a website to gauge the interest of potential users by looking at the clickthrough rate. The fake door could link to a “coming soon” page and could prompt the user to add their email address to be notified when the product or feature is available.
+The idea of this test is to build a fake advertisement or button on a website to gauge the interest of potential users by looking at the clickthrough rate. The fake door could link to a “coming soon” page and prompt the user to add their email address to be notified when the product or feature is available.
 
 ### Advantages
 
@@ -33,11 +33,11 @@ An idea can be quickly validated without spending a lot of time and money on dev
 
 ### Ethics
 
-Fake door testing could be thought of as tricking customers and decreasing the credibility of the product or business. When used carefully and in moderation it can save time and money and lead to the development of a better product.
+Fake door testing could be thought of as tricking customers and decreasing the credibility of the product or business. When used carefully and in moderation, it can save time and money and lead to the development of a better product.
 
-Clear communication that the feature or product is in development can help the user not be as upset that the product or feature isn’t available.
+Clear communication that the feature or product is in development can prevent the user becoming upset that the product or feature isn’t available.
 
-### Internal & External Fake Doors
+### Internal and External Fake Doors
 
 The internal fake door is great for testing to determine if a potential new feature appeals to current users. Usually a link or button is created on a website for this new function.
 
@@ -61,8 +61,7 @@ Fake doors are not suitable for testing your minimum viable product and basic fu
 
 ### Interpreting Results
 
-Check your initial hypothesis and see if the results match your success-rate:  
-depending on your results you have three options:
+Check your initial hypothesis and see if the results match your success rate. Depending on your results you have three options:
 
 * Success! Congratulations, you were right. You decide to build the feature.
 * No success! You pivot. Try reframing the link or button. A different word/icons/picture might give a totally different outcome. 
