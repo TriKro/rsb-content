@@ -33,19 +33,19 @@ An idea can be quickly validated without spending a lot of time and money on dev
 
 ### Ethics
 
-Fake door testing could be thought of as tricking customers and decreasing the credibility of the product or business. When used carefully and in moderation, it can save time and money and lead to the development of a better product.
+Fake door testing can be thought of as tricking customers and decreasing the credibility of the product or business. When used carefully and in moderation, it can save time and money and lead to the development of a better product.
 
 Clear communication that the feature or product is in development can prevent the user becoming upset that the product or feature isn’t available.
 
 ### Internal and External Fake Doors
 
-The internal fake door is great for testing to determine if a potential new feature appeals to current users. Usually a link or button is created on a website for this new function.
+The internal fake door is great for testing if a potential new feature appeals to current users. Usually a link or button is created on a website for this new function.
 
-For example, on a local news website a button that says: “Switch to map view,” when the information is currently presented in a tile view. If users are satisfied with how the information is presented, it is likely they will not click this button. If users assume a map view would better suit their needs, then it is likely they will click. The clickthrough rate \(the amount of clicks divided by the number of views\) will help to gauge user interest.
+One example would be a button on a local news website that says: “Switch to map view,” where the information is currently presented in a tile view. If users are satisfied with how the information is presented, it is likely they will not click this button. If users assume a map view would better suit their needs, it is likely they will click. The clickthrough rate \(the amount of clicks divided by the number of views\) will help to gauge user interest.
 
-Be careful when interpreting results. For example, the location of a button can have more influence than the button itself. Make sure to experiment with placing buttons in different locations.
+Be careful when interpreting results. For example, the location of a button can have more influence than the button itself. Always experiment with placing buttons in different locations.
 
-Using an external fake door is a great test if your concept is interesting for a certain audience. A common way to test this is using a "fake ad." For example, you have the idea to start an online community for Kingfisher enthusiasts. This community gathers on a website. Before building a complete website, you set up a test and check if there are more Kingfisher enthusiasts looking for such an online community. You determine beforehand that if more than 5 percent of all views convert to a click, enough users are interested in an online community. Doing so, you can simply test if your idea suits the need.
+Using an external fake door is a great test to see if your concept is interesting for a certain audience. A common way to test this is using a "fake ad." For example, say you have the idea to start an online community for Kingfisher enthusiasts. Before building a complete website, you set up a test and check if there are enough Kingfisher enthusiasts looking for such an online community. You determine beforehand that if more than 5 percent of all views convert to a click, enough users are interested. Doing so, you can simply test if your idea suits the need.
 
 Be careful: The text in the header and body of your ad have great impact on how people react to the advertisement. Therefore, always try a variation of sentences in your headers and body of the ad to overcome this bias.
 
@@ -53,24 +53,24 @@ Fake doors are not suitable for testing your minimum viable product and basic fu
 
 ### How To
 
-1. Write down hypothesis. Each test starts with writing down your key assumptions in the form of an hypothesis.
+1. Write down the hypothesis. Each test starts with writing down your key assumptions in the form of an hypothesis.
 2. Build the fake door\(s\). Make sure you would represent the feature in the same way as it would become. If you exaggerate the button or particularly highlight the link, your results will be biased and therefore useless.  
-3. Make sure that you also include a method of measuring. With fake Ad’s the channel takes care of this: Google, Facebook, Twitter all give metrics on how your ad’s perform. And you might as well track the number of visits on the page you send them to. If the link is on your website; add a ‘google tracking event’  to your button, or create a special landing page so you can track the amount of visitors. 
+3. Make sure that you also include a method of measuring. With fake ads the channel takes care of this: Google, Facebook, and Twitter all give metrics on how your ads perform. And you might as well track the number of visits on the page you send them to. If the link is on your website, add a "google tracking event"  to your button, or create a special landing page so you can track the amount of visitors. 
 4. Measure
-5. Run the experiment. And try to be patient. Don’t draw conclusions too soon, wait for the test to complete \(in this case till you have at least 1000 visits or 10,000 views\). 
+5. Run the experiment. And try to be patient. Don’t draw conclusions too soon; wait until the test is complete \(in this case when you have at least 1000 visits or 10,000 views\). 
 
 ### Interpreting Results
 
-Check your initial hypothesis and see if the results match your success rate. Depending on your results you have three options:
+Check your initial hypothesis and see if the results match your success rate. Depending on your results, you have three options:
 
 * Success! Congratulations, you were right. You decide to build the feature.
-* No success! You pivot. Try reframing the link or button. A different word/icons/picture might give a totally different outcome. 
-* No success! Congratulations. You successfully prevented yourself from wasting a lot of scarce resources.  
+* No success! You pivot. Try reframing the link or button. A different word/icons/picture might yield a totally different outcome. 
+* No success! Congratulations. You prevented yourself from wasting scarce resources.  
 
 ### Time Commitment
 
 * 1 hour to formulate hypothesis 
-* 1 - 4 hours to create the fake doors. Depending on the type.
+* 1 - 4 hours to create the fake doors, depending on the type.
 * 1- 10 days to generate enough traffic for a representative sample size \(depending on the amount of traffic or money you’re willing to spend\)
 * 1 hour to evaluate and write down learnings. 
 
