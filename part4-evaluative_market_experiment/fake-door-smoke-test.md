@@ -41,22 +41,22 @@ Clear communication that the feature or product is in development can prevent th
 
 The internal fake door is great for testing if a potential new feature appeals to current users. Usually a link or button is created on a website for this new function.
 
-One example would be a button on a local news website that says: “Switch to map view,” where the information is currently presented in a tile view. If users are satisfied with how the information is presented, it is likely they will not click this button. If users assume a map view would better suit their needs, it is likely they will click. The clickthrough rate \(the amount of clicks divided by the number of views\) will help to gauge user interest.
+One example would be a button on a local news website that says, “Switch to map view,” where the information is currently presented in a tile view. If users are satisfied with how the information is presented, it is likely they will not click this button. If users assume a map view would better suit their needs, it is likely they will click. The clickthrough rate \(the amount of clicks divided by the number of views\) will help to gauge user interest.
 
 Be careful when interpreting results. For example, the location of a button can have more influence than the button itself. Always experiment with placing buttons in different locations.
 
-Using an external fake door is a great test to see if your concept is interesting for a certain audience. A common way to test this is using a "fake ad." For example, say you have the idea to start an online community for Kingfisher enthusiasts. Before building a complete website, you set up a test and check if there are enough Kingfisher enthusiasts looking for such an online community. You determine beforehand that if more than 5 percent of all views convert to a click, enough users are interested. Doing so, you can simply test if your idea suits the need.
+Using an external fake door is a great test to see if your concept is interesting for a certain audience. A common way to test this is using a "fake ad." For example, say you have the idea to start an online community for Kingfisher enthusiasts. Before building a complete website, you set up a test and check if there are enough Kingfisher enthusiasts looking for an online community. You determine beforehand that if more than 5 percent of all views convert to a click, enough users are interested. Doing so, you can simply test if your idea suits the need.
 
-Be careful: The text in the header and body of your ad have great impact on how people react to the advertisement. Therefore, always try a variation of sentences in your headers and body of the ad to overcome this bias.
+Be careful. The text in the header and body of your ad have a great impact on how people react to the advertisement. Always try a variety of sentences in your headers and body of the ad to overcome this bias.
 
-Fake doors are not suitable for testing your minimum viable product and basic functionality. Some functionalities, such as your registration process, are so essential that you just need them.
+Fake doors are not suitable for testing your minimum viable product and essential functionalities, such as your registration process.
 
 ### How To
 
-1. Write down the hypothesis. Each test starts with writing down your key assumptions in the form of an hypothesis.
-2. Build the fake door\(s\). Make sure you would represent the feature in the same way as it would become. If you exaggerate the button or particularly highlight the link, your results will be biased and therefore useless.  
-3. Make sure that you also include a method of measuring. With fake ads the channel takes care of this: Google, Facebook, and Twitter all give metrics on how your ads perform. And you might as well track the number of visits on the page you send them to. If the link is on your website, add a "google tracking event"  to your button, or create a special landing page so you can track the amount of visitors. 
-4. Measure
+1. Write down the hypothesis. Each test starts with writing down your key assumptions in the form of a hypothesis.
+2. Build the fake door\(s\). Make sure you would represent the feature in the same way as it would be built. If you exaggerate the button or particularly highlight the link, your results will be biased and therefore useless.  
+3. Make sure that you also include a method of measurement. With fake ads the channel takes care of this: Google, Facebook, and Twitter all give metrics on how your ads perform. And you might as well track the number of visits on the page you send them to. If the link is on your website, add a "Google tracking event" to your button, or create a special landing page so you can track the number of visitors. 
+4. Measure.
 5. Run the experiment. And try to be patient. Don’t draw conclusions too soon; wait until the test is complete \(in this case when you have at least 1000 visits or 10,000 views\). 
 
 ### Interpreting Results
@@ -69,7 +69,7 @@ Check your initial hypothesis and see if the results match your success rate. De
 
 ### Time Commitment
 
-* 1 hour to formulate hypothesis 
+* 1 hour to formulate a hypothesis. 
 * 1 - 4 hours to create the fake doors, depending on the type.
 * 1- 10 days to generate enough traffic for a representative sample size \(depending on the amount of traffic or money you’re willing to spend\)
 * 1 hour to evaluate and write down learnings. 
@@ -83,14 +83,14 @@ Check your initial hypothesis and see if the results match your success rate. De
 
 * Don’t scare off your users. Testing is okay, but be careful not to overdo it. 
 * Making \(too many\) false promises by fake doors might give the user the impression of a lousy product or cause them to lose trust in your company. 
-* Make sure you have a significant amount of users in order to judge.
+* Make sure you have a significant number of users in order to judge.
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
 
-* Gamestudio Zynga has a strong reputation of using fake doors and other quantitative product testing. They test new game ideas by coming up with a five-word pitch for each one. Then they publish the pitch as a promotional link in their live games for a period of time to see how much interest it generates from existing users.
+* Game studio Zynga has a strong reputation for using fake doors and other quantitative product tests. They test new game ideas by coming up with a five-word pitch for each one. Then they publish the pitch as a promotional link in their live games for a period of time to see how much interest it generates from existing users.
 
-* Local Dutch information aggregator Tippiq.nl uses fake doors extensively in their proposition development using a separate website \(with www.tippiqlabs.nl\). All new ideas are tested first using fake ads that will lead to a landing page on that website. On the landing page the product/service is explained and the visitor is asked if he would like to use the product. After they have expressed their interest they get a notification that the product is still in development and that they can leave their email if they want to stay up-to-date.
+* Local Dutch information aggregator Tippiq.nl uses fake doors extensively in their proposition development using a separate website \(with www.tippiqlabs.nl\). All new ideas are tested first using fake ads that lead to a landing page on that website. On the landing page the product/service is explained and the visitor is asked if he would like to use the product. After they have expressed their interest they get a notification that the product is still in development and they can leave their email if they want to stay up-to-date.
 
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
