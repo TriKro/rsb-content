@@ -67,7 +67,8 @@ To be effective, promotion planning starts a few weeks before posting. Actual wo
    * Is quite active
    * Will allow for sharing of the video. The video itself could be on a landing page or embedded directly into another site, i.e., FB video.
 
-The following is adapted from [Tim Ferriss' detailed breakdown](http://tim.blog/2013/04/10/how-to-create-a-viral-book-trailer-or-get-1000000-views-for-almost-anything/) on how to create a viral video trailer:  
+The following is adapted from [Tim Ferriss' detailed breakdown](http://tim.blog/2013/04/10/how-to-create-a-viral-book-trailer-or-get-1000000-views-for-almost-anything/) on how to create a viral video trailer:
+
 5. Storyboarding: create a paper based "comic book" version of how the video should play out, with particular focus on the narrative  
 6. Hire a video team \(if you have budget\): professionals will help increase the production value of the video, and in many case, the perceived value of the product goes up also.  
 7. Scout locations: Choose backdrops that reinforce your message or are at least familiar and relevant for the target audience.  
@@ -76,11 +77,11 @@ The following is adapted from [Tim Ferriss' detailed breakdown](http://tim.blog/
 10. Add music: The right music should add to the mood and intended emotional tone of the entire video. Also make sure it doesn't overpower other important audio, such as "spoken word" narration.  
 11. Launch/Promote: Try to get it out in front of as many \(relevant\) prospects as possible.
 
-1. Analyze: Tally up your metrics and figure out what referral rate you achieved. 
+12. Analyze: Tally up your metrics and figure out what referral rate you achieved. 
 
 ### Interpreting Results
 
-Referral rate is difficult to track accurately, because most referrals \(93 percent\) in traditional businesses happen offline. If you can track aggregate exposure and then total number of referrals, this will be the best you can get. If you only need a high-level metric this will be enough to pass/fail your original hypothesis.
+Referral rate is difficult to accurately track, because most referrals \(93 percent\) in traditional businesses happen offline. Your best bet is to track aggregate exposure and then total number of referrals. If you only need a high-level metric this will be enough to pass/fail your original hypothesis.
 
 ### Potential Biases
 
