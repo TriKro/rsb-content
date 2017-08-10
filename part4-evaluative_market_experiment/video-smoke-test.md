@@ -2,7 +2,7 @@
 
 ## In Brief
 
-The video smoke test consists of using a trailer video to test excitement and virality/buzz when describing the product to an early adopter audience. Unlike with a traditional trailer, the video should create the illusion the product is real, in order to measure how much buzz it generates. The technique is particularly useful where user behavior can be easily simulated or demoed before a fully functional version of the product is ready.
+The video smoke test consists of using a trailer video to test excitement and virality/buzz when describing the product to an early adopter audience. Unlike a traditional trailer, the video should create the illusion the product is real, in order to measure how much buzz it generates. The technique is particularly useful where user behavior can be easily simulated or demoed before a fully functional version of the product is ready.
 
 ## Helps Answer
 
@@ -29,7 +29,7 @@ The difference here is that:
  2. The goal is to test how early evangelists actually react.  
  3. Usually the key metric to observe is the virality coefficient, which is somewhat easier than it was with classic movie trailers.
 
-Often the production of a video will require comprehension testing. In high-tech industries, it's quite common to create products that have clear benefits to geeks but are incomprehensible to the general population. A video used for a smoke test should use concepts that could be understood by a young child.
+Often the production of a video will require comprehension testing. In high-tech industries, it's common to create products that have clear benefits to geeks but are incomprehensible to the general population. A video used for a smoke test should use concepts that could be understood by a young child.
 
 According to Lee LeFever, a good video:
 
@@ -63,29 +63,28 @@ To be effective, promotion planning starts a few weeks before posting. Actual wo
 2. Assuming it's referral rate, determine how exactly you are going to measure and track this rate.
 3. Plan out the key story or message you want to get across in the video. Ideally this product story should connect to the prospect emotionally.
 4. Create a marketing plan, based on your channel testing plan or results, ideally centered around a medium which:
-   * has many people in your target market
-   * is quite active
-   * will allow for sharing of the video
-     The video itself could be on a landing page, or embedded directly into another site, i.e. FB video.
+   * Has many people in your target market
+   * Is quite active
+   * Will allow for sharing of the video. The video itself could be on a landing page or embedded directly into another site, i.e., FB video.
 
 The following is adapted from [Tim Ferriss' detailed breakdown](http://tim.blog/2013/04/10/how-to-create-a-viral-book-trailer-or-get-1000000-views-for-almost-anything/) on how to create a viral video trailer:  
 5. Storyboarding: create a paper based "comic book" version of how the video should play out, with particular focus on the narrative  
 6. Hire a video team \(if you have budget\): professionals will help increase the production value of the video, and in many case, the perceived value of the product goes up also.  
-7. Scout locations: Choose backdrops which reinforce your message or at least that is familiar and relevant for the target audience.  
-8. Shoot principal footage: Take a lot of shots  
-9. Editing: Choose the best shots and arrange them  
+7. Scout locations: Choose backdrops that reinforce your message or are at least familiar and relevant for the target audience.  
+8. Shoot principal footage: Take a lot of shots.  
+9. Editing: Choose the best shots and arrange them.  
 10. Add music: The right music should add to the mood and intended emotional tone of the entire video. Also make sure it doesn't overpower other important audio, such as "spoken word" narration.  
-11. Launch/Promote: Try to get it out in front of as many \(relevant\) prospects as possible
+11. Launch/Promote: Try to get it out in front of as many \(relevant\) prospects as possible.
 
-1. Analyze: Tally up your metrics and figure out what referral rate you achieved. 
+12. Analyze: Tally up your metrics and figure out what referral rate you achieved. 
 
 ### Interpreting Results
 
-Referral rate is difficult to track accurately. Most referrals \(93 percent\) in traditional businesses happen offline. If you can track aggregate exposure and then total number of referrals, this will be the best you can get. If you only need a high level metric this will be enough to pass/fail your original hypothesis.
+Referral rate is difficult to track accurately, because most referrals \(93 percent\) in traditional businesses happen offline. If you can track aggregate exposure and then total number of referrals, this will be the best you can get. If you only need a high-level metric this will be enough to pass/fail your original hypothesis.
 
 ### Potential Biases
 
-Viewcount vanity: views with people outside your intended target audience is a vanity metric.
+View count vanity: views with people outside your intended target audience is a vanity metric.
 
 ### Field Tips
 
