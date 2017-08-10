@@ -24,10 +24,11 @@ The video smoke test consists of using a trailer video to test excitement and vi
 
 Movie trailers have existed for decades. Book trailers have been used to successfully launch books. With a video smoke test, however, you are using video to explicitly run an experiment.
 
-The difference here is that:  
- 1. The product does not have to exist yet, particularly if the product concept is very new and different from existing technology.  
- 2. The goal is to test how early evangelists actually react.  
- 3. Usually the key metric to observe is the virality coefficient, which is somewhat easier than it was with classic movie trailers.
+The difference here is that:
+
+1. The product does not have to exist yet, particularly if the product concept is very new and different from existing technology.
+2. The goal is to test how early evangelists actually react.
+3. Usually the key metric to observe is the virality coefficient, which is somewhat easier than it was with classic movie trailers.
 
 Often the production of a video will require comprehension testing. In high-tech industries, it's common to create products that have clear benefits to geeks but are incomprehensible to the general population. A video used for a smoke test should use concepts that could be understood by a young child.
 
@@ -47,7 +48,7 @@ A good video also delivers enough impact that prospects want to share it with th
 
 This is measured via the virality coefficient, as mentioned in the Broken Promise smoke test. In practice, it's possible to check for video virality by using social media platforms like Facebook or Twitter, particularly if they are used by the target audience. It's easy to use them to gather baseline organic sharing metrics.
 
-Then some thought and planning needs to be put into promotion. In particular, channel testing is an important part of testing virality. Which Facebook groups exactly? Which sub-Reddits? Where exactly to guest post? Posting the video should also take into account the news cycle on social platforms, i.e., when is the right time to post it?
+Then some thought and planning needs to be put into promotion. In particular, channel testing is an important part of testing virality. Which Facebook groups? Which subreddits? Where should you guest post? Posting the video should also take into account the news cycle on social platforms, i.e., when is the right time to post it?
 
 To some extent, this technique is also embedded in crowdfunding platforms like Kickstarter and Indiegogo.
 
@@ -69,15 +70,15 @@ To be effective, promotion planning starts a few weeks before posting. Actual wo
 
 The following is adapted from [Tim Ferriss' detailed breakdown](http://tim.blog/2013/04/10/how-to-create-a-viral-book-trailer-or-get-1000000-views-for-almost-anything/) on how to create a viral video trailer:
 
-5. Storyboarding: create a paper based "comic book" version of how the video should play out, with particular focus on the narrative  
-6. Hire a video team \(if you have budget\): professionals will help increase the production value of the video, and in many case, the perceived value of the product goes up also.  
-7. Scout locations: Choose backdrops that reinforce your message or are at least familiar and relevant for the target audience.  
-8. Shoot principal footage: Take a lot of shots.  
-9. Editing: Choose the best shots and arrange them.  
-10. Add music: The right music should add to the mood and intended emotional tone of the entire video. Also make sure it doesn't overpower other important audio, such as "spoken word" narration.  
-11. Launch/Promote: Try to get it out in front of as many \(relevant\) prospects as possible.
+1. Storyboarding: create a paper based "comic book" version of how the video should play out, with particular focus on the narrative  
+2. Hire a video team \(if you have budget\): professionals will help increase the production value of the video, and in many case, the perceived value of the product goes up also.  
+3. Scout locations: Choose backdrops that reinforce your message or are at least familiar and relevant for the target audience.  
+4. Shoot principal footage: Take a lot of shots.  
+5. Editing: Choose the best shots and arrange them.  
+6. Add music: The right music should add to the mood and intended emotional tone of the entire video. Also make sure it doesn't overpower other important audio, such as "spoken word" narration.  
+7. Launch/Promote: Try to get it out in front of as many \(relevant\) prospects as possible.
 
-12. Analyze: Tally up your metrics and figure out what referral rate you achieved. 
+8. Analyze: Tally up your metrics and figure out what referral rate you achieved.
 
 ### Interpreting Results
 
@@ -85,7 +86,7 @@ Referral rate is difficult to accurately track, because most referrals \(93 perc
 
 ### Potential Biases
 
-View count vanity: views with people outside your intended target audience is a vanity metric.
+View count vanity: Views from people outside your intended target audience is a vanity metric.
 
 ### Field Tips
 
