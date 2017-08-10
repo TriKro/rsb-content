@@ -22,7 +22,7 @@ The video smoke test consists of using a trailer video to test excitement and vi
 
 ## Description
 
-Movie trailers have existed for decades. Book trailers have been used to launch books. With a video smoke test, however, you are using video to explicitly run an experiment.
+Movie trailers have existed for decades. Book trailers have been used to successfully launch books. With a video smoke test, however, you are using video to explicitly run an experiment.
 
 The difference here is that:  
  1. The product does not have to exist yet, particularly if the product concept is very new and different from existing technology.  
@@ -37,17 +37,17 @@ According to Lee LeFever, a good video:
 * Is unique
 * Is easy to understand
 * Communicates a key insight 
-* Answers "why" the product exists
+* Answers _why_ the product exists
 * Gets prospects to care or hooks into why they would care about it
 
 A good video also delivers enough impact that prospects want to share it with their friends in order to:
 
 * Appear "in-the-know"
-* Also help address or identify the problem mentioned in the video
+* Help address or identify the problem mentioned in the video
 
-This is measured via the virality coefficient, as mentioned in the Broken Promise smoke test. In practice, it's possible to check for video virality by using social media platforms like Facebook or Twitter, particularly if these platforms are used by the target audience. It's easy to use them to gather baseline organic sharing metrics.
+This is measured via the virality coefficient, as mentioned in the Broken Promise smoke test. In practice, it's possible to check for video virality by using social media platforms like Facebook or Twitter, particularly if they are used by the target audience. It's easy to use them to gather baseline organic sharing metrics.
 
-Then some thought and planning needs to be put into promotion. In particular, channel testing is an important part of testing virality. Which Facebook groups exactly? Which Sub-Reddits? Where exactly to guest post? Posting the video should also take into account the news cycle on social platforms, i.e., when is the right time to post it?
+Then some thought and planning needs to be put into promotion. In particular, channel testing is an important part of testing virality. Which Facebook groups exactly? Which sub-Reddits? Where exactly to guest post? Posting the video should also take into account the news cycle on social platforms, i.e., when is the right time to post it?
 
 To some extent, this technique is also embedded in crowdfunding platforms like Kickstarter and Indiegogo.
 
@@ -76,7 +76,7 @@ The following is adapted from [Tim Ferriss' detailed breakdown](http://tim.blog/
 10. Add music: The right music should add to the mood and intended emotional tone of the entire video. Also make sure it doesn't overpower other important audio, such as "spoken word" narration.  
 11. Launch/Promote: Try to get it out in front of as many \(relevant\) prospects as possible.
 
-12. Analyze: Tally up your metrics and figure out what referral rate you achieved. 
+1. Analyze: Tally up your metrics and figure out what referral rate you achieved. 
 
 ### Interpreting Results
 
