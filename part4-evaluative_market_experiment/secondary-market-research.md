@@ -48,11 +48,11 @@ In “trend research” you look at:
 
 This helps deriving the possible evolution of your revenue and avoid pitfalls, or even give new ideas \(as a generative method then\).
 
-A typical use of market research is to develop a first idea of the target population itself. For instance, you may want to know if your product would rather be used by teenagers or by young adults. Imagine your product is a Facebook app. There are numerous reports about growth of distinct Facebook population segments and their respective habits; hence you can find if your type of product can meet young or older Facebook users, and you can also see if this segment is growing or diminishing.
+A typical use of market research is to develop a first idea of the target population itself. For instance, you may want to know if your product would more likely be used by teenagers or young adults. Imagine your product is a Facebook app. There are numerous reports about the growth of distinct Facebook population segments and their respective habits; hence you can find if your type of product can meet younger or older Facebook users, and you can also see if this segment is growing or diminishing.
 
 ### Time Commitment and Resources
 
-When performed for a particular occasion \(in order to answer a specific question about a market size for instance or in order to get a first big picture at the beginning of the project\), it may take from 1 to 3 days, depending on the difficulty of gathering relevant information and of the abundance and thus filtering of obtained information.
+When performed for a particular occasion \(in order to answer a specific question about a market size, for instance, or to get the initial big picture at the beginning of the project\), it may take from 1 to 3 days, depending on the difficulty of gathering relevant information, the amount of information that is available, and the filtering of the obtained information.
 
 ### How to
 

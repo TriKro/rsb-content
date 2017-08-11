@@ -27,7 +27,7 @@ As a smoke test, initial sales are particularly valuable when testing in the ear
 Tends to vary significantly based on cost of product and method of distribution.
 
 * At one extreme, you have low dollar value products. Figuring out where to sell and place the product tends to take some time. Yet the actual purchase will tend to be an impulse buy. 
-* At the other extreme, a large enterprise sale can take months if not years and many meeting with multiple decision makers. For the main decision maker, it's not just a financial decision, as the success of the purchase can impact their career trajectory. 
+* At the other extreme, a large enterprise sale can take months, if not years, and many meeting with multiple decision makers. For the main decision maker, it's not just a financial decision, as the success of the purchase can impact their career trajectory. 
 
 ### How To
 
@@ -36,14 +36,14 @@ Tends to vary significantly based on cost of product and method of distribution.
 3. Establish rapport and trust.
    * Show warm interest.
    * Don't be needy.
-   * Do your homework and check out the prospect on social media before meeting them \(LinkedIn, Facebook, etc\).
+   * Do your homework and check out the prospect on social media before meeting them \(LinkedIn, Facebook, etc.\).
 4. Ask well thought-out and observant questions. Match the customer's motivations with product attributes. 
 5. If/when appropriate, pitch the product.
 6. After the pitch, expect objections and be ready to handle them.
    * This is where you will learn the most about how your prospect perceives your offer and your product.
-   * Listen closely and give the prospect a chance to explain what's bothering them.
-   * If appropriate repeat the concern back to the prospect to make sure that you understand what they're saying.
-   * Explore the underlying reasons
+   * Listen closely, and give the prospect a chance to explain what's bothering them.
+   * If appropriate, repeat the concern back to the prospect to make sure that you understand what they're saying.
+   * Explore the underlying reasons.
 7. Close the sale
    * "Does this sound like something you want?"
    * "So do you want to pay now or pay next Tuesday?"
@@ -72,7 +72,7 @@ This smoke test does not suggest the optimal price point for the product, or whe
 * Use open-ended questions to discover more about the customer and what they're looking for.
 * Ask about your customer's goals and intentions first, to adapt your pitch to their circumstances.
 * An in-person sale is usually made by overcoming one or a few top objections, and each customer will have a different one.
-* "When" is a powerful question that helps establish the urgency of the problem for the customer.
+* _When_ is a powerful question that helps establish the urgency of the problem for the customer.
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
