@@ -20,10 +20,12 @@ Closed-end surveys help converge on what's relevant in great detail, particularl
 
 ## Description
 
-Closed-end surveys consist of closed-end questions only. These types of surveys are most useful for exploring "known unknowns." Typically, this means that:  
- 1. You've tried exploring what you don't know.  
- 2. You've already chosen direction, and  
- 3. There are still holes in your knowledge.  
+Closed-end surveys consist of closed-end questions only. These types of surveys are most useful for exploring "known unknowns." Typically, this means that:
+
+1. You've tried exploring what you don't know.
+2. You've already chosen direction, and
+3. There are still holes in your knowledge.
+
 For example, a startup founder who has achieved problem-solution fit and has performed some smoke testing around key "happy case" assumptions could use a closed-end survey to prioritize or discover other issues.
 
 As the survey giver, you are interested in finding patterns in the answers. By focusing in depth of a particular group of people, you hope to uncover hidden patterns in the data you gather.
@@ -38,18 +40,18 @@ Here are a few examples of closed-end questions:
   * AB
   * O
 
-These surveys can be delivered offline \(expert with clipboard\), online \(popup form\), or a hybrid \(iPad at a conference\).
+These surveys can be delivered offline \(expert with clipboard\), online \(popup form\), or as a hybrid \(iPad at a conference\).
 
 ### Time Commitment
 
-Varies significantly with the survey length and methodology chosen. It can take an hour to configure an exit survey on a website, or it can take weeks to perform a large scale in-person survey and manually enter the data into a useful format.
+Varies significantly with the survey length and methodology chosen. It can take an hour to configure an exit survey on a website, or it can take weeks to perform a large-scale in-person survey and manually enter the data into a useful format.
 
 ### How To
 
-1. Be very clear what you want to learn up front when designing the questionnaire. For example, a survey would have very different questions for each of these goals:
+1. Be very clear what you want to learn up-front when designing the questionnaire. For example, a survey would have very different questions for each of these goals:
    * Discovering user problems 
    * Improving an existing product/UX
-   * Keep track of user statisfaction \(as a proxy for referrals\)
+   * Keep track of user satisfaction \(as a proxy for referrals\)
    * Improve customer service
 
 Usually this goal will feed from your current overarching goal in the business. Ideally write out the goal of the survey in one sentence.
@@ -81,12 +83,12 @@ Types of questions include:
   * Sales
   * IT
   * Finance
-  * Collect the answers. This can be done face to face, by phone, online, or via postal mail. 
+  * Collect the answers. This can be done face-to-face, by phone, online, or via postal mail. 
   * Organize the answers into a useful format. Typically a spreadsheet is good enough to organize the data. Then it can be loaded into a statistical tool, like R, or a database for further inquiry. 
 
 ### Interpreting Results
 
-Use simple statistical techniques like correlation, ANOVA, or regression for further insights. Alternatively, hire a data scientist to help you interpret your results.
+Use simple statistical techniques like correlation, ANOVA, or regression for further insights. You can also hire a data scientist to help interpret your results.
 
 Be sure that you have enough respondents to be able to use rigorous tools. Check your sample size as a whole, but also for each subgroup. If you don't have enough within a segment, you can't make a statistically informed statement about that group of people.
 
