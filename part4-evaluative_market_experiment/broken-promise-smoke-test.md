@@ -1,3 +1,4 @@
+![](/assets/Illustration_People_Crowd.png)
 # Broken Promise Smoke Test
 
 ## In Brief
