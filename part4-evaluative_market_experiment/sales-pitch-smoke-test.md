@@ -1,3 +1,4 @@
+![](/assets/illustration-Diplomat02-shaded.png)
 # Sales Pitch Smoke Test
 
 ## In Brief
