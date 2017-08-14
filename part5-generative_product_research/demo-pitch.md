@@ -1,4 +1,4 @@
-# Demo Pitch
+![](/assets/illustration-demo-pitch-color.png)# Demo Pitch
 
 ## In Brief
 A demo pitch is when you present or pitch your solution using some kind of product or service demonstration in the hope of convincing a potential customer to buy. As a method it is similar to a solution interview but typically takes place at a later stage, as the solution becomes more baked and you have more elements to demonstrate. However, this can be done early in the process using the most realistic examples available. The style is more of a presentation than an interview and the goal is to assess how positive the reaction is and why. A demo pitch is essentially a sales pitch to a potential customer in order to test their willingness to buy or recommend you to the economic buyer.
