@@ -1,3 +1,4 @@
+![](/assets/Illustration_People_GroupTalking -smaller size.png)
 # Event Smoke Test
 
 ## In Brief
