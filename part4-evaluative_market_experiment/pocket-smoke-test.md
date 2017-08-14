@@ -1,3 +1,4 @@
+![](/assets/illustration-Minimum-Viable-Experience.jpeg)
 # Pocket Smoke Test
 
 ## In Brief
