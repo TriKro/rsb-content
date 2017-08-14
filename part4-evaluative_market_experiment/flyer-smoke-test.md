@@ -1,4 +1,4 @@
-![](/assets/illustration-ComprehensionTest-blank-paper-color.png)
+![](/assets/illustration-flyer-smoketest-crossroad-corner-color.png)
 # Flyer Smoke Test
 
 ## In Brief
