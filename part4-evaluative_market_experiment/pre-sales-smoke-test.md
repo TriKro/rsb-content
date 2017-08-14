@@ -1,3 +1,4 @@
+![](/assets/illustration-Diplomat02-HalfFigure.jpg)
 # Pre-Sales Smoke Test
 
 ## In Brief
