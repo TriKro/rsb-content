@@ -1,4 +1,4 @@
-# Wizard of Oz
+![](/assets/illustration-Wizard-of-Oz-test-Pay-no-attention-to-the-man-behind-the-curtain.png)
 
 ## In Brief
 
