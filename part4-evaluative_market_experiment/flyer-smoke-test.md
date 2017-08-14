@@ -1,3 +1,4 @@
+![](/assets/illustration-ComprehensionTest-blank-paper-color.png)
 # Flyer Smoke Test
 
 ## In Brief
