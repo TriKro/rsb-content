@@ -1,3 +1,4 @@
+![](/assets/illustration-high-bar-smoke-test-shaded.png)
 # High Bar Smoke Test
 
 ## In Brief
