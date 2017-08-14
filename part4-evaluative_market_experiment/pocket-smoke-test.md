@@ -1,4 +1,4 @@
-![](/assets/illustration-Minimum-Viable-Experience.jpeg)
+![](/assets/illustration-pockettestsmoketestv1-vending-machine-coke-pepsi-FullFigure-colored.png)
 # Pocket Smoke Test
 
 ## In Brief
