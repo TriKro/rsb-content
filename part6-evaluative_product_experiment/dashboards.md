@@ -1,4 +1,4 @@
-# Dashboards
+![](/assets/illustration-metrics-meter-color.png)# Dashboards
 
 ## In Brief
 

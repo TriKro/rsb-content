@@ -1,4 +1,4 @@
-# Conjoint Analysis
+![](/assets/illustration-Conjoint-Analysis-ice-cream-cones-flavors-options-color.png)# Conjoint Analysis
 
 ## In Brief
 
