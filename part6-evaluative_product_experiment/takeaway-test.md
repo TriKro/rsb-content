@@ -1,4 +1,4 @@
-# Takeaway Test
+![](/assets/illustration-user.png)# Takeaway Test
 
 ## In Brief
 
