@@ -1,4 +1,4 @@
-# Off Brand Testing
+![](/assets/illustration-Box-Lid-shaded.png)# Off Brand Testing
 
 ## In Brief
 
