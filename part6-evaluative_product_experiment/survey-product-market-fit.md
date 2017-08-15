@@ -1,4 +1,4 @@
-# Product/Market Fit Survey
+![](/assets/illustration-UX-04.png)# Product/Market Fit Survey
 
 ## In Brief
 
