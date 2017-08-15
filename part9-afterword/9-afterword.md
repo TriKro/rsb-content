@@ -1,4 +1,7 @@
-![](/assets/iIllustration-PastPresentFuture02.png)# Afterword
+![](/assets/iIllustration-PastPresentFuture02.png)
+![chapterimage](/assets/iIllustration-PastPresentFuture02.png)
+
+# Afterword
 
 *What are the next steps?*
 
