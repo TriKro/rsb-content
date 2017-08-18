@@ -72,10 +72,9 @@ Think for yourself after being given advice.
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
-* "We used brainstorming to identify promising starting points, including a logistics-firm owner who is a heavy user of truck-mounted forklifts. That led to a maker of machinery-mounting systems for farm tractors and eventually to a person in the entertainment-events industry with tremendous knowledge about safely and quickly mounting and unmounting stage equipment for shows and concerts. The forklift company had found the needle in the haystack: Although the industries are very different, the event-technology solutions were transferable to the forklift problem with only minor modifications." Marion Poetz
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
  
 ## References
-* https://www.wired.com/2009/03/financebrain
-* https://hbr.org/2014/12/find-the-right-expert-for-any-problem
+* [Wired: Given “Expert” Advice, Brains Shut Down](https://www.wired.com/2009/03/financebrain)
+* [Harvard Business Review: Find the Right Expert for Any Problem](https://hbr.org/2014/12/find-the-right-expert-for-any-problem)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
