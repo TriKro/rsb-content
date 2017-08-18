@@ -1,4 +1,5 @@
 ![](/assets/illustration-surveysopenendedv2-what-who-where-why-how-squares.png)
+
 # Open-Ended Survey
 
 ## In Brief
@@ -72,13 +73,12 @@ In the case of very large data sets, algorithmic tools such as sentiment analysi
 - Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
-
-* https://conversionxl.com/open-ended-questions/
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## References
-- http://fluidsurveys.com/university/comparing-closed-ended-and-open-ended-questions/
-- http://scholar.harvard.edu/files/dtingley/files/topicmodelsopenendedexperiments.pdf
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1323316/
-* https://www.surveymonkey.com/mp/open-ended-questions-get-more-context-to-enrich-your-data/
+* [A Guide to Open-Ended Questions in Marketing Research](https://conversionxl.com/open-ended-questions/)
+* [FluidSurveys: Comparing Closed-Ended and Open-Ended Questions](http://fluidsurveys.com/university/comparing-closed-ended-and-open-ended-questions/)
+* [Midwest Political Science Association: Structural Topic Models for Open-Ended Survey Responses](http://scholar.harvard.edu/files/dtingley/files/topicmodelsopenendedexperiments.pdf)
+* [Centers for Disease Control and Prevention: A Catalog of Biases in Questionnaires](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1323316/)
+* [Open-Ended Questions: Get More Context to Enrich Your Data](https://www.surveymonkey.com/mp/open-ended-questions-get-more-context-to-enrich-your-data/)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
