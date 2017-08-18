@@ -57,21 +57,15 @@ Dismissing it too quickly: On the other side, exploring the reasons why others f
 
 ## Case Studies
 
-* [Medium: My Startup Failed
-Lessons - learned from a first-time founder in the startup trenches](https://medium.com/@jasonhuertas/my-startup-failed-6c54bd68c654#.hxj2dkt4o)
+* [Medium: My Startup Failed Lessons - learned from a first-time founder in the startup trenches](https://medium.com/@jasonhuertas/my-startup-failed-6c54bd68c654#.hxj2dkt4o)
+* [Autopsy Lessons from Failed Startups](http://autopsy.io)
+* [CBinsights: 232 Startup Failure Post-Mortems](https://www.cbinsights.com/blog/startup-failure-post-mortem/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
  
 ## References
 
-On the technique itself:
-* https://grasshopperherder.com/generative-research-picnic-graveyard/
-* http://www.skmurphy.com/blog/2012/03/06/pretotyping-techniques-for-building-the-right-product/
-
-Sources of failed company histories:
-* http://autopsy.io/
-* https://www.cbinsights.com/blog/startup-failure-post-mortem/
-* F'D Companies: Spectacular Dotcom flameouts by Phillip Kaplan
-
-Classic pivot types:
-* https://www.forbes.com/sites/martinzwilling/2011/09/16/top-10-ways-entrepreneurs-pivot-a-lean-startup/#9838ab12d2bd
+* [GrasshopperHerder: Generative Research - Picnic in the Graveyard](https://grasshopperherder.com/generative-research-picnic-graveyard/)
+* [SKMurphy: Pretotyping – Techniques for Building the Right Product](http://www.skmurphy.com/blog/2012/03/06/pretotyping-techniques-for-building-the-right-product/)
+* [Phillip Kaplan: F'D Companies: Spectacular Dotcom flameouts](https://www.amazon.com/Fd-Companies-Spectacular-Dot-com-Flameouts/dp/1416577939)
+* [Forbes: Top 10 Ways Entrepreneurs Pivot a Lean Startup](https://www.forbes.com/sites/martinzwilling/2011/09/16/top-10-ways-entrepreneurs-pivot-a-lean-startup/#9838ab12d2bd)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
