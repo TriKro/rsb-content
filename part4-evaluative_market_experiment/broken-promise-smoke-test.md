@@ -66,12 +66,11 @@ Interpretation is framed by how you originally formulated the experiment, i.e., 
 
 ## Case Studies
 
-* [http://artofcleverness.stfi.re/broken-promise/?sf=agvkwwg\#ab](http://artofcleverness.stfi.re/broken-promise/?sf=agvkwwg#ab)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## References
 
-* [http://artofcleverness.stfi.re/broken-promise/?sf=agvkwwg\#ab](http://artofcleverness.stfi.re/broken-promise/?sf=agvkwwg#ab)
+* [The Art of Cleverness: Use the Broken-Promise Strategy to validate your startup](http://artofcleverness.stfi.re/broken-promise/?sf=agvkwwg#ab)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
 
 
