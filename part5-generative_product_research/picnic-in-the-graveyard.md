@@ -57,8 +57,8 @@ Dismissing it too quickly: On the other side, exploring the reasons why others f
 
 ## Case Studies
 
-Clearly could have used this technique:
-* Critica: "Annotating the web is not a new concept. This idea has been tried going as far back as the early 90s — back when the three of us were enjoying our nap time in kindergarten. Google even tried it, and it didn’t work. Now that doesn’t mean it will never work (I still believe it will). But with my first-time founder blinders on, it didn’t matter that others failed, those people were not us — we were better, and we were going to succeed." https://medium.com/@jasonhuertas/my-startup-failed-6c54bd68c654#.hxj2dkt4o
+* [Medium: My Startup Failed
+Lessons - learned from a first-time founder in the startup trenches](https://medium.com/@jasonhuertas/my-startup-failed-6c54bd68c654#.hxj2dkt4o)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
  
 ## References
