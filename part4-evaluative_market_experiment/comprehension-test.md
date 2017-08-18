@@ -56,8 +56,8 @@ Take note: if many of the participants use identical language to explain the val
 
 ## References
 
-* [Tristan Kromer - Comprehension vs. Commitment](https://grasshopperherder.com/comprehension-vs-commitment/)
-* [Pearson - Technical Report: Cognitive Labs](http://images.pearsonassessments.com/images/tmrs/tmrs_rg/CognitiveLabs.pdf)
+* [GrasshopperHerder: Comprehension vs. Commitment](https://grasshopperherder.com/comprehension-vs-commitment/)
+* [Pearson: Technical Report - Cognitive Labs](http://images.pearsonassessments.com/images/tmrs/tmrs_rg/CognitiveLabs.pdf)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
 
 
