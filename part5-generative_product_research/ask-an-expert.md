@@ -68,7 +68,7 @@ Some topics naturally invite strong opinions. To the extent possible try to get 
 Think for yourself after being given advice.
 
 ### Field Tips
-* "Information is plentiful. Wisdom is rare. Ask experts to figure out what to test in your business" @LaunchTomorrow### Field Tips
+* "Information is plentiful. Wisdom is rare. Ask experts to figure out what to test in your business" @LaunchTomorrow
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
