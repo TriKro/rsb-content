@@ -36,7 +36,9 @@ If you have a suggestion, send it in. If you create a better method, let us know
 This book is Creative Commons licensed and should be continually improved and shared. So please help us by finding problems and fixing them!
 
 [^1] Of course I learned much later that _The Real Book_ was illegal.  
-First published in 1971, it didn’t pay any royalties to the musicians who wrote the songs. But it was the standard book that everyone used because it was the most complete and accurate.  
+First published in 1971, it didn’t pay any royalties to the musicians who wrote the songs. But it was the standard book that everyone used because it was the most complete and accurate.
+  
 It was also published in multiple keys so that musicians with varying instruments would be able to refer to the same song, with even identical page numbers, and not miss a beat.  
+
 Nowadays, _The Real Book_ is legitimate and is published by Hal Leonard, which does pay royalties as appropriate.
 
