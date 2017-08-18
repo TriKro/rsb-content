@@ -95,21 +95,19 @@ View count vanity: Views from people outside your intended target audience is a 
 
 ## Case Studies
 
-* [https://youtu.be/qYTfAXBPmro](https://youtu.be/qYTfAXBPmro)
-* [https://youtu.be/\_KFPHmPoPlY](https://youtu.be/_KFPHmPoPlY)
-* [https://www.commoncraft.com/video/twitter](https://www.commoncraft.com/video/twitter)
-* [https://www.videopixie.com/best-kickstarter-videos-of-2014](https://www.videopixie.com/best-kickstarter-videos-of-2014)
+* [YouTube: Amazon Alexa + Pebble Core: Now We're Talking](https://youtu.be/qYTfAXBPmro)
+* [YouTube:The 4-Hour Chef - Official Trailer - Cinematic](https://youtu.be/_KFPHmPoPlY)
+* [CommonCraft: Twitter](https://www.commoncraft.com/video/twitter](https://www.commoncraft.com/video/twitter)
+* [CommonCraft:L Dropbox Video and 25 Million Views](https://www.commoncraft.com/dropbox-video-and-25-million-views)
+* [VideoPixie: Best Kickstarter videos of 2014](https://www.videopixie.com/best-kickstarter-videos-of-2014)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
 
-* The Art of Explanation by Lee LeFever
-* [https://www.commoncraft.com/twittercom-now-less-common-craft](https://www.commoncraft.com/twittercom-now-less-common-craft)
-* [https://www.commoncraft.com/dropbox-video-and-25-million-views](https://www.commoncraft.com/dropbox-video-and-25-million-views)
-* [http://tim.blog/2013/04/10/how-to-create-a-viral-book-trailer-or-get-1000000-views-for-almost-anything/](http://tim.blog/2013/04/10/how-to-create-a-viral-book-trailer-or-get-1000000-views-for-almost-anything/)
-* [https://blog.launchtomorrow.com/2016/03/dropbox-mvpexplainer-video-youre-missing-most-of-the-story/](https://blog.launchtomorrow.com/2016/03/dropbox-mvpexplainer-video-youre-missing-most-of-the-story/)
-* [http://www.videobrewery.com/blog/5-tips-kickstarter-video](http://www.videobrewery.com/blog/5-tips-kickstarter-video)
-* [https://www.nickkolenda.com/viral-marketing](https://www.nickkolenda.com/viral-marketing)
+* [Lee LeFever: The Art of Explanation](http://artofexplanation.com)
+* [Tim Ferriss: How to Create a Viral Book Trailer (or Get 1,000,000 Views for Almost Anything)](http://tim.blog/2013/04/10/how-to-create-a-viral-book-trailer-or-get-1000000-views-for-almost-anything/)
+* [Launch Tomorrow: Dropbox “explainer video”? You’re missing most of their Lean Startup story…](https://blog.launchtomorrow.com/2016/03/dropbox-mvpexplainer-video-youre-missing-most-of-the-story/)
+* [Nick Kolenda: An Enormous Guide to Viral Marketing](https://www.nickkolenda.com/viral-marketing)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
 
 
