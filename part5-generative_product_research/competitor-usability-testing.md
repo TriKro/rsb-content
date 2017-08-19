@@ -42,9 +42,9 @@ Before building a solution, any ideas should be tested via alternative generativ
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
 
 ## References
-* https://www.nngroup.com/articles/competitive-usability-evaluations/
-* http://www.trymyui.com/blog/2015/04/02/5-secrets-for-comparative-usability-study/
-* http://ux.stackexchange.com/questions/37982/should-usability-testing-of-a-competitors-website-be-a-part-of-your-usability-t
-* https://www.rickwhittington.com/blog/user-testing-your-competitors-website-to-improve-your-own/
-* https://testfort.com/articles/usability-testing-competitor%E2%80%99s-site-4-tips-and-reasons
+* [Nielsen Norman Group: Competitive Usability Evaluations - Learning from Your Competition](https://www.nngroup.com/articles/competitive-usability-evaluations/)
+* [trymyui: 5 secrets to running a comparative usability study](http://www.trymyui.com/blog/2015/04/02/5-secrets-for-comparative-usability-study/)
+* [StackExchange: Should usability testing of a competitor's website be a part of your usability testing routine?](http://ux.stackexchange.com/questions/37982/should-usability-testing-of-a-competitors-website-be-a-part-of-your-usability-t)
+* [Whittington: Legal Espionage - User Testing Your Competitor's Website to Improve Your Own](https://www.rickwhittington.com/blog/user-testing-your-competitors-website-to-improve-your-own/)
+* [TestFort: Usability Testing of Competitor’s Site - 4 Tips and Reasons](https://testfort.com/articles/usability-testing-competitor%E2%80%99s-site-4-tips-and-reasons)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
