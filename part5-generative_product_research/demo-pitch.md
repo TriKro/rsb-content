@@ -1,4 +1,5 @@
-![](/assets/illustration-demo-pitch-color.png)# Demo Pitch
+![](/assets/illustration-demo-pitch-color.png)
+# Demo Pitch
 
 ## In Brief
 A demo pitch is when you present or pitch your solution using some kind of product or service demonstration in the hope of convincing a potential customer to buy. As a method it is similar to a solution interview but typically takes place at a later stage, as the solution becomes more baked and you have more elements to demonstrate. However, this can be done early in the process using the most realistic examples available. The style is more of a presentation than an interview and the goal is to assess how positive the reaction is and why. A demo pitch is essentially a sales pitch to a potential customer in order to test their willingness to buy or recommend you to the economic buyer.
@@ -53,6 +54,6 @@ The most important data will be who moves forward to the next stage of the buyin
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
-- [Salesforce - How to Make a Good Sales Pitch](https://www.salesforce.com/blog/2014/02/how-to-make-good-sales-pitch.html)
-- [Forbes - 10 Steps for Giving a Convincing Sales Pitch](http://www.forbes.com/forbes/welcome/?toURL=http://www.forbes.com/sites/theyec/2014/04/18/10-steps-for-giving-a-convincing-sales-pitch/&refURL=&referrer=)
+- [Salesforce: How to Make a Good Sales Pitch](https://www.salesforce.com/blog/2014/02/how-to-make-good-sales-pitch.html)
+- [Forbes: 10 Steps for Giving a Convincing Sales Pitch](http://www.forbes.com/forbes/welcome/?toURL=http://www.forbes.com/sites/theyec/2014/04/18/10-steps-for-giving-a-convincing-sales-pitch/&refURL=&referrer=)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
