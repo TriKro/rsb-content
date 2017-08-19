@@ -67,19 +67,16 @@ As with all smoke tests, do not ask about future behavior.
 
 * Agree what constitutes a conversion event before you do a high bar smoke test.
 * Your near-miss prospects don't count if they fill out your signup form when doing a high bar smoke test.
-* Finally, a smoke test for B2B companies.
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
 
-* \(A lead scoring quiz\)\[[http://leanstartupquiz.launchtomorrow.com/](http://leanstartupquiz.launchtomorrow.com/)\] example
-* \(Forms example\)\[[http://www.marketingexperiments.com/blog/internet-marketing-strategy/lead-generation-testing-form-field-length-reduces-cost-per-lead-by-10-66.html](http://www.marketingexperiments.com/blog/internet-marketing-strategy/lead-generation-testing-form-field-length-reduces-cost-per-lead-by-10-66.html)\]
-* VCs/accelerators use high bars when selecting startups to take initial meetings. 
+* [LaunchTomorrow: Discover whether the Lean Startup approach can work for you](http://leanstartupquiz.launchtomorrow.com/)
+* [Marketing Experiments: Lead Generation - Testing form field length reduces cost-per-lead by $10.66](http://www.marketingexperiments.com/blog/internet-marketing-strategy/lead-generation-testing-form-field-length-reduces-cost-per-lead-by-10-66.html)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
 
-* ...
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
 
 
