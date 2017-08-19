@@ -1,5 +1,4 @@
-![![](/assets/illustration-Box-NoLid-shaded.png)
-](/assets/illustration-fake-door-smoke-test-color.png)# Fake Door Smoke Test
+![](/assets/illustration-Box-NoLid-shaded.png)
 
 ## In Brief
 
@@ -90,18 +89,13 @@ Check your initial hypothesis and see if the results match your success rate. De
 ## Case Studies
 
 * Game studio Zynga has a strong reputation for using fake doors and other quantitative product tests. They test new game ideas by coming up with a five-word pitch for each one. Then they publish the pitch as a promotional link in their live games for a period of time to see how much interest it generates from existing users.
-
-* Local Dutch information aggregator Tippiq.nl uses fake doors extensively in their proposition development using a separate website \(with www.tippiqlabs.nl\). All new ideas are tested first using fake ads that lead to a landing page on that website. On the landing page the product/service is explained and the visitor is asked if he would like to use the product. After they have expressed their interest they get a notification that the product is still in development and they can leave their email if they want to stay up-to-date.
-
+* Local Dutch information aggregator Tippiq.nl uses fake doors extensively in their proposition development using a separate website with www.tippiqlabs.nl. All new ideas are tested first using fake ads that lead to a landing page on that website. On the landing page the product/service is explained and the visitor is asked if he would like to use the product. After they have expressed their interest they get a notification that the product is still in development and they can leave their email if they want to stay up-to-date.
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## References
-
-* [https://vimeo.com/24744647](https://vimeo.com/24744647)
-* [http://www.slideshare.net/JessLee4/fake-doors-how-to-test-product-ideas-quickly-hustlecon-2013](http://www.slideshare.net/JessLee4/fake-doors-how-to-test-product-ideas-quickly-hustlecon-2013)
-* Pretotype it! Make sure you are building the right it before you build it right - Alberto Savoia. 2011
-* Zynga’s Marc Pincus on quantitative testing. [https://www.youtube.com/watch?v=81F1qSOq3cs](https://www.youtube.com/watch?v=81F1qSOq3cs)
-* [http://connecteev.com/using-fake-door-testing-to-make-better-product-decisions/](http://connecteev.com/using-fake-door-testing-to-make-better-product-decisions/)
+* [Hustlecon 2013: Fake Doors - How to Test Product Ideas Quickly](http://www.slideshare.net/JessLee4/fake-doors-how-to-test-product-ideas-quickly-hustlecon-2013)
+* [Alberto Savoia: Pretotype it! Make sure you are building the right it before you build it right](http://www.pretotyping.org)
+* [Web 2.0 Summit 2010: Playing for High Stakes in the New App Economy](https://www.youtube.com/watch?v=81F1qSOq3cs](https://www.youtube.com/watch?v=81F1qSOq3cs)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
 
 
