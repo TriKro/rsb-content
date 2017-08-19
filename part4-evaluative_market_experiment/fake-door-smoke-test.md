@@ -1,4 +1,5 @@
 ![](/assets/illustration-Box-NoLid-shaded.png)
+# Fake Door Smoke Test
 
 ## In Brief
 
