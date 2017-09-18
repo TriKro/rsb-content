@@ -1,4 +1,4 @@
-
+![](/assets/rsb - landing page smoke test.png)
 # Landing Page Smoke Test
 
 ## In Brief
