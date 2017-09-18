@@ -1,3 +1,4 @@
+![](/assets/rsb - usability testing.png)
 # Usability Testing
 
 ## In Brief
