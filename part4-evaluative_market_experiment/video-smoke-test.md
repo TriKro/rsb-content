@@ -1,3 +1,4 @@
+![](/assets/rsb - video landing page smoke test.png)
 # Video Smoke Test
 
 ## In Brief
