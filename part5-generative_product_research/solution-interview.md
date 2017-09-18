@@ -1,3 +1,4 @@
+![](/assets/rsb - solution interview.png)
 # Solution Interview
 
 ## In Brief
