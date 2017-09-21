@@ -1,3 +1,4 @@
+![](/assets/net promoter score.png)
 # Net Promotor Score Survey
 
 ## In Brief
