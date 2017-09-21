@@ -21,19 +21,19 @@
 
 * Jan Kennedy, [Academy for Corporate Entrepreneurship](http://www.afce.co/), [@innovationmojo](https://twitter.com/innovationmojo)
 
+* Jason Koprowski, [Effortless Growth](http://www.effortlessgrowth.com/), [Linkedin](https://www.linkedin.com/in/jasonkoprowski)
+
 * Jorge Castellote, [Linkedin](https://ae.linkedin.com/in/jorgecastelloteworldleadership), [Twitter](https://twitter.com/sircastel)
 
 * Kamil Barbarski, [Linkedin](https://de.linkedin.com/in/kamilbarbarski),[Twitter](https://twitter.com/kamilbbs)
+
+* Kenny Nguyen, [TriKro LLC](http://www.trikro.com/), [Linkedin](https://www.linkedin.com/in/kennythanhnguyen)
 
 * Lino Jimenez, [Linkedin](https://www.linkedin.com/pub/lino-jimenez-jr/3/9b2/498)
 
 * Luke Szyrmer, [LaunchTomorrow](http://blog.launchtomorrow.com/about-launch-tomorrow/), [@launchtomorrow](https://twitter.com/launchtomorrow)
 
 * Luuk Van Hees, [Linkedin](https://nl.linkedin.com/pub/luuk-van-hees/29/93b/34b), [Tippiq Labs](https://www.tippiqlabs.nl/)
-
-* Jason Koprowski, [Effortless Growth](http://www.effortlessgrowth.com/), [Linkedin](https://www.linkedin.com/in/jasonkoprowski)
-
-* Kenny Nguyen, [TriKro LLC](http://www.trikro.com/), [Linkedin](https://www.linkedin.com/in/kennythanhnguyen)
 
 * Nadya Paleyes, [Linkedin](https://ie.linkedin.com/in/nadyapaleyes), [Red Button](http://red-button.co)
 
