@@ -17,12 +17,12 @@ Is the customer actually willing to pay money for the value proposition?
 
 ## Tags
 
-* Quantitative validation
+* Quantitative Validation
 * Benchmarking
 * Positioning
-* Value proposition
-* Audience selection strategy
-* Investor attraction
+* Value Proposition
+* Audience Selection Strategy
+* Investor Attraction
 
 ## Description
 
@@ -32,7 +32,7 @@ Is the customer actually willing to pay money for the value proposition?
 
 ### How To
 
-* Create your MVP \(renderings or simulations, promotional media, pricing, testimonials, etc.\).
+* Create your MVP (renderings or simulations, promotional media, pricing, testimonials, etc).
 * Establish your pre-sales ecommerce platform.
 * Promote and launch your campaign.
 * Measure results \(conversions and total orders\).
@@ -43,9 +43,9 @@ Is the customer actually willing to pay money for the value proposition?
 
 ### Potential Biases
 
-* Confirmation bias
-* Invalid target audience
-* False negative
+* Confirmation Bias
+* Invalid Target Audience
+* False Negative
 
 ### Field Tips
 
