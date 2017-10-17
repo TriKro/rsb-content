@@ -1,4 +1,5 @@
 ![](/assets/illustration-Reflection02-HalfFigure.jpg)
+
 # Who Is This Book For
 
 If you’ve ever recognized a giant gap or unanswered question in your business model and had no idea how to go about filling that gap, this book is for you. You may be asking:
@@ -33,7 +34,7 @@ This book will be most useful if you are familiar with concepts such as:
 
 It’s ok if you haven’t heard of any of these terms, but you’ll get a lot more out of it if you have.
 
-In particular, you should already buy into the idea that parts of your business model are unknown and the way to figure them out is to do research and experiments out of the building and in the real world with your customers.
+In particular, you should already buy into the idea that parts of your business model are unknown, and the way to figure them out is to do research and experiments out of the building and in the real world with your customers.
 
 ## Innovation at Scale
 
@@ -71,8 +72,5 @@ This book is also not for companies executing on an existing business model. Whi
 
 ## Continual Improvement
 
-Future improvements may change or broaden the focus on this book. This is a living document that will be regularly updated.
-
-  
-
+Future improvements may change or broaden the focus of this book. This is a living document that will be regularly updated.
 
