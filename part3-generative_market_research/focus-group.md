@@ -111,11 +111,11 @@ Unsuccessful:
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## References
- * http://ctb.ku.edu/en/table-of-contents/assessment/assessing-community-needs-and-resources/conduct-focus-groups/main
- * http://www.nngroup.com/articles/focus-groups/
- * http://www.slate.com/articles/business/moneybox/2003/10/lies_damn_lies_and_focus_groups.html
- * https://www.usq.edu.au/-/media/USQ/Research/Ethics/human/Tipsforconductingfocusgroupsv10.ashx%3Fla%3Den
- * https://assessment.trinity.duke.edu/documents/How_to_Conduct_a_Focus_Group.pdf
- * https://www.b2binternational.com/publications/market-research-focus-group/
- * http://www.userfocus.co.uk/articles/focuspocus.html
+ * [Kansas University - Community Toolbox: Section 6. Conducting Focus Groups](http://ctb.ku.edu/en/table-of-contents/assessment/assessing-community-needs-and-resources/conduct-focus-groups/main)
+ * [Nielsen Norman Group: The Use and Misuse of Focus Groups](http://www.nngroup.com/articles/focus-groups/)
+ * [Slate: Lies, Damn Lies, and Focus Groups](http://www.slate.com/articles/business/moneybox/2003/10/lies_damn_lies_and_focus_groups.html)
+ * [University of Southern Queensland - Research Integrity & Ethics: Tips for Conducting Focus Groups](https://www.usq.edu.au/-/media/USQ/Current-Students/Research/conducting-research/human-ethics/Tipsforconductingfocusgroupsv10.ashx?la=en)
+ * [Interaction Design Foundation: How to Conduct Focus Groups](https://www.interaction-design.org/literature/article/how-to-conduct-focus-groups)
+ * [B2B International: Using the Focus Group in Market Research](https://www.b2binternational.com/publications/market-research-focus-group/)
+ * [User Focus UK: Is Consumer Research Losing Its Focus?](http://www.userfocus.co.uk/articles/focuspocus.html)
  * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
