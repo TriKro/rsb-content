@@ -1,4 +1,6 @@
-![](/assets/illustration-Conjoint-Analysis-ice-cream-cones-flavors-options-color.png)# Conjoint Analysis
+![](/assets/illustration-Conjoint-Analysis-ice-cream-cones-flavors-options-color.png)
+
+# Conjoint Analysis
 
 ## In Brief
 
@@ -113,11 +115,9 @@ The method also tends to be extensive and requires a high level of expertise to 
 
 ## References
 
- * MIT Sloan Courseware - [*Note on Conjoint
-    Analysis*](http://www.mit.edu/~hauser/Papers/NoteonConjointAnalysis.pdf)
-    by John R. Huaser
+* [MIT Sloan Courseware: Conjoint Analysis by John R. Huaser](http://www.mit.edu/~hauser/Papers/NoteonConjointAnalysis.pdf)
 
- * Chris Chapman - [*9 Things Clients Get Wrong About Conjoint
+* Chris Chapman - [*9 Things Clients Get Wrong About Conjoint
     Analysis*](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41886.pdf)
 
  * Brett Jarvis - [*Conjoint Analysis
