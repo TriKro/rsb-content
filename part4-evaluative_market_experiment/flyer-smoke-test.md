@@ -80,9 +80,9 @@ For a B2B/enterprise idea, causing some kind of a specific response in your pros
 
 ## Case Studies
 
-* NextDoor: [http://www.inc.com/alex-moazed/how-the-mailbox-can-be-the-best-way-for-startups-to-reach-potential-users.html](http://www.inc.com/alex-moazed/how-the-mailbox-can-be-the-best-way-for-startups-to-reach-potential-users.html)
-* Dojo: [http://observer.com/2014/09/forget-pr-emails-app-used-heartfelt-letters-nabbed-thousands-of-downloads-and-investor-interest/](http://observer.com/2014/09/forget-pr-emails-app-used-heartfelt-letters-nabbed-thousands-of-downloads-and-investor-interest/)
-* Relatas: [https://yourstory.com/2016/10/startup-marketing-watch-out/](https://yourstory.com/2016/10/startup-marketing-watch-out/)
+* [NextDoor: How the mailbox can be the best way for startups to reach potential users](http://www.inc.com/alex-moazed/how-the-mailbox-can-be-the-best-way-for-startups-to-reach-potential-users.html)
+* [Dojo: Heartfelt letters nabbed thousands of downloads and investor interest](http://observer.com/2014/09/forget-pr-emails-app-used-heartfelt-letters-nabbed-thousands-of-downloads-and-investor-interest/)
+* [Relatas:](https://yourstory.com/2016/10/startup-marketing-watch-out/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
