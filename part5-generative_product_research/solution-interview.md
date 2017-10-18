@@ -78,13 +78,10 @@ Use the solution interview to plan the initial feature set of your product and d
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
   
 ## Case Studies
-* pskyler: https://www.slideshare.net/egarbugli/apply-the-lean-startup-in-b2b-to-build-products-businesses-want-course-slides/133-How_to_Write_the_Agreement
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
   
 ## References
-* http://customerdevlabs.com/2014/08/05/problem-solution-interviews-b2b-sales-pitch/
-* https://leansteps.wordpress.com/11-2/step-3-lean-experiment/solution-interviews/
-* https://medium.com/@DaisyHappy2014/3-common-mistakes-to-avoid-during-user-interviews-4f3aa97347f#.9g4a8cbk3
-* https://www.slideshare.net/LauraKlein1/shut-the-hell-up-other-tips-for-learning-from-users
-* https://www.slideshare.net/egarbugli/apply-the-lean-startup-in-b2b-to-build-products-businesses-want-course-slides/
+* [Apply the Lean Startup in B2B to Build Products Businesses Want: Solution Interviews](https://www.slideshare.net/egarbugli/apply-the-lean-startup-in-b2b-to-build-products-businesses-want-course-slides/140-27Pivots)
+* [The Sales Pitch is Dead. Long Live Solution Interviews!](http://customerdevlabs.com/2014/08/05/problem-solution-interviews-b2b-sales-pitch/)
+* [LeanSteps: Solution Interviews](https://leansteps.wordpress.com/11-2/step-3-lean-experiment/solution-interviews/)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
