@@ -58,23 +58,24 @@ Is the customer actually willing to pay money for the value proposition?
 * [ElasticSales and Close.io](https://www.linkedin.com/pulse/20140423214327-7006635-how-to-charge-money-for-things-that-don-t-exist-yet)
 * [My Sky](https://thefoundation.com/podcast/episode25)
 * [MixedMade](http://bushwickkitchen.com/blogs/startup-journey/12362041-selling-a-product-that-doesnt-exist-day-22)
-  ### Field Tips
+  
+### Field Tips
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
 
+* [TechCrunch: Jolla Closes Pre-Sales Campaign For Its First Phone](http://techcrunch.com/2013/08/21/jolla-closes-first-pre-sales/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
 
 * [Indiegogo](https://www.indiegogo.com/#/picks_for_you)
 * [Kickstarter](https://www.kickstarter.com)
-* [Kickstarter prohibits product simulations and photorealistic product renderings](https://www.kickstarter.com/blog/kickstarter-is-not-a-store?page=2)
-* [Pre-sales platform Celery](https://www.trycelery.com)
-* [http://techcrunch.com/2013/08/21/jolla-closes-first-pre-sales/](http://techcrunch.com/2013/08/21/jolla-closes-first-pre-sales/)
-* [http://blog.trycelery.com/successful-preorder-website-campaigns/](http://blog.trycelery.com/successful-preorder-website-campaigns/)
-* [https://hbr.org/2013/12/sell-your-product-before-it-exists](https://hbr.org/2013/12/sell-your-product-before-it-exists)
-* [https://yourfirstcustomers.com/the-5-step-formula-for-effectively-pre-selling-your-product-to-your-audience/](https://yourfirstcustomers.com/the-5-step-formula-for-effectively-pre-selling-your-product-to-your-audience/)
+* [Kickstarter Prohibits Product Simulations and Photorealistic Product Renderings](https://www.kickstarter.com/blog/kickstarter-is-not-a-store?page=2)
+* [Celery: Pre-sales platform](https://www.trycelery.com)
+* [Celery Blog: Successful DIY Pre-Order Crowdfunding Campaigns Revealed](http://blog.trycelery.com/successful-preorder-website-campaigns/)
+* [Harvard Business Review: Sell Your Product Before It Exists](https://hbr.org/2013/12/sell-your-product-before-it-exists)
+* [The 5-Step Formula for Effectively Pre-Selling Your Product to Your Audience](https://yourfirstcustomers.com/the-5-step-formula-for-effectively-pre-selling-your-product-to-your-audience/)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
 
 
