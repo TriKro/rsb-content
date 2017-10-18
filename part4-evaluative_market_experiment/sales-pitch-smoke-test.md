@@ -78,17 +78,17 @@ This smoke test does not suggest the optimal price point for the product, or whe
 
 ## Case Studies
 
-* Minivid: [http://thestartuptoolkit.com/blog/2010/11/minivid-iteration-case-study/](http://thestartuptoolkit.com/blog/2010/11/minivid-iteration-case-study/)
+* [Minivid: Iteration Case Study](http://thestartuptoolkit.com/blog/2010/11/minivid-iteration-case-study/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
 
-* SPIN Selling by Neil Rackham for B2B sales
-* Pitch Anything by Oren Klaff
-* The Ultimate Sales Machine by Chet Holmes
-* [http://sterlingchase.com/2011/10/13/7-killer-closing-techniques-to-increase-sales/\#sthash.1b1rtmNZ.dpuf](http://sterlingchase.com/2011/10/13/7-killer-closing-techniques-to-increase-sales/#sthash.1b1rtmNZ.dpuf)
-* [https://blog.hubspot.com/sales/the-5-most-common-objections-during-prospecting-and-how-to-overcome-them\#sm.000vd672z1bmrcz3rcd1ty8tb8r6k](https://blog.hubspot.com/sales/the-5-most-common-objections-during-prospecting-and-how-to-overcome-them#sm.000vd672z1bmrcz3rcd1ty8tb8r6k)
-* [http://firstround.com/review/the-three-frameworks-you-need-to-kick-start-sales/](http://firstround.com/review/the-three-frameworks-you-need-to-kick-start-sales/)
+* [SPIN Selling by Neil Rackham](https://www.amazon.com/SPIN-Selling-Neil-Rackham/dp/0070511136)
+* [Pitch Anything by Oren Klaff](https://www.amazon.com/Pitch-Anything-Innovative-Presenting-Persuading/dp/1501211811)
+* [The Ultimate Sales Machine by Chet Holmes](https://www.amazon.com/Ultimate-Sales-Machine-Turbocharge-Relentless/dp/1591842158)
+* [Sterling Chase: 7 Killer Closing Techniques to Increase Sales](http://sterlingchase.com/2011/10/13/7-killer-closing-techniques-to-increase-sales/#sthash.1b1rtmNZ.dpuf)
+* [HubSpot: The 5 Most Common Objections During Prospecting and How to Overcome Them](https://blog.hubspot.com/sales/the-5-most-common-objections-during-prospecting-and-how-to-overcome-them#sm.000vd672z1bmrcz3rcd1ty8tb8r6k)
+* [First Round: The Three Frameworks You Need to Kick-start Sales](http://firstround.com/review/the-three-frameworks-you-need-to-kick-start-sales/)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
 
 
