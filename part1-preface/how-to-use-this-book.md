@@ -24,11 +24,9 @@ It is _highly_ recommended that you read the index thoroughly. You will not get 
 
 When faced with an unknown aspect of your business model, first figure out what you need to learn. What’s your learning goal? What question are you trying to ask?
 
-Once you know what you need to learn, consult the index to find a list of research and experimental methods that will help. Then read each method, and determine which will work best for your situation and resources.
+Once you know what you need to learn, consult the index to find a list of research and experimental methods that will help. Then read each method and determine which will work best for your situation and resources.
 
 -
-
-
 
 In each method section, you will find the following headers:
 
@@ -42,7 +40,7 @@ A list of common questions about a business model that this method helps answer.
 
 ### Tags
 
-A list of terms that can also be used to navigate through the book such as B2B \(for methods commonly used for Business-to-Business models\) and qualitative \(for the type of data used by this method.\)
+A list of terms that can also be used to navigate through the book such as B2B \(for methods commonly used for Business-to-Business models\) and qualitative \(for the type of data used by this method\).
 
 ### Description
 
@@ -54,9 +52,9 @@ A more detailed description of the steps normally taken to run this research or 
 
 * _**Interpreting Results**_ in a meaningful way
 
-* _**Common Biases or Pitfalls**_ that may distort the results of the method and lead to bad conclusions based on incorrect data.
+* _**Common Biases or Pitfalls**_ that may distort the results of the method and lead to bad conclusions based on incorrect data
 
-* _**Field Tips**_ from startup practitioners who have used this method.
+* _**Field Tips**_ from startup practitioners who have used this method
 
 ### Case Studies
 
@@ -65,3 +63,4 @@ Links to various case studies that might serve as examples and inspiration.
 ### References
 
 A list of additional materials or resources for those who want more information.
+
