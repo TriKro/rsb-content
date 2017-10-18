@@ -127,9 +127,9 @@ Then take action!
 
 ## References
 
-* [https://www.surveymonkey.co.uk/mp/how-to-analyze-survey-data/](https://www.surveymonkey.co.uk/mp/how-to-analyze-survey-data/)
-* [http://fluidsurveys.com/university/comparing-closed-ended-and-open-ended-questions/](http://fluidsurveys.com/university/comparing-closed-ended-and-open-ended-questions/)
-  * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
+* [Survey Monkey: How to Analyze Survey Data](https://www.surveymonkey.co.uk/mp/how-to-analyze-survey-data/)
+* [Fluid Surveys: Comparing Closed-Ended and Open-Ended Questions](http://fluidsurveys.com/university/comparing-closed-ended-and-open-ended-questions/)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
 
 
 
