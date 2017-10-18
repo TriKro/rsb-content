@@ -96,7 +96,7 @@ Check your initial hypothesis and see if the results match your success rate. De
 ## References
 * [Hustlecon 2013: Fake Doors - How to Test Product Ideas Quickly](http://www.slideshare.net/JessLee4/fake-doors-how-to-test-product-ideas-quickly-hustlecon-2013)
 * [Alberto Savoia: Pretotype it! Make sure you are building the right it before you build it right](http://www.pretotyping.org)
-* [Web 2.0 Summit 2010: Playing for High Stakes in the New App Economy](https://www.youtube.com/watch?v=81F1qSOq3cs](https://www.youtube.com/watch?v=81F1qSOq3cs)
+* [Web 2.0 Summit 2010: Playing for High Stakes in the New App Economy](https://www.youtube.com/watch?v=81F1qSOq3cs)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
 
 
