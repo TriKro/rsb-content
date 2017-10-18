@@ -55,12 +55,12 @@ Creators of a product can subconsciously avoid situations and use cases they kno
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
+- [Dogfooding at Bitglass: We Secure Our Own Corporate Data](http://www.bitglass.com/blog/dogfooding-at-bitglass-we-secure-our-own-corporate-data)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
-- https://blog.intercom.com/the-danger-of-dogfooding/
-- http://www.forbes.com/sites/michaeldefranco/2014/03/04/not-eating-your-own-dog-food-you-probably-should-be-2/#6d2f7ad51d6e
-- http://www.bitglass.com/blog/dogfooding-at-bitglass-we-secure-our-own-corporate-data
+- [Intercom: The Danger of Dogfooding](https://blog.intercom.com/the-danger-of-dogfooding/)
+- [Forbes: Not Eating Your Own Dog Food? You Probably Should Be](http://www.forbes.com/sites/michaeldefranco/2014/03/04/not-eating-your-own-dog-food-you-probably-should-be-2/#6d2f7ad51d6e)
 - https://www.cnet.com/news/googles-eric-schmidt-why-i-love-my-blackberry/
 - http://www.digitaltrends.com/mobile/eric-schmidt-iphone-use/
 - http://fortune.com/2016/07/13/airbnb-chesky-discrimination/
