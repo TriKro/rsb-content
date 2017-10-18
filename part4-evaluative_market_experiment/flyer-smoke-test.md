@@ -82,13 +82,13 @@ For a B2B/enterprise idea, causing some kind of a specific response in your pros
 
 * [NextDoor: How the mailbox can be the best way for startups to reach potential users](http://www.inc.com/alex-moazed/how-the-mailbox-can-be-the-best-way-for-startups-to-reach-potential-users.html)
 * [Dojo: Heartfelt letters nabbed thousands of downloads and investor interest](http://observer.com/2014/09/forget-pr-emails-app-used-heartfelt-letters-nabbed-thousands-of-downloads-and-investor-interest/)
-* [Relatas:](https://yourstory.com/2016/10/startup-marketing-watch-out/)
+* [Relatas: Left flyers on every seat in the conference auditorium while it was empty during lunch](https://yourstory.com/2016/10/startup-marketing-watch-out/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
 
-* [http://jodycalkins.com/7-tips-for-creating-effective-flyers-for-your-new-product/](http://jodycalkins.com/7-tips-for-creating-effective-flyers-for-your-new-product/)
-* [https://www.linkedin.com/pulse/create-irresistible-one-page-sales-flyer-dave-palmer](https://www.linkedin.com/pulse/create-irresistible-one-page-sales-flyer-dave-palmer)
+* [7 Tips for Creating Effective Flyers for Your New Product](http://jodycalkins.com/7-tips-for-creating-effective-flyers-for-your-new-product/)
+* [Create Irresistible One Page Sales Flyer](https://www.linkedin.com/pulse/create-irresistible-one-page-sales-flyer-dave-palmer)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
 
 
