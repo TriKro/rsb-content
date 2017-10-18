@@ -41,16 +41,14 @@ The Wizard of Oz test can provide valuable information, especially quantitative 
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
-- HBR - https://hbr.org/product/Aardvark/an/811064-PDF-ENG
-- Cardmunch - http://www.fastcompany.com/1807189/year-after-linkedin-came-calling-cardmunch-poised-make-rolodex-obsolete
+- [Harvard Business Review: Aardvark](https://hbr.org/product/Aardvark/an/811064-PDF-ENG)
+- [Fast Company: Cardmunch](http://www.fastcompany.com/1807189/year-after-linkedin-came-calling-cardmunch-poised-make-rolodex-obsolete)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
-- https://grasshopperherder.com/what-type-of-lean-startup-experiment-should-i-run/
-- http://www.spokendialogue.dk/Publications/1994i/WPCS-94-1-10.2.94.pdf
-- http://www.fastcompany.com/1807189/year-after-linkedin-came-calling-cardmunch-poised-make-rolodex-obsolete
-- http://themacro.com/articles/2016/01/ask-yc-upfront-technical-investments/
-- https://www.quora.com/What-are-the-pros-and-cons-of-Wizard-of-Oz-testing
-- http://www.usabilitynet.org/tools/wizard.htm
-- http://www.ucc.ie/hfrg/projects/respect/urmethods/wizard.htm
+- [GrasshopperHerder: What Type of Lean Startup Experiment Should I Run?](https://grasshopperherder.com/what-type-of-lean-startup-experiment-should-i-run/)
+- [Roskilde University - Centre for Cognitive Science: Wizard of Oz Prototyping: When and How?](http://www.spokendialogue.dk/Publications/1994i/WPCS-94-1-10.2.94.pdf)
+- [Y Combinator: The Wizard of Oz Approach](http://themacro.com/articles/2016/01/ask-yc-upfront-technical-investments/)
+- [Quora: What are the pros and cons of "Wizard of Oz testing"?](https://www.quora.com/What-are-the-pros-and-cons-of-Wizard-of-Oz-testing)
+- [Usability Net: Wizard of Oz](http://www.usabilitynet.org/tools/wizard.htm)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
