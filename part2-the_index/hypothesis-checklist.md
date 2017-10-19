@@ -134,7 +134,7 @@ Learn from your mistakes. Look at the questions that you got wrong and pay atten
 
 * The success or failure of the experiment is not directly linked to the experiment. If the success or failure could have happened because of a number of variables, then you don’t know if the experiment was the reason for the change.
 
-* The time box is too long or too short. Some experiments are going to take a longer time, but you have to make sure that the time box is reasonable for the growth rate of your company. You don’t want to have an experiment that takes years or that extends past the runway of your company.
+* The time box is too long or too short. Some experiments are going to take a longer time, but you have to make sure that the time box is reasonable for the growth rate of your company. You don’t want to have an experiment that takes years or extends past the runway of your company.
 
 **Other Resources**
 
