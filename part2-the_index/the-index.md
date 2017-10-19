@@ -2,6 +2,9 @@
 
 ![](/assets/illustration-sandbox-color.png)
 
-**“An index is a great leveler”**
 
-_– George Bernard Shaw_
+
+**“An index is a great leveler”**
+
+—_George Bernard Shaw_
+
