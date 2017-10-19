@@ -68,7 +68,7 @@ These methods work for any industry, but there is a bias toward providing exampl
 
 This book is not for students trying to learn in a classroom environment. You’ll have to go out and use this book in the real world with real customers to get anything out of it. So if your teacher just handed this to you, get ready to get kicked out of the building to go talk to customers.
 
-This book is also not for companies executing on an existing business model. While some of the techniques listed here do work quite well for optimizing an existing product or service, it’s not designed for that. So you’ll have to modify the techniques and make sure you’re considering potential side effects.
+This book is also not for companies executing on an existing business model. While some of the techniques listed here work quite well for optimizing an existing product or service, it’s not designed for that. You’ll have to modify the techniques and make sure you’re considering potential side effects.
 
 ## Continual Improvement
 

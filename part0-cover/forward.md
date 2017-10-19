@@ -5,10 +5,11 @@
 By Tristan Kromer
 
 **  
-“When all you have is a hammer, everything looks like a nail.” **_— Unknown_
+“When all you have is a hammer, everything looks like a nail.” **
 
-**        
-  **
+_— Unknown_
+
+**        **
 
 My first encounter with the term _lean startup_ introduced me to the concept of a smoke test. The idea was elegant—place a value proposition onto a landing page with the intent to gauge customer demand. So of course I applied it immediately.
 
