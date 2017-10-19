@@ -4,35 +4,35 @@
 
 If you’ve ever recognized a giant gap or unanswered question in your business model and had no idea how to go about filling that gap, this book is for you. You may be asking:
 
-* _Who_ are our customers?
+* Who are our customers?
 
-* What are _the most important features_ of our product?
+* What are the most important features of our product?
 
-* Why are people _doing_ that with my product?
+* Why are people doing that with my product?
 
-* Will people _actually_ pay for this?
+* Will people actually pay for this?
 
 This book is for managing innovation projects where the business model is partially or completely unknown. Your job title might be:
 
-* Product Manager
+* Product manager
 
-* CEO of an early stage startup
+* CEO of an early-stage startup
 
-* Entrepreneur in Residence
+* Entrepreneur in residence
 
 ## Previous Experience
 
 This book will be most useful if you are familiar with concepts such as:
 
-* Lean Startup
+* Lean startup
 
-* User Experience
+* User experience
 
-* Human Centered Design / Design Thinking
+* Human-centered design/design thinking
 
-* Business Model Innovation
+* Business model innovation
 
-It’s ok if you haven’t heard of any of these terms, but you’ll get a lot more out of it if you have.
+It’s ok if you haven’t heard of any of these terms, but you’ll get more out of it if you have.
 
 In particular, you should already buy into the idea that parts of your business model are unknown, and the way to figure them out is to do research and experiments out of the building and in the real world with your customers.
 
@@ -40,15 +40,15 @@ In particular, you should already buy into the idea that parts of your business 
 
 This book is particularly useful for those managing or assisting large numbers of innovation products. This includes job titles like:
 
-* Chief Innovation Officer
+* Chief innovation officer
 
-* VP of Innovation
+* VP of innovation
 
-* Accelerator Manager
+* Accelerator manager
 
-* Lean Startup / Innovation Coach
+* Lean startup/innovation coach
 
-If this is you, you’ll find this book serves as a versatile and quick reference guide for almost any startup you’ll be dealing with. It can also be used to diagnose typical startup problems.
+If you are in any of these positions, this book serves as a versatile and quick reference guide for almost any startup you’ll be dealing with. It can also be used to diagnose typical startup problems.
 
 It is also a Creative Commons project, which means you can use it as training material for your startups without any additional cost.
 
@@ -60,9 +60,9 @@ While many of the methods listed here can be used to investigate other business 
 
 ## Stage and Industry
 
-The methods here work fine for small, early stage startups and equally fine for teams in large companies trying something new, risky, and outside the normal business model.
+The methods here work fine for small, early-stage startups and equally fine for teams in large companies trying something new, risky, and outside the normal business model.
 
-These methods work for any industry, but there is a bias towards providing examples and case studies from the technology industry. Other industries will be included as case studies become available. Please send any such case studies to [realbook@kromatic.com](mailto:realbook@kromatic.com) to be included.
+These methods work for any industry, but there is a bias toward providing examples and case studies from the technology industry. Other industries will be included as case studies become available. Please send any case studies you'd like to be included to [realbook@kromatic.com](mailto:realbook@kromatic.com).
 
 ## Warnings: Academics and Existing Businesses
 

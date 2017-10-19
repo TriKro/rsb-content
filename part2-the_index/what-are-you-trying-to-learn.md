@@ -50,7 +50,7 @@ For example, let’s say we’re selling a new type of shoe that cures plantar f
 
 ![](/assets/illustration - smoke test - cures plantar fasciitis.png)
 
-and our conversion rate is 0 percent.
+... and our conversion rate is 0 percent.
 
 Should we give up? That’s what the landing page test says. There is insufficient demand for this product.
 

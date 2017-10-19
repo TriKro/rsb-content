@@ -52,7 +52,7 @@ To narrow down the large list of methods to something actionable, we can first s
 
 * How should we optimize this?
 
-* What do people like / dislike?
+* What do people like/dislike?
 
 * Why do they do that?
 
