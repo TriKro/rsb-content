@@ -4,7 +4,7 @@
 
 ## In Brief
 
-A combination of semi-structured interview and observations done in the actual location where the problem occurs or the solution will be used. This method avoids hypothetical statements and helps reveal knowledge that the customer may have but is unaware of and thus unable to communicate in a traditional interview. It may also reveal substitute products, competitors, or workarounds that will help define the optimal solution.
+A combination of semi-structured interviews and observations done in the actual location where the problem occurs or the solution will be used. This method avoids hypothetical statements and helps reveal knowledge that the customer may have but is unaware of and thus unable to communicate in a traditional interview. It may also reveal substitute products, competitors, or workarounds that will help define the optimal solution.
 
 ## Helps Answer
 
@@ -55,7 +55,7 @@ It is helpful to have already conducted customer discovery interviews and have b
 #### Observation
 
 * The researcher should take notes on the workflow, asking questions to clarify any points of confusion.
-* Take care to note extraneous activities that may be outside the scope of the solution to be designed but may impact the workflow of the user. E.g. Coworkers engaging in distracting chit-chat
+* Take care to note extraneous activities that may be outside the scope of the solution to be designed but may impact the workflow of the user, e.g., coworkers engaging in distracting chitchat
 
 #### Summarize
 
@@ -74,7 +74,7 @@ Since the data is primarily qualitative in nature and sample sizes are small, re
 
 ### Field Tips
 
-* “Apprentice yourself to the customer and learn how they are currently solving their problems without your product.” - @TriKro
+* “Apprentice yourself to the customer and learn how they are currently solving their problems without your product.” —@TriKro
 
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
