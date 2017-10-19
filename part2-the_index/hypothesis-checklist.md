@@ -106,11 +106,11 @@ If I add a notification feature that allows the waiter/waitress to set reminders
 
 4. By collecting data points of Instagram selfie dates to days that are 80 degrees and sunny, your AI can identify 75 percent of the clothing in 3 months.
 
-**Scenario 5: **Men’s socks are a great way to jazz up an outfit so you decided to start a men’s sock e-commerce store. Your customers are not completing the check-out process and usability tests show that some users question the “site’s security”. You want to add a small adjustment to the payments page to see if more users complete the check-out process.
+**Scenario 5: **Men’s socks are a great way to jazz up an outfit, so you decided to start a men’s sock e-commerce store. Your customers are not completing the checkout process, and usability tests show that some users question the site’s security. You want to add a small adjustment to the payments page to see if more users complete the checkout process.
 
 1. If you add a password strength indicator then more people will create passwords in the next 2 months.
 
-2. If you add a lock icon next to the credit card info, the completion of the checkout process will increase by 15 percent in 3 months.
+2. If you add a lock icon next to the credit card information, the completion of the checkout process will increase by 15 percent in 3 months.
 
 3. If you make the site prettier, the completion of the checkout process will increase by 25 percent in 6 months.
 

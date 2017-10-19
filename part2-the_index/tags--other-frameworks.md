@@ -1,9 +1,10 @@
 ![](/assets/Icon-Tools.png)
+
 # Other Frameworks
 
 There are many great methods, books, and frameworks out there on how to identify and prioritize risky assumptions, hypotheses, and questions.
 
-All the methods are tagged so as to be easily searchable depending on any other frameworks we might use. This includes simple tags such as _qualitative_ or _quantitative_ used to denote the type of information that the method produces.
+All the methods are tagged so that they are easily searchable depending on any other frameworks we might use. This includes simple tags such as _qualitative_ or _quantitative, _which are used to denote the type of information that the method produces.
 
 It also includes tags related to the type of business model, such as:
 
@@ -15,19 +16,14 @@ It also includes tags related to the type of business model, such as:
 
 * 2-Sided Market - For a business with buyers and sellers.
 
-Using these tags to navigate the methods is not as simple as using the index and may result in a large selection of methods not entirely suited to the learning goal. But they can be helpful to further narrow down the methods, so we’ve included them.
-
-
+Using these tags to navigate the methods is not as simple as using the index and may result in a large selection of methods not entirely suited to the learning goal. But we have included them so they can help us further narrow down the methods.
 
 ## **Using the Business Model Canvas**
 
 The Business Model Canvas is a very popular framework that identifies the nine basic building blocks of any business model and asks us to make assumptions as to what our business will be. Those blocks are:
 
-
-
 ![\[IMAGE\]
 ](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Business_Model_Canvas.png/1200px-Business_Model_Canvas.png)
-
 
 Based on our completed canvas, we choose the area of greatest risk to our success. Sometimes this is the customer segment, but in the case of an existing market it may be the value proposition, channels, or even key partners.
 

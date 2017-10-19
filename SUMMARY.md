@@ -24,7 +24,7 @@
   * [Data Mining](part3-generative_market_research/data-mining.md)
   * [Experience Sampling](part3-generative_market_research/experience-sampling.md)
   * [Focus Groups](part3-generative_market_research/focus-group.md)
-  * [Open Ended Survey](part3-generative_market_research/open-ended-survey.md)
+  * [Open-Ended Survey](part3-generative_market_research/open-ended-survey.md)
 * [Evaluative Market Experiment](part4-evaluative_market_experiment/4-evaluative-market-experiment.md)
   * [Broken Promise Smoke Test](part4-evaluative_market_experiment/broken-promise-smoke-test.md)
   * [Closed End Survey](part4-evaluative_market_experiment/closed-end-survey.md)
