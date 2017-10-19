@@ -7,7 +7,7 @@ By Tristan Kromer
 **  
 **When all you have is a hammer, everything looks like a nail. 
 
-{% right %}_—Unknown_{% endright %}
+—Unknown
 
 
 
