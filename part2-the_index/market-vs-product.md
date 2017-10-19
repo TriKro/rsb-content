@@ -66,13 +66,13 @@ For example, market questions include those about which channels we can use to r
 
 “Product” \(or service\) is simplified to mean anything regarding the value proposition or the production of it. This includes resources needed to produce the value proposition, as well as any key activities, partners, or costs.
 
-The value proposition really sits at the intersection of the market needs and the product itself. The product has no value outside of the customer using it, but in this case, we are again simplifying for navigation.
+The value proposition really sits at the intersection of market needs and the product itself. The product has no value outside of the customer using it, but in this case, we are again simplifying for navigation.
 
 _If we are using the Business Model Canvas, market questions are those on the right side of the canvas, including: customer, channel, relationship, and revenue. Product questions are those about the value proposition and everything left of it including: key activities, key resources, key partners, and costs._
 
 ## Where Should We Start?
 
-This book is agnostic about where we start. We may already have a product and are investigating who to sell it to or we may have a customer segment with a strong pain point and are trying to find a solution. However, when in doubt, start with the customer.
+This book is agnostic about where we start. We may already have a product and are investigating who to sell it to, or we may have a customer segment with a strong pain point and are trying to find a solution. But when in doubt, start with the customer.
 
 If the customer segment changes, then the product usually must be adapted to the customer. However, if the product changes, customers may simply use a different product. Human behavior is notoriously difficult to change, although it is not impossible.
 

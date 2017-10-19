@@ -112,7 +112,7 @@ Based on this, if we have a clear hypothesis of who our customer is and what we 
 
 ![](/assets/framework - lean startup playbook copy.png)
 
-If we don’t have a clear idea of who our customer is, we can do _Generative Market Research, _such as data mining.
+If we don’t have a clear idea of who our customer is, we can do \_Generative Market Research, such as data mining.
 
 Similarly, if we have a clear hypothesis of which features will solve the customer’s problems, we can do an _Evaluative Product Experiment_ such as _Wizard of Oz_ testing. If we do not know which features will lead to an acceptable solution, we can do _Generative Product Research_ such as a _Concierge Product_ to try and come up with new ideas.
 

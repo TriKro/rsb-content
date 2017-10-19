@@ -1,9 +1,10 @@
 ![](/assets/illustration-DetailBuyer01a-shaded.png)
+
 # Writing a Good Hypothesis
 
 Lean startup practices turn project managers, business leaders, and designers into scientists who constantly validate their ideas through running an array of experiments. But experiments can get out of hand and turn perfectly sane people into mad scientists. A sure way to keep one’s sanity is to start the experiment with a strong hypothesis.
 
-A strong hypothesis will give structure to the experiment. It will tell you what you are testing and what you expect to get out of the test. By stating the expectations, you are stating the goals that the experiment has to hit to make it a success or failure. This will help you define when to determine that the experiment needs to be scrapped or if it is ready to be taken to market.
+A strong hypothesis will give structure to the experiment. It will tell you what you are testing and what you expect to get out of the test. By stating the expectations, you are delineating the goals that the experiment has to hit to make it a success or failure. This will help you define when to determine that the experiment needs to be scrapped or if it is ready to be taken to market.
 
 Key elements of writing a good hypothesis:
 
@@ -33,11 +34,11 @@ This is the expected results of the experiment. If you change _x_, then you expe
 
 **The metric:**
 
-This is a measurement that needs to be hit or surpassed. This can be a fail metric where if the experiment does not meet the minimum goal, then the project must completely pivot into a new direction. The metric can also be a success metric, where the experiment is deemed to be a success if it hits the goal. Choosing between the success or fail metric is dependent on if you want the baseline to know when to scrap a project or when to launch a project.
+This is a measurement that needs to be hit or surpassed. This can be a fail metric where if the experiment does not meet the minimum goal, then the project must pivot into a completely new direction. The metric can also be a success metric, where the experiment is deemed to be a success if it hits the goal. Choosing between the success or fail metric is dependent on if you want the baseline to know when to scrap a project or when to launch a project.
 
 **The timebox:**
 
-This is the length of time it takes to run the test. If the timebox is too short then the data size might be too small or the effects might not have had time to take place. But if the timebox is too long you are wasting valuable time collecting unnecessary data.
+This is the length of time it takes to run the test. If the timebox is too short then the amount of data might be too small, or the effects might not have had time to take place. But if the timebox is too long you are wasting valuable time collecting unnecessary data.
 
 **Let’s go through an example scenario of writing a hypothesis:**
 
@@ -45,7 +46,7 @@ Say that you are a product manager at a startup that creates a mobile app to hel
 
 _What are you going to change within the app?_
 
-How about adding a notification system so the user can set reminders to ping them at the end of a shift.
+How about adding a notification system so the user can set reminders to ping them at the end of a shift?
 
 _What do you want the outcome to be?_
 
@@ -65,9 +66,9 @@ If I add a notification feature that allows the waiter/waitress to set reminders
 
 **Below is a worksheet that will test if you can figure out the strongest hypothesis for a given scenario.**
 
-**Scenario 1: **You work for a company that rents out toddlers’ clothes. It is a monthly subscription where families get a box of five pieces of clothing, and when the toddler grows out of them, they return the clothes for a new box. The data shows that there might be a correlation between members who frequently send items back to higher customer retention rates. Your goal is to have members return more boxes. You have decided that you can do this by adding pieces that are seasonal, holiday themed or super trendy so that the family will need to keep updating the clothes.
+**Scenario 1: **You work for a company that rents out toddlers’ clothes. It is a monthly subscription where families get a box of five pieces of clothing, and when the toddler grows out of them, they return the clothes for a new box. The data shows that there might be a correlation between members who frequently send back items to higher customer retention rates. Your goal is to have members return more boxes. You have decided that you can do this by adding pieces that are seasonal, holiday themed, or super trendy so that the family will need to keep updating the clothes.
 
-1. By adding one piece of special occasion clothing, you will see a 10 percent rise in returned boxes in three months.
+1. By adding one piece of special occasion clothing, you will see a 10 percent rise in returned boxes in 3 months.
 
 2. If you include one special occasion outfit, a new designer piece and a seasonal accessory, then you will see a 15 percent increase in returned boxes in the next 12 weeks.
 
@@ -81,9 +82,9 @@ If I add a notification feature that allows the waiter/waitress to set reminders
 
 2. If you give out 10 percent coupons to boat rentals for downloading the app, 15 percent off tack shops, and advertise around piers, then you will see an increase of 15 percent new downloads the next three months.
 
-3. By pairing up with 10 boat rentals to give a coupon fpr 10 percent off the boat rentals for downloading the app, you will see a 5 percent increase of downloads over a 6 month period.
+3. By pairing up with 10 boat rentals to give a coupon for 10 percent off the boat rentals for downloading the app, you will see a 5 percent increase of downloads over a 6 month period.
 
-4. When you have a special where someone downloads the app, they get a one of a kind lure at Ted’s tack shop \(which has 15 stores in Florida\), then you will see 10% decrease in Manatee deaths over the next 5 months.
+4. When you have a special where someone downloads the app, they get a one-of-a-kind lure at Ted’s tack shop \(which has 15 stores in Florida\), then you will see 10 percent decrease in manatee deaths over the next 5 months.
 
 **Scenario 3: **Your Labrador is obsessed with a tennis ball and you are tired of throwing the slobbery thing. It inspired you to start a drone company that drops tennis balls and takes funny pictures of the dogs. Your customer support team has received complaints that it is hard to understand how to download the pictures from iphone app. You want to test moving the photos section to various parts of the app.
 
@@ -103,7 +104,7 @@ If I add a notification feature that allows the waiter/waitress to set reminders
 
 3. If you send out a survey to ask people what they are wearing when it is 80 degrees and sunny, then you will get a 75 percent answer rate in a week.
 
-4. By collecting data points of Instagram selfies dates to days of 80 degrees and sunny, your AI can identify 75 percent of the clothing in 3 months.
+4. By collecting data points of Instagram selfies dates to days that are 80 degrees and sunny, your AI can identify 75 percent of the clothing in 3 months.
 
 **Scenario 5: **Men’s socks are a great way to jazz up an outfit so you decided to start a men’s sock e-commerce store. Your customers are not completing the check-out process and usability tests show that some users question the “site’s security”. You want to add a small adjustment to the payments page to see if more users complete the check-out process.
 
@@ -133,7 +134,7 @@ Learn from your mistakes. Look at the questions that you got wrong and pay atten
 
 * The success or failure of the experiment is not directly linked to the experiment. If the success or failure could have happened because of a number of variables, then you don’t know if the experiment was the reason for the change.
 
-* The time box is too long or too short. Some experiments are going to take a longer time but you have to make sure that the time box is reasonable for the growth rate of your company. You don’t want to have an experiment that takes years or that is overextended past the runway of your company.
+* The time box is too long or too short. Some experiments are going to take a longer time, but you have to make sure that the time box is reasonable for the growth rate of your company. You don’t want to have an experiment that takes years or that extends past the runway of your company.
 
 **Other Resources**
 
@@ -154,7 +155,7 @@ Learn from your mistakes. Look at the questions that you got wrong and pay atten
 |  |  | Does it describe a relationship between two things? |
 |  |  | Is the cause and effect relationship clear? |
 |  |  | Is it achievable? |
-|  |  | Can there any evidence that would convince us the hypothesis is _invalid_? |
+|  |  | Is there any evidence that would convince us the hypothesis is _invalid_? |
 
 
 
