@@ -104,7 +104,7 @@ If I add a notification feature that allows the waiter/waitress to set reminders
 
 3. If you send out a survey to ask people what they are wearing when it is 80 degrees and sunny, then you will get a 75 percent answer rate in a week.
 
-4. By collecting data points of Instagram selfies dates to days that are 80 degrees and sunny, your AI can identify 75 percent of the clothing in 3 months.
+4. By collecting data points of Instagram selfie dates to days that are 80 degrees and sunny, your AI can identify 75 percent of the clothing in 3 months.
 
 **Scenario 5: **Men’s socks are a great way to jazz up an outfit so you decided to start a men’s sock e-commerce store. Your customers are not completing the check-out process and usability tests show that some users question the “site’s security”. You want to add a small adjustment to the payments page to see if more users complete the check-out process.
 
