@@ -5,11 +5,11 @@
 By Tristan Kromer
 
 **  
-“When all you have is a hammer, everything looks like a nail.” **
+**When all you have is a hammer, everything looks like a nail. 
 
-_— Unknown_
+{% right %}_—Unknown_{% endright %}
 
-**        **
+
 
 My first encounter with the term _lean startup_ introduced me to the concept of a smoke test. The idea was elegant—place a value proposition onto a landing page with the intent to gauge customer demand. So of course I applied it immediately.
 
@@ -17,9 +17,7 @@ When I heard about Sean Ellis' “How disappointed would you be” survey, I use
 
 When I heard about concierge testing, Wizard of Oz testing, and paper prototyping, I used them.
 
-I used them without thought.
-
-I used them because that’s all I knew.
+I used them without thought, because that's all I knew.
 
 I used them because someone whose name I recognized used them and wrote it down on a blog, in a book, or on a slide.
 
