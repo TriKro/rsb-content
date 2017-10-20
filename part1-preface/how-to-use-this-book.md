@@ -6,13 +6,13 @@ Do not read this book straight through. There is no plot or narrative that you�
 
 This book is not a Step 1, Step 2, Step 3 guide to building a startup. Startups don’t work like that.
 
-There are certain sections that you’ll want to read thoroughly, such as the Intro and Index. Those sections allow you to figure out which parts of the rest of the book are relevant to you and your startup. Read those parts, then reference the methods described in the remaining pages as needed.
+There are certain sections that you’ll want to read thoroughly, such as the intro and index. Those sections allow you to figure out which parts of the rest of the book are relevant to you and your startup. Read those parts, then reference the methods described in the remaining pages as needed.
 
 -
 
 Think of this book as a toolbox.
 
-Like any toolbox, it’s organized to help us find what we’re looking for when we need it. When we need a way to test market demand, there’s a section on **Evaluative Market Experiments**. When we’re looking to prioritize our ever-growing feature list into a **Minimum Viable Product**, there’s a section on **Generative Product Research**.
+Like any toolbox, it’s organized to help us find what we’re looking for when we need it. When we need a way to test market demand, there’s a section on _Evaluative Market Experiments_. When we’re looking to prioritize our ever-growing feature list into a _Minimum Viable Product_, there’s a section on _Generative Product Research_.
 
 We must know which tool we need before taking it out and using it. As innovators, we must be wary of [Maslow’s Hammer](https://en.wikipedia.org/wiki/Law_of_the_instrument) and make sure that we understand which research/experimental method or technique we need before we wind up repeatedly hitting ourselves in the thumb.
 
