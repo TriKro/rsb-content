@@ -4,7 +4,7 @@
 
 ## In Brief
 
-A/B testing \(also known as split testing and bucket testing\) is a randomized method of comparing two versions of an element \(A and B\) against each other to determine which one performs better using a metric to define success. To determine which one is better, you subject both versions to experimentation simultaneously. In the end, you measure which version was more successful and select that version for real-world use.
+A/B testing \(also known as split testing and bucket testing\) is a randomized method of comparing two versions of an element \(A and B\) against each other to determine which one performs better using a metric to define success. You subject both versions to experimentation simultaneously, measure which version was more successful, and select that version for real-world use.
 
 ## Helps Answer
 

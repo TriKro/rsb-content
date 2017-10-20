@@ -1,4 +1,5 @@
 ![](/assets/Illustration_People_Crowd.png)
+
 # Broken Promise Smoke Test
 
 ## In Brief
@@ -56,7 +57,7 @@ Interpretation is framed by how you originally formulated the experiment, i.e., 
 
 ### Potential Biases
 
-* Confirmation Bias
+* Confirmation bias
 
 ### Field Tips
 
