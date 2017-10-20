@@ -2,6 +2,6 @@
 
 ![](/assets/illustration - trapped in a box.png)
 
-Constraint inspires creativity  
+Constraint inspires creativity.  
 —_Biz Stone_
 
