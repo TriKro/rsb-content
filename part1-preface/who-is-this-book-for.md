@@ -2,7 +2,7 @@
 
 # Who Is This Book For
 
-If you’ve ever recognized a giant gap or unanswered question in your business model and had no idea how to go about filling that gap, this book is for you. You may be asking:
+If you’ve ever recognized a giant gap or unanswered question in your business model and had no idea how to go about filling it, this book is for you. You may be asking:
 
 * Who are our customers?
 
@@ -56,15 +56,15 @@ It is also a Creative Commons project, which means you can use it as training ma
 
 This book is best used to answer questions about certain business model elements such as the _customer_, the _value proposition_, _channel_, _relationship_, and _revenue_. In other words, the critical elements in _product/market fit_.
 
-While many of the methods listed here can be used to investigate other business model elements such as _partners_ and _resources_, it may take some extra interpretation on the part of the reader.
+While many of the methods listed here can be used to investigate other business model elements such as _partners_ and _resources_, it may take some extra effort on the part of the reader.
 
 ## Stage and Industry
 
 The methods here work fine for small, early-stage startups and equally fine for teams in large companies trying something new, risky, and outside the normal business model.
 
-These methods work for any industry, but there is a bias toward providing examples and case studies from the technology industry. Other industries will be included as case studies become available. Please send any case studies you'd like to be included to [realbook@kromatic.com](mailto:realbook@kromatic.com).
+These methods work for any industry, but there is a bias toward providing examples and case studies from the technology industry. Other industries will be included as case studies become available. Please send any case studies you'd like to include to [realbook@kromatic.com](mailto:realbook@kromatic.com).
 
-## Warnings: Academics and Existing Businesses
+## Warning: Academics and Existing Businesses
 
 This book is not for students trying to learn in a classroom environment. You’ll have to go out and use this book in the real world with real customers to get anything out of it. So if your teacher just handed this to you, get ready to get kicked out of the building to go talk to customers.
 

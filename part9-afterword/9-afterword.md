@@ -4,7 +4,7 @@
 
 **What Are the Next Steps?**
 
-“I'm not of the opinion that the next logical step for a book is for it to be made into a film.”  
+"I'm not of the opinion that the next logical step for a book is for it to be made into a film.”  
 —_Jasper Fforde_
 
 **For You**  

@@ -4,9 +4,7 @@
 
 Go to any jazz jam session and you’ll see one book on stage: _The Real Book_.
 
-Every serious musician has it.
-
-_The Real Book_ is a large tome with text that looks like someone took handwritten music charts, photocopied them, and then stuck them in a binder.
+Every serious musician has it. _The Real Book_ is a large tome with text that looks like someone took handwritten music charts, photocopied them, and then stuck them in a binder.
 
 Each page is a jazz standard. "All Blues" by Miles Davis, "Autumn Leaves" by Johnny Mercer, "A Night in Tunisia" by Dizzy Gillespie, and even more esoteric tunes like "Peaches in Regalia" by Frank Zappa.
 
