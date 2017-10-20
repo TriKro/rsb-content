@@ -34,11 +34,11 @@ A list of common questions about a business model that this method helps answer.
 
 ### Tags
 
-A list of terms that can also be used to navigate the book such as B2B \(for methods commonly used for business-to-business models\) and qualitative \(for the type of data used by this method\).
+A list of terms that can be used to navigate the book, such as B2B \(for methods commonly used for business-to-business models\) and qualitative \(for the type of data used by this method\).
 
 ### Description
 
-A more detailed description of the steps normally taken to run this research or experiment method, including:
+A more detailed description of the steps normally taken to run a research or experiment method, including:
 
 * _Time commitment and resources_ needed to run the method
 
