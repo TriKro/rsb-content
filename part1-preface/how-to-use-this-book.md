@@ -16,7 +16,7 @@ We must know which tool we need before taking it out and using it. As innovators
 
 The index for navigating this book is not alphabetical, chronological, or ontological. The index is ordered by what you’re trying to learn. Are you trying to learn about your customer? How to price your product? What will make your users come back?
 
-It is highly recommended that you read the index thoroughly. You will not get the major benefit of this book without it.
+It is highly recommended that you thoroughly read the index. You will not get the major benefit of this book without it.
 
 When faced with an unknown aspect of your business model, first figure out what you need to learn. What’s your learning goal? What question are you trying to ask?
 
