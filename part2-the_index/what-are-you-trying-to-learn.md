@@ -24,7 +24,7 @@ Sadly, those rote memorization skills and the ability to answer preformulated qu
 “That’s what you have to figure out.”
 ```
 
-As an entrepreneur \(or intrapreneur\), we can’t just guess at the answers without first identifying the right questions to ask. If we just guess by building a fully functioning product, it’s very likely that the market will judge us wrong and punish us with zero sales and eventual bankruptcy.
+As an entrepreneur \(or intrapreneur\), we can’t just guess at the answers without first identifying the right questions. If we guess by building a fully functioning product, it’s likely that the market will judge us wrong and punish us with zero sales and eventual bankruptcy.
 
 Our job, as an entrepreneur, is to first ask the right questions, and only then can we find the right answers.
 
@@ -42,19 +42,19 @@ The questions we must answer are fundamental gaps in our business model. Questio
 
 * Is our solution good enough?
 
-If we can identify the right question, there is a corresponding method or methods listed in this book to help answer that question.
+If we can identify the right question, there is a corresponding method or methods in this book to help answer that question.
 
-If we attempt to execute a method without first identifying the right question to ask, the results of that experiment are typically very difficult, if not impossible, to interpret correctly.
+If we attempt to execute a method without first identifying the right question, the results of that experiment are typically very difficult, if not impossible, to correctly interpret.
 
-For example, let’s say we’re selling a new type of shoe that cures plantar fasciitis. We put up a landing page test \(a type of smoke test\) with our value proposition and a “buy now” button. Then we put $1000 into Google AdWords for “shoes” to drive traffic and sit back to wait for the money to start rolling in …
+For example, let’s say we’re selling a new type of shoe that cures plantar fasciitis. We put up a landing page test \(a type of smoke test\) with our value proposition and a “buy now” button. Then we put $1000 into Google AdWords for “shoes” to drive traffic and wait for the money to start rolling in.
 
 ![](/assets/illustration - smoke test - cures plantar fasciitis.png)
 
-... and our conversion rate is 0 percent.
+Later, it turns out that our conversion rate is 0 percent.
 
-Should we give up? That’s what the landing page test says. There is insufficient demand for this product.
+Should we give up? The landing page test says that there is insufficient demand for this product.
 
-“But what is plantar fasciitis???”
+“But what is plantar fasciitis?”
 
 Exactly. All those people coming to our site are asking the same thing.
 
