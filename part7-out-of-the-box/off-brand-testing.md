@@ -46,13 +46,13 @@ As this is a technique used to reduce bias, there are no major additional biases
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
-* Toyota used an off-brand landing page test with Facebook ads to figure out if anyone would actually want to pay for gas from the convenience of their car. They were concerned the presence of their brand might skew the results. https://medium.com/@davidjbland/lean-startup-comes-home-8f205993da40
-* “Traditionally what we might have done is develop an app and release it and then see what happens next. But we knew that with this, if we were going to get it right we would need to expose it to customers and get their feedback.” https://www.designweek.co.uk/issues/2-8-march-2015-2/natwest-in-off-brand-and-disruptive-beta-testing-for-new-services/
-* Dell uses off-brand testing to test landing page variants that the company won't be implementing in the near term. Dan Siroker and Pete Koomen in *A/B Testing: The Most Powerful Way to Turn Clicks Into Customers*
+* [Toyota used an off-brand landing page test with Facebook ads to figure out if anyone would actually want to pay for gas from the convenience of their car. They were concerned the presence of their brand might skew the results.](https://medium.com/@davidjbland/lean-startup-comes-home-8f205993da40)
+* [“Traditionally what we might have done is develop an app and release it and then see what happens next. But we knew that with this, if we were going to get it right we would need to expose it to customers and get their feedback.”](https://www.designweek.co.uk/issues/2-8-march-2015-2/natwest-in-off-brand-and-disruptive-beta-testing-for-new-services/)
+* [Dell uses off-brand testing to test landing page variants that the company won't be implementing in the near term. Dan Siroker and Pete Koomen in *A/B Testing: The Most Powerful Way to Turn Clicks Into Customers*](http://www.abtestingbook.com/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
  
 ## References
-* https://medium.com/@davidjbland/lean-startup-comes-home-8f205993da40
-* https://hbr.org/2003/12/kill-a-brand-keep-a-customer
-* America's test kitchen https://en.wikipedia.org/wiki/America%27s_Test_Kitchen
+* [Medium - David Bland: Lean Startup Comes Home](https://medium.com/@davidjbland/lean-startup-comes-home-8f205993da40)
+* [Harvard Business School: Kill a Brand, Keep a Customer](https://hbr.org/2003/12/kill-a-brand-keep-a-customer)
+* [Wikipedia: America's test kitchen](https://en.wikipedia.org/wiki/America%27s_Test_Kitchen)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
