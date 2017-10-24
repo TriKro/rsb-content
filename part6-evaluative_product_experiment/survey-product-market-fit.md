@@ -77,15 +77,15 @@ Look for differences in qualitative responses between very disappointed and some
  * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
-* https://hitenism.com/slack-product-market-fit-survey/
+* [Hitenism: 731 Slack Users Reveal Why It’s So Addictive](https://hitenism.com/slack-product-market-fit-survey/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
  
 ## References
-* http://pmarchive.com/guide_to_startups_part4.html (original definition of product-market fit)
-* http://www.startup-marketing.com/the-startup-pyramid/
-* https://grasshopperherder.com/false-positives-and-product-market-fit/
-* https://www.slideshare.net/hiten1/measuring-understanding-productmarket-fit-qualitatively/8-Do_you_have_productmarket_fit
-* http://www.startup-marketing.com/using-survey-io/
-* https://www.fastcompany.com/3014841/why-you-should-find-product-market-fit-before-sniffing-around-for-venture-money?show_rev_content
-* https://www.cobloom.com/blog/how-good-is-david-cummings-approach-to-product/market-fit (another set of criteria for PMF in SaaS companies)
+* [The Pmarca Guide To Startups - Part 4: The only thing that matters](http://pmarchive.com/guide_to_startups_part4.html)
+* [Startup Marketing: The Startup Pyramid](http://www.startup-marketing.com/the-startup-pyramid/)
+* [GrasshopperHerder: False Positives and Product-Market Fit](https://grasshopperherder.com/false-positives-and-product-market-fit/)
+* [SlideShare: Measuring and Understanding Product-Market Fit](https://www.slideshare.net/hiten1/measuring-understanding-productmarket-fit-qualitatively/8-Do_you_have_productmarket_fit)
+* [Startup Marketing: Using Survey.io](http://www.startup-marketing.com/using-survey-io/)
+* [Fast Company: Why You Should Find Product-Market Fit Before Sniffing Around for Venture Money](https://www.fastcompany.com/3014841/why-you-should-find-product-market-fit-before-sniffing-around-for-venture-money?show_rev_content)
+* [Cobloom Blog: How Good is David Cummings Approach to Product-Market Fit](https://www.cobloom.com/blog/how-good-is-david-cummings-approach-to-product/market-fit)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
