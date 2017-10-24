@@ -62,12 +62,11 @@ As this technique does not gather data, it is purely a subjective ranking tool i
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
-* Founders often ask who to interview first or what their riskiest assumption is during Lean Startup Machine weekend workshops. Scorecards help answer that, if you don't have a readily available answer. 
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
  
 ## References
-* http://customerdevlabs.com/2012/08/23/prioritizing-customer-segments-with-excel/
-* https://dkander.wordpress.com/2013/05/07/how-to-diagnose-your-riskiest-assumptions/
-* http://sixteenventures.com/startup-customer-development-hacks
-* https://medium.com/@ipsita/leaning-into-the-startup-methodology-b5327ac02d98
+* [Customer Dev Labs: Prioritizing Customer Segments with Excel](http://customerdevlabs.com/2012/08/23/prioritizing-customer-segments-with-excel/)
+* [Diana Kander: How to Diagnose Your Riskiest Assumptions](https://dkander.wordpress.com/2013/05/07/how-to-diagnose-your-riskiest-assumptions/)
+* [Sixteen Ventures: Startup Customer Development Hacks](http://sixteenventures.com/startup-customer-development-hacks)
+* [Medium - Ipsita Agarwal: Leaning into the Lean Startup Methodology](https://medium.com/@ipsita/leaning-into-the-startup-methodology-b5327ac02d98)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
