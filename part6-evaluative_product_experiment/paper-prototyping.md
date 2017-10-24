@@ -43,17 +43,16 @@ You are looking for places where the customer got stuck, was not able to find wh
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
-- http://www.nngroup.com/articles/mozilla-paper-prototype/  
-- http://www.id-book.com/secondedition/casestudy_11-2_paper2.htm 
+- [NN Group: Mozilla Paper Prototype](http://www.nngroup.com/articles/mozilla-paper-prototype/)  
+- [Interaction Design: Paper prototyping as a core tool in the design of mobile phone user interfaces](http://www.id-book.com/secondedition/casestudy_11-2_paper2.htm)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## References
-- Carolyn Snyder, Paper Prototying.  Morgan Kaufmann, 2003. http://www.paperprototyping.com/
-- Dumas, Joseph and Janice Redish, A Practical Guide to Usability Testing.  Intellect, Ltd, 1999.
-- http://www.csee.umbc.edu/courses/undergraduate/345/spring12/mitchell/readings/paperPrototyping_Snyder.pdf 
-- http://www.userfocus.co.uk/articles/paperprototyping.html
-- http://speckyboy.com/2010/06/24/10-effective-video-examples-of-paper-prototyping/
-- http://www.nngroup.com/articles/paper-prototyping/
-- http://blogs.atlassian.com/2011/11/usability-testing-with-paper-prototyping/ 
-- http://www.humanfactors.com/newsletters/prototyping2.asp
+- [Carolyn Snyder, Paper Prototying.  Morgan Kaufmann, 2003.](http://www.paperprototyping.com/)
+- [Dumas, Joseph and Janice Redish, A Practical Guide to Usability Testing.  Intellect, Ltd, 1999.](https://www.amazon.com/Practical-Guide-Usability-Testing/dp/1841500208)
+- [IBM: Sure, it's low-tech, but this usability testing method can help you sidestep problems before you write your code](http://www.csee.umbc.edu/courses/undergraduate/345/spring12/mitchell/readings/paperPrototyping_Snyder.pdf)
+- [User Focus: 7 myths about paper prototyping](http://www.userfocus.co.uk/articles/paperprototyping.html)
+- [SpeckyBoy: Effective Video Examples of Paper Prototyping](http://speckyboy.com/2010/06/24/10-effective-video-examples-of-paper-prototyping/)
+- [NN Group: Paper Prototyping: Getting User Data Before You Code](http://www.nngroup.com/articles/paper-prototyping/)
+- [Atlassian Blog: Usability Testing with Paper Prototyping](http://blogs.atlassian.com/2011/11/usability-testing-with-paper-prototyping/)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
