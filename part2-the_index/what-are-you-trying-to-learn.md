@@ -56,25 +56,25 @@ Should we give up? The landing page test says that there is insufficient demand 
 
 “But what is plantar fasciitis?”
 
-Exactly. All those people coming to our site are asking the same thing.
+It turns out that everyone coming to our site has been asking this question.
 
 Is our test failing because customers aren’t interested, or is it simply because our customers can’t understand the value proposition? Or are we focused on the wrong channel?
 
-In this case, we were asking, “Does anyone want my product?” when we should have been asking, “Does our customer understand what plantar fasciitis is?” Or even, “Who is our customer?”
+In this case, we were asking, “Does anyone want my product?” when we should have been asking, “Does our customer understand what plantar fasciitis is?” or even, “Who is our customer?”
 
 ## **How Do We Ask the Right Questions?**
 
-We know that asking the right questions is important, but _actually_ figuring out those questions can be a challenge. How do we know we’re not missing anything? How do we know we are asking the most important questions?
+Asking the right questions is important, but actually figuring out those questions can be a challenge. How do we know we’re not missing anything? How do we know we are asking the most important questions?
 
-It’s impossible to see our own blind spots. That’s the definition of a blind spot.
+It’s impossible to see our own blind spots. In fact, that’s the definition of a blind spot.
 
 Unfortunately, it’s often these blind spots that hold the deadliest questions and business risks.
 
-One way to generate these questions is brainstorming around your problems/challenges/opportunities and reframing them as questions. There are many ways to brainstorm questions and identify gaps in our business model such as using the Business Model Canvas, but most of them still leave blind spots. Fortunately, it’s easy for other people who have a little emotional distance from our business to see where we are making risky assumptions. So instead of listing a variety of brainstorming methods, the only advice we’ll offer in this book is just to ask someone else.
+One way to generate these questions is brainstorming around problems/challenges/opportunities and reframing them as questions. There are many ways to brainstorm questions and identify gaps in our business model such as using the _Business Model Canvas_, but most of them still leave blind spots. Fortunately, it’s easy for other people who have a little emotional distance from our business to see where we are making risky assumptions. So instead of listing a variety of brainstorming methods, the only advice we’ll offer in this book is to ask someone else.
 
 A _peer review_ is a time-honored method to eliminate oversights. It can be used to proofread a document or make sure we’re not about to walk out of the house with mismatching socks.
 
-To peer review our business model, we don’t even need to ask a seasoned entrepreneur or industry expert. Almost anyone is able to provide the input we need.
+To peer review our business model, we don’t need to ask a seasoned entrepreneur or industry expert. Almost anyone is able to provide the input we need.
 
 We can present our business idea and business model to someone else and ask _them_ to ask _us_ questions. Encourage them to ask any question they want and make sure to mention that there are no dumb questions.
 
@@ -112,11 +112,11 @@ Based on this, if we have a clear hypothesis of who our customer is and what we 
 
 ![](/assets/framework - lean startup playbook copy.png)
 
-If we don’t have a clear idea of who our customer is, we can do \_Generative Market Research, such as data mining.
+If we don’t have a clear idea of who our customer is, we can do Generative Market Research, such as data mining.
 
-Similarly, if we have a clear hypothesis of which features will solve the customer’s problems, we can do an _Evaluative Product Experiment_ such as _Wizard of Oz_ testing. If we do not know which features will lead to an acceptable solution, we can do _Generative Product Research_ such as a _Concierge Product_ to try and come up with new ideas.
+Similarly, if we have a clear hypothesis of which features will solve the customer’s problems, we can do an e_valuative product experiment_ such as _Wizard of Oz_ testing. If we do not know which features will lead to an acceptable solution, we can do _Generative Product Research_ such as a _Concierge Product_ to try and come up with new ideas.
 
-**Any framework is an oversimplification of reality! This Index is a quick way to navigate to the correct method, but doesn’t mean you don’t need to think.**
+Any framework is an oversimplification of reality! This index is a quick way to navigate to the correct method, but doesn’t mean you don’t need to think.
 
-The _Index of Questions_ and the _Index of Methods_ show the complete list of questions and their corresponding methods. But first we’ll look at the details of Market vs. Product and Generative vs. Evaluative.
+The _Index of Questions_ and the _Index of Methods_ show the complete list of questions and their corresponding methods. But first we’ll look at the details of market vs. product and generative vs. evaluative.
 
