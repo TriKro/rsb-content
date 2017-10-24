@@ -84,11 +84,11 @@ Graphs and visualizations can very easily be misleading.
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
-* https://www.geckoboard.com/learn/dashboard-examples/aarrr-pirate-metrics-dashboard-example/#.WQhMl9rytpg
-* https://venturebeat.com/2015/07/31/6-dashboards-i-use-daily-and-why-every-startup-ceo-should-as-well/
+* [Geckoboard: Pirate Metrics (AARRR) dashboard example](https://www.geckoboard.com/learn/dashboard-examples/aarrr-pirate-metrics-dashboard-example/#.WQhMl9rytpg)
+* [VentureBeat: 6 dashboards I use daily — and why every startup CEO should as well](https://venturebeat.com/2015/07/31/6-dashboards-i-use-daily-and-why-every-startup-ceo-should-as-well/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
   
 ## References
-* http://www.statisticshowto.com/misleading-graphs/
-* All work by Edward Tufte: https://www.edwardtufte.com/tufte/
+* [Statistics How To: Misleading Graphs: Real Life Examples](http://www.statisticshowto.com/misleading-graphs/)
+* [Edward Tufte: Blog](https://www.edwardtufte.com/tufte/)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
