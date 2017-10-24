@@ -4,7 +4,7 @@
 
 Do we need to learn about the _market_ or the _product_?
 
-To narrow down the large list of methods to something actionable, we can first separate our questions into those about the market and those about the product.
+To narrow down the long list of applicable methods to something actionable, we can first separate our questions into those about the market and those about the product.
 
 ## Market
 
@@ -68,7 +68,7 @@ For example, market questions include those about which channels we can use to r
 
 The value proposition really sits at the intersection of market needs and the product itself. The product has no value outside of the customer using it, but in this case, we are again simplifying for navigation.
 
-_If we are using the Business Model Canvas, market questions are those on the right side of the canvas, including: customer, channel, relationship, and revenue. Product questions are those about the value proposition and everything left of it including: key activities, key resources, key partners, and costs._
+If we are using the Business Model Canvas, market questions are those on the right side of the canvas, including: customer, channel, relationship, and revenue. Product questions are those about the value proposition and everything left of it including: key activities, key resources, key partners, and costs.
 
 ## Where Should We Start?
 
