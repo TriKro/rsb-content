@@ -117,44 +117,31 @@ The method also tends to be extensive and requires a high level of expertise to 
 
 * [MIT Sloan Courseware: Conjoint Analysis by John R. Huaser](http://www.mit.edu/~hauser/Papers/NoteonConjointAnalysis.pdf)
 
-* Chris Chapman - [*9 Things Clients Get Wrong About Conjoint
-    Analysis*](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41886.pdf)
+* [Chris Chapman: 9 Things Clients Get Wrong About Conjoint Analysis](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41886.pdf)
 
- * Brett Jarvis - [*Conjoint Analysis
-    101*](http://pragmaticmarketing.com//resources/conjoint-analysis-101?p=0)
+* [Brett Jarvis: Conjoint Analysis 101](http://pragmaticmarketing.com//resources/conjoint-analysis-101?p=0)
 
- * [*Things You Need to Know About Conjoint
-    Analysis*](http://pestleanalysis.com/conjoint-analysis/)
+* [Things You Need to Know About Conjoint Analysis](http://pestleanalysis.com/conjoint-analysis/)
 
- * Sawtooth Software - [*Interpreting the Results of Conjoint
-    Analysis*](http://www.sawtoothsoftware.com/download/techpap/interpca.pdf)
+* [Sawtooth Software: Interpreting the Results of Conjoint Analysis](http://www.sawtoothsoftware.com/download/techpap/interpca.pdf)
 
- * Quirks - [*Conjoint Analysis in Pharmaceutical Marketing
-    Research*](http://www.quirks.com/articles/a2001/20010602.aspx)
+* [Quirks: Conjoint Analysis in Pharmaceutical Marketing Research](http://www.quirks.com/articles/a2001/20010602.aspx)
 
- * Got a case study? Add a link by emailing us: realbook@trikro.com
+* Got a case study? Add a link by emailing us: realbook@trikro.com
 
-Conjoint Software Resources
----------------------------
+## Conjoint Software Resources
 
- * [*Conjoint Survey Design
-    Tool*](http://scholar.harvard.edu/astrezhnev/conjoint-survey-design-tool),
-    Harvard 2014 (Free)
+* [Conjoint Survey Design Tool*](http://scholar.harvard.edu/astrezhnev/conjoint-survey-design-tool), Harvard 2014 (Free)
 
- * [*XLSTAT-Conjoint*](http://www.xlstat.com/en/products-solutions/conjoint.html)
-    ($50 Student, $275 private)
+* [XLSTAT-Conjoint](http://www.xlstat.com/en/products-solutions/conjoint.html) ($50 Student, $275 private)
 
- * [*Conjoint Analysis in
-    Excel*](http://bpmsg.com/conjoint-analysis-example-in-excel/) (Free)
+* [Conjoint Analysis in Excel](http://bpmsg.com/conjoint-analysis-example-in-excel/) (Free)
 
- * [*Choosing By Advantage*](http://paramountdecisions.com/) ($30/mo,
-    similar to CA)
+* [Choosing By Advantage](http://paramountdecisions.com/) ($30/mo, similar to CA)
 
- * [*Survey Gizmo*](http://www.surveygizmo.com/plans-pricing/) ($95/mo,
-    free 7-day trial)
+* [Survey Gizmo](http://www.surveygizmo.com/plans-pricing/) ($95/mo, free 7-day trial)
 
- * [*1000minds.com*](https://www.1000minds.com/) ($20,000 for
-    enterprise, free for students)
+* [1000minds.com](https://www.1000minds.com/) ($20,000 for enterprise, free for students)
 
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
 
