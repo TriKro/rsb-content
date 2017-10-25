@@ -2,9 +2,9 @@
 
 # Writing a Good Hypothesis
 
-Lean startup practices turn project managers, business leaders, and designers into scientists who constantly validate their ideas through running an array of experiments. But experiments can get out of hand and turn perfectly sane people into mad scientists. A sure way to keep one’s sanity is to start the experiment with a strong hypothesis.
+Lean startup practices turn project managers, business leaders, and designers into scientists who constantly validate their ideas through running an array of experiments. But experiments can get out of hand and turn perfectly sane people into mad scientists. A sure way to keep one’s sanity is to start an experiment with a strong hypothesis, which will give the experiment structure. 
 
-A strong hypothesis will give structure to the experiment. It will tell you what you are testing and what you expect to get out of the test. By stating the expectations, you are delineating the goals that the experiment has to hit to make it a success or failure. This will help you define when to determine that the experiment needs to be scrapped or if it is ready to be taken to market.
+A strong hypothesis will tell you what you are testing and what you expect to get out of the test. By stating expectations, you are delineating the goals that the experiment has to hit to make it a success or failure. This will help you define when to determine that the experiment needs to be scrapped or if it is ready to be taken to market.
 
 Key elements of writing a good hypothesis:
 
@@ -86,9 +86,9 @@ If I add a notification feature that allows the waiter/waitress to set reminders
 
 4. When you have a special where someone downloads the app, they get a one-of-a-kind lure at Ted’s tack shop \(which has 15 stores in Florida\), then you will see 10 percent decrease in manatee deaths over the next 5 months.
 
-**Scenario 3: **Your Labrador is obsessed with a tennis ball and you are tired of throwing the slobbery thing. It inspired you to start a drone company that drops tennis balls and takes funny pictures of the dogs. Your customer support team has received complaints that it is hard to understand how to download the pictures from iphone app. You want to test moving the photos section to various parts of the app.
+**Scenario 3: **Your Labrador is obsessed with a tennis ball and you are tired of throwing the slobbery thing. It inspired you to start a drone company that drops tennis balls and takes funny pictures of the dogs. Your customer support team has received complaints that it is hard to understand how to download the pictures from the iPhone app. You want to test moving the photos section to various parts of the app.
 
-1. If you add a photos section to the navigation bar, then you will see a 5% increase of new users over a 4 month period.
+1. If you add a photos section to the navigation bar, then you will see a 5 percent increase of new users over a 4 month period.
 
 2. If you advertise about the photo feature in your app, you will have more users and fewer complaints within the next 10 weeks.
 
@@ -124,7 +124,7 @@ If I add a notification feature that allows the waiter/waitress to set reminders
 * 4 - D
 * 5 - B
 
-Learn from your mistakes. Look at the questions that you got wrong and pay attention see which key element is either missing or vague.
+Learn from your mistakes. Look at the questions that you got wrong and see which key element is either missing or vague.
 
 **Common Mistakes:**
 
@@ -134,7 +134,7 @@ Learn from your mistakes. Look at the questions that you got wrong and pay atten
 
 * The success or failure of the experiment is not directly linked to the experiment. If the success or failure could have happened because of a number of variables, then you don’t know if the experiment was the reason for the change.
 
-* The time box is too long or too short. Some experiments are going to take a longer time, but you have to make sure that the time box is reasonable for the growth rate of your company. You don’t want to have an experiment that takes years or extends past the runway of your company.
+* The time box is too long or too short. Some experiments are going to take longer, but make sure that the time box is reasonable for the growth rate of your company. You don’t want to have an experiment that takes years or extends past your runway.
 
 **Other Resources**
 
