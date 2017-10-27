@@ -6,9 +6,9 @@ Go to any jazz jam session and you’ll see one book on stage: _The Real Book_.
 
 Every serious musician has it. _The Real Book_ is a large tome with text that looks like someone took handwritten music charts, photocopied them, and then stuck them in a binder.
 
-Each page is a jazz standard. "All Blues" by Miles Davis, "Autumn Leaves" by Johnny Mercer, "A Night in Tunisia" by Dizzy Gillespie, and even more esoteric tunes like "Peaches in Regalia" by Frank Zappa.
+Each page is a jazz standard: "All Blues" by Miles Davis, "Autumn Leaves" by Johnny Mercer, "A Night in Tunisia" by Dizzy Gillespie, and even more esoteric tunes like "Peaches in Regalia" by Frank Zappa.
 
-Unlike other “fake books” that have details on how to play each note and where to put your fingers, _The Real Book_ was minimal. Each page had the key signature, time signature, chords, melody line, and not much else. It was just enough detail to play the song. It was vague enough to allow for the extensive improvisation that makes jazz jazz.[^1]
+Unlike other “fake books” that have details on how to play each note and where to put your fingers, _The Real Book_ was minimal. Each page had the key signature, time signature, chords, melody line, and not much else. It was just enough detail to play the song and vague enough to allow for the extensive improvisation that makes jazz jazz.[^1]
 
 It was heaven.
 
@@ -24,7 +24,7 @@ _The Real Startup Book_ will help us find those answers by showing us which meth
 
 It should not be overly dogmatic and should leave room for interpretation. Depending on our unique circumstances, we can still improvise.
 
-This is not a textbook, it’s not a “How To” guide, and it’s not a “fake book.” It’s a well-organized toolbox to help you find the right tool for the job at hand.
+This is not a textbook. It's not a “How To” guide or a “fake book.” It’s a well-organized toolbox to help you find the right tool for the job at hand.
 
 Keep it, refer to it, and toss it to the side when you need it.  
 More importantly, please write on it. Scribble, scratch, and change it.
