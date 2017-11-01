@@ -49,7 +49,6 @@
   * [Dogfooding](part5-generative_product_research/dogfooding.md)
   * [Picnic in the Graveyard](part5-generative_product_research/picnic-in-the-graveyard.md)
   * [Solution Interview](part5-generative_product_research/solution-interview.md)
-  * [Wizard of Oz](part6-evaluative_product_experiment/wizard-of-oz.md)
 * [Evaluative Product Experiment](part6-evaluative_product_experiment/6-evaluative-product-experiment.md)
   * [Conjoint Analysis](part6-evaluative_product_experiment/conjoint-analysis.md)
   * [Dashboards](part6-evaluative_product_experiment/dashboards.md)
@@ -58,10 +57,13 @@
   * [Product-Market Fit Survey](part6-evaluative_product_experiment/survey-product-market-fit.md)
   * [Takeaway Test](part6-evaluative_product_experiment/takeaway-test.md)
   * [Usability Testing](part6-evaluative_product_experiment/usability-testing.md)
+  * [Wizard of Oz](/part6-evaluative_product_experiment/wizard-of-oz.md)
 * [Out of the Box](part7-out-of-the-box/7-out-of-the-box.md)
   * [A/B Testing](part7-out-of-the-box/ab-testing.md)
   * [Off Brand Testing](part7-out-of-the-box/off-brand-testing.md)
   * [Scorecards](part7-out-of-the-box/scorecards.md)
 * [Afterword](part9-afterword/9-afterword.md)
   * [Afterword](part9-afterword/9-afterword.md)
+
+
 
