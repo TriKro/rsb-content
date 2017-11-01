@@ -44,6 +44,8 @@
 
 * Rammohan Reddy, [LeanMantra](http://leanmantra.in/), [Linkedin](https://in.linkedin.com/in/rammohankreddy)
 
+* Ryan MacCarrigan, [Linkedin](https://www.linkedin.com/in/ryanmaccarrigan/)
+
 * Sean K. Murphy, [Linkedin](https://www.linkedin.com/in/skmurphy), [SKMurphy](http://www.skmurphy.com/)
 
 * Soojung Chang, [Linkedin](https://www.linkedin.com/in/soojungc/)
@@ -53,4 +55,13 @@
 * Thierry Dagaeff, [Linkedin](https://ch.linkedin.com/pub/thierry-dagaeff/2/473/127)
 
 * Tristan Kromer, [TriKro LLC](http://www.trikro.com/), [Blog](http://grasshopperherder.com/)
+
+# Editors
+
+* Luke Szyrmer, [LaunchTomorrow](http://blog.launchtomorrow.com/about-launch-tomorrow/), [@launchtomorrow](https://twitter.com/launchtomorrow)
+
+* Kenny Nguyen, [TriKro LLC](http://www.trikro.com/), [Linkedin](https://www.linkedin.com/in/kennythanhnguyen)
+
+* Tristan Kromer, [TriKro LLC](http://www.trikro.com/), [Blog](http://grasshopperherder.com/)
+
 
