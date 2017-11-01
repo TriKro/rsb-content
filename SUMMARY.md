@@ -1,4 +1,6 @@
-# Summary
+![](/assets/illustration - picnic in the graveyard.png)
+
+# The Real Startup Book
 
 * [The Real Startup Book](part0-cover/cover.md)
   * [Copyright](part0-cover/copyright.md)
@@ -27,7 +29,7 @@
   * [Open-Ended Survey](part3-generative_market_research/open-ended-survey.md)
 * [Evaluative Market Experiment](part4-evaluative_market_experiment/4-evaluative-market-experiment.md)
   * [Broken Promise Smoke Test](part4-evaluative_market_experiment/broken-promise-smoke-test.md)
-  * [Closed End Survey](part4-evaluative_market_experiment/closed-end-survey.md)
+  * [Close-Ended Survey](part4-evaluative_market_experiment/closed-end-survey.md)
   * [Comprehension Test](part4-evaluative_market_experiment/comprehension-test.md)
   * [Event Smoke Test](part4-evaluative_market_experiment/event-smoke-test.md)
   * [Fake Door Smoke Test](part4-evaluative_market_experiment/fake-door-smoke-test.md)

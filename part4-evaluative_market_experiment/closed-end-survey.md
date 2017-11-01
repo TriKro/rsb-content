@@ -1,5 +1,5 @@
 ![](/assets/illustration-surveyscloseended-yes-no-boxes-green-red.png)
-# Closed-End Survey
+# Close-Ended Survey
 
 ## In Brief
 
