@@ -38,7 +38,6 @@
   * [Pre-Sales Smoke Test](part4-evaluative_market_experiment/pre-sales-smoke-test.md)
   * [Sales Pitch Smoke Test](part4-evaluative_market_experiment/sales-pitch-smoke-test.md)
   * [Secondary Market Research](part4-evaluative_market_experiment/secondary-market-research.md)
-  * [Conjoint Analysis](/part6-evaluative_product_experiment/conjoint-analysis.md)
   * [Video Smoke Test](part4-evaluative_market_experiment/video-smoke-test.md)
 * [Generative Product Research](part5-generative_product_research/5-generative-product-research.md)
   * [Analog/Digital](part5-generative_product_research/analog-digital.md)
@@ -64,6 +63,4 @@
   * [Scorecards](part7-out-of-the-box/scorecards.md)
 * [Afterword](part9-afterword/9-afterword.md)
   * [Afterword](part9-afterword/9-afterword.md)
-
-
 
