@@ -49,7 +49,7 @@
   * [Dogfooding](part5-generative_product_research/dogfooding.md)
   * [Picnic in the Graveyard](part5-generative_product_research/picnic-in-the-graveyard.md)
   * [Solution Interview](part5-generative_product_research/solution-interview.md)
-  * [Wizard of Oz](part5-generative_product_research/wizard-of-oz.md)
+  * [Wizard of Oz](part6-evaluative_product_experiment/wizard-of-oz.md)
 * [Evaluative Product Experiment](part6-evaluative_product_experiment/6-evaluative-product-experiment.md)
   * [Conjoint Analysis](part6-evaluative_product_experiment/conjoint-analysis.md)
   * [Dashboards](part6-evaluative_product_experiment/dashboards.md)
