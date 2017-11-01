@@ -1,4 +1,5 @@
 ![](/assets/illustration-UserLaptop-shaded.jpg)
+
 # Contributors
 
 * Andy Cars, [Linkedin](https://se.linkedin.com/in/andycars), [Lean Ventures](http://leanventures.se/)
@@ -47,11 +48,9 @@
 
 * Soojung Chang, [Linkedin](https://www.linkedin.com/in/soojungc/)
 
+* Susan Baittle, [Linkedin](https://www.linkedin.com/in/susanbaittle)
+
 * Thierry Dagaeff, [Linkedin](https://ch.linkedin.com/pub/thierry-dagaeff/2/473/127)
 
 * Tristan Kromer, [TriKro LLC](http://www.trikro.com/), [Blog](http://grasshopperherder.com/)
-
-## Editors
-
-Tristan Kromer, [TriKro LLC](http://www.trikro.com/), [Blog](http://grasshopperherder.com/)
 
