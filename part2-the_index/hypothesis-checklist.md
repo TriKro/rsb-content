@@ -2,9 +2,9 @@
 
 # Writing a Good Hypothesis
 
-Lean startup practices turn project managers, business leaders, and designers into scientists who constantly validate their ideas through running an array of experiments. But experiments can get out of hand and turn perfectly sane people into mad scientists. A sure way to keep one’s sanity is to start an experiment with a strong hypothesis, which will give the experiment structure. 
+Lean startup practices turn project managers, business leaders, and designers into scientists who constantly validate their ideas by running an array of experiments. But experiments can get out of hand and turn perfectly sane people into mad scientists. A sure way to keep our sanity is to start with a strong hypothesis to give the experiment structure.
 
-A strong hypothesis will tell you what you are testing and what you expect to get out of the test. By stating expectations, you are delineating the goals that the experiment has to hit to make it a success or failure. This will help you define when to determine that the experiment needs to be scrapped or if it is ready to be taken to market.
+A strong hypothesis will tell you what you are testing and what you expect to get out of the test. By stating expectations, you are delineating the goals that the experiment has to hit to make it a success or failure. This will help you define when to determine that the experiment needs to be scrapped or it is ready to be taken to market.
 
 Key elements of writing a good hypothesis:
 
@@ -24,19 +24,19 @@ A hypothesis will end up looking like this:
 
 Let’s break down each aspect:
 
-**The change:**
+**The change**
 
 This is the aspect that you are going to change, launch, or create that is going to affect your business or product overall. It can be as simple as changing the color of a button or as big as launching a new marketing campaign. Make sure that only one aspect is changed at a time, otherwise there is no way to tell which aspect contributed to the effect.
 
-**The impact:**
+**The impact**
 
 This is the expected results of the experiment. If you change _x_, then you expect _y_ to happen.
 
-**The metric:**
+**The metric**
 
-This is a measurement that needs to be hit or surpassed. This can be a fail metric where if the experiment does not meet the minimum goal, then the project must pivot into a completely new direction. The metric can also be a success metric, where the experiment is deemed to be a success if it hits the goal. Choosing between the success or fail metric is dependent on if you want the baseline to know when to scrap a project or when to launch a project.
+This is a measurement that needs to be hit or surpassed. This can be a fail metric where if the experiment does not meet the minimum goal, then the project must pivot to a completely new direction. The metric can also be a success metric, where the experiment is deemed to be a success if it hits the goal. Choosing between the success or fail metric is dependent on if you want the baseline to know when to scrap a project or when to launch a project.
 
-**The timebox:**
+**The timebox**
 
 This is the length of time it takes to run the test. If the timebox is too short then the amount of data might be too small, or the effects might not have had time to take place. But if the timebox is too long you are wasting valuable time collecting unnecessary data.
 
@@ -68,7 +68,7 @@ If I add a notification feature that allows the waiter/waitress to set reminders
 
 **Scenario 1: **You work for a company that rents out toddlers’ clothes. It is a monthly subscription where families get a box of five pieces of clothing, and when the toddler grows out of them, they return the clothes for a new box. The data shows that there might be a correlation between members who frequently send back items to higher customer retention rates. Your goal is to have members return more boxes. You have decided that you can do this by adding pieces that are seasonal, holiday themed, or super trendy so that the family will need to keep updating the clothes.
 
-1. By adding one piece of special occasion clothing, you will see a 10 percent rise in returned boxes in 3 months.
+1. By adding one piece of special occasion clothing, you will see a 10 percent rise in returned boxes in three months.
 
 2. If you include one special occasion outfit, a new designer piece and a seasonal accessory, then you will see a 15 percent increase in returned boxes in the next 12 weeks.
 
@@ -84,7 +84,7 @@ If I add a notification feature that allows the waiter/waitress to set reminders
 
 3. By pairing up with 10 boat rentals to give a coupon for 10 percent off the boat rentals for downloading the app, you will see a 5 percent increase of downloads over a 6 month period.
 
-4. When you have a special where someone downloads the app, they get a one-of-a-kind lure at Ted’s tack shop \(which has 15 stores in Florida\), then you will see 10 percent decrease in manatee deaths over the next 5 months.
+4. When you have a special where someone downloads the app, they get a one-of-a-kind lure at Ted’s tack shop \(which has 15 stores in Florida\), then you will see a 10 percent decrease in manatee deaths over the next 5 months.
 
 **Scenario 3: **Your Labrador is obsessed with a tennis ball and you are tired of throwing the slobbery thing. It inspired you to start a drone company that drops tennis balls and takes funny pictures of the dogs. Your customer support team has received complaints that it is hard to understand how to download the pictures from the iPhone app. You want to test moving the photos section to various parts of the app.
 
@@ -94,7 +94,7 @@ If I add a notification feature that allows the waiter/waitress to set reminders
 
 3. If you add three pages to the onboarding process that explains the pictures, then you will get 25 percent increase of dog pictures.
 
-4. By moving the download photos to be part of the home screen, you will receive 50 percent fewer complaints about the photos section in the next three months
+4. By moving the download photos to be part of the home screen, you will receive 50 percent fewer complaints about the photos section in the next three months.
 
 **Scenario 4: **You are so sick of wearing the same outfits that you developed an AI software to pick out your clothes every morning. A venture capitalist saw your tweets about it and gave you a million dollars to start the company. You need the AI to address weather conditions when choosing the clothes. You want to run an experiment to test a method for collecting data for when it is 80 degrees and sunny.
 
@@ -114,7 +114,7 @@ If I add a notification feature that allows the waiter/waitress to set reminders
 
 3. If you make the site prettier, the completion of the checkout process will increase by 25 percent in 6 months.
 
-4. If you add a review page before the confirmation page, then 20 percent of customers will be able to complete the checkout flow in 10 mins.
+4. If you add a review page before the confirmation page, then 20 percent of customers will be able to complete the checkout flow in 10 minutes.
 
 **Answers: **
 
@@ -124,17 +124,17 @@ If I add a notification feature that allows the waiter/waitress to set reminders
 * 4 - D
 * 5 - B
 
-Learn from your mistakes. Look at the questions that you got wrong and see which key element is either missing or vague.
+Learn from your mistakes. Look at the questions you got wrong and see which key element is either missing or vague.
 
 **Common Mistakes:**
 
 * There are too many variables. If you are testing multiple things then you cannot pinpoint which variable caused the results.
 
-* There has to be an achievable metric attached to the hypothesis. You have to know the point at which the experiment succeeds or fails.
+* There is not an achievable metric attached to the hypothesis to know the point at which the experiment succeeds or fails.
 
-* The success or failure of the experiment is not directly linked to the experiment. If the success or failure could have happened because of a number of variables, then you don’t know if the experiment was the reason for the change.
+* The success or failure of the experiment is not directly linked to the experiment. If the success or failure could have been the result of a number of variables, then you don’t know if the experiment was the reason for the change.
 
-* The time box is too long or too short. Some experiments are going to take longer, but make sure that the time box is reasonable for the growth rate of your company. You don’t want to have an experiment that takes years or extends past your runway.
+* The timebox is too long or too short. Some experiments are going to take longer, but make sure that the timebox is reasonable for the growth rate of your company. You don’t want to have an experiment that takes years or extends past your runway.
 
 **Other Resources**
 
@@ -149,8 +149,8 @@ Learn from your mistakes. Look at the questions that you got wrong and see which
 | **Y** | **N** | **Questions** |
 | :--- | :--- | :--- |
 | ** ** | ** ** | Is it simple and unambiguous? |
-|  |  | I mean… is it simple...? |
-|  |  | ..and is it unambiguous? |
+|  |  | I mean … is it simple...? |
+|  |  | ...and is it unambiguous? |
 |  |  | Is it measurable? |
 |  |  | Does it describe a relationship between two things? |
 |  |  | Is the cause and effect relationship clear? |
