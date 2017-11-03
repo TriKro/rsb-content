@@ -4,17 +4,17 @@
 
 There are many great methods, books, and frameworks out there on how to identify and prioritize risky assumptions, hypotheses, and questions.
 
-All the methods are tagged so that they are easily searchable depending on any other frameworks we might use. This includes simple tags such as _qualitative_ or _quantitative, _which are used to denote the type of information that the method produces.
+All the methods are tagged so that they are easily searchable depending on any other frameworks we might use. This includes simple tags such as _qualitative_ or _quantitative_, which are used to denote the type of information that the method produces.
 
 It also includes tags related to the type of business model, such as:
 
-* B2B - For Business-to-Business
+* _B2B_ for business-to-business
 
-* B2C - For Business-to-Consumer
+* _B2C_ for business-to-consumer
 
-* B2G - For Business-to-Government
+* _B2G_ for business-to-government
 
-* 2-Sided Market - For a business with buyers and sellers.
+* _2-sided market_ for a business with buyers and sellers.
 
 Using these tags to navigate the methods is not as simple as using the index and may result in a large selection of methods not entirely suited to the learning goal. But we have included them so they can help us further narrow down the methods.
 
@@ -27,9 +27,9 @@ The Business Model Canvas is a very popular framework that identifies the nine b
 
 Based on our completed canvas, we choose the area of greatest risk to our success. Sometimes this is the customer segment, but in the case of an existing market it may be the value proposition, channels, or even key partners.
 
-Each method in this book tagged with these blocks. If we can identify the greatest risk to our business model via the Business Model Canvas, we can search the tags for a complete list of experimental methods relating to that building block.
+Each method in this book is tagged with these blocks. If we can identify the greatest risk to our business model via the Business Model Canvas, we can search the tags for a complete list of experimental methods relating to that building block.
 
-For example, if the customer is the biggest risk to our customer segment, then we are asking “Who is our customer?” or “Is this our correct customer segment?”. Based on that, there are several tools available to learn more about our customer, including:
+For example, if the customer is the biggest risk to our customer segment, then we are asking “Who is our customer?” or “Is this our correct customer segment?” Based on that, there are several tools available to learn more about our customer, including:
 
 * Customer discovery interviews
 
@@ -41,5 +41,5 @@ For example, if the customer is the biggest risk to our customer segment, then w
 
 * Focus groups
 
-_This won’t differentiate between generative research and evaluative experiments, so you’ll still need to take that extra step._
+This won’t differentiate between generative research and evaluative experiments, so you’ll still need to take that extra step.
 

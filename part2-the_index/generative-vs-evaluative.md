@@ -30,7 +30,7 @@ We might also argue about the results. Is calling a student “Mr.” instead of
 
 When we do not have a clear, well-defined, and falsifiable hypothesis we are best served by doing generative research instead of an experiment. In this case, our learning goal could be “Which teacher behaviors indicate teacher respect to minority students?”
 
-Given this goal, we are better off doing customer discovery interviews \(a.k.a. speaking to the students\) rather that testing our vague hypothesis. The outcome of the generative research should be a clear, well-defined, and falsifiable hypothesis that we can then go and test with an evaluative experiment.
+Given this goal, we are better off doing customer discovery interviews \(a.k.a. speaking to the students\) rather that testing our vague hypothesis. The outcome of the generative research should be a clear, well-defined, and falsifiable hypothesis that we can go and test with an evaluative experiment.
 
 Defining good hypotheses can be a challenge, so here are some things to look for and a short checklist.
 
