@@ -56,7 +56,7 @@ This hypothesis may be true, but it is not observable. At least not until we inv
 
 > _“Our customers donate to charitable causes twice per year.”_
 
-This new hypothesis has some other issues, but it is at least something observable.
+This new hypothesis has some other issues, but it is at least observable.
 
 ## Describes a Relationship
 
@@ -66,13 +66,13 @@ This again may be true and it is observable, but it doesn’t tell us anything a
 
 > _“Students at Dalton High School that study less than four hours a week get a C or lower in at least one class per year.”_
 
-There are still more issues, but the hypothesis must relate two or more variables to each other.
+There are still other issues, but the hypothesis must relate two or more variables to each other.
 
 ## Cause and Effect
 
 > _“During the summer, ice cream consumption increases and more people drown per day.”_
 
-This is a true statement, but does not tell us how those two variables relate to one another. Are people drowning because they ate too much ice cream? Or are they eating more ice cream because they are sad about all the drownings?
+This is a true statement, but it does not tell us how those two variables relate to one another. Are people drowning because they ate too much ice cream? Or are they eating more ice cream because they are sad about the drownings?
 
 > _“During the summer, people who eat ice cream will drown at a higher rate than people who do not eat ice cream.”_
 

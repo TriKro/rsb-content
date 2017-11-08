@@ -1,6 +1,4 @@
-![](/assets/illustration - picnic in the graveyard.png)
-
-# The Real Startup Book
+# Summary
 
 * [The Real Startup Book](part0-cover/cover.md)
   * [Copyright](part0-cover/copyright.md)
@@ -19,7 +17,7 @@
   * [Hypothesis Checklist](part2-the_index/hypothesis-checklist.md)
   * [Index of Questions](part2-the_index/index-of-questions.md)
   * [Index of Methods](part2-the_index/index-of-methods.md)
-  * [Tags & Other Frameworks](part2-the_index/tags--other-frameworks.md)
+  * [Tags and Other Frameworks](part2-the_index/tags--other-frameworks.md)
 * [Generative Market Research](part3-generative_market_research/3-generative-market-research.md)
   * [Contextual Inquiry](part3-generative_market_research/contextual-inquiry.md)
   * [Customer Discovery Interviews](part3-generative_market_research/customer-discovery-interviews.md)
