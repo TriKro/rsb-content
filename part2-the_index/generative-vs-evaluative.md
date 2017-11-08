@@ -6,7 +6,7 @@ Do we have a clear hypothesis to _evaluate_ or do we need to _generate_ a clear 
 
 > _“Our customers really want our product.”_
 
-This hypothesis is clearly bad for a number of reasons. The most obvious is that it’s tautologically correct and not worth investigating. If they are our customers, then they have already purchased our product and that is a good sign they actually want it.
+This hypothesis is clearly bad for a number of reasons. The most obvious is that it’s tautologically correct and not worth investigating. If they are our customers, then they have already purchased our product, and that is a good sign they actually want it.
 
 It is roughly equivalent to, “If the piece of paper is flammable, it will burn when ignited.”
 
@@ -88,7 +88,7 @@ There are many theoretical physicists who create a number of hypotheses that are
 
 Unfortunately, as entrepreneurs, we should restrict our hypotheses to ones that can be tested within the immediate future or within our current resources.
 
-* [ ] **Many things seem untestable today but clever application of lean thinking can simplify the hypothesis into a testable first step.**
+_Many things seem untestable today but clever application of lean thinking can simplify the hypothesis into a testable first step._
 
 ## Falsifiable
 

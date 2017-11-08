@@ -27,7 +27,7 @@ Many industries have seen a convergence of their existing products with a digita
 While it can be used in different areas, here are a few examples of when/where it is best applied:
 
 * Internet of Things \(IoT\): Design and sell the physical object first, before adding the distributed software \(e.g. monitoring\).
-* Enterprise software: Design or map out the existing process in great depth using paper or other analog formats, and ideally streamline it as much as possible this way before creating a software version of it.
+* Enterprise software: Design or map out the existing process in great depth using paper or other analog formats, and ideally streamline it as much as possible before creating a software version of it.
 * Users without computers: Design a paper-based version \(or an event\) of an information product before selling it in digital format.
 
 The benefits of taking this approach are:

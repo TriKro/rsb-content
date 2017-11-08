@@ -4,7 +4,7 @@
 
 Lean startup practices turn project managers, business leaders, and designers into scientists who constantly validate their ideas by running an array of experiments. But experiments can get out of hand and turn perfectly sane people into mad scientists. A sure way to keep our sanity is to start with a strong hypothesis to give the experiment structure.
 
-A strong hypothesis will tell you what you are testing and what you expect to get out of the test. By stating expectations, you are delineating the goals that the experiment has to hit to make it a success or failure. This will help you define when to determine that the experiment needs to be scrapped or it is ready to be taken to market.
+A strong hypothesis will tell you what you are testing and what you expect to get out of the test. By stating expectations, you are delineating the goals that the experiment has to hit to make it a success or failure. This will help you define when to determine that the experiment needs to be scrapped or the idea is ready to be taken to market.
 
 Key elements of writing a good hypothesis:
 
@@ -26,7 +26,7 @@ Let’s break down each aspect:
 
 **The change**
 
-This is the aspect that you are going to change, launch, or create that is going to affect your business or product overall. It can be as simple as changing the color of a button or as big as launching a new marketing campaign. Make sure that only one aspect is changed at a time, otherwise there is no way to tell which aspect contributed to the effect.
+This is the aspect that you are going to change, launch, or create that is going to affect your overall business or product. It can be as simple as changing the color of a button or as big as launching a new marketing campaign. Make sure that only one aspect is changed at a time, otherwise there is no way to tell which aspect contributed to the effect.
 
 **The impact**
 
@@ -38,7 +38,7 @@ This is a measurement that needs to be hit or surpassed. This can be a fail metr
 
 **The timebox**
 
-This is the length of time it takes to run the test. If the timebox is too short then the amount of data might be too small, or the effects might not have had time to take place. But if the timebox is too long you are wasting valuable time collecting unnecessary data.
+This is the length of time it takes to run the test. If the timebox is too short then the amount of data might be too small, or there might not have been enough time for effects to take place. But if the timebox is too long you are wasting valuable time collecting unnecessary data.
 
 **Let’s go through an example scenario of writing a hypothesis:**
 
