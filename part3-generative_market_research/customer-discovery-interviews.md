@@ -4,7 +4,7 @@
 
 ## In Brief
 
-Interviewing potential customers to gain insights about their perspective, pain points, purchasing habits, and so forth. Interviews also generate empathy between the customer and the entrepreneur to better aid the design and ideation process. The best interviews help narrow down the target market and provide a deep understanding of what causes a market need and the underlying psychology of the customer.
+Customer discovery interviews involve Interviewing potential customers to gain insights about their perspective, pain points, purchasing habits, and so forth. Interviews also generate empathy between the customer and the entrepreneur to better aid the design and ideation process. The best interviews help narrow down the target market and provide a deep understanding of what causes a market need and the underlying psychology of the customer.
 
 ## Helps Answer
 
