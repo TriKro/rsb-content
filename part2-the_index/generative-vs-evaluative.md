@@ -2,11 +2,11 @@
 
 # Generative vs. Evaluative
 
-Do we have a clear hypothesis to _evaluate_ or do we need to _generate_ a clear idea? This distinction depends on our ability to understand what makes a clear hypothesis.
+Do we have a clear hypothesis to _evaluate_ or do we need to _generate_ a clear idea? This distinction depends on our understanding of what makes a clear hypothesis.
 
 > _“Our customers really want our product.”_
 
-This hypothesis is clearly bad for a number of reasons. The most obvious is that it’s tautologically correct and not worth investigating. If they are our customers, then they have already purchased our product, and that is a good sign they actually want it.
+This hypothesis is bad for a number of reasons. The most obvious is that it’s tautologically correct and not worth investigating. If they are our customers, then they have already purchased our product, and that is a good sign they actually want it.
 
 It is roughly equivalent to, “If the piece of paper is flammable, it will burn when ignited.”
 
