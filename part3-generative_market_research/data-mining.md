@@ -4,7 +4,7 @@
 
 ## In Brief
 
-Data mining uses statistics from large amounts of data to learn about target markets and customer behaviors. Data mining can make use of data warehouses or big data.
+Data mining uses statistics from large amounts of data to learn about target markets and customer behaviors. This method can make use of data warehouses or big data.
 
 ## Helps Answer
 
@@ -21,13 +21,13 @@ Data mining uses statistics from large amounts of data to learn about target mar
 
 ## Description
 
-Data mining can start with the results from a few questionnaires. However, it is more effective to use a large dataset. Identifying the source information \(where you get the data\) and extracting key values \(how you pick the data points\) are two important aspects in getting quality results.
+Data mining can start with the results from a few questionnaires. However, it is more effective to use a large dataset. Identifying the source information \(where you get the data\) and extracting key values \(how you pick the data points\) are important to get quality results.
 
 Data mining is best used for pattern discovery in customer perceptions and behaviors. It is useful in understanding your customers and/or your target market.
 
-For example, by using email campaigns and gathering the results, you can identify the profile of potential buyers or customers. This data point can help in your customer acquisition efforts.
+For example, you can identify the profile of potential buyers or customers by running email campaigns and gathering the results. This data can help in customer acquisition efforts.
 
-By sending out customer satisfaction questionnaires or feedback forms, you can gather customer information. Alternatively, you can also track customer behaviors or mouse clicks on your websites. By combining these two data points, you can determine customer behavioral links between reported satisfaction and actual usage. This can identify key drivers for customer loyalty and churn.
+You can also gather customer information by sending out customer satisfaction questionnaires or feedback forms. Alternatively, you can track customer behaviors or mouse clicks on your websites. By combining these two data points, you can determine customer behavioral links between reported satisfaction and actual usage. This can identify key drivers for customer loyalty and churn.
 
 ### Time Commitment and Resources
 
@@ -39,9 +39,9 @@ You can either acquire outside \(industry or market\) data or distill your own \
 
 1. Acquire data \(integrate from various sources, if required\).
 2. Identify data points \(determine which data or information is relevant to the research\).
-3. Transform and extract data \(many tools to choose from, from business intelligence tools to database software with built-in reporting tools\).
+3. Transform and extract data \(there are many tools to choose from, from business intelligence tools to database software with built-in reporting tools\).
 4. Recognize and search for patterns.
-5. Draw conclusions or refine the process by starting at step 2 \(or sometimes even start back from step 1 to acquire better data\).
+5. Draw conclusions or refine the process by going back to step 2 \(or even step 1 if you need to get better data\).
 
 ### Interpreting Results
 
