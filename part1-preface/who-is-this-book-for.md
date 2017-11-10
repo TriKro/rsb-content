@@ -8,7 +8,7 @@ If you’ve ever recognized a giant gap or unanswered question in your business 
 
 * What are the most important features of our product?
 
-* Why are people doing that with my product?
+* Why are people doing that with our product?
 
 * Will people actually pay for this?
 
@@ -18,7 +18,7 @@ This book is for managing innovation projects where the business model is partia
 
 * CEO of an early-stage startup
 
-* Entrepreneur in residence
+* Entrepreneur-in-residence
 
 ## Previous Experience
 

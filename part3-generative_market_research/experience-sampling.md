@@ -4,7 +4,7 @@
 
 ## In Brief
 
-This research method is used to get information about a participant's daily behaviors, thoughts, and feelings in real-time or as close to it as possible. Participants are asked to stop at certain times in their natural settings and make note of their experiences. It is also known as the daily diary or experience sampling method \(ESM\).
+This method is used to get information about a participant's daily behaviors, thoughts, and feelings in real-time or as close to it as possible. Participants are asked to stop at certain times in their natural settings and make note of their experiences. It is also known as the daily diary or experience sampling method \(ESM\).
 
 ## Helps Answer
 
@@ -24,7 +24,7 @@ This research method is used to get information about a participant's daily beha
 
 ## Description
 
-The key to experience sampling is asking the right question. Be very careful with phrasing, since you will be asking the question over and over again. This method makes most sense when you want to solve a frequently reoccurring problem. You get the most useful and viable input when asking about repeated behavior and, more specifically, the last time it occurred.
+The key to experience sampling is asking the right questions. Be especially careful with phrasing, since you will be asking the question over and over again. This method makes most sense when you want to solve a frequently reoccurring problem. You get the most useful and viable input when asking about repeated behavior and, more specifically, the last time it occurred.
 
 ## Time Commitment and Resources
 
@@ -34,7 +34,7 @@ The recruiting process will often take a lot of time since only participants who
 
 If you plan on a big amount of data you should have a team ready to analyze that data. Aim for a couple of analysis sessions; each after a certain amount of data is obtained. The first session will take the longest and depending on the amount of data could range from two hours to a day.
 
-You should offer your participants some kind of incentive. The amount depends on the number of questions answered — ranging from $5 to $50, a coupon or similar.
+You should offer your participants some kind of incentive. The amount depends on the number of questions answered—ranging from $5 to $50, a coupon or similar.
 
 ## How To
 
