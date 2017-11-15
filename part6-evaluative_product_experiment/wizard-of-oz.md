@@ -55,7 +55,7 @@ The WOZ test can provide valuable information, especially quantitative data. We 
 ## References
 
 * [GrasshopperHerder: What Type of Lean Startup Experiment Should I Run?](https://grasshopperherder.com/what-type-of-lean-startup-experiment-should-i-run/)
-* [Roskilde University - Centre for Cognitive Science: Wizard of Oz Prototyping: When and How?](http://www.spokendialogue.dk/Publications/1994i/WPCS-94-1-10.2.94.pdf)
+* [Roskilde University—Centre for Cognitive Science: Wizard of Oz Prototyping: When and How?](http://www.spokendialogue.dk/Publications/1994i/WPCS-94-1-10.2.94.pdf)
 * [Y Combinator: The Wizard of Oz Approach](http://themacro.com/articles/2016/01/ask-yc-upfront-technical-investments/)
 * [Quora: What are the pros and cons of "Wizard of Oz testing"?](https://www.quora.com/What-are-the-pros-and-cons-of-Wizard-of-Oz-testing)
 * [Usability Net: Wizard of Oz](http://www.usabilitynet.org/tools/wizard.htm)
