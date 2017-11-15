@@ -36,8 +36,8 @@ The WOZ test can provide valuable information, especially quantitative data. We 
 
 ### Potential Biases
 
-* Sampling bias —&gt; same as concierge test
-* Confirmation bias —&gt; same as concierge test
+* Sampling bias: See concierge test
+* Confirmation bias: See concierge test
 
 ### Field Tips
 
