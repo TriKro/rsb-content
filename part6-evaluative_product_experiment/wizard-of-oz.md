@@ -32,18 +32,18 @@ WOZ is not a "quick and dirty" prototyping method as it requires a high commitme
 
 ### Interpreting Results
 
-The Wizard of Oz test can provide valuable information, especially quantitative data. We can also gather information about the nature of interaction with our product. Summarize all observations and use the insights to adjust our solution accordingly.
+The WOZ test can provide valuable information, especially quantitative data. We can also gather information about the nature of interaction with our product. Summarize all observations and use the insights to adjust our solution accordingly.
 
 ### Potential Biases
 
-* Sampling bias --&gt; same as concierge test
-* Confirmation bias --&gt; same as concierge test
+* Sampling bias —&gt; same as concierge test
+* Confirmation bias —&gt; same as concierge test
 
 ### Field Tips
 
-* “Be lazy. If you can hire five interns to fake a feature, don’t bother coding it.” - @TriKro
-* “The Wizard of Oz method is for evaluating a solution hypothesis.” - @TriKro
-* “Pareto Principle + Wizard of Oz Experiment is all you need to invest your time in a successful business” - @andreftavares
+* “Be lazy. If you can hire five interns to fake a feature, don’t bother coding it.” @TriKro
+* “The Wizard of Oz method is for evaluating a solution hypothesis.” @TriKro
+* “Pareto Principle + Wizard of Oz Experiment is all you need to invest your time in a successful business” @andreftavares
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ## Case Studies
