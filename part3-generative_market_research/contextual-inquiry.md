@@ -30,9 +30,9 @@ Contextual inquiry is a combination of semi-structured interviews and observatio
 
 ### Time Commitment and Resources
 
-Can be very expensive depending on the proximity to the customer and the frequency of their problem. In some cases, the problem is unpredictable and a lot of time can be spent either waiting for the problem to occur or simulating an occurrence.
+Contextual inquiry can be very expensive depending on the proximity to the customer and the frequency of their problem. In some cases, the problem is unpredictable and a lot of time can be spent either waiting for the problem to occur or simulating an occurrence.
 
-Expect at least one hour per customer with a minimum of five customers, and two hours to debrief.
+Expect to spend at least one hour per customer with a minimum of five customers, and two hours to debrief.
 
 It is helpful to have already conducted customer discovery interviews and have both customer personas and a preliminary storyboard of the user experience.
 
@@ -50,12 +50,12 @@ It is helpful to have already conducted customer discovery interviews and have b
 * The customer must not feel judged. 
 * The researcher is there to learn.
 * Establish the rules for observation. 
-* The customer will be doing work so the research must establish up front when they can or cannot interrupt the workflow to ask questions.
+* The customer will be doing work, so the researcher must establish up-front when they can or cannot interrupt the workflow to ask questions.
 
 #### Observation
 
 * The researcher should take notes on the workflow, asking questions to clarify any points of confusion.
-* Take care to note extraneous activities that may be outside the scope of the solution to be designed but may impact the workflow of the user, e.g., coworkers engaging in distracting chitchat.
+* Take care to note extraneous activities that may be outside the scope of the solution to be designed but may impact the user's workflow, e.g., coworkers engaging in distracting chitchat.
 
 #### Summarize
 
@@ -64,7 +64,7 @@ It is helpful to have already conducted customer discovery interviews and have b
 
 ### Interpreting Results
 
-A number of debriefing methods, such as affinity diagramming, card sorting, or creating jobs to be done, can be used after reviewing recordings or notes.
+A number of debriefing methods, such as affinity diagramming, card sorting, or creating jobs to be done can be used after reviewing recordings or notes.
 
 Since the data is primarily qualitative and sample sizes are small, researchers must be careful not to extrapolate a pattern of behavior to the entire population but can usually synthesize a clear hypothesis for further evaluative testing methods.
 
@@ -74,7 +74,7 @@ Since the data is primarily qualitative and sample sizes are small, researchers 
 
 ### Field Tips
 
-* “Apprentice yourself to the customer and learn how they are currently solving their problems without your product.” —@TriKro
+* “Apprentice yourself to the customer and learn how they are currently solving their problems without your product.” _—@TriKro_
 
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
