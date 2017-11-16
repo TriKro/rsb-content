@@ -4,7 +4,7 @@
 
 ## In Brief
 
-This method involves interviewing potential customers to gain insights about their perspective, pain points, purchasing habits, and so forth. Interviews also generate empathy between the customer and the entrepreneur to better aid the design and ideation process. The best interviews help narrow down the target market and provide a deep understanding of what causes a market need and the underlying psychology of the customer.
+Customer discovery interviews are conducted with potential customers to gain insight into their perspective, pain points, purchasing habits, and so forth. Interviews also generate empathy between the customer and the entrepreneur to aid the design and ideation process. The best interviews help narrow down the target market and provide a deep understanding of what causes a market need and the underlying psychology of the customer.
 
 ## Helps Answer
 
@@ -24,11 +24,11 @@ This method involves interviewing potential customers to gain insights about the
 
 ### Time Commitment and Resources
 
-Typical rounds of customer discovery interviews require at least five separate interviews with individual customers, but some entrepreneurs advocate as many as 100 before drawing a conclusion.
+Typical rounds of customer discovery interviews require at least five separate interviews with individual customers, but some entrepreneurs advocate doing as many as 100 before drawing a conclusion.
 
 The time commitment can entail as little as 15 minutes per interview for consumer products to a 2 hour conversation for B2B sales.
 
-The most significant investment of time can be in recruiting customers to interview, which can again vary from a 5 minute walk to the local coffeeshop to a lengthy cold outreach program via LinkedIn, in the case of an entrepreneur with no market access into a highly specialized vertical.
+The most significant investment of time can be in recruiting interviewees, which can again vary from a 5 minute walk to the local coffeeshop to a lengthy cold outreach program via LinkedIn, in the case of an entrepreneur with no market access into a highly specialized vertical.
 
 Costs are typically zero or very low. In many cases, interview subjects are offered a gift certificate for their time that can be anywhere from $5 USD to $50 USD.
 
@@ -38,7 +38,7 @@ Costs are typically zero or very low. In many cases, interview subjects are offe
 
 1. Define the learning goal for the interviews.
 2. Define key assumptions about the customer persona.
-3. Create a screener survey of simple questions that will identify if the potential interviewee matches your target customer persona. Here’s an article on screener questions from Alexander Cowan for reference.
+3. Create a screener survey of simple questions that will identify if the potential interviewee matches our target customer persona. Here’s an article on screener questions from Alexander Cowan for reference.
 4. Make an interview guide. Note that it should not be a strictly followed script. If you don’t know where to start, check out some questions from Justin Wilcox or Alexander Cowan.
 
 _Something like this:_
