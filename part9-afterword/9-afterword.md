@@ -21,3 +21,9 @@ This book is not done, nor will it ever be. We learn faster together.
 
 Let us know by emailing [realbook@kromatic.com](mailto:realbook@kromatic.com).
 
+<img src="https://docs.google.com/drawings/d/13tTHAk3GkM1llU1ChZw023vlOq3IqREUxnkxXx3n3fY/pub?w=628&amp;h=586">
+
+
+
+
+
