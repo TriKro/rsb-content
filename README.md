@@ -29,7 +29,7 @@ This is not a textbook. It's not a “How To” guide or a “fake book.” It�
 Keep it, refer to it, and toss it to the side when you need it.  
 More importantly, please write on it. Scribble, scratch, and change it.
 
-If you think it’s wrong, submit a change to realbook@trikro.com.  
+If you think it’s wrong, submit a change to realbook@kromatic.com.  
 If you have a suggestion, send it in. If you create a better method, let us know.
 
 This book is Creative Commons licensed and should be continually improved and shared. So please help us by finding problems and fixing them!
