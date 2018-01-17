@@ -24,7 +24,7 @@
 
 * Jason Koprowski, [Effortless Growth](http://www.effortlessgrowth.com/), [Linkedin](https://www.linkedin.com/in/jasonkoprowski)
 
-* Jorge Castellote, [Linkedin](https://ae.linkedin.com/in/jorgecastelloteworldleadership), [Twitter](https://twitter.com/sircastel)
+* Jorge Castellote, [Linkedin](https://www.linkedin.com/in/jorgecastelloteinnovation/), [Twitter](https://twitter.com/sircastel)
 
 * Kamil Barbarski, [Linkedin](https://de.linkedin.com/in/kamilbarbarski),[Twitter](https://twitter.com/kamilbbs)
 
