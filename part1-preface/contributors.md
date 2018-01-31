@@ -4,6 +4,8 @@
 
 * Andy Cars, [Linkedin](https://se.linkedin.com/in/andycars), [Lean Ventures](http://leanventures.se/)
 
+* Anteo Quiroz, [Linkedin](https://www.linkedin.com/in/anteoquiroz/)
+
 * Austin Elford, [Linkedin](https://www.linkedin.com/in/austinefurd), [Twitter](https://twitter.com/austinefurd)
 
 * Bram Alkema, [LinkedIn](https://www.linkedin.com/in/bramalkema)
@@ -36,9 +38,13 @@
 
 * Luuk Van Hees, [Linkedin](https://nl.linkedin.com/pub/luuk-van-hees/29/93b/34b), [Tippiq Labs](https://www.tippiqlabs.nl/)
 
+* Jackie Kennedy, [Linkedin](https://www.linkedin.com/in/megedy/)
+
 * Nadya Paleyes, [Linkedin](https://ie.linkedin.com/in/nadyapaleyes), [Red Button](http://red-button.co)
 
 * Nick Noreña, [LinkedIn](https://www.linkedin.com/in/nicknorena)
+
+* Philippe Lemmens, [Linkedin](https://www.linkedin.com/in/phlemmens/)
 
 * Phyo Pine, [LinkedIn](https://ca.linkedin.com/in/phyop)
 
@@ -52,6 +58,8 @@
 
 * Susan Baittle, [Linkedin](https://www.linkedin.com/in/susanbaittle)
 
+* Tami Reiss, [Linkedin](https://www.linkedin.com/in/tamireiss)
+
 * Thierry Dagaeff, [Linkedin](https://ch.linkedin.com/pub/thierry-dagaeff/2/473/127)
 
 * Tristan Kromer, [TriKro LLC](http://www.trikro.com/), [Blog](http://grasshopperherder.com/)
@@ -61,6 +69,8 @@
 * Luke Szyrmer, [LaunchTomorrow](http://blog.launchtomorrow.com/about-launch-tomorrow/), [@launchtomorrow](https://twitter.com/launchtomorrow)
 
 * Kenny Nguyen, [TriKro LLC](http://www.trikro.com/), [Linkedin](https://www.linkedin.com/in/kennythanhnguyen)
+
+* Soojung Chang, [Linkedin](https://www.linkedin.com/in/soojungc/)
 
 * Tristan Kromer, [TriKro LLC](http://www.trikro.com/), [Blog](http://grasshopperherder.com/)
 
