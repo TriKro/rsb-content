@@ -1,76 +1,78 @@
 ![](/assets/illustration-UserLaptop-shaded.jpg)
 
 # Contributors
+The Real Startup Book Project is supported by 51 contributors across 16 countries.
 
-* Amine Mansouri, [Linkedin](https://www.linkedin.com/in/aminemansouri/)
 
-* Andy Cars, [Linkedin](https://se.linkedin.com/in/andycars), [Lean Ventures](http://leanventures.se/)
+* Amine Mansouri (MA), [Linkedin](https://www.linkedin.com/in/aminemansouri/)
 
-* Anteo Quiroz, [Linkedin](https://www.linkedin.com/in/anteoquiroz/)
+* Andy Cars (SE), [Linkedin](https://se.linkedin.com/in/andycars), [Lean Ventures](http://leanventures.se/)
 
-* Austin Efurd, [Linkedin](https://www.linkedin.com/in/austinefurd), [Twitter](https://twitter.com/austinefurd)
+* Anteo Quiroz (US), [Linkedin](https://www.linkedin.com/in/anteoquiroz/)
 
-* Benoit Lips, [Linkedin](https://www.linkedin.com/in/benoitlips/)
+* Austin Efurd (US), [Linkedin](https://www.linkedin.com/in/austinefurd), [Twitter](https://twitter.com/austinefurd)
 
-* Brent Weber, [Linkedin](https://www.linkedin.com/in/weberbrent/)
+* Benoit Lips (BY), [Linkedin](https://www.linkedin.com/in/benoitlips/)
 
-* Bram Alkema, [LinkedIn](https://www.linkedin.com/in/bramalkema)
+* Brent Weber (US), [Linkedin](https://www.linkedin.com/in/weberbrent/)
 
-* Casey Sakima, [Portfolio](http://caseysakima.com/), [Linkedin](https://www.linkedin.com/in/caseysakima)
+* Bram Alkema (NL), [LinkedIn](https://www.linkedin.com/in/bramalkema)
 
-* Daniel Alex, [Linkedin](https://www.linkedin.com/in/danielalex93/)
+* Casey Sakima (US), [Portfolio](http://caseysakima.com/), [Linkedin](https://www.linkedin.com/in/caseysakima)
 
-* Dan Khan, [Linkedin](https://www.linkedin.com/in/dankhan/)
+* Daniel Alex (AE), [Linkedin](https://www.linkedin.com/in/danielalex93/)
 
-* Daniel Bartel, [Linkedin](https://www.linkedin.com/in/danbar87/)
+* Dan Khan (NZ), [Linkedin](https://www.linkedin.com/in/dankhan/)
 
-* David Capo-Chichi, [Linkedin](https://www.linkedin.com/in/docapo/)
+* Daniel Bartel (DE), [Linkedin](https://www.linkedin.com/in/danbar87/)
 
-* Dharanidhar Malladi, [Linkedin](https://www.linkedin.com/in/dmalladi)
+* David Capo-Chichi (CI), [Linkedin](https://www.linkedin.com/in/docapo/)
 
-* Eric Choi, [Linkedin](https://www.linkedin.com/in/ericuchoi/)
+* Dharanidhar Malladi (SG), [Linkedin](https://www.linkedin.com/in/dmalladi)
 
-* Evan Sims, [Linkedin](https://www.linkedin.com/in/evanasims/)
+* Eric Choi (US), [Linkedin](https://www.linkedin.com/in/ericuchoi/)
 
-* Flavio Hangarter, [Linkedin](https://www.linkedin.com/in/flaviohangarter/)
+* Evan Sims (US), [Linkedin](https://www.linkedin.com/in/evanasims/)
 
-* Gian Tapinassi, [Linkedin](https://ie.linkedin.com/in/giantapinassi), [@giantapp](https://twitter.com/giantapp)
+* Flavio Hangarter (NZ), [Linkedin](https://www.linkedin.com/in/flaviohangarter/)
 
-* Ghani Kolli, [Linkedin](https://www.linkedin.com/in/ghanikolli/)
+* Gian Tapinassi (IE), [Linkedin](https://ie.linkedin.com/in/giantapinassi), [@giantapp](https://twitter.com/giantapp)
 
-* Gillian Julius, [Linkedin](https://www.linkedin.com/in/gillianjulius)
+* Ghani Kolli (CA), [Linkedin](https://www.linkedin.com/in/ghanikolli/)
 
-* Hameed Haqparwar, [Linkedin](https://www.linkedin.com/in/haqparwar), [@haqparwar](https://twitter.com/haqparwar)
+* Gillian Julius (US), [Linkedin](https://www.linkedin.com/in/gillianjulius)
 
-* Jackie Kennedy, [Linkedin](https://www.linkedin.com/in/megedy/)
+* Hameed Haqparwar (DE), [Linkedin](https://www.linkedin.com/in/haqparwar), [@haqparwar](https://twitter.com/haqparwar)
 
-* Jake Fleming, [Linkedin](https://www.linkedin.com/in/jakeflem/)
+* Jackie Kennedy (US), [Linkedin](https://www.linkedin.com/in/megedy/)
 
-* Jan Kennedy, [Academy for Corporate Entrepreneurship](http://www.afce.co/), [@innovationmojo](https://twitter.com/innovationmojo)
+* Jake Fleming (US), [Linkedin](https://www.linkedin.com/in/jakeflem/)
 
-* Jane Bulnes-Fowles, [Linkedin](https://www.linkedin.com/in/jfowles/)
+* Jan Kennedy (DE), [Academy for Corporate Entrepreneurship](http://www.afce.co/), [@innovationmojo](https://twitter.com/innovationmojo)
 
-* Jason Koprowski, [Effortless Growth](http://www.effortlessgrowth.com/), [Linkedin](https://www.linkedin.com/in/jasonkoprowski)
+* Jane Bulnes-Fowles (US), [Linkedin](https://www.linkedin.com/in/jfowles/)
 
-* Jeremiah Gardner, [Linkedin](https://www.linkedin.com/in/jeremiahgardner/)
+* Jason Koprowski (US), [Effortless Growth](http://www.effortlessgrowth.com/), [Linkedin](https://www.linkedin.com/in/jasonkoprowski)
 
-* Jorge Castellote, [Linkedin](https://www.linkedin.com/in/jorgecastelloteinnovation/), [Twitter](https://twitter.com/sircastel)
+* Jeremiah Gardner (US), [Linkedin](https://www.linkedin.com/in/jeremiahgardner/)
 
-* Justin Coetsee, [Linkedin](https://www.linkedin.com/in/justincoetsee/)
+* Jorge Castellote (AE), [Linkedin](https://www.linkedin.com/in/jorgecastelloteinnovation/), [Twitter](https://twitter.com/sircastel)
 
-* Kamil Barbarski, [Linkedin](https://de.linkedin.com/in/kamilbarbarski),[Twitter](https://twitter.com/kamilbbs)
+* Justin Coetsee (ZA), [Linkedin](https://www.linkedin.com/in/justincoetsee/)
 
-* Kassi Murray, [Linkedin](https://www.linkedin.com/in/kassimurray/)
+* Kamil Barbarski (DE), [Linkedin](https://de.linkedin.com/in/kamilbarbarski),[Twitter](https://twitter.com/kamilbbs)
 
-* Kenny Nguyen, [TriKro LLC](http://www.trikro.com/), [Linkedin](https://www.linkedin.com/in/kennythanhnguyen)
+* Kassi Murray (US), [Linkedin](https://www.linkedin.com/in/kassimurray/)
 
-* Laci White, [Linkedin](https://www.linkedin.com/in/laciwhite/)
+* Kenny Nguyen (US), [Kromatic](http://www.kromatic.com/), [Linkedin](https://www.linkedin.com/in/kennythanhnguyen)
 
-* Lino Jimenez, [Linkedin](https://www.linkedin.com/pub/lino-jimenez-jr/3/9b2/498)
+* Laci White (US), [Linkedin](https://www.linkedin.com/in/laciwhite/)
 
-* Lukas Fittl, [Linkedin](https://www.linkedin.com/in/lfittl/)
+* Lino Jimenez (US), [Linkedin](https://www.linkedin.com/pub/lino-jimenez-jr/3/9b2/498)
 
-* Luke Szyrmer, [LaunchTomorrow](http://blog.launchtomorrow.com/about-launch-tomorrow/), [@launchtomorrow](https://twitter.com/launchtomorrow)
+* Lukas Fittl (US), [Linkedin](https://www.linkedin.com/in/lfittl/)
+
+* Luke Szyrmer (PL), [LaunchTomorrow](http://blog.launchtomorrow.com/about-launch-tomorrow/), [@launchtomorrow](https://twitter.com/launchtomorrow)
 
 * Luuk Van Hees (NL), [Linkedin](https://nl.linkedin.com/pub/luuk-van-hees/29/93b/34b), [Tippiq Labs](https://www.tippiqlabs.nl/)
 
@@ -102,7 +104,7 @@
 
 * Thierry Dagaeff (CH), [Linkedin](https://ch.linkedin.com/pub/thierry-dagaeff/2/473/127)
 
-* Tristan Kromer (US), [TriKro LLC](http://www.trikro.com/), [Blog](http://grasshopperherder.com/)
+* Tristan Kromer (US), [Kromatic](http://www.Kromatic.com/), [Blog](http://grasshopperherder.com/)
 
 # Editors
 
