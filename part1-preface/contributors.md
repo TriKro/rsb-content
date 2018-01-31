@@ -2,21 +2,41 @@
 
 # Contributors
 
-* Amine Mansouri, (Linkedin)(https://www.linkedin.com/in/aminemansouri/)
+* Amine Mansouri, [Linkedin](https://www.linkedin.com/in/aminemansouri/)
 
 * Andy Cars, [Linkedin](https://se.linkedin.com/in/andycars), [Lean Ventures](http://leanventures.se/)
 
 * Anteo Quiroz, [Linkedin](https://www.linkedin.com/in/anteoquiroz/)
 
-* Austin Elford, [Linkedin](https://www.linkedin.com/in/austinefurd), [Twitter](https://twitter.com/austinefurd)
+* Austin Efurd, [Linkedin](https://www.linkedin.com/in/austinefurd), [Twitter](https://twitter.com/austinefurd)
+
+* Benoit Lips, [Linkedin](https://www.linkedin.com/in/benoitlips/)
+
+* Brent Weber, [Linkedin](https://www.linkedin.com/in/weberbrent/)
 
 * Bram Alkema, [LinkedIn](https://www.linkedin.com/in/bramalkema)
 
 * Casey Sakima, [Portfolio](http://caseysakima.com/), [Linkedin](https://www.linkedin.com/in/caseysakima)
 
+* Daniel Alex, [Linkedin](https://www.linkedin.com/in/danielalex93/)
+
+* Dan Khan, [Linkedin](https://www.linkedin.com/in/dankhan/)
+
+* Daniel Bartel, [Linkedin](https://www.linkedin.com/in/danbar87/)
+
+* David Capo-Chichi, [Linkedin](https://www.linkedin.com/in/docapo/)
+
 * Dharanidhar Malladi, [Linkedin](https://www.linkedin.com/in/dmalladi)
 
+* Eric Choi, [Linkedin](https://www.linkedin.com/in/ericuchoi/)
+
+* Evan Sims, [Linkedin](https://www.linkedin.com/in/evanasims/)
+
+* Flavio Hangarter, [Linkedin](https://www.linkedin.com/in/flaviohangarter/)
+
 * Gian Tapinassi, [Linkedin](https://ie.linkedin.com/in/giantapinassi), [@giantapp](https://twitter.com/giantapp)
+
+* Ghani Kolli, [Linkedin](https://www.linkedin.com/in/ghanikolli/)
 
 * Gillian Julius, [Linkedin](https://www.linkedin.com/in/gillianjulius)
 
@@ -28,7 +48,11 @@
 
 * Jan Kennedy, [Academy for Corporate Entrepreneurship](http://www.afce.co/), [@innovationmojo](https://twitter.com/innovationmojo)
 
+* Jane Bulnes-Fowles, [Linkedin](https://www.linkedin.com/in/jfowles/)
+
 * Jason Koprowski, [Effortless Growth](http://www.effortlessgrowth.com/), [Linkedin](https://www.linkedin.com/in/jasonkoprowski)
+
+* Jeremiah Gardner, [Linkedin](https://www.linkedin.com/in/jeremiahgardner/)
 
 * Jorge Castellote, [Linkedin](https://www.linkedin.com/in/jorgecastelloteinnovation/), [Twitter](https://twitter.com/sircastel)
 
