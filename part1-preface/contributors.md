@@ -72,37 +72,37 @@
 
 * Luke Szyrmer, [LaunchTomorrow](http://blog.launchtomorrow.com/about-launch-tomorrow/), [@launchtomorrow](https://twitter.com/launchtomorrow)
 
-* Luuk Van Hees, [Linkedin](https://nl.linkedin.com/pub/luuk-van-hees/29/93b/34b), [Tippiq Labs](https://www.tippiqlabs.nl/)
+* Luuk Van Hees (NL), [Linkedin](https://nl.linkedin.com/pub/luuk-van-hees/29/93b/34b), [Tippiq Labs](https://www.tippiqlabs.nl/)
 
-* Megan Kennedy, [Linkedin](https://www.linkedin.com/in/megedy/)
+* Megan Kennedy (US), [Linkedin](https://www.linkedin.com/in/megedy/)
 
-* Mark Warren, [Linkedin](https://www.linkedin.com/in/tesla2/)
+* Mark Warren (US), [Linkedin](https://www.linkedin.com/in/tesla2/)
 
-* Nadya Paleyes, [Linkedin](https://ie.linkedin.com/in/nadyapaleyes), [Red Button](http://red-button.co)
+* Nadya Paleyes (UK), [Linkedin](https://ie.linkedin.com/in/nadyapaleyes), [Red Button](http://red-button.co)
 
-* Nick Noreña, [LinkedIn](https://www.linkedin.com/in/nicknorena)
+* Nick Noreña (US), [LinkedIn](https://www.linkedin.com/in/nicknorena)
 
-* Nils Davis, [Linkedin](https://www.linkedin.com/in/nilsdavis/)
+* Nils Davis (US), [Linkedin](https://www.linkedin.com/in/nilsdavis/)
 
-* Philippe Lemmens, [Linkedin](https://www.linkedin.com/in/phlemmens/)
+* Philippe Lemmens (BY), [Linkedin](https://www.linkedin.com/in/phlemmens/)
 
-* Phyo Pine, [LinkedIn](https://ca.linkedin.com/in/phyop)
+* Phyo Pine (CA), [LinkedIn](https://ca.linkedin.com/in/phyop)
 
-* Rammohan Reddy, [LeanMantra](http://leanmantra.in/), [Linkedin](https://in.linkedin.com/in/rammohankreddy)
+* Rammohan Reddy (IN), [LeanMantra](http://leanmantra.in/), [Linkedin](https://in.linkedin.com/in/rammohankreddy)
 
-* Ryan MacCarrigan, [Linkedin](https://www.linkedin.com/in/ryanmaccarrigan/)
+* Ryan MacCarrigan (US), [Linkedin](https://www.linkedin.com/in/ryanmaccarrigan/)
 
-* Sean K. Murphy, [Linkedin](https://www.linkedin.com/in/skmurphy), [SKMurphy](http://www.skmurphy.com/)
+* Sean K. Murphy (US), [Linkedin](https://www.linkedin.com/in/skmurphy), [SKMurphy](http://www.skmurphy.com/)
 
-* Soojung Chang, [Linkedin](https://www.linkedin.com/in/soojungc/)
+* Soojung Chang (US), [Linkedin](https://www.linkedin.com/in/soojungc/)
 
-* Susan Baittle, [Linkedin](https://www.linkedin.com/in/susanbaittle)
+* Susan Baittle (US), [Linkedin](https://www.linkedin.com/in/susanbaittle)
 
-* Tami Reiss, [Linkedin](https://www.linkedin.com/in/tamireiss)
+* Tami Reiss (US), [Linkedin](https://www.linkedin.com/in/tamireiss)
 
-* Thierry Dagaeff, [Linkedin](https://ch.linkedin.com/pub/thierry-dagaeff/2/473/127)
+* Thierry Dagaeff (CH), [Linkedin](https://ch.linkedin.com/pub/thierry-dagaeff/2/473/127)
 
-* Tristan Kromer, [TriKro LLC](http://www.trikro.com/), [Blog](http://grasshopperherder.com/)
+* Tristan Kromer (US), [TriKro LLC](http://www.trikro.com/), [Blog](http://grasshopperherder.com/)
 
 # Editors
 
