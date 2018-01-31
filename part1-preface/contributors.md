@@ -2,6 +2,8 @@
 
 # Contributors
 
+* Amine Mansouri, (Linkedin)(https://www.linkedin.com/in/aminemansouri/)
+
 * Andy Cars, [Linkedin](https://se.linkedin.com/in/andycars), [Lean Ventures](http://leanventures.se/)
 
 * Anteo Quiroz, [Linkedin](https://www.linkedin.com/in/anteoquiroz/)
@@ -20,6 +22,8 @@
 
 * Hameed Haqparwar, [Linkedin](https://www.linkedin.com/in/haqparwar), [@haqparwar](https://twitter.com/haqparwar)
 
+* Jackie Kennedy, [Linkedin](https://www.linkedin.com/in/megedy/)
+
 * Jake Fleming, [Linkedin](https://www.linkedin.com/in/jakeflem/)
 
 * Jan Kennedy, [Academy for Corporate Entrepreneurship](http://www.afce.co/), [@innovationmojo](https://twitter.com/innovationmojo)
@@ -28,21 +32,33 @@
 
 * Jorge Castellote, [Linkedin](https://www.linkedin.com/in/jorgecastelloteinnovation/), [Twitter](https://twitter.com/sircastel)
 
+* Justin Coetsee, [Linkedin](https://www.linkedin.com/in/justincoetsee/)
+
 * Kamil Barbarski, [Linkedin](https://de.linkedin.com/in/kamilbarbarski),[Twitter](https://twitter.com/kamilbbs)
+
+* Kassi Murray, [Linkedin](https://www.linkedin.com/in/kassimurray/)
 
 * Kenny Nguyen, [TriKro LLC](http://www.trikro.com/), [Linkedin](https://www.linkedin.com/in/kennythanhnguyen)
 
+* Laci White, [Linkedin](https://www.linkedin.com/in/laciwhite/)
+
 * Lino Jimenez, [Linkedin](https://www.linkedin.com/pub/lino-jimenez-jr/3/9b2/498)
+
+* Lukas Fittl, [Linkedin](https://www.linkedin.com/in/lfittl/)
 
 * Luke Szyrmer, [LaunchTomorrow](http://blog.launchtomorrow.com/about-launch-tomorrow/), [@launchtomorrow](https://twitter.com/launchtomorrow)
 
 * Luuk Van Hees, [Linkedin](https://nl.linkedin.com/pub/luuk-van-hees/29/93b/34b), [Tippiq Labs](https://www.tippiqlabs.nl/)
 
-* Jackie Kennedy, [Linkedin](https://www.linkedin.com/in/megedy/)
+* Megan Kennedy, [Linkedin](https://www.linkedin.com/in/megedy/)
+
+* Mark Warren, [Linkedin](https://www.linkedin.com/in/tesla2/)
 
 * Nadya Paleyes, [Linkedin](https://ie.linkedin.com/in/nadyapaleyes), [Red Button](http://red-button.co)
 
 * Nick Noreña, [LinkedIn](https://www.linkedin.com/in/nicknorena)
+
+* Nils Davis, [Linkedin](https://www.linkedin.com/in/nilsdavis/)
 
 * Philippe Lemmens, [Linkedin](https://www.linkedin.com/in/phlemmens/)
 
