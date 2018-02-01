@@ -60,7 +60,7 @@ The Real Startup Book Project is supported by 51 contributors across 16 countrie
 
 * Justin Coetsee (ZA), [Linkedin](https://www.linkedin.com/in/justincoetsee/)
 
-* Kamil Barbarski (DE), [Linkedin](https://de.linkedin.com/in/kamilbarbarski),[Twitter](https://twitter.com/kamilbbs)
+* Kamil Barbarski (DE), [Linkedin](https://de.linkedin.com/in/kamilbarbarski), [Twitter](https://twitter.com/kamilbbs)
 
 * Kassi Murray (US), [Linkedin](https://www.linkedin.com/in/kassimurray/)
 
@@ -70,7 +70,7 @@ The Real Startup Book Project is supported by 51 contributors across 16 countrie
 
 * Lino Jimenez (US), [Linkedin](https://www.linkedin.com/pub/lino-jimenez-jr/3/9b2/498)
 
-* Lukas Fittl (US), [Linkedin](https://www.linkedin.com/in/lfittl/),[Twitter](https://twitter.com/LukasFittl)
+* Lukas Fittl (US), [Linkedin](https://www.linkedin.com/in/lfittl/), [Twitter](https://twitter.com/LukasFittl)
 
 * Luke Szyrmer (PL), [LaunchTomorrow](http://blog.launchtomorrow.com/about-launch-tomorrow/), [@launchtomorrow](https://twitter.com/launchtomorrow)
 
