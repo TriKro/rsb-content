@@ -70,7 +70,7 @@ The Real Startup Book Project is supported by 51 contributors across 16 countrie
 
 * Lino Jimenez (US), [Linkedin](https://www.linkedin.com/pub/lino-jimenez-jr/3/9b2/498)
 
-* Lukas Fittl (US), [Linkedin](https://www.linkedin.com/in/lfittl/)
+* Lukas Fittl (US), [Linkedin](https://www.linkedin.com/in/lfittl/),[Twitter](https://twitter.com/LukasFittl)
 
 * Luke Szyrmer (PL), [LaunchTomorrow](http://blog.launchtomorrow.com/about-launch-tomorrow/), [@launchtomorrow](https://twitter.com/launchtomorrow)
 
