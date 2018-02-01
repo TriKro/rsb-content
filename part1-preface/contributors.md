@@ -24,7 +24,7 @@ The Real Startup Book Project is supported by 51 contributors across 16 countrie
 
 * Dan Khan (NZ), [Linkedin](https://www.linkedin.com/in/dankhan/)
 
-* Daniel Bartel (DE), [Linkedin](https://www.linkedin.com/in/danbar87/)
+* Daniel Bartel (DE), [Linkedin](https://www.linkedin.com/in/danbar87/), [Website](http://www.daniel-bartel.de/)
 
 * David Capo-Chichi (CI), [Linkedin](https://www.linkedin.com/in/docapo/)
 
