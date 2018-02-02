@@ -84,7 +84,7 @@ The Real Startup Book Project is supported by 51 contributors across 16 countrie
 
 * Nick Noreña (US), [LinkedIn](https://www.linkedin.com/in/nicknorena)
 
-* Nils Davis (US), [Linkedin](https://www.linkedin.com/in/nilsdavis/)
+* Nils Davis (US), [Linkedin](https://www.linkedin.com/in/nilsdavis/), [Website](http://secretpmhandbook.com)
 
 * Philippe Lemmens (BY), [Linkedin](https://www.linkedin.com/in/phlemmens/)
 
