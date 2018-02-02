@@ -52,7 +52,7 @@ The Real Startup Book Project is supported by 51 contributors across 16 countrie
 
 * Jane Bulnes-Fowles (US), [Linkedin](https://www.linkedin.com/in/jfowles/)
 
-* Jason Koprowski (US), [Effortless Growth](http://www.effortlessgrowth.com/), [Linkedin](https://www.linkedin.com/in/jasonkoprowski)
+* Jason Koprowski (US), [The Progress Formula](http://www.theprogressformula.com/), [Linkedin](https://www.linkedin.com/in/jasonkoprowski)
 
 * Jeremiah Gardner (US), [Linkedin](https://www.linkedin.com/in/jeremiahgardner/)
 
