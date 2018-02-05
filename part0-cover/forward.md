@@ -1,5 +1,3 @@
-![](/assets/illustration-hammer.png)
-
 # Foreword
 
 By Tristan Kromer
