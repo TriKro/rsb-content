@@ -1,4 +1,5 @@
-![](/assets/illustration-lean-startup-playbook-empty-color.png)
+![](/assets/Illustration - Lean Startup Playbook Empty - Index of Methods.png)
+
 # Index of Methods
 
 | ** ** | **Market** | **Product** |
