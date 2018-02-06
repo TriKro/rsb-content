@@ -1,5 +1,7 @@
 ![](/assets/Illustration - Full Figure Coach - Ask An Expert.png)
 
+# Ask An Expert
+
 ## In Brief
 
 Founders ask experts for opinions. Then, they choose do what they say. Asking product and marketing experts is ok, but it's generative research ... not evaluative.
