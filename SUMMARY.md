@@ -63,5 +63,4 @@
   * [Scorecards](part7-out-of-the-box/scorecards.md)
 * [Afterword](part9-afterword/9-afterword.md)
   * [Afterword](part9-afterword/9-afterword.md)
-* [Testing](part0-cover/testing.md)
 

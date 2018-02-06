@@ -1,6 +1,6 @@
-# A/B Testing
-
 ![](/assets/illustration - a:b testing.png)
+
+# A/B Testing
 
 ## In Brief
 
