@@ -1,4 +1,4 @@
-![](/assets/Illustration_People_Crowd.png)
+![](/assets/Illustration - Full Figure Mobile - Broken Promise Smoke Test.png)
 
 # Broken Promise Smoke Test
 
