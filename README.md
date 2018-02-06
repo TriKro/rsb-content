@@ -6,7 +6,7 @@ Every serious musician has it. _The Real Book_ is a large tome with text that lo
 
 Each page is a jazz standard. "All Blues" by Miles Davis, "Autumn Leaves" by Johnny Mercer, "A Night in Tunisia" by Dizzy Gillespie, and even more esoteric tunes like "Peaches in Regalia" by Frank Zappa.
 
-![](/assets/A NIGHT IN TUNISIA-7.jpg)
+![](/assets/A Night in Tunisia.png)
 
 Unlike other “fake books” that have details on how to play each note and where to put your fingers, _The Real Book_ was minimal. Each page had the key signature, time signature, chords, melody line, and not much else. It was just enough detail to play the song and vague enough to allow for the extensive improvisation that makes jazz jazz.[^1]
 
