@@ -1,8 +1,10 @@
-# What Are You Trying to Learn
+![](/assets/Illustration - Pile of Bulbs - What Are You Trying to Learn_.png)
 
 “If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions.” 
 
 —_Albert Einstein_
+
+# What Are You Trying to Learn
 
 In school, we’re constantly taking tests to gauge how well we’ve learned last week’s material. We cram geographic boundaries, the dates of battles, and multiplication tables into our heads—and spit out the results.
 
