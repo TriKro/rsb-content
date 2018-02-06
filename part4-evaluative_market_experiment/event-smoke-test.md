@@ -1,4 +1,4 @@
-![](/assets/Illustration_People_GroupTalking -smaller size.png)
+![](/assets/Illustration - Group Talking - Event Smoke Test.png)
 
 # Event Smoke Test
 
