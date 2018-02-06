@@ -54,7 +54,6 @@
   * [Net Promotor Score Survey](part6-evaluative_product_experiment/net-promotor-score-survey.md)
   * [Paper Prototyping](part6-evaluative_product_experiment/paper-prototyping.md)
   * [Product-Market Fit Survey](part6-evaluative_product_experiment/survey-product-market-fit.md)
-  * [Takeaway Test](part6-evaluative_product_experiment/takeaway-test.md)
   * [Usability Testing](part6-evaluative_product_experiment/usability-testing.md)
   * [Wizard of Oz](/part6-evaluative_product_experiment/wizard-of-oz.md)
 * [Out of the Box](part7-out-of-the-box/7-out-of-the-box.md)
