@@ -1,4 +1,4 @@
-![](/assets/illustration-UserMobile01-shaded.png)
+![](/assets/Illustration - Half Figures Painter - Contextual Inquiry.png)
 
 # Contextual Inquiry
 
