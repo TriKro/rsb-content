@@ -1,4 +1,4 @@
-![](/assets/illustration-Coach02-shaded.png)# Ask An Expert
+![](/assets/Illustration - Full Figure Coach - Ask An Expert.png)
 
 ## In Brief
 
