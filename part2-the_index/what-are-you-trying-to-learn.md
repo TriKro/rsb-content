@@ -1,10 +1,8 @@
-![](/assets/illustration-DetailBuyer04-shaded.png)
+# What Are You Trying to Learn
 
 “If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions.” 
 
 —_Albert Einstein_
-
-# What Are You Trying to Learn
 
 In school, we’re constantly taking tests to gauge how well we’ve learned last week’s material. We cram geographic boundaries, the dates of battles, and multiplication tables into our heads—and spit out the results.
 
@@ -48,7 +46,7 @@ If we attempt to execute a method without first identifying the right question, 
 
 For example, let’s say we’re selling a new type of shoe that cures plantar fasciitis. We put up a landing page test \(a type of smoke test\) with our value proposition and a “buy now” button. Then we put $1000 into Google AdWords for “shoes” to drive traffic and wait for the money to start rolling in.
 
-![](/assets/illustration - smoke test - cures plantar fasciitis.png)
+![](/assets/Illustration - Cure Plantar Fasciitis - What Are You Trying to Learn.png)
 
 Later, it turns out that our conversion rate is 0 percent.
 
@@ -110,7 +108,7 @@ Mapping the intersection of these two questions gives us a 2x2 matrix:
 
 Based on this, if we have a clear hypothesis of who our customer is and what we think they will pay for, we can conduct an _Evaluative Market Experiment_ such as a smoke test.
 
-![](/assets/framework - lean startup playbook copy.png)
+![](/assets/Framework - Real Startup Book 2x2 - General.png)
 
 If we don’t have a clear idea of who our customer is, we can do Generative Market Research, such as data mining.
 
