@@ -1,4 +1,6 @@
-![](/assets/illustration-Concierge-test-bell-shaded.png)# Concierge Test
+![](/assets/illustration-Concierge-test-bell-shaded.png)
+
+# Concierge Test
 
 ## In Brief
 Concierge is a technique to test the solution of a customer problem by manually performing tasks as a service. It is typically not very cost effective but can provide detailed information about how a solution can be created and what minimum viable feature set should be included in an automated and optimized product.
