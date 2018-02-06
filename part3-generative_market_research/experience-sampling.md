@@ -1,4 +1,4 @@
-![](/assets/illustration-notebook-yellow-colored.png)
+![](/assets/Illustration - Full Figure Stop Hand - Experience Sampling.png)
 
 # Experience Sampling
 
