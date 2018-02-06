@@ -1,4 +1,4 @@
-![](/assets/illustration-DetailBuyer01a-shaded.png)
+![](/assets/Illustration - Detail Buyer - Hypothesis Checklist.png)
 
 # Writing a Good Hypothesis
 
