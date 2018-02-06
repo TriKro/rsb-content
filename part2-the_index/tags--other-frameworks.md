@@ -1,4 +1,4 @@
-![](/assets/Icon-Tools.png)
+![](/assets/Illustration - Ecosystem Global Ideas - Tags and Other Frameworks.png)
 
 # Other Frameworks
 
