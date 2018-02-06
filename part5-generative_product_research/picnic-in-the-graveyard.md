@@ -1,4 +1,6 @@
-![](/assets/illustration-picnicinthegraveyard - smaller version.png)# Picnic in the Graveyard
+![](/assets/illustration-picnicinthegraveyard - smaller version.png) 
+
+# Picnic in the Graveyard
 
 ## In Brief
 
