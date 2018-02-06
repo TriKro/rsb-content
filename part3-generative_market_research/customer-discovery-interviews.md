@@ -1,4 +1,4 @@
-![](/assets/illustration-Customer-small-shaded.png)
+![](/assets/Illustration - Full Figure Hand Pocket - Customer Discovery Interviews.png)
 
 # Customer Discovery Interviews
 
