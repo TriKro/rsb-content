@@ -1,6 +1,6 @@
 # The Index
 
-![](/assets/illustration-sandbox-color.png)
+![](/assets/Icon - Sandbox - The Index.png)
 
 "An index is a great leveler."
 

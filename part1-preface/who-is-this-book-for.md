@@ -1,5 +1,3 @@
-![](/assets/illustration-Reflection02-HalfFigure.jpg)
-
 # Who Is This Book For
 
 If you’ve ever recognized a giant gap or unanswered question in your business model and had no idea how to go about filling it, this book is for you. You may be asking:

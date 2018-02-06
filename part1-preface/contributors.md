@@ -1,5 +1,3 @@
-![](/assets/illustration-UserLaptop-shaded.jpg)
-
 # Contributors
 The Real Startup Book Project is supported by 51 contributors across 16 countries.
 

@@ -1,4 +1,3 @@
-![](/assets/illustration-Calendar01-shaded.png)
 # Version History
 
 * **Version 0.4 - **Moved book to Gitbook, general chapter cleanups
