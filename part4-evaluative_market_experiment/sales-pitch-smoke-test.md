@@ -1,4 +1,5 @@
-![](/assets/illustration-Diplomat02-shaded.png)
+![](/assets/Illustration - Full Figure Diplomat - Sales Pitch Smoke Test.png)
+
 # Sales Pitch Smoke Test
 
 ## In Brief

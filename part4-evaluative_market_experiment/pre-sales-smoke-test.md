@@ -1,4 +1,4 @@
-![](/assets/illustration-Diplomat02-HalfFigure.jpg)
+![](/assets/Illustration - Full Figure Diplomat - Sales Pitch Smoke Test.png)
 # Pre-Sales Smoke Test
 
 ## In Brief
