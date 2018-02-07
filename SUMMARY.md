@@ -56,6 +56,7 @@
   * [Product-Market Fit Survey](part6-evaluative_product_experiment/survey-product-market-fit.md)
   * [Usability Testing](part6-evaluative_product_experiment/usability-testing.md)
   * [Wizard of Oz](/part6-evaluative_product_experiment/wizard-of-oz.md)
+  * [test](part6-evaluative_product_experiment/test.md)
 * [Out of the Box](part7-out-of-the-box/7-out-of-the-box.md)
   * [A/B Testing](part7-out-of-the-box/ab-testing.md)
   * [Off Brand Testing](part7-out-of-the-box/off-brand-testing.md)
