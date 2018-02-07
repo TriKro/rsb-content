@@ -1,5 +1,7 @@
 ![](/assets/illustration-Wizard-of-Oz-test-Pay-no-attention-to-the-man-behind-the-curtain.png)
 
+# Wizard of Oz
+
 ## In Brief
 
 The Wizard of Oz \(WOZ\) test involves one or more individuals simulating fully functioning product features without the use of technology. All inputs, outputs, and algorithms are performed manually by humans, but without the knowledge of the customer. This allows entrepreneurs to test a complete solution and gain accurate customer feedback without the cost of building a complex, fully automated solution. It is often confused with concierge testing.
