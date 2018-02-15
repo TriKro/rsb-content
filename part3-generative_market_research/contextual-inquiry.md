@@ -75,8 +75,8 @@ Since the data is primarily qualitative and sample sizes are small, researchers 
 ### Field Tips
 
 * “Apprentice yourself to the customer and learn how they are currently solving their problems without your product.” _—@TriKro_
-
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+* {% include "cta-case-studies.md" %}
 
 ## Case Studies
 
