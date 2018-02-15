@@ -78,7 +78,7 @@ Since the data is primarily qualitative and sample sizes are small, researchers 
 
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
-* {% include "cta-case-studies.md" %}
+* {% include "cta-field-tips.md" %}
 
 ## Case Studies
 
