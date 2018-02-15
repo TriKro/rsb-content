@@ -1,8 +1,8 @@
 # Summary
 
 * [The Real Startup Book](part0-cover/cover.md)
+  * [The Real Startup Book](README.md)
   * [Dedications](part0-cover/dedications.md)
-  * [What's a Real Book?](README.md)
   * [Copyright](part0-cover/copyright.md)
   * [Foreword](part0-cover/forward.md)
 * [Preface](part1-preface/preface.md)
