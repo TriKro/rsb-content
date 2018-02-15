@@ -1,7 +1,6 @@
 # Summary
 
-* [The Real Startup Book](part0-cover/cover.md)
-  * [The Real Startup Book](README.md)
+* [The Real Startup Book](README.md)
   * [Dedications](part0-cover/dedications.md)
   * [Copyright](part0-cover/copyright.md)
   * [Foreword](part0-cover/forward.md)
@@ -61,6 +60,4 @@
   * [A/B Testing](part7-out-of-the-box/ab-testing.md)
   * [Off Brand Testing](part7-out-of-the-box/off-brand-testing.md)
   * [Scorecards](part7-out-of-the-box/scorecards.md)
-* [Afterword](part9-afterword/9-afterword.md)
-  * [Afterword](part9-afterword/9-afterword.md)
 
