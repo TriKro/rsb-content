@@ -37,6 +37,9 @@
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
 
+===
+
+* https://toolchain.gitbook.com/templating/conrefs.html
 
 
 
