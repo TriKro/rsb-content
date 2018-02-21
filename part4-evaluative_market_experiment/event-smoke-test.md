@@ -29,13 +29,15 @@ An event allows you to create a product for your target market. By organizing on
 The choice of format can vary widely:
 
 * Lecture by one or a few authorities
-* Peer-to-peer events like an unconference \(e.g. LeanCamp\)
-* Smaller and more intimate events like a \#LeanCoffee structure
+* Peer-to-peer events like an unconference (e.g. LeanCamp)
+* Smaller and more intimate events like a LeanCoffee structure
 * Gameshow style 
 * Trip together
 * Support groups like a mastermind
 * Networking or drinks 
-* Conference
+* Conference (online or offline)
+* Webinars
+* Live video streaming (e.g. Facebook)
 
 This type of smoke test is easiest to organize in a larger city, where there are already lots of events and people. Even though an event focuses on your target clients in one location, it can be used to establish a more in-depth relationship, giving you much more information than interacting online.
 
@@ -84,6 +86,13 @@ You won't know if you are getting a clear indicator there is high demand, or if 
 ## Case Studies
 
 * Got a case study? Add a link by emailing us: [realbook@trikro.com](mailto:realbook@trikro.com)
+
+## Tools
+
+* [Eventbrite](https://www.eventbrite.com/)
+* [Facebook](https://live.fb.com/)
+* [Google Hangouts](https://hangouts.google.com/)
+* [Meetup](https://www.meetup.com/)
 
 ## References
 
