@@ -78,8 +78,6 @@ Since the data is primarily qualitative and sample sizes are small, researchers 
 
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
-* {% include "./cta-field-tips.md" %}
-
 ## Case Studies
 
 * [Lucky Iron Fish: The founder arrived at his solution after he was immersed in the people he was solving a problem for and their culture](https://www.youtube.com/watch?v=M66ZU2PCIcM).
