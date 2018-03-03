@@ -1,1 +1,254 @@
+.hey { border: 1px; }
+/* CSS for website */
 
+/* General */
+
+a {
+	text-decoration: none;
+}
+
+p.line-through {
+	text-decoration: line-through;
+} 
+
+.markdown-section .section-blue a {
+	color: #69c4d2;
+}
+
+.page-inner {
+	max-width: 1050px;
+}
+
+.markdown-section h1 {
+	margin-top: 0;
+    font-size: 38px;
+    line-height: 1;
+}
+
+.markdown-section h2.number-heading {
+    font-size: 38px;
+    margin: 0;
+    line-height: 1;
+    border-bottom: solid 3px #000;
+}
+
+.markdown-section h2.number-heading.red {
+	color: #d02c29;
+}
+
+.markdown-section h2.number-heading.green {
+	color: #7db269;
+}
+
+.markdown-section h2.number-heading.blue {
+	color: #69c4d2;
+}
+
+.markdown-section h2.number-heading.orange {
+	color: #e18631;
+}
+
+.markdown-section h2.number-heading.pink {
+	color: #df88ab;
+}
+
+.markdown-section h2.number-heading.yellow {
+	color: #f4c543;
+}
+
+.markdown-section h3 {
+    font-size: 14px;
+    margin: 0 0 10px;
+}
+
+.markdown-section h4 {
+    font-size: 13px;
+    margin: 0;
+}
+
+.markdown-section h5 {
+    font-size: 10px;
+}
+
+.markdown-section .section-blue h1,
+.markdown-section .section-blue h2,
+.markdown-section .section-blue h3,
+.markdown-section .section-blue h5 {
+    color: #69c4d2;
+}
+
+.markdown-section .section-red h1,
+.markdown-section .section-red h2,
+.markdown-section .section-red h3,
+.markdown-section .section-red h5 {
+    color: #d02c29;
+}
+
+/* Icon headings */
+
+.markdown-section .icon-heading {
+	position: relative;
+}
+
+.markdown-section .icon-heading:before {
+   position: absolute;
+   right: 100%;
+   margin-right: 15px;
+   display: inline-block;
+   content: '';
+   width: 30px;
+   height: 30px;
+   background-size: 100%;
+   background-position: center -6px;
+   background-repeat: no-repeat;
+}
+
+.markdown-section .icon-heading.list:before{
+   background-image: url(../assets/icon-list.png);
+   background-position: center -3px;
+}
+
+.markdown-section .icon-heading.chart:before{
+   background-image: url(../assets/icon-chart.png);
+}
+
+.markdown-section .icon-heading.scale:before{
+   background-image: url(../assets/icon-scale.png);
+}
+
+.markdown-section .icon-heading.two-lines:before{
+   background-image: url(../assets/icon-two-lines.png);
+}
+
+.markdown-section .icon-heading.clock:before{
+   background-image: url(../assets/icon-clock.png)
+}
+
+.markdown-section .icon-heading.tag:before{
+   background-image: url(../assets/icon-tag.png);
+}
+
+.markdown-section .icon-heading.writing:before{
+   background-image: url(../assets/icon-writing.png);
+}
+
+.markdown-section .icon-heading.microscope:before{
+   background-image: url(../assets/icon-microscope.png);
+}
+
+.markdown-section .icon-heading.globe:before{
+   background-image: url(../assets/icon-globe.png);
+}
+
+.markdown-section blockquote, 
+.markdown-section dl, 
+.markdown-section ol, 
+.markdown-section p, 
+.markdown-section table, 
+.markdown-section ul {
+	font-size: 12px;
+	line-height: 1.3;
+	color: #000;
+}
+
+.markdown-section ul {
+    padding-left: 0;
+    list-style-type: none;
+}
+
+.markdown-section ul li {
+    position: relative;
+    padding-left: 15px;
+}
+
+.markdown-section .section-blue ul li span {
+	position: absolute;
+	left: 0;
+    color: #69c4d2;
+}
+
+/* Columns */
+
+.markdown-section .columns {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.markdown-section .columns .column-2 {
+	width: 50%;
+    padding: 0 55px;
+}
+
+.markdown-section .column-2.columns {
+	padding: 0;
+	justify-content: space-around;
+}
+
+.markdown-section .column-2.columns .column-3 {
+	width: 30%;
+}
+
+.markdown-section .columns .column-3 {
+	width: 33.3%;
+    padding: 0;
+}
+
+/* Section rows */
+
+.markdown-section .section-row {
+	margin-bottom: 30px;
+}
+
+.markdown-section .column-2 .section-row:last-of-type {
+	margin-bottom: 0;
+}
+
+.markdown-section .section-blue .small-section-rows {
+	border-top: solid 1px #69c4d2;
+	border-bottom: solid 1px #69c4d2;
+}
+
+.markdown-section .section-blue .small-section-rows .section-row {
+	border-bottom: solid 1px #69c4d2;
+}
+
+.markdown-section .small-section-rows .section-row {
+	margin-bottom: 10px;
+}
+
+.markdown-section .small-section-rows .section-row:last-of-type {
+	border-bottom: none;
+}
+
+.markdown-section .small-section-rows p {
+	font-size: 10px;
+}
+
+.markdown-section .small-section-rows .columns .column-2 {
+	padding: 0 5px 0 0;
+}
+
+.markdown-section .intro-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.markdown-section .intro-text {
+    font-size: 16px;
+    font-weight: bold;
+    color: #000;
+}
+
+.markdown-section .column-3 .intro-text {
+	min-height: 45px;
+	border-bottom: solid 2px;
+	font-size: 13px;
+    padding: 5px 0;
+    margin-bottom: 30px;
+}
+
+.markdown-section .column-3 .section-row h4,
+.markdown-section .column-3 .section-row p {
+    font-size: 11px;
+}
