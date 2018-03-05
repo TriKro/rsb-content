@@ -92,6 +92,7 @@ p.line-through {
 
 .markdown-section .icon-heading:before {
    position: absolute;
+   top: -6px;
    right: 100%;
    margin-right: 15px;
    display: inline-block;
@@ -99,13 +100,13 @@ p.line-through {
    width: 30px;
    height: 30px;
    background-size: 100%;
-   background-position: center -6px;
+   background-position: center;
    background-repeat: no-repeat;
 }
 
 .markdown-section .icon-heading.list:before{
    background-image: url(../assets/icon-list.png);
-   background-position: center -3px;
+   top: -4px;
 }
 
 .markdown-section .icon-heading.chart:before{
@@ -130,6 +131,7 @@ p.line-through {
 
 .markdown-section .icon-heading.writing:before{
    background-image: url(../assets/icon-writing.png);
+   top: -4px;
 }
 
 .markdown-section .icon-heading.microscope:before{
@@ -138,6 +140,7 @@ p.line-through {
 
 .markdown-section .icon-heading.globe:before{
    background-image: url(../assets/icon-globe.png);
+   top: -4px;
 }
 
 .markdown-section blockquote, 

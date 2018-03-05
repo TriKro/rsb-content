@@ -1,7 +1,7 @@
  
 <section class="section-red">
 
-	<h1>Contents</h1>
+	<h1>Contents</h1>  
     
     <div class="columns">
 		<div class="column-2 columns">
