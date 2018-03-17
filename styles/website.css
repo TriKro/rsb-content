@@ -1,146 +1,153 @@
 .hey { border: 1px; }
 /* CSS for website */
 
-/* General */
-
+/* General styles */
 a {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 p.line-through {
-	text-decoration: line-through;
+  text-decoration: line-through;
 }
 
 .markdown-section .section-blue a {
-	color: #69c4d2;
+  color: #69c4d2;
 }
 
 .page-inner {
-	max-width: 1050px;
+  max-width: 1050px;
 }
 
+/* H1 - use for page titles */
 .markdown-section h1 {
-	margin-top: 0;
-    font-size: 38px;
-    line-height: 1;
+  margin-top: 0;
+  font-size: 38px;
+  line-height: 1;
 }
 
+/* H2 variations - used for Contents column numbers */
 .markdown-section h2.number-heading {
-    font-size: 38px;
-    margin: 0;
-    line-height: 1;
-    border-bottom: solid 3px #000;
+  font-size: 38px;
+  margin: 0;
+  line-height: 1;
+  border-bottom: solid 3px #000;
 }
 
 .markdown-section h2.number-heading.red {
-	color: #d02c29;
+  color: #d02c29;
 }
 
 .markdown-section h2.number-heading.green {
-	color: #7db269;
+  color: #7db269;
 }
 
 .markdown-section h2.number-heading.blue {
-	color: #69c4d2;
+  color: #69c4d2;
 }
 
 .markdown-section h2.number-heading.orange {
-	color: #e18631;
+  color: #e18631;
 }
 
 .markdown-section h2.number-heading.pink {
-	color: #df88ab;
+  color: #df88ab;
 }
 
 .markdown-section h2.number-heading.yellow {
-	color: #f4c543;
+  color: #f4c543;
 }
 
+/* H3 - used for section titles */
 .markdown-section h3 {
-    font-size: 14px;
-    margin: 0 0 10px;
+  font-size: 14px;
+  margin: 0 0 10px;
 }
 
 .markdown-section h4 {
-    font-size: 13px;
-    margin: 0;
+  font-size: 13px;
+  margin: 0;
 }
 
 .markdown-section h5 {
-    font-size: 10px;
+  font-size: 10px;
 }
 
+/* Different sections color variations for headings */
 .markdown-section .section-blue h1,
 .markdown-section .section-blue h2,
 .markdown-section .section-blue h3,
 .markdown-section .section-blue h5 {
-    color: #69c4d2;
+  color: #69c4d2;
 }
 
 .markdown-section .section-red h1,
 .markdown-section .section-red h2,
 .markdown-section .section-red h3,
 .markdown-section .section-red h5 {
-    color: #d02c29;
+  color: #d02c29;
 }
 
-/* Icon headings */
-
+/* Heading with icons */
 .markdown-section .icon-heading {
-	position: relative;
+  position: relative;
 }
 
 .markdown-section .icon-heading:before {
-   position: absolute;
-   top: -6px;
-   right: 100%;
-   margin-right: 15px;
-   display: inline-block;
-   content: '';
-   width: 30px;
-   height: 30px;
-   background-size: 100%;
-   background-position: center;
-   background-repeat: no-repeat;
+  position: absolute;
+  top: -6px;
+  right: 100%;
+  margin-right: 15px;
+  display: inline-block;
+  content: '';
+  width: 30px;
+  height: 30px;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
-.markdown-section .icon-heading.list:before{
-   background-image: url(../assets/icon-list.png);
-   top: -4px;
+/* Icons used in sections */
+.markdown-section .icon-heading#how-to:before{
+  background-image: url(../assets/icon-how-to.png);
+  top: -4px;
 }
 
-.markdown-section .icon-heading.chart:before{
-   background-image: url(../assets/icon-chart.png);
+.markdown-section .icon-heading#useful-tools:before{
+  background-image: url(../assets/icon-useful-tools.png);
 }
 
-.markdown-section .icon-heading.scale:before{
-   background-image: url(../assets/icon-scale.png);
+.markdown-section .icon-heading#interpreting-results:before{
+  background-image: url(../assets/icon-interpreting-results.png);
 }
 
-.markdown-section .icon-heading.two-lines:before{
-   background-image: url(../assets/icon-two-lines.png);
+.markdown-section .icon-heading#potential-biases:before{
+  background-image: url(../assets/icon-potential-biases.png);
 }
 
-.markdown-section .icon-heading.clock:before{
-   background-image: url(../assets/icon-clock.png)
+.markdown-section .icon-heading#helps-answer:before{
+  background-image: url(../assets/icon-helps-answer.png);
 }
 
-.markdown-section .icon-heading.tag:before{
-   background-image: url(../assets/icon-tag.png);
+.markdown-section .icon-heading#time-commitment--resources:before{
+  background-image: url(../assets/icon-time-required.png)
 }
 
-.markdown-section .icon-heading.writing:before{
-   background-image: url(../assets/icon-writing.png);
-   top: -4px;
+.markdown-section .icon-heading#tags:before{
+  background-image: url(../assets/icon-tags.png);
 }
 
-.markdown-section .icon-heading.microscope:before{
-   background-image: url(../assets/icon-microscope.png);
+.markdown-section .icon-heading#field-tips:before{
+  background-image: url(../assets/icon-field-tips.png);
+  top: -4px;
 }
 
-.markdown-section .icon-heading.globe:before{
-   background-image: url(../assets/icon-globe.png);
-   top: -4px;
+.markdown-section .icon-heading#case-studies:before{
+  background-image: url(../assets/icon-case-studies.png);
+}
+
+.markdown-section .icon-heading#references:before{
+  background-image: url(../assets/icon-references.png);
+  top: -4px;
 }
 
 .markdown-section blockquote, 
@@ -149,132 +156,202 @@ p.line-through {
 .markdown-section p, 
 .markdown-section table, 
 .markdown-section ul {
-	font-size: 12px;
-	line-height: 1.3;
-	color: #000;
+  font-size: 12px;
+  line-height: 1.3;
+  color: #000;
 }
 
 .markdown-section ul {
-    padding-left: 0;
-    list-style-type: none;
+  padding-left: 0;
+  list-style-type: none;
 }
 
 .markdown-section ul li {
-    position: relative;
-    padding-left: 15px;
+  position: relative;
+  padding-left: 15px;
 }
 
 .markdown-section .section-blue ul li span {
-	position: absolute;
-	left: 0;
-    color: #69c4d2;
+  position: absolute;
+  left: 0;
+  color: #69c4d2;
 }
 
 /* Columns */
 
 .markdown-section .columns {
-	display: flex;
-	flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .markdown-section .columns .column-2 {
-	width: 50%;
-    padding: 0 55px;
+  width: 50%;
+  padding: 0 55px;
 }
 
 .markdown-section .column-2.columns {
-	padding: 0;
-	justify-content: space-around;
+  padding: 0;
+  justify-content: space-around;
 }
 
 .markdown-section .column-2.columns .column-3 {
-	width: 30%;
+  width: 30%;
 }
 
 .markdown-section .columns .column-3 {
-	width: 33.3%;
-    padding: 0;
+  width: 33.3%;
+  padding: 0;
 }
 
 /* Section rows */
 
 .markdown-section .section-row {
-	margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 .markdown-section .column-2 .section-row:last-of-type {
-	margin-bottom: 0;
+  margin-bottom: 0;
 }
 
-.markdown-section .section-blue .small-section-rows {
-	border-top: solid 1px #69c4d2;
-	border-bottom: solid 1px #69c4d2;
-}
-
-.markdown-section .section-blue .small-section-rows .section-row {
-	border-bottom: solid 1px #69c4d2;
-}
-
-.markdown-section .small-section-rows .section-row {
-	margin-bottom: 10px;
-}
-
-.markdown-section .small-section-rows .section-row:last-of-type {
-	border-bottom: none;
-}
-
-.markdown-section .small-section-rows p {
-	font-size: 10px;
-}
-
-.markdown-section .small-section-rows .columns .column-2 {
-	padding: 0 5px 0 0;
+.markdown-section .section-row .columns .column-2 {
+  padding: 0;
 }
 
 .markdown-section .intro-column {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .markdown-section .intro-text {
-    font-size: 16px;
-    font-weight: bold;
-    color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  color: #000;
 }
 
 .markdown-section .column-3 .intro-text {
-	min-height: 45px;
-	border-bottom: solid 2px;
-	font-size: 13px;
-    padding: 5px 0;
-    margin-bottom: 30px;
+  min-height: 45px;
+  border-bottom: solid 2px;
+  font-size: 13px;
+  padding: 5px 0;
+  margin-bottom: 30px;
 }
 
 .markdown-section .column-3 .section-row h4,
 .markdown-section .column-3 .section-row p {
-    font-size: 11px;
+  font-size: 11px;
 }
 
+/* Intro page styles */
+
+.intro-page {
+  height: calc(100vh - 70px);
+}
+
+/* Intro pages colors */
+.intro-page.section-red {
+  background: #d02c29;
+}
+
+.intro-page.section-green {
+  background: #7db269;
+}
+
+.intro-page.section-blue {
+  background: #69c4d2;
+}
+
+.intro-page.section-orange {
+  background: #e18631;
+}
+
+.intro-page.section-pink {
+  background: #df88ab;
+}
+
+.intro-page.section-yellow {
+  background: #f4c543;
+}
+
+/* Intro pages white area */
+.intro-page .intro-page-wrapper {
+  background: #fff;
+  width: 270px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 50px 0;
+  align-items: flex-end;
+}
+
+/* Styling intro page number */
+.intro-page .intro-page-wrapper .intro-page-number {
+  height: 80px;
+  width: 80px;
+  color: #fff;
+  background: #000;
+  font-size: 50px;
+  font-weight: bold;
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: -40px;
+}
+
+/* Styling intro page title */
+.intro-page .intro-page-wrapper h1 {
+  color: #000;
+  display: block;
+  font-size: 50px;
+  transform: rotate(-90deg);
+}
+
+.intro-page .intro-page-wrapper h1#approach {
+  margin: 100px -85px;
+}
+
+.intro-page .intro-page-wrapper h1#generativemarket-research {
+  margin: 160px -155px;
+}
+
+.intro-page .intro-page-wrapper h1#evaluativemarket-research {
+  margin: 160px -155px;
+}
+
+.intro-page .intro-page-wrapper h1#generativeproduct-research {
+  margin: 165px -165px;
+}
+
+.intro-page .intro-page-wrapper h1#evaluativeproduct-experiments {
+  margin: 202px -200px;
+}
+
+.intro-page .intro-page-wrapper h1#out-of-the-box {
+  margin: 155px -145px;
+}
 
 /* RESPONSIVE */
 
+/* For screens smaller than 900px */
 @media all and (max-width: 900px) {
 
-	.markdown-section .columns .column-2 {
-		width: 100%;
-	}
+  .markdown-section .columns .column-2 {
+    width: 100%;
+  }
 
-	.markdown-section .columns .column-2:first-of-type {
-		margin-bottom: 30px;
-	}
+  .markdown-section .columns .column-2:first-of-type {
+    margin-bottom: 30px;
+  }
 }
 
+/* For screens smaller than 450px */
 @media all and (max-width: 450px) {
-	
-	.markdown-section .column-2.columns .column-3 {
-		width: 100%;
-	}
+  
+  .markdown-section .column-2.columns .column-3 {
+    width: 100%;
+  }
 }
 
 
