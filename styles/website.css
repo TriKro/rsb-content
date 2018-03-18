@@ -16,7 +16,7 @@ p.coloured-paragraph {
 }
 
 .section-red p.coloured-paragraph {
-  color: #d02c29;
+  color: #e2001a;
 }
 
 /* Use for black text */
@@ -39,7 +39,7 @@ p.coloured-paragraph {
 
 /* Links */
 .markdown-section .section-red a {
-  color: #d02c29;
+  color: #e2001a;
 }
 
 .markdown-section .section-blue a {
@@ -73,7 +73,7 @@ p.coloured-paragraph {
 }
 
 .markdown-section h2.number-heading.red {
-  color: #d02c29;
+  color: #e2001a;
 }
 
 .markdown-section h2.number-heading.green {
@@ -123,7 +123,7 @@ p.coloured-paragraph {
 .markdown-section .section-red h2,
 .markdown-section .section-red h3,
 .markdown-section .section-red h5 {
-  color: #d02c29;
+  color: #e2001a;
 }
 
 /* Heading with icons */
