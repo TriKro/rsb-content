@@ -2,6 +2,7 @@
 
 * [Contents](contents.md)
 * [Approach](part01-approach/01-approach.md)
+  * [What are you trying to learn?](part01-approach/what_are_you_trying_to_learn.md)
 * [Generative Market Research](part02-generative_market_research/02-generative_market_research.md)
 * [Evaluative Market Research](part03-evaluative_market_research/03-evaluative_market_research.md)
   * [Comprehension Test \(1 of 2\)](part03-evaluative_market_research/comprehension-test-1-of-2.md)
