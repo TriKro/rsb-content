@@ -6,6 +6,7 @@ a {
   text-decoration: none;
 }
 
+/* Use for line through text */
 p.line-through {
   text-decoration: line-through;
 }
@@ -256,6 +257,10 @@ p.coloured-paragraph {
   padding: 0;
 }
 
+.markdown-section .columns .columns .column-2 {
+  padding-right: 0;
+}
+
 /* Section rows */
 .markdown-section .section-row {
   margin-bottom: 30px;
@@ -306,8 +311,12 @@ p.coloured-paragraph {
   color: #fff;
 }
 
+.cover-page h1 {
+  font-size: 45px;
+}
+
 .cover-page .version {
-  font-size: 38px;
+  font-size: 45px;
   font-weight: bold;
   text-align: right;
   color: #fff;

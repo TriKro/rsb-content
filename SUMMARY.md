@@ -3,6 +3,7 @@
 * [The Real Startup Book](README.md)
 * [The Startup Real Book](the_startup_real_book.md)
 * [Who Is This Book For?](who_is_this_book_for.md)
+* [Navigating This Book](navigating_this_book.md)
 * [Contents](contents.md)
 * [Approach](part01-approach/01-approach.md)
   * [What are you trying to learn?](part01-approach/what_are_you_trying_to_learn.md)
