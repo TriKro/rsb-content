@@ -322,6 +322,27 @@ p.coloured-paragraph {
   border-right: 0;
 }
 
+/* Real book page */
+
+h1.real-book {
+  position: relative;
+  color: #e2001a;
+}
+
+h1.real-book:before {
+  position: absolute;
+  right: 100%;
+  margin-right: 15px;
+  display: inline-block;
+  content: '';
+  width: 70px;
+  height: 70px;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url(../assets/real-book.png);
+}
+
 /* Intro page styles */
 .intro-page {
   height: calc(100vh - 70px);
