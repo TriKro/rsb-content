@@ -19,7 +19,29 @@ p.coloured-paragraph {
   color: #d02c29;
 }
 
+/* Use for black text */
+.markdown-section .text-black,
+.markdown-section p.text-black,
+.markdown-section .text-black p {
+  color: #000;
+}
+
+/* Use for white text */
+.markdown-section .text-white,
+.markdown-section p.text-white {
+  color: #fff;
+}
+
+/* Use for bold text */
+.text-bold {
+  font-weight: bold;
+}
+
 /* Links */
+.markdown-section .section-red a {
+  color: #d02c29;
+}
+
 .markdown-section .section-blue a {
   color: #69c4d2;
 }
@@ -195,6 +217,20 @@ p.coloured-paragraph {
   color: #69c4d2;
 }
 
+/* Flex classes */
+
+.flex {
+  display: flex;
+}
+
+.flex-between {
+  justify-content: space-between;
+}
+
+.flex-center {
+  align-items: center;
+}
+
 /* Columns */
 .markdown-section .columns {
   display: flex;
@@ -258,6 +294,34 @@ p.coloured-paragraph {
   font-size: 11px;
 }
 
+/* Cover page styles */
+
+.cover-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 30px;
+  height: calc(100vh - 70px);
+  background: #e2001a;
+  color: #fff;
+}
+
+.cover-page .version {
+  font-size: 38px;
+  font-weight: bold;
+  text-align: right;
+  color: #fff;
+}
+
+.cover-page-footer .column {
+  padding: 0 10px;
+  border-right: solid 1px #000;
+}
+
+.cover-page-footer .column:last-of-type {
+  border-right: 0;
+}
+
 /* Intro page styles */
 .intro-page {
   height: calc(100vh - 70px);
@@ -265,7 +329,7 @@ p.coloured-paragraph {
 
 /* Intro pages colors */
 .intro-page.section-red {
-  background: #d02c29;
+  background: #e2001a;
 }
 
 .intro-page.section-green {
