@@ -1,4 +1,4 @@
-![](/assets/rsb - competitor analysis.png)
+
 # Competitor Analysis
 
 ## In Brief
