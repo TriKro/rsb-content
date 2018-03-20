@@ -1,3 +1,4 @@
+![](/assets/illustration - competitor analysis.png)
 
 # Competitor Analysis
 
