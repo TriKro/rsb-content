@@ -1,4 +1,4 @@
-![](/assets/iIllustration-PastPresentFuture02.png)
+![](/assets/illustration - afterword.png)
 
 # Afterword
 
