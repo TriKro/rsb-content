@@ -1,4 +1,4 @@
-![](/assets/rsb - analog digital.png)
+![](/assets/illustration - analog digital.png)
 
 # Analog/Digital
 
