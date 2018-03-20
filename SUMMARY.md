@@ -59,4 +59,6 @@
   * [A/B Testing](part7-out-of-the-box/ab-testing.md)
   * [Off Brand Testing](part7-out-of-the-box/off-brand-testing.md)
   * [Scorecards](part7-out-of-the-box/scorecards.md)
+* [Afterword](part9-afterword/9-afterword.md)
+  * [Afterword](part9-afterword/9-afterword.md)
 
