@@ -1,4 +1,4 @@
-![](/assets/Illustration - Lean Startup Playbook Empty - Index of Methods.png)
+![](/assets/illustration - lean startup 2x2.png)
 
 # Index of Questions
 
