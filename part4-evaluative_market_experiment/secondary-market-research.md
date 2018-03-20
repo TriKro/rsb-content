@@ -1,4 +1,4 @@
-![](/assets/illustration-DetailBuyer01-HalfFigure.jpg)
+![](/assets/illustration - detail buyer half figure.png)
 # Secondary Market Research
 
 ## In Brief
