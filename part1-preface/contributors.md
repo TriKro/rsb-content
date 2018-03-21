@@ -104,6 +104,8 @@ The Real Startup Book Project is supported by 51 contributors across 16 countrie
 
 * Tristan Kromer (US), [Kromatic](http://www.Kromatic.com/), [Blog](http://grasshopperherder.com/)
 
+* Zahra Kazmi (US), [Linkedin](https://www.linkedin.com/in/zahra-kazmi/)
+
 # Editors
 
 * Luke Szyrmer, [LaunchTomorrow](http://blog.launchtomorrow.com/about-launch-tomorrow/), [@launchtomorrow](https://twitter.com/launchtomorrow)
