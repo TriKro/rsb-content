@@ -122,6 +122,10 @@ Use techniques to match patterns in responses, such as affinity mapping using po
 
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
 ## References
 
 * [Kansas University - Community Toolbox: Section 6. Conducting Focus Groups](http://ctb.ku.edu/en/table-of-contents/assessment/assessing-community-needs-and-resources/conduct-focus-groups/main)

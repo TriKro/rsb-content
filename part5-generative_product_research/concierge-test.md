@@ -57,6 +57,10 @@ The main benefit of this method is to generate ideas around the potential soluti
 * [Moves the Needle - Enterprise Lean Startup Experiment Examples](http://www.movestheneedle.com/blog/enterprise-lean-startup-experiment-examples/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
 ## References
 * [Cindy Alvarez - Lean Customer Development: Building Products Your Customers Will Buy](https://books.google.de/books?id=jH-XAwAAQBAJ&lpg=PA216&ots=QwQBmw7jHV&dq=case%20study%20concierge%20mvp&hl=de&pg=PA138#v=onepage&q=concierge&f=false)
 * [I Build MVPs - The Concierge Minimum Viable Product Maximizes Customer Learning](http://ibuildmvps.com/blog/the-concierge-minimum-viable-product-maximizes-customer-learning)

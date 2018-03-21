@@ -54,6 +54,10 @@ You don't need to be able to mass produce the prototype in order to run this smo
 
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
 ## References
 
 * [https://medium.com/london-tech-startups/a-guide-to-building-a-hardware-prototype-df449e002f06\#.v1huqveix](https://medium.com/london-tech-startups/a-guide-to-building-a-hardware-prototype-df449e002f06#.v1huqveix)

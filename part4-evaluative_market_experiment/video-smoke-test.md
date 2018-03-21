@@ -103,6 +103,10 @@ View count vanity: Views from people outside your intended target audience is a 
 * [VideoPixie: Best Kickstarter videos of 2014](https://www.videopixie.com/best-kickstarter-videos-of-2014)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
 ## References
 
 * [Lee LeFever: The Art of Explanation](http://artofexplanation.com)

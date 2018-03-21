@@ -96,6 +96,10 @@ Confirmation biases are often obtained by suddenly importing an unfounded ratio 
 * [Example: Association Providing Links for Business in a Specific Area  - Queensland, Australia](https://www.business.qld.gov.au/starting-business/planning/market-customer-research/resources)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
 ## References
 
 * [Marketing Donut, General Description of Market Research](http://www.marketingdonut.co.uk/market-research/market-analysis)

@@ -75,6 +75,10 @@ Over-focusing on technology: If the tech is proven or low risk, test the busines
 * [Drones in precision farming](https://steveblank.com/2013/07/22/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
 ## References
 
 * [Harvard Business Review: How to Create an Exponential Mindset](https://hbr.org/2016/07/how-to-create-an-exponential-mindset)

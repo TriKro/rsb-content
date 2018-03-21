@@ -67,6 +67,10 @@ Is the customer actually willing to pay money for the value proposition?
 * [TechCrunch: Jolla Closes Pre-Sales Campaign For Its First Phone](http://techcrunch.com/2013/08/21/jolla-closes-first-pre-sales/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
 ## References
 
 * [Indiegogo](https://www.indiegogo.com/#/picks_for_you)

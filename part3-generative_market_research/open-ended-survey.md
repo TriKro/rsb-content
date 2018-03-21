@@ -87,6 +87,10 @@ In the case of very large data sets, algorithmic tools such as sentiment analysi
 
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
 ## References
 
 * [A Guide to Open-Ended Questions in Marketing Research](https://conversionxl.com/open-ended-questions/)

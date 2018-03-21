@@ -75,6 +75,10 @@ Think for yourself after being given advice.
 
 ## Case Studies
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
+
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
  
 ## References
 * [Wired: Given “Expert” Advice, Brains Shut Down](https://www.wired.com/2009/03/financebrain)

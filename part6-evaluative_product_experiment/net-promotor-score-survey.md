@@ -61,6 +61,10 @@ The timing of sending the NPS questionnaire to customers can lead to biased resu
 - [Zendesk -  Measure customer loyalty with Net Promoter Score surveys in Zendesk](https://www.zendesk.com/blog/nps-net-promoter-score/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
 ## References
 - [Survey Monkey - Net Promoter® Score (NPS) Survey](https://www.surveymonkey.com/mp/net-promoter-score/)
 - [Bain & Company - The economics of loyalty - Loyalty Insights #3](http://www.bain.com/publications/articles/the-economics-of-loyalty.aspx)

@@ -51,6 +51,11 @@ As this is a technique used to reduce bias, there are no major additional biases
 * [“Traditionally what we might have done is develop an app and release it and then see what happens next. But we knew that with this, if we were going to get it right we would need to expose it to customers and get their feedback.”](https://www.designweek.co.uk/issues/2-8-march-2015-2/natwest-in-off-brand-and-disruptive-beta-testing-for-new-services/)
 * [Dell uses off-brand testing to test landing page variants that the company won't be implementing in the near term. Dan Siroker and Pete Koomen in *A/B Testing: The Most Powerful Way to Turn Clicks Into Customers*](http://www.abtestingbook.com/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
+
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
  
 ## References
 * [Medium - David Bland: Lean Startup Comes Home](https://medium.com/@davidjbland/lean-startup-comes-home-8f205993da40)

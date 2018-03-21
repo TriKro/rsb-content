@@ -85,6 +85,10 @@ For a B2B/enterprise idea, causing some kind of a specific response in your pros
 * [Relatas: Left flyers on every seat in the conference auditorium while it was empty during lunch](https://yourstory.com/2016/10/startup-marketing-watch-out/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
 ## References
 
 * [7 Tips for Creating Effective Flyers for Your New Product](http://jodycalkins.com/7-tips-for-creating-effective-flyers-for-your-new-product/)

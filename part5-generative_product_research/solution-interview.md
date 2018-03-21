@@ -79,6 +79,10 @@ Use the solution interview to plan the initial feature set of your product and d
   
 ## Case Studies
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
+
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
   
 ## References
 * [Apply the Lean Startup in B2B to Build Products Businesses Want: Solution Interviews](https://www.slideshare.net/egarbugli/apply-the-lean-startup-in-b2b-to-build-products-businesses-want-course-slides/140-27Pivots)

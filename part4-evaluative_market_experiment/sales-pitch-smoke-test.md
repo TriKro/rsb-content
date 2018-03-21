@@ -82,6 +82,10 @@ This smoke test does not suggest the optimal price point for the product, or whe
 * [Minivid: Iteration Case Study](http://thestartuptoolkit.com/blog/2010/11/minivid-iteration-case-study/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
 ## References
 
 * [SPIN Selling by Neil Rackham](https://www.amazon.com/SPIN-Selling-Neil-Rackham/dp/0070511136)

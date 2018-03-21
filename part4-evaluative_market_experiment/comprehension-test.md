@@ -54,6 +54,10 @@ Take note: if many of the participants use identical language to explain the val
 
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
 ## References
 
 * [GrasshopperHerder: Comprehension vs. Commitment](https://grasshopperherder.com/comprehension-vs-commitment/)

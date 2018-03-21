@@ -64,6 +64,10 @@ As this technique does not gather data, it is purely a subjective ranking tool i
 ## Case Studies
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
  
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
+ 
 ## References
 * [Customer Dev Labs: Prioritizing Customer Segments with Excel](http://customerdevlabs.com/2012/08/23/prioritizing-customer-segments-with-excel/)
 * [Diana Kander: How to Diagnose Your Riskiest Assumptions](https://dkander.wordpress.com/2013/05/07/how-to-diagnose-your-riskiest-assumptions/)

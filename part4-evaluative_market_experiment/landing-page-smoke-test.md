@@ -63,6 +63,10 @@ If the conversion rate obtained exceeds your predetermined signpost value, the l
 * [Buffer](https://blog.bufferapp.com/idea-to-paying-customers-in-7-weeks-how-we-did-it)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
 ## References
 
 * [Eric Ries - Using AdWords to Assess Demand](http://www.startuplessonslearned.com/2008/11/using-adwords-to-assess-demand-for-your.html)

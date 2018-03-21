@@ -62,6 +62,10 @@ By understanding the key players in your space and adjacent segments, you will i
 ## Case Studies
 - Got a case study? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
 
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
 ## References
 - [Steve Blank: A New Way to Look at Competitors](https://steveblank.com/2013/11/08/a-new-way-to-look-at-competitors/)
 - [Instigator Blog: Competitive Research 101 for Startups](http://www.instigatorblog.com/competitive-research-101-for-startups/2011/08/30/)

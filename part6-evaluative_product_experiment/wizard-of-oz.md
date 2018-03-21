@@ -54,6 +54,10 @@ The WOZ test can provide valuable information, especially quantitative data. We 
 * [Fast Company: Cardmunch](http://www.fastcompany.com/1807189/year-after-linkedin-came-calling-cardmunch-poised-make-rolodex-obsolete)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
 ## References
 
 * [GrasshopperHerder: What Type of Lean Startup Experiment Should I Run?](https://grasshopperherder.com/what-type-of-lean-startup-experiment-should-i-run/)

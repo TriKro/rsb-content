@@ -68,6 +68,10 @@ To counter these biases, you can:
 * [MobileMiner: A real world case study of data mining in mobile communication ](http://www.cs.cornell.edu/~bishan/papers/sigmod09-bishanyang.pdf)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
 ## References
 
 * [Data mining knowledge discovery](http://www.tutorialspoint.com/data_mining/dm_knowledge_discovery.htm)

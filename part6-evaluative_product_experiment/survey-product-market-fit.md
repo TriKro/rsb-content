@@ -85,6 +85,10 @@ Look for differences in qualitative responses between very disappointed and some
 * [Hitenism: 731 Slack Users Reveal Why It’s So Addictive](https://hitenism.com/slack-product-market-fit-survey/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
 ## References
 
 * [The Pmarca Guide To Startups - Part 4: The only thing that matters](http://pmarchive.com/guide_to_startups_part4.html)

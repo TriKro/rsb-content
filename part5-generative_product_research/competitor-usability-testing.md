@@ -42,6 +42,10 @@ Before building a solution, any ideas should be tested via alternative generativ
 ## Case Studies
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](realbook@kromatic.com)
 
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
 ## References
 * [Nielsen Norman Group: Competitive Usability Evaluations - Learning from Your Competition](https://www.nngroup.com/articles/competitive-usability-evaluations/)
 * [trymyui: 5 secrets to running a comparative usability study](http://www.trymyui.com/blog/2015/04/02/5-secrets-for-comparative-usability-study/)

@@ -96,6 +96,10 @@ Graphs and visualizations can easily be misleading.
 * [VentureBeat: 6 dashboards I use daily—and why every startup CEO should as well](https://venturebeat.com/2015/07/31/6-dashboards-i-use-daily-and-why-every-startup-ceo-should-as-well/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
 ## References
 
 * [Statistics How To: Misleading Graphs: Real Life Examples](http://www.statisticshowto.com/misleading-graphs/)

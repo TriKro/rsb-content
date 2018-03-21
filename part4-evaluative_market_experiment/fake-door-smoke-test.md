@@ -93,6 +93,10 @@ Check your initial hypothesis and see if the results match your success rate. De
 * Local Dutch information aggregator Tippiq.nl uses fake doors extensively in their proposition development using a separate website with www.tippiqlabs.nl. All new ideas are tested first using fake ads that lead to a landing page on that website. On the landing page the product/service is explained and the visitor is asked if he would like to use the product. After they have expressed their interest they get a notification that the product is still in development and they can leave their email if they want to stay up-to-date.
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
 ## References
 * [Hustlecon 2013: Fake Doors - How to Test Product Ideas Quickly](http://www.slideshare.net/JessLee4/fake-doors-how-to-test-product-ideas-quickly-hustlecon-2013)
 * [Alberto Savoia: Pretotype it! Make sure you are building the right it before you build it right](http://www.pretotyping.org)

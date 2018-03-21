@@ -69,6 +69,10 @@ Interpretation is framed by how you originally formulated the experiment, i.e., 
 
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
 ## References
 
 * [The Art of Cleverness: Use the Broken-Promise Strategy to validate your startup](http://artofcleverness.stfi.re/broken-promise/?sf=agvkwwg#ab)

@@ -104,9 +104,12 @@ A/B testing is not so good for testing:
 * Airbnb - [Experiments at Airbnb](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
-## References
+## Tools
 
 * Optimizely - [A/B Testing](https://www.optimizely.com/ab-testing/)
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
+## References
 * Wikipedia - [A/B Testing](https://en.wikipedia.org/wiki/A/B_testing)
 * Udacity - [Online A/B Testing Course](https://www.udacity.com/course/ab-testing--ud257)
 * Evan Miller - [A/B Testing Sample Size Calculator Tool](http://www.evanmiller.org/ab-testing/sample-size.html)

@@ -103,6 +103,10 @@ Are you able to listen and record data based on the following?
 * [How I Pivoted Product Strategy and Grew SaaS Deal Size by 10x](http://www.chrisred.com/how-i-pivoted-product-strategy-and-grew-saas-deal-size-by-10x/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
 ## References
 
 * Rob Fitzpatrick - [The Mom Test](http://momtestbook.com/): How to talk to customers and learn if your business is a good idea when everyone is lying to you.

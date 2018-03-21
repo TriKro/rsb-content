@@ -63,6 +63,10 @@ Dismissing it too quickly: On the other side, exploring the reasons why others f
 * [Autopsy Lessons from Failed Startups](http://autopsy.io)
 * [CBinsights: 232 Startup Failure Post-Mortems](https://www.cbinsights.com/blog/startup-failure-post-mortem/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
+
+## Tools
+
+* Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
  
 ## References
 
