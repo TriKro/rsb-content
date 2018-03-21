@@ -102,6 +102,7 @@ A/B testing is not so good for testing:
 * VWO - [Website Redesign Increased Conversions](https://vwo.com/blog/website-redesign-increased-conversions/)
 * VWO - [SaaS Pricing A/B Testing](https://vwo.com/blog/ab-testing-pricing/)
 * Airbnb - [Experiments at Airbnb](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7)
+* Grab - [How Grab experimented with chat to drive down booking cancellations](https://www.techinasia.com/talk/grab-experiment-chat)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ## Tools
