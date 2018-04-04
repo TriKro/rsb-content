@@ -1,4 +1,5 @@
-![](/assets/illustration-resultsexperiment-window-grid-color.jpg)
+![](/assets/illustration - scorecards.png)
+
 # Scorecards
 
 ## In Brief
