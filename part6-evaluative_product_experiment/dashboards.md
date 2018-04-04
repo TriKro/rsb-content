@@ -1,4 +1,4 @@
-![](/assets/illustration-metrics-meter-color.png)
+![](/assets/illustration - dashboards.png)
 
 # Dashboards
 
