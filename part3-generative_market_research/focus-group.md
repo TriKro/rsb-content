@@ -1,4 +1,4 @@
-![](/assets/illustration-focus-group-talk-bubbles-FullFigure-color.png)
+![](/assets/illustration - focus group b.png)
 
 # Focus Groups
 
