@@ -1,6 +1,6 @@
 # Out of the Box
 
-![](/assets/illustration - trapped in a box.png)
+![](/assets/illustration - out of the box.png)
 
 "Constraint inspires creativity."  
 —_Biz Stone_
