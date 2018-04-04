@@ -1,4 +1,5 @@
-![](/assets/rsb - usability testing.png)
+![](/assets/illustration - competitor usability testing.png)
+
 # Competitor Usability Testing
 
 ## In Brief
