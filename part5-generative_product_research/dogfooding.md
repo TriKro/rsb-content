@@ -1,4 +1,5 @@
-![![](/assets/illustration-puppies-ManyPuppies-as-a-Service-dogs-.png)](/assets/rsb - dog fooding.png)
+![](/assets/illustration - dog fooding.png)
+
 # Dogfooding
 
 ## Summary
