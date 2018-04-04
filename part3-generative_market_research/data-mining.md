@@ -1,4 +1,4 @@
-![](/assets/Illustration - Data Mining - Data Mining.png)
+![](/assets/illustration - data mining.png)
 
 # Data Mining
 
