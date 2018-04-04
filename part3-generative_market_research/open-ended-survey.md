@@ -1,4 +1,4 @@
-![](/assets/illustration-surveysopenendedv2-what-who-where-why-how-squares.png)
+![](/assets/illustration - open ended survey.png)
 
 # Open-Ended Survey
 
