@@ -1,4 +1,5 @@
-![](/assets/illustration-demo-pitch-color.png)
+![](/assets/illustration - demo pitch.png)
+
 # Demo Pitch
 
 ## In Brief
