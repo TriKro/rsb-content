@@ -1,4 +1,5 @@
-![](/assets/rsb - solution interview.png)
+![](/assets/illustration - solution interview.png)
+
 # Solution Interview
 
 ## In Brief
