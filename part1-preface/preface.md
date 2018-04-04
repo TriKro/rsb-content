@@ -1,4 +1,4 @@
 
-![](/assets/illustration - navigation vs exploration.png)
+![](/assets/illustration - sharing ideas preface.png)
 
 # Preface
