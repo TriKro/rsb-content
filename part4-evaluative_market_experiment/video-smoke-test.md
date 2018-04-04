@@ -1,4 +1,5 @@
-![](/assets/rsb - video landing page smoke test.png)
+![](/assets/illustration - video smoke test.png)
+
 # Video Smoke Test
 
 ## In Brief
