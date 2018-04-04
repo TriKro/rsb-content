@@ -1,4 +1,4 @@
-![](/assets/illustration-paper-prototype-music-color.png)
+![](/assets/illustration - paper prototyping.png)
 
 # Paper Prototyping
 
