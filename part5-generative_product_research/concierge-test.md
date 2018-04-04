@@ -1,4 +1,4 @@
-![](/assets/illustration-Concierge-test-bell-shaded.png)
+![](/assets/illustration - conceirge test.png)
 
 # Concierge Test
 
