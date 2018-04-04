@@ -1,4 +1,4 @@
-![](/assets/illustration - a:b testing.png)
+![](/assets/illustration - a_b testing.png)
 
 # A/B Testing
 
