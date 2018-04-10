@@ -1,4 +1,4 @@
-![](/assets/illustration - comprehension test.png)
+![](/assets/illustration - fake door test.png)
 
 # Comprehension Test
 
