@@ -1,4 +1,5 @@
-![](/assets/illustration-UserExperience-communicatedvisually-FullFigure.jpeg)
+![](/assets/illustration - comprehension test.png)
+
 # Comprehension Test
 
 ## In Brief
