@@ -1,4 +1,5 @@
-![](/assets/illustration-pockettestsmoketestv1-vending-machine-coke-pepsi-FullFigure-colored.png)
+![](/assets/illustration - pocket smoke test.png)
+
 # Pocket Smoke Test
 
 ## In Brief
