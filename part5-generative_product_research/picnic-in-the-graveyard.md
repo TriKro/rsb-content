@@ -1,4 +1,4 @@
-
+![](/assets/illustration - picnic in the graveyard b&w.png)
 
 # Picnic in the Graveyard
 
