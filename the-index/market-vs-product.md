@@ -6,7 +6,7 @@
 
 Do we need to learn about the _market_ or the _product_?
 
-To narrow down the long list of applicable methods to something actionable, we first separate our questions into those about the market and those about the product.
+To narrow down the long list of applicable methods to something actionable, we first separate our questions into those that concern the _market_ and those that concern the _product_.
 
 ### Market
 
@@ -20,12 +20,12 @@ To narrow down the long list of applicable methods to something actionable, we f
 * How do we find them?
 * How much will this customer segment pay?
 * How do we convince this customer segment to buy?
-* What is the cost to acquire a customer in this customer segment?
+* What is the cost of acquiring a customer in this customer segment?
 
 ### Product
 
 * How can we solve this problem?
-* What form should this take?
+* What form should this solution take?
 * How important is the design?
 * What’s the quickest solution?
 * What is the minimum feature set?
@@ -47,11 +47,11 @@ Market questions include those about which channels we can use to reach customer
 
 The value proposition really sits at the intersection of market needs and the product itself. The product has no value outside of the customer using it, but we are again simplifying for the purpose of navigation.
 
-If we are using the _Business Model Canvas_, market questions are those on the right side of the canvas, including: customer, channel, relationship, and revenue. Product questions are those about the value proposition and everything left of it, including: key activities, key resources, key partners, and costs.
+If we are using the _Business Model Canvas_, market questions are those on the right side of the canvas, including _customer_, _channel_, _relationship_, and _revenue_. Product questions are those concerning the value proposition and everything left of it, including _key activities_, _key resources_, _key partners_, and _costs_.
 
 ### Where Should We Start?
 
-This book is agnostic about where we start. We may already have a product and are investigating who to sell it to, or we may have a customer segment with a strong pain point and are trying to find a solution. But when in doubt, start with the customer.
+This book is agnostic about where we start. We may already have a product and be investigating who to sell it to, or we may have a customer segment with a strong pain point and are trying to find a solution. But when in doubt, start with the customer.
 
-If the customer segment changes, then the product usually must be adapted to the customer. However, if the product changes, customers may simply use a different product. Human behavior is notoriously difficult to change, although it is not impossible.
+If the customer segment changes, then the product usually must be adapted to the customer. But if the product changes, customers may simply use a different product. **Human behavior is notoriously difficult to change, although it is not impossible.**
 

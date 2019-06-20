@@ -1,6 +1,6 @@
 # Broken Promise Smoke Test
 
-![](../.gitbook/assets/illustration-full-figure-mobile-broken-promise-smoke-test.png)
+![](../.gitbook/assets/illustration-broken-promise-test-real-startup-book.png)
 
 ## Broken Promise Smoke Test
 
@@ -28,9 +28,9 @@ People naturally want to share ideas or products they love with their friends. T
 
 This smoke test puts up a small social barrier \(the social pressure of a personal promise\) to see if anyone would consider the product idea worthy of sharing regardless of how developed it is. It tests the virality coefficient, or the "Referral" in Pirate Metrics' AARRR model. It is arguably a social variation of the landing page MVP.
 
-This test is most relevant for early stage founders, particularly when testing a variety of ideas. It helps identify which of a number of ideas actually have relative merit. Ultimately, it helps focus your resources on an attractive and buzzworthy product.
+This test is most relevant for early-stage founders, particularly when testing a variety of ideas. It helps identify which of a number of ideas actually have relative merit. Ultimately, it helps focus your resources on an attractive and buzzworthy product.
 
-In terms of the mechanics, it works similar to a landing page. There is a dedicated web page with a call-to-action. On the thank you page or in follow-up communication, the copy explicitly asks the registrant NOT to share the idea with others. After some time passes, you compare the original list of people you contacted with the actual list of signups. Anyone who wasn't in your original list of people you told about about the idea is counted as a referral.
+In terms of the mechanics, it works similar to a landing page. There is a dedicated web page with a call-to-action. On the thank you page or in follow-up communication, the copy explicitly asks the registrant NOT to share the idea with others. After some time passes, you compare the original list of people you contacted with the actual list of signups. Anyone who wasn't in your original list of people you told about the idea is counted as a referral.
 
 Referral rate = \(total number of signups in a time period/total number of original people contacted\)
 
@@ -46,16 +46,16 @@ Minimal: 1-2 day developer and designer time, or you can use a viral landing pag
 
 #### How To
 
-\(from [http://artofcleverness.stfi.re/broken-promise/?sf=agvkwwg\#ab](http://artofcleverness.stfi.re/broken-promise/?sf=agvkwwg#ab)\)
+_\(from_ [_Art of Cleverness_](https://artofcleverness.com/broken-promise/)_\)_
 
 1. Send out a few early landing pages/code-free MVPs to a group of 10-15 people.
 2. Ask them not to share with anyone.
 3. Track email signups or a different CTA \(follows, Facebook page likes\).
-4. See which or any of the pages gets signups outside of the group you sent it to \(broken promise = formula for growth\).
+4. See which \(if any\) of the pages gets signups outside of the group you sent it to \(broken promise = formula for growth\).
 
 #### Interpreting Results
 
-Interpretation is framed by how you originally formulated the experiment, i.e., what is the cutoff value for the referral rate in order to make a go/no-go decision? Also, be clear on exactly who you count, both in the original and referred group. For example, immediate family like your mom doesn't count \(as well as anyone she refers\) unless she really is representative of your target market.
+Interpretation is framed by how you originally formulated the experiment \(i.e., what is the cutoff value for the referral rate required to make a go/no-go decision?\). Also, be clear on exactly who you count, both in the original and referred groups. For example, immediate family like your mom doesn't count \(as well as anyone she refers\) unless she really is representative of your target market.
 
 #### Potential Biases
 

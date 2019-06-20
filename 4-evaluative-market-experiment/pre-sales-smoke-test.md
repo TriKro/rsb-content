@@ -1,6 +1,6 @@
 # Pre-Sales Smoke Test
 
-![](../.gitbook/assets/illustration-full-figure-diplomat-sales-pitch-smoke-test.png)
+![](../.gitbook/assets/illustration-pre-sales-smoke-test-real-startup-book.png)
 
 ## Pre-Sales Smoke Test
 
@@ -10,9 +10,9 @@ Pre-sales involves accepting payment in exchange for a promise to deliver the va
 
 Does the prospect know your product does not yet exist? If not, the pre-sales campaign can be considered a true smoke test and will have different dynamics and results than if the prospect is aware of this fact.
 
-Most, but not all, crowdfunding campaigns are in fact pre-sales campaigns. Pre-sales campaigns can also rely on online platforms built from scratch or platforms like Celery.
+Most, but not all, crowdfunding campaigns are in fact pre-sales campaigns. Pre-sales campaigns can also rely on online platforms built from scratch, or on platforms like Celery.
 
-The MVP for the pre-sales campaign can include a description of the value proposition, product renderings, mock-up, or simulations, a promotional video, customer testimonials, and so on.
+The MVP for the pre-sales campaign can include a description of the value proposition, product renderings, mock-ups, simulations, a promotional video, customer testimonials, and so on.
 
 ### Helps Answer
 
@@ -20,22 +20,22 @@ Is the customer actually willing to pay money for the value proposition?
 
 ### Tags
 
-* Quantitative Validation
+* Quantitative validation
 * Benchmarking
 * Positioning
-* Value Proposition
-* Audience Selection Strategy
-* Investor Attraction
+* Value proposition
+* Audience selection strategy
+* Investor attraction
 
 ### Description
 
 #### Time Commitment
 
-1 week to 90 days. Most successful crowdfunding pre-sales campaign involve 30 days of pre-promotion and a 40-day campaign duration \(70 days total\).
+One week to 90 days. Most successful crowdfunding pre-sales campaigns involve 30 days of pre-promotion and a 40-day campaign duration \(70 days total\).
 
 #### How To
 
-* Create your MVP \(renderings or simulations, promotional media, pricing, testimonials, etc\).
+* Create your MVP \(renderings or simulations, promotional media, pricing, testimonials, etc.\).
 * Establish your pre-sales ecommerce platform.
 * Promote and launch your campaign.
 * Measure results \(conversions and total orders\).

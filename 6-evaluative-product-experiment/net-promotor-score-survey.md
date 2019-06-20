@@ -1,4 +1,4 @@
-# Net Promotor Score Survey
+# Net Promoter Score Survey
 
 ![](../.gitbook/assets/illustration-net-promotor-score.png)
 
@@ -10,7 +10,7 @@ The Net Promoter Score \(NPS\) identifies customer loyalty to the brand or produ
 
 NPS was first introduced by Frederick F. Reichheld in a Harvard Business Review article, “The One Number You Need to Grow.”
 
-Out of a score of 0 to 10, people who give a score from 9 to 10 are considered “Promoters.” People who give a score from 7 to 8 are considered “Passives,” meaning those who are satisfied but not very loyal to your brand or product. People who give a score from 0 to 6 are considered “Detractors.”
+People who give a score from 9 to 10 are considered “Promoters.” People who give a score from 7 to 8 are considered “Passives,” meaning those who are satisfied but not very loyal to your brand or product. People who give a score from 0 to 6 are considered “Detractors.”
 
 The NPS question can be followed up with another question to find out the reason\(s\) for the score the customer gave. By doing so, the Net Promoter Score can be associated with both qualitative and quantitative results.
 
@@ -34,31 +34,31 @@ The NPS question can be followed up with another question to find out the reason
 
 NPS tracks loyalty and can identify the ambassadors among your customers. It is commonly used as a simple customer satisfaction metric.
 
-The NPS is not just one question but rather a group of questions probing to understand the customer’s feeling or loyalty towards the company, product, or service.
+The NPS is not just one question, but rather a group of questions probing to understand the customer’s feeling or loyalty towards the company, product, or service.
 
 By understanding the reasons of the scores, you can determine how many people will become ambassadors. It can also determine where your company, product, or service stands in word-of-mouth marketing.
 
 #### Time Commitment and Resources
 
-The survey can be sent to customers at one time. The results can be compiled and analyzed in about a week. NPS surveys can be sent every six months or every year to determine changes as well.
+The survey can be sent to all customers at one time. The results can be compiled and analyzed in about a week. NPS surveys can be sent every six months or every year to determine changes as well.
 
 #### How To
 
-An NPS survey is simple and straightforward. You can use third party survey companies such as Survey Monkey or traditional pen-and-paper methods. You can even just send the question via email to your customers directly.
+An NPS survey is simple and straightforward. You can use third-party survey companies such as Survey Monkey or traditional pen-and-paper methods. You can even just send the question via email to your customers directly.
 
 Many companies send NPS questions together with other survey questions to save time and resources.
 
 #### Interpreting Results
 
-By understanding the reasons why customers are loyal to \(or recommend\) your company, product, or service, loyalty economics can be calculated.
+Loyalty economics can be calculated by understanding the reasons why customers are loyal to \(or recommend\) your company, product, or service.
 
-While there are some variances in the interpretations of an NPS result, the original NPS score calculation is achieved by subtracting the percentage of respondents that are labeled “Detractors” from the percentage of respondents that are labeled “Promoters” like this:
+While there are some variances in the interpretations of an NPS result, the original NPS score calculation is achieved by subtracting the percentage of respondents that are labeled “Detractors” from the percentage of respondents that are labeled “Promoters”:
 
 NPS = % of Promoters – % of Detractors
 
-However, interpreting the scores is only half the benefit of the NPS questionnaire. The second part of the “Why” question is equally important if not more than the actual NPS itself. Understanding the reasons why your customers may or may not promote your company, product, or service can lead to breakthrough insights.
+However, interpreting the scores is only half the benefit of the NPS questionnaire. The second part of the “Why” question is equally important -- if not more important -- than the actual NPS itself. Understanding the reasons why your customers may or may not promote your company, product, or service can lead to breakthrough insights.
 
-By understanding the “Why” components of NPS surveys better, you can identify which customer segments are more valuable and what do they want more from your company, product, or service. Moreover, you can also identify the reasons certain customer segments become detractors or passives.
+By understanding the “Why” components of NPS surveys better, you can identify which customer segments are more valuable and what they want more from your company, product, or service. Moreover, you can identify the reasons certain customer segments become detractors or passives.
 
 #### Potential Biases
 
@@ -81,9 +81,11 @@ The timing of sending the NPS questionnaire to customers can lead to biased resu
 ### References
 
 * [Survey Monkey - Net Promoter® Score \(NPS\) Survey](https://www.surveymonkey.com/mp/net-promoter-score/)
-* [Bain & Company - The economics of loyalty - Loyalty Insights \#3](http://www.bain.com/publications/articles/the-economics-of-loyalty.aspx)
-* [Zendesk - NPS best practices: The most effective way to send a Net Promoter Score](https://support.zendesk.com/hc/en-us/articles/203759086-NPS-best-practices-The-most-effective-way-to-send-a-Net-Promoter-Score-survey)
+* [Bain & Company - The Economics of Loyalty - Loyalty Insights \#3](http://www.bain.com/publications/articles/the-economics-of-loyalty.aspx)
+* [Zendesk - NPS Best Practices: The Most Effective Way to Send a Net Promoter Score](https://support.zendesk.com/hc/en-us/articles/203759086-NPS-best-practices-The-most-effective-way-to-send-a-Net-Promoter-Score-survey)
 * [Qualtrics - Net Promoter® Score System Questions Answered](https://www.qualtrics.com/market-research/nps/)
 * [Customer Satisfaction Strategy - Pros and Cons of Net Promoter Score](http://customersatisfactionstrategy.com/netpromoterscore.html)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part6-evaluative_product_experiment/realbook@kromatic.com)
+
+
 

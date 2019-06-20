@@ -1,16 +1,18 @@
 # How to Use This Book
 
-Do not read this book straight through. There is no plot or narrative that you’re going to miss.
+![](../.gitbook/assets/illustration-think-of-this-book-as-a-toolbox-real-startup-book%20%281%29.png)
+
+Do not read this book straight through. There is no plot or narrative that you’re going to miss by jumping around.
 
 This book is not a Step 1, Step 2, Step 3 guide to building a startup. Startups don’t work like that.
 
-Start by reading the intro and index to figure out which parts of the book are relevant to you and your startup. Read the relevant chapters, then reference the methods described in the remaining pages as needed.
+Begin by reading the intro and index to figure out which parts of the book are relevant to you and your startup. Read the relevant chapters, then reference the methods described in the remaining pages as needed.
 
 Think of this book as a toolbox.
 
 It’s organized to help us find what we’re looking for when we need it. When we need a way to test market demand, there’s a section on _evaluative market experiments_. When we’re looking to prioritize our ever-growing feature list into a _minimum viable product_, there’s a section on g_enerative product research_.
 
-We must know which tool we need before taking it out and using it. As innovators, we must be wary of [Maslow’s hammer](https://en.wikipedia.org/wiki/Law_of_the_instrument) and understand which research/experimental method or technique we need so that we don't end up repeatedly hitting ourselves in the thumb.
+We must know which tool we need before taking it out and using it. As innovators, we must be wary of [Maslow’s hammer](https://en.wikipedia.org/wiki/Law_of_the_instrument), and understand which research/experimental method or technique we need so  we don't end up repeatedly hitting ourselves in the thumb.
 
 The index for navigating this book is not alphabetical, chronological, or ontological. The index is ordered by what you’re trying to learn. Are you trying to learn about your customer? How to price your product? What will make your users come back?
 

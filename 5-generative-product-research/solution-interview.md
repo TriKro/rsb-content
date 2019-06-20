@@ -1,12 +1,12 @@
 # Solution Interview
 
-![](../.gitbook/assets/illustration-solution-interview.png)
+![](../.gitbook/assets/illustration-solution-interview-real-startup-book.png)
 
 ## Solution Interview
 
 ### In Brief
 
-The solution interview builds on your research about the problem and proposes a solution, in order to see how potential customers react. Solution interviews result in qualitative feedback from users or prospects about the product, when presented with the product or a prototype. Use a “demo” to help customers understand your solution and confirm that it will solve their problem.
+The solution interview builds on your research around the problem and proposes a solution to see how potential customers react. Solution interviews result in qualitative feedback from users or prospects about the product when presented with the product or a prototype. Use a “demo” to help customers understand your solution and confirm that it will solve their problem.
 
 ### Helps Answer
 
@@ -38,9 +38,9 @@ The primary goals of solution interviews are to:
 * Define the minimum features needed to solve a previously identified problem.
 * Have a found price the customer is willing to pay \(to check that you can build a business around it\).
 
-For smaller $ value products, you may want to perform some kind of a smoke test instead. A solution interview is a useful way to prepare a smoke test or to understand why a smoke test didn't pass your research hypothesis.
+For smaller dollar-value products, you may want to perform some kind of a smoke test instead. A solution interview is a useful way to prepare a smoke test or to understand why a smoke test didn't pass your research hypothesis.
 
-For a larger $ value product, the solution interview may feel like a consultative sale. Nonetheless, it's primarily a research tool to help adjust or customize a product to real customer needs.
+For a larger dollar-value product, the solution interview may feel like a consultative sale, but it's primarily a research tool to help adjust or customize a product to real customer needs.
 
 Like other types of customer interviews, solution interviews are best done in pairs. One person takes notes during the interview. The other actually asks the questions and focuses on building rapport with the user.
 
@@ -49,13 +49,13 @@ Like other types of customer interviews, solution interviews are best done in pa
 This is similar to initial customer discovery/problem interviews.
 
 * Rounds of interviews to test one hypothesis can range from 5 to 100 interviews. 
-* Actual interviews last anywhere from 5 minutes, for consumer products tested using "man on the street" interviews, to 2 hours, for detailed B2B requirements gathering. 
-* Time costs can be significant, in terms of recruiting appropriate interviewees, particularly ones who currently have the problem you want to solve and who are in the target segment.
-* Financial costs: Depending on context, you can offer gift certificates or a symbolic gift if you feel it's appropriate \(e.g. in a B2B scenario\).
+* Actual interviews last anywhere from 5 minutes for consumer products tested using "man on the street" interviews, to 2 hours for detailed B2B requirements gathering. 
+* Time costs can be significant in terms of recruiting appropriate interviewees, particularly ones who currently have the problem you want to solve and who are in the target segment.
+* Financial costs: Depending on context, you can offer gift certificates or a symbolic gift if you feel it's appropriate \(such as in a B2B scenario\).
 
 #### How To
 
-Determine what you want to learn before conducting interviews, and formulate a research hypothesis.
+Determine what you want to learn before conducting interviews and formulate a research hypothesis.
 
 1. Greet the user/prospect.
 2. Confirm that they fit all of your criteria and that they have the problem you currently want to solve.
@@ -63,9 +63,9 @@ Determine what you want to learn before conducting interviews, and formulate a r
 4. Reflect/reconfirm the problem back to the customer.
 5. Propose/demo a specific solution.
 6. Optionally discuss pricing, particularly relative to alternative products.
-7. Ask "what you need to do to make progress?"
+7. Ask "what do you need to do to make progress?"
 8. Get permission to follow up and/or for referrals.
-9. Document your results, ideally a small A6 notepad that fits in your pocket if you are out on the street.
+9. Document your results, ideally on a small A6 notepad that fits in your pocket if you are out on the street.
 
 #### Interpreting Results
 
@@ -73,10 +73,10 @@ Use the solution interview to plan the initial feature set of your product and d
 
 #### Potential Biases
 
-* Leading questions: “Do you usually add products to the cart or use the one-click-purchase?” miss the opportunity to actually learn how the user uses Amazon
+* Leading questions such as “Do you usually add products to the cart or use the one-click-purchase?” misses the opportunity to actually learn how the user uses Amazon.
 * Allow the user to tell you what they think the product does and what it could do. 
-* Give the user something to react to, rahter than making them imagine how the product makes them feel.
-* Be certain you are interviewing the right user, i.e. someone who is currently seeking out a product like the one you are making. 
+* Give the user something to react to, rather than making them imagine how the product makes them feel.
+* Be certain you are interviewing the right user, someone who is currently seeking out a product like the one you are making. 
 
 #### Field Tips
 

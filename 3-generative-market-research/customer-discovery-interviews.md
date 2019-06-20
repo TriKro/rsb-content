@@ -6,7 +6,7 @@
 
 ### In Brief
 
-Customer discovery interviews are conducted with potential customers to gain insight into their perspective, pain points, purchasing habits, and so forth. Interviews also generate empathy between the customer and the entrepreneur to aid the design and ideation process. The best interviews help narrow down the target market and provide a deep understanding of what causes a market need and the underlying psychology of the customer.
+Customer discovery interviews are conducted with potential customers to gain insight into their perspective, pain points, purchasing habits, and so forth. Interviews also generate empathy between the customer and the entrepreneur to aid the design and ideation process. The best interviews help narrow the target market and provide a deep understanding of what causes a market need, and of the underlying psychology of the customer.
 
 ### Helps Answer
 
@@ -28,11 +28,11 @@ Customer discovery interviews are conducted with potential customers to gain ins
 
 Typical rounds of customer discovery interviews require at least five separate interviews with individual customers, but some entrepreneurs advocate doing as many as 100 before drawing a conclusion.
 
-The time commitment can entail as little as 15 minutes per interview for consumer products to a 2 hour conversation for B2B sales.
+The time commitment can entail as little as 15 minutes per interview for consumer products, to a two hour conversation for B2B sales.
 
-The most significant investment of time can be in recruiting interviewees, which can again vary from a 5 minute walk to the local coffeeshop to a lengthy cold outreach program via LinkedIn, in the case of an entrepreneur with no market access into a highly specialized vertical.
+The most significant investment of time can be in recruiting interviewees, which can again vary from a five minute walk to the local coffeeshop to a lengthy cold outreach program via LinkedIn \(in the case of an entrepreneur with no market access into a highly specialized vertical\).
 
-Costs are typically zero or very low. In many cases, interview subjects are offered a gift certificate for their time that can be anywhere from $5 USD to $50 USD.
+Costs are typically zero or very low. In many cases, interview subjects are offered a gift certificate for their time that can be anywhere from $5 to $50 USD.
 
 #### How To
 
@@ -40,24 +40,22 @@ Costs are typically zero or very low. In many cases, interview subjects are offe
 
 1. Define the learning goal for the interviews.
 2. Define key assumptions about the customer persona.
-3. Create a screener survey of simple questions that will identify if the potential interviewee matches our target customer persona. Here’s an article on screener questions from Alexander Cowan for reference.
-4. Make an interview guide. Note that it should not be a strictly followed script. If you don’t know where to start, check out some questions from Justin Wilcox or Alexander Cowan.
+3. Create a screener survey of simple questions that will identify if the potential interviewee matches our target customer persona. Here’s an [article](https://www.alexandercowan.com/customer-discovery-handbook/) on screener questions from Alexander Cowan for reference.
+4. Make an interview guide. Note that it should not be a strictly followed script. If you don’t know where to start, check out some questions from [Justin Wilcox](https://customerdevlabs.com/2013/11/05/how-i-interview-customers/) or [Alexander Cowan](https://www.alexandercowan.com/customer-discovery-handbook/). Something like this:
 
-_Something like this:_
-
-* What's the hardest part about \[problem context\]?
-* Can you tell me about the last time that happened?
-* Why was that hard?
-* What, if anything, have you done to solve that problem?
-* What don't you love about the solutions you've tried?
-* Prepare a handy template to put your notes in afterwards or check on the tools to record your interview \(first check legal restrictions that may apply to recordings\).
-* Prepare any thank you gifts, e.g., gift cards.
+* `What's the hardest part about [problem context]?`
+* `Can you tell me about the last time that happened?`
+* `Why was that hard?`
+* `What, if anything, have you done to solve that problem?`
+* `What don't you love about the solutions you've tried?`
+* `Prepare a handy template to put your notes in afterwards or check on the tools to record your interview (first check legal restrictions that may apply to recordings).`
+* `Prepare any thank you gifts, e.g., gift cards.`
 
 **Conduct the Interview**
 
 1. _Frame_: Summarize the purpose of the interview with the customer.
 2. _Qualify_: Ask a screener question to determine if the customer is relevant to your customer persona.
-3. _Open_: Warm up questions get the customer comfortable talking. 
+3. _Open_: Warm-up questions get the customer comfortable talking. 
 4. _Listen_: Let the customer talk and follow up with “what” and “how” questions.
 5. _Close_: Wrap up the interview and ask for referrals, or if applicable, a follow-up interview.
 
@@ -81,7 +79,7 @@ Are you able to listen and record data based on the following?
 
 #### Potential Biases
 
-* _Confirmation bias_**:** The interviewer can be prompted to sell his/her vision in case the interviewee's vision differs drastically. The interviewee feels compelled out of sympathy to adjust answers to the interviewer’s expectations.
+* _Confirmation bias_**:** **The interviewer can be prompted to sell their vision in case the interviewee's vision differs drastically. The interviewee feels compelled out of sympathy to adjust answers to the interviewer’s expectations.**
 * _Order bias_**:** Sometimes the order in which you ask questions can affect the answers you get. Try to run questions in a different order in different interviews.
 
 ### Field Tips

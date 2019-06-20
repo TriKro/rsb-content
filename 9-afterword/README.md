@@ -19,7 +19,7 @@ This book is not done, nor will it ever be. We learn faster together.
 
 * Have you come up with a new method?
 * Got a new tip?
-* Do you want to share a case study of how you used the techniques in this book so that the community can learn from your experience?
+* Do you want to share a case study of how you used the techniques in this book so the community can learn from your experience?
 
 Let us know by emailing [realbook@kromatic.com](mailto:realbook@kromatic.com).
 

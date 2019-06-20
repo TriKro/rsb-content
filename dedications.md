@@ -2,7 +2,7 @@
 
 _To everyone_
 
-_that has ever failed_
+_who has ever failed_
 
 _and had the audacity_
 

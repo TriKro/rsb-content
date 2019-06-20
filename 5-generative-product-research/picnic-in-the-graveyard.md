@@ -6,7 +6,7 @@
 
 ### In Brief
 
-This technique involves exploring "near miss" failures similar to your product idea, in order to generate ideas about what to test and how to build a business model that could work this time.
+This technique involves exploring "near miss" failures similar to your product idea to generate ideas about what to test and how to build a business model that could work in a second attempt.
 
 ### Helps Answer
 
@@ -28,22 +28,22 @@ This technique involves exploring "near miss" failures similar to your product i
 
 Sean Murphy described it best: "Do research on what’s been tried and failed. Many near misses have two out of three values in a feature set combination correct \(some just have too many features and it’s less a matter of changing features than deleting a few\). If you are going to introduce something that’s “been tried before” be clear in your own mind what’s different about it and why it will make a difference to your customer."
 
-The goal of this technique is to identify a unique way to angle a product, so that you avoid a previously committed error. You will be introducing the idea at a later time, which will be to your benefit; however, it's likely that previous failures will have useful feedback for you.
+The goal of this technique is to identify a unique way to angle a product, so that you avoid a previously committed error. You will be introducing the idea at a later time, which will be to your benefit, but it's likely that previous failures will provide you with useful feedback.
 
-With this technique, you are aiming to construct a fuller picture of what's been tried in the past, in order to identify potential landmines. This helps navigate a similar space, but with the benefit of the previous founders' experience. It may help generate ideas on the product side, e.g., in terms of feature set. It may also help generate ideas about targeting to a different market segment, or any of the 10 other pivots in Eric Reis' _The Lean Startup_.
+With this technique, you are aiming to construct a fuller picture of what's been tried in the past to identify potential landmines. This helps navigate a similar space, but with the benefit of the previous founders' experience. It may help generate ideas on the product side, such as in terms of feature set. It may also help generate ideas about targeting to a different market segment, or any of the ten other pivots in Eric Reis' _The Lean Startup_.
 
 #### Time Commitment
 
-* Desk research: 1-2 days
-* Customer development: similar to customer discovery interviews
-* Founder interviews: It depends on how difficult it is to find contact details for former founders. It is probably a good idea to timebox contact detail searches. Actual timebox size will depend on how useful/helpful you think advice would be from that founder. For example, choose a timebox of one day per founder, if there were a few startups similar to yours. After that, it's similar to customer discovery interviews.
+* Desk research: 1-2 days.
+* Customer development: Similar to customer discovery interviews.
+* Founder interviews: It depends on how difficult it is to find contact details for former founders. It is probably a good idea to timebox contact detail searches. Actual timebox size will depend on how useful/helpful you think advice would be from that founder. For example, choose a timebox of one day per founder if there were a few startups similar to yours. After that, it's similar to customer discovery interviews.
 
 #### How To
 
-1. Perform some desk research \(Google, etc.\) to identify previous attempts at entering a similar market with a similar product to your product/product idea. Depending on the idea type, you may also find it useful to ask your local librarian if they can help you find relevant case studies. 
-2. Use social media platforms to seek out customers of these previous companies. Look for "Likes" on Facebook of the product/company name. Look for old tweets mentioning the company, etc. 
-3. Reach out and contact these previous customers, and interview them. Do both problem and solution interviews. Find out what they liked and disliked about the previous company. 
-4. Then try to find the founders or project/product leads if at a big company, and interview them about their experiences. 
+1. Perform some desk research \(such as Google\) to identify previous attempts at entering a similar market with a similar product to your product/product idea. Depending on the idea type, you may also find it useful to ask your local librarian if they can help you find relevant case studies. 
+2. Use social media platforms to seek out customers of these previous companies. Look for "Likes" of the product/company name on Facebook, or old tweets mentioning the company. 
+3. Reach out and contact these previous customers and interview them. Do both problem and solution interviews. Find out what they liked and disliked about the previous company. 
+4. Then try to find the founders or project/product leads if at a big company and interview them about their experiences. 
 
 #### Interpreting Results
 
@@ -51,7 +51,7 @@ This is a wonderful technique to generate a lot of ideas in an area you are alre
 
 #### Potential Biases
 
-Overconfidence: could prevent you from using the technique
+Overconfidence: Could prevent you from using the technique.
 
 Dismissing it too quickly: On the other side, exploring the reasons why others failed can make you doubt an idea too much if you can't find a unique angle to test the idea.
 

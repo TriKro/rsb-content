@@ -6,7 +6,7 @@
 
 There are many great methods, books, and frameworks out there on how to identify and prioritize risky assumptions, hypotheses, and questions.
 
-All the methods are tagged so that they are easily searchable depending on any other frameworks we might use. This includes simple tags such as _qualitative_ or _quantitative_, which are used to denote the type of information that the method produces.
+All the methods in this book are tagged so they are easily searchable depending on any other frameworks we might use. This includes simple tags such as _qualitative_ or _quantitative_, which are used to denote the type of information the method produces.
 
 It also includes tags related to the type of business model, such as:
 
@@ -35,5 +35,5 @@ For example, if the customer is the biggest risk to our customer segment, then w
 * Surveys \(close-ended\)
 * Focus groups
 
-This won’t differentiate between generative research and evaluative experiments, so you’ll still need to take that extra step.
+This search won’t differentiate between generative research and evaluative experiments, so you’ll still need to take that extra step.
 

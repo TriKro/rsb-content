@@ -1,6 +1,6 @@
 # Contextual Inquiry
 
-![](../.gitbook/assets/illustration-half-figures-painter-contextual-inquiry.png)
+![](../.gitbook/assets/illustration-contextual-inquiry-real-startup-book.png)
 
 ## Contextual Inquiry
 
@@ -32,7 +32,7 @@ Contextual inquiry is a combination of semi-structured interviews and observatio
 
 #### Time Commitment and Resources
 
-Contextual inquiry can be very expensive depending on the proximity to the customer and the frequency of their problem. In some cases, the problem is unpredictable and a lot of time can be spent either waiting for the problem to occur or simulating an occurrence.
+Contextual inquiry can be very expensive depending on the proximity to the customer and the frequency of their problem. In some cases, the problem is unpredictable and a lot of time can be wasted either waiting for the problem to occur or simulating an occurrence.
 
 Expect to spend at least one hour per customer with a minimum of five customers, and two hours to debrief.
 
@@ -68,7 +68,7 @@ It is helpful to have already conducted customer discovery interviews and have b
 
 A number of debriefing methods, such as affinity diagramming, card sorting, or creating jobs to be done can be used after reviewing recordings or notes.
 
-Since the data is primarily qualitative and sample sizes are small, researchers must be careful not to extrapolate a pattern of behavior to the entire population but can usually synthesize a clear hypothesis for further evaluative testing methods.
+Since the data is primarily qualitative and sample sizes are small, researchers must be careful not to extrapolate a pattern of behavior to the entire population, but they can usually synthesize a clear hypothesis for further evaluative testing methods.
 
 #### Potential Biases
 
@@ -81,7 +81,7 @@ Since the data is primarily qualitative and sample sizes are small, researchers 
 
 ### Case Studies
 
-* [Lucky Iron Fish: The founder arrived at his solution after he was immersed in the people he was solving a problem for and their culture](https://www.youtube.com/watch?v=M66ZU2PCIcM).
+* [Lucky Iron Fish: The founder arrived at his solution after he immersed himself in the people he was solving a problem for and studied their culture](https://www.youtube.com/watch?v=M66ZU2PCIcM).
 * [Shopping Cart: A perfect example of how you can build better products when you are in contact with customers and build the product in parallel to customer development](https://www.youtube.com/watch?v=M66ZU2PCIcM).
 * [Fast Food Milkshake example by Clayton Christensen](https://www.youtube.com/watch?v=f84LymEs67Y)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)

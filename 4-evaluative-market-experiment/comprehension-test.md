@@ -6,7 +6,7 @@
 
 ### In Brief
 
-A comprehension test will evaluate whether the customer understands the marketing message explaining the value proposition. This eliminates a possible false negative bias on smoke tests where the customer indicates they do not want the value proposition when they actually do not understand it.
+A comprehension test will evaluate whether or not the customer understands the marketing message explaining the value proposition. This eliminates a possible false negative bias on smoke tests where the customer indicates they do not want the value proposition when actually they do not understand it.
 
 ### Helps Answer
 
@@ -44,8 +44,8 @@ Take note: if many of the participants use identical language to explain the val
 
 #### Potential Biases
 
-* Confirmation Bias: Overly enthusiastic entrepreneurs will sometimes over explain, correct, or nonverbally prompt the participant with the correct answer.
-* Invalid Target Audience: Participants do not need to be the target customers, but they must have the same level of language and vocabulary as the target customer, e.g., a junior marketing manager can be used instead of a chief marketing officer.
+* Confirmation Bias: **Overly enthusiastic entrepreneurs will sometimes over-explain, correct, or nonverbally prompt the participant with the correct answer.**
+* Invalid Target Audience: Participants do not need to be the target customers, but they must have the same level of language and vocabulary as the target customer \(e.g., a junior marketing manager can stand in for a chief marketing officer\).
 * False Negative: When using online surveys such as FiveSecondTest, the distractions of an online test can often result in a higher than normal failure rate.
 
 #### Field Tips

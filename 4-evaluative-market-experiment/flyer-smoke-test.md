@@ -29,13 +29,13 @@ Flyers are effectively product or service descriptions printed on a graphically 
 
 They are most useful as smoke tests for founders or product people in the early stages of a product idea.
 
-In the smoke test scenario, the product does not exist in its full form. As a result it is possible to test different messaging and value propositions on the flyer.
+In the smoke test scenario, the product does not exist in its full form, so it is possible to test different messaging and value propositions on the flyer.
 
-If you are in a B2B sales scenario, the business relationship is very important. In such markets, there are usually just a handful of heterogenous clients that individually could ultimately make a very large purchase. This factor significantly influences the testing process.
+If you are in a B2B sales scenario, the business relationship is very important. In such markets, there are usually just a handful of heterogenous clients that individually could make a very large purchase. This factor significantly influences the testing process.
 
 #### Time Commitment
 
-* Depends on your design skills and abilities: a few hours
+* Depends on your design skills and abilities, but likely a few hours
 * Or hire a designer to create one
 * Distribution: 1-2 days
 
@@ -49,15 +49,16 @@ If you are in a B2B sales scenario, the business relationship is very important.
 6. Add body copy that describes the product/service.
 7. Add bullet points.
 8. Include a very clear call-to-action that is easy to see.
-9. Choose pictures, graphics, or visualizations to get your point across visually.
-10. Once you are finished designing it, put it up and look at it from a distance \(5 m away or across the room\).
-11. Optionally ask someone else to proofread and give feedback on the flyer.
+9. Choose pictures, graphics, or other visualizations to get your point across.
+10. Once you are finished designing it, put it up and look at it from a distance \(five meters away or across the room\).
+11. Optionally, ask someone else to proofread and give feedback on the flyer.
 12. You may want to run a comprehension test of some kind \(to confirm your message is clear\).
 13. Print and distribute your flyer.
 
 Tools:
 
 * Canva
+* Figma
 * Smore.com
 * Adobe Illustrator
 * MS Publisher
@@ -67,7 +68,7 @@ Tools:
 
 For a B2C idea, the primary metric that will often be useful is customer acquisition cost \(CAC\).
 
-CAC = Total cost of flyer production/number of conversions \(inquiries\)
+CAC = Total cost of flyer production/number of conversions \(inquiries\).
 
 For a B2B/enterprise idea, causing some kind of a specific response in your prospect should be the measure. Often this is subjective, as the sales process for a new B2B product tends to be discovered as you are creating it.
 
@@ -78,7 +79,7 @@ For a B2B/enterprise idea, causing some kind of a specific response in your pros
 
 #### Field Tips
 
-* Use insights and language from customer development when crafting your first flyer @LaunchTomorrow.
+* "Use insights and language from customer development when crafting your first flyer" @LaunchTomorrow.
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

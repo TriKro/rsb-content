@@ -8,11 +8,9 @@ Do we have a clear hypothesis to _evaluate_ or do we need to _generate_ a clear 
 
 > _“Our customers really want our product.”_
 
-This hypothesis is bad for a number of reasons. The most obvious is that it’s tautologically correct and not worth investigating. If they are our customers, then they have already purchased our product, and that is a good sign they actually want it.
+This hypothesis is bad for a number of reasons. The most obvious is that it’s tautologically correct -- if they are already our customers, then they've already proven they want our product --  which means it is not worth investigating further.
 
-It is roughly equivalent to, “If the piece of paper is flammable, it will burn when ignited.”
-
-Yet these types of flawed hypotheses are common. Here is a slightly more subtle example:
+This type of flawed hypothesis is common. Here is a more subtle example:
 
 > _“If 250 Los Angeles teachers were asked to treat minority students with more respect, then at least 50 teachers would do so.”_
 
@@ -20,19 +18,19 @@ While not as flawed as the first example, it has fundamental problems that would
 
 In this case, several things are unclear:
 
-* Which teachers? Teachers at schools with a number of minority students? How many minority students are sufficient for this test?
-* How should we ask the teachers? Will we ask each teacher differently? Will we let the principals ask them?
-* What is respect in this context? Which behaviors would indicate “more respect”?
+* Which teachers? Teachers at schools with a high percentage of minority students? What percentage is sufficient for this test?
+* How would we ask the teachers? Would we ask each teacher differently? Would we let the principals ask them?
+* What is _respect_ in this context? Which behavior changes would indicate “more respect”?
 
 Without defining the hypothesis very clearly, we might let the principals of schools ask the teachers on our behalf, and they might ask them with varying degrees of persuasiveness.
 
-We might also argue about the results. Is calling a student “Mr.” instead of their first name a sign of respect or a sign of sarcasm?
+We might also argue about the results. Is calling a student “Mr.” or "Ms." instead of by their first name a sign of respect or a sign of sarcasm?
 
-When we do not have a clear, well-defined, and falsifiable hypothesis we are best served by doing generative research instead of an experiment. In this case, our learning goal could be “Which teacher behaviors indicate teacher respect to minority students?”
+When we do not have a clear, well-defined, and falsifiable hypothesis, we are better served by doing generative research instead of conducting an experiment. In this case, our learning goal could be “Which teacher behaviors indicate teacher respect to minority students?”
 
-Given this goal, we are better off doing customer discovery interviews \(a.k.a. speaking to the students\) rather that testing our vague hypothesis. The outcome of the generative research should be a clear, well-defined, and falsifiable hypothesis that we can go and test with an evaluative experiment.
+Given this goal, we are better off doing customer discovery interviews \(in this case, speaking to the students\) rather that testing our vague hypothesis. The outcome of the generative research should be a clear, well-defined, and falsifiable hypothesis that we can then test with an evaluative experiment.
 
-Defining good hypotheses can be a challenge, so here are some things to look for and a short checklist.
+Defining good hypotheses can be a challenge, so here is a short checklist of points to consider.
 
 ### **Simple and Unambiguous**
 
@@ -40,13 +38,13 @@ The hypothesis should be clear and unambiguous so that anyone reading it will un
 
 > _“If 250 Los Angeles teachers were asked to treat minority students with more respect, then at least 50 teachers would do so.”_
 
-In this case, we may have different opinions as to what “respect” means. In order for us to agree that someone is being treated with “more respect,” we must agree on which behaviors would indicate respect.
+In this case, we may have different opinions on what “respect” means. For us to agree that someone is being treated with “more respect,” we must agree on which behaviors would indicate respect.
 
-> _“If 250 Los Angeles teachers were asked to treat minority students with more respect, then at least 50 teachers would refer to their students using an honorific.”_
+> _“If 250 Los Angeles teachers were asked to treat minority students with more respect, then at least 50 teachers would begin addressing their students with an honorific.”_
 
-While this is more specific, not everyone knows what an honorific is, so we should avoid using any specialized vocabulary or jargon.
+While this is more specific, not everyone knows what an honorific is \(in this case, Mr. or Ms.\), so we should avoid using any specialized vocabulary or jargon.
 
-> _“If 250 Los Angeles teachers were asked to treat minority students with more respect, then at least 50 teachers would call their students using ‘Mr./Ms.’ and their last name instead of their first name.”_
+> _“If 250 Los Angeles teachers were asked to treat minority students with more respect, then at least 50 teachers would begin addressing their students by ‘Mr./Ms.’ and their last name instead of their first name.”_
 
 ### Measurable
 
@@ -64,9 +62,9 @@ This new hypothesis has some other issues, but it is at least observable.
 
 This again may be true and it is observable, but it doesn’t tell us anything about the cause of the low grades. A good hypothesis should allow us to change one thing and observe the effect in another.
 
-> _“Students at Dalton High School that study less than four hours a week get a C or lower in at least one class per year.”_
+> _“Students at Dalton High School that study fewer than four hours a week get a C or lower in at least one class per year.”_
 
-There are still other issues, but the hypothesis must relate two or more variables to each other.
+There are other issues with this hypothesis, but at least it relates two or more variables to each other.
 
 ### Cause and Effect
 
@@ -74,11 +72,11 @@ There are still other issues, but the hypothesis must relate two or more variabl
 
 This is a true statement, but it does not tell us how those two variables relate to one another. Are people drowning because they ate too much ice cream? Or are they eating more ice cream because they are sad about the drownings?
 
-> _“During the summer, people who eat ice cream will drown at a higher rate than people who do not eat ice cream.”_
+> _“During the summer, people who eat ice cream before swimming will drown at a higher rate than people who do not eat ice cream.”_
 
-This specifies a clear relationship and the causal direction of that relationship. Simply using an IF \_\_\_\_\_\_\_, THEN \_\_\_\_\_\_\_ sentence structure can help make sure cause and effect are apparent.
+This specifies a clear relationship and the causal direction of that relationship. Simply changing the sentence to an IF \_\_\_\_\_\_\_, THEN \_\_\_\_\_\_\_ structure can make the cause and effect relationship even more apparent:
 
-> _“If we feed ice cream to people, then the average \# of drownings per day will increase.”_
+> _“If we feed ice cream to people before they swim, then the average number of drownings per day will increase.”_
 
 ### Achievable
 
@@ -86,9 +84,9 @@ This specifies a clear relationship and the causal direction of that relationshi
 
 There are many theoretical physicists who create a number of hypotheses that are not testable now but may be testable in the future. While this black hole/astronaut hypothesis is theoretically testable, it is not testable today.
 
-Unfortunately, as entrepreneurs, we should restrict our hypotheses to ones that can be tested within the immediate future or within our current resources.
+Unfortunately, as entrepreneurs, we should restrict our hypotheses to ones that can be tested in the immediate future and with our current resources.
 
-_Many things seem untestable today but clever application of lean thinking can simplify the hypothesis into a testable first step._
+_Many things seem untestable today, but clever application of lean thinking can simplify the hypothesis into a testable first step._
 
 ### Falsifiable
 
@@ -110,7 +108,7 @@ The entire sentence is _not_ the hypothesis. Let’s break this into its parts:
 
 > _We believe ..._
 
-That section just confirms we think the hypothesis is _correct_. It is not part of the hypothesis, and there are many situations where we may test a hypothesis that we believe is _incorrect_.
+This section just confirms that we think the hypothesis is _correct_. It is not part of the hypothesis, and there are many situations where we may test a hypothesis that we believe is _incorrect_.
 
 > _...**&lt;this capability&gt;** will result in **&lt;this outcome&gt;**..._
 
@@ -118,5 +116,5 @@ That is the hypothesis.
 
 > _... we will know we have succeeded when **&lt;we see a measurable signal&gt;**_
 
-That is the data we will collect including any information about sample size, margin of error, success conditions, or fail criteria.
+That is the data we will collect, including any information about sample size, margin of error, success conditions, or fail criteria.
 

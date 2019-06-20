@@ -1,14 +1,14 @@
 # Competitor Usability Testing
 
-![](../.gitbook/assets/illustration-competitor-usability-testing.png)
+![](../.gitbook/assets/illustration-competitor-usability-testing-real-startup-book.png)
 
 ## Competitor Usability Testing
 
 ### In Brief
 
-Competitor usability testing is observing our target market use a competitor’s products or services to gain insights on the mindset of the user, common issues, and potential improvements in our own product. In some cases, the need for an entirely new product can be revealed. In other cases, we can gain insights on what parts of a competitor product are unnecessary.
+Competitor usability testing is observing our target market using a competitor’s products or services to gain insights on the mindset of the user, common issues, and potential improvements in our own product. In some cases, this can reveal the need for an entirely new product. In other cases, we can gain insights on what parts of a competitor product are unnecessary.
 
-This is almost identical but not to be confused with Competitive usability testing, which tests an existing product against existing competitors to establish which product is “winning.”
+This is almost identical to -- but not to be confused with -- competitive usability testing, which tests an existing product against existing competitors to establish which product is “winning.”
 
 See also Usability Testing.
 
@@ -25,11 +25,11 @@ See also Usability Testing.
 
 ### Description
 
-The process of conducting competitor usability tests is the same as when testing our own product. However in this case we apply the same methodology to a different purpose by testing our competitor’s products or substitute goods.
+The process of conducting competitor usability tests is the same as when testing our own product. In this case we apply the same methodology to a different purpose by testing our competitor’s products or substitute goods.
 
-Where usability testing is an evaluative test of our own product and seeks to verify that the product functions sufficiently to deliver the value proposition, competitor usability testing is a generative method intended to create potential ideas for a solution.
+Where usability testing is an evaluative test of our own product and seeks to verify that the product functions sufficiently to deliver the value proposition, competitor usability testing is a generative method intended to create ideas for a potential solution.
 
-For example, to generate ideas on how to create a better U.S. tax experience, we could conduct usability testing on tax preparation in Sweden or India. The results and observations would not tell us whether the U.S. tax experience is good \(it is not\), but it may give us ideas around whether or not to improve the comprehensibility of the tax code, the tax submission process, the tax rules themselves, etc.
+For example, to generate ideas on how to create a better U.S. tax experience, we could conduct usability testing on tax preparation in Sweden or India. The results and observations would not tell us whether the U.S. tax experience is good \(it is not\), but it may give us ideas around whether or not to improve the comprehensibility of the tax code, the tax submission process, or the tax rules themselves.
 
 #### Time Commitment
 
@@ -37,17 +37,17 @@ See Usability Testing
 
 #### How To
 
-See Usability Testing but use a competitor’s products or a substitute good. For maximum idea generation, use different products.
+See Usability Testing, but use a competitor’s products or a substitute good. For maximum idea generation, use different products.
 
 #### Interpreting Results
 
-Any results should be taken as generative and not evaluative. In addition, any ideas generated tend to be highly unstructured and piecemeal. So they must be properly integrated in a viable solution.
+Any results should be taken as generative rather than evaluative. Ideas generated tend to be highly unstructured and piecemeal, so they must be properly integrated in a viable solution.
 
 Before building a solution, any ideas should be tested via alternative generative product research methods such as solutions interviews or concierge testing.
 
 #### Field Tips
 
-* “Don’t reinvent the wheel, figure out what’s wrong with walking to begin with.” - @TriKro
+* “Don’t reinvent the wheel -- figure out what’s wrong with walking.” - @TriKro
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

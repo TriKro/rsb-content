@@ -24,14 +24,14 @@ You can use an event to smoke test a problem, and to some extent, content that i
 
 ### Description
 
-Organizing an event speeds up your validated learning by scaling it up one step above one-to-one interviews. The goal is to create a safe and fun environment for your target prospects, in order to confirm what you've learned from individual problem and solution interviews.
+Organizing an event speeds up your validated learning by scaling it one step above one-to-one interviews. The goal is to create a safe and fun environment for your target prospects to confirm what you've learned from individual problem and solution interviews.
 
 An event allows you to create a product for your target market. By organizing one, you need to figure out how to reach your target market, what to say exactly, and how to create an experience that they find useful, pleasant, or inspiring.
 
 The choice of format can vary widely:
 
-* Lecture by one or a few authorities
-* Peer-to-peer events like an unconference \(e.g. LeanCamp\)
+* Lecture by one or several authorities
+* Peer-to-peer events like an unconference \(e.g., LeanCamp\)
 * Smaller and more intimate events like a LeanCoffee structure
 * Gameshow style 
 * Trip together
@@ -39,13 +39,13 @@ The choice of format can vary widely:
 * Networking or drinks 
 * Conference \(online or offline\)
 * Webinars
-* Live video streaming \(e.g. Facebook\)
+* Live video streaming \(e.g., Facebook\)
 
 This type of smoke test is easiest to organize in a larger city, where there are already lots of events and people. Even though an event focuses on your target clients in one location, it can be used to establish a more in-depth relationship, giving you much more information than interacting online.
 
 Events themselves are attractive as a low upfront investment product. They can be considered valuable content. They can be used as a source of highly qualified leads \(or a way to test a channel\), leading into an upsell or presell of a different product/service.
 
-Because an event is a mini-product in and of itself, it can be used to test a number of different hypotheses around related business models. Most frequently, events help with scaling up exploratory customer discovery. They help the most with exploring customers and problems. They can also be combined with other techniques, like basic landing page smoke tests \(with a minimum audience size to confirm there is enough interest in the audience\). Also they can be considered or combined with a concierge MVP, where the event is combined with delivering a service.
+Because an event is a mini-product in and of itself, it can be used to test a number of different hypotheses around related business models. Most frequently, events help with scaling up exploratory customer discovery. They help the most with exploring customers and problems. They can also be combined with other techniques, like basic landing page smoke tests \(with a minimum audience size to confirm there is enough interest in the audience\), or combined with a service, such as concierge MVP.
 
 #### Time Commitment
 
@@ -65,7 +65,7 @@ Breaks during the event are critical. They give participants time to network, go
 
 #### Interpreting Results
 
-Because you can use events to prove many kinds of hypotheses, it's critical to be clear what you want to learn and why it's important for you--before you start organizing the event. As long as there is a clear cutoff value formulated upfront, you will find it easy to use events as a source of validation.
+Because you can use events to prove many kinds of hypotheses, it's critical to be clear what you want to learn and why it's important to you before you start organizing the event. As long as there is a clear cutoff value formulated upfront, you will find it easy to use events as a source of validation.
 
 #### Potential Biases
 
@@ -74,7 +74,7 @@ If using events specifically as smoke tests, you don't want to oversell the even
 * High-pressure in-person sales techniques 
 * Sales tactics on your event description with lots of scarcity and "CRO best practices"
 
-You won't know if you are getting a clear indicator there is high demand, or if you are just a good salesperson.
+You won't know if you are getting a clear indicator that there is high demand, or just proof that you are a good salesperson.
 
 #### Field Tips
 

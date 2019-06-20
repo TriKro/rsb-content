@@ -1,6 +1,6 @@
 # Preface
 
-![](../.gitbook/assets/illustration-sharing-ideas-preface.png)
+![](../.gitbook/assets/illustration-preface-real-startup-book.png)
 
 ## Preface
 

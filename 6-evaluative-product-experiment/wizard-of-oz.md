@@ -1,6 +1,6 @@
 # Wizard of Oz
 
-![](../.gitbook/assets/illustration-wizard-of-oz.png)
+![](../.gitbook/assets/illustration-wizard-of-oz-real-startup-book.png)
 
 ## Wizard of Oz
 
@@ -21,11 +21,11 @@ The Wizard of Oz \(WOZ\) test involves one or more individuals simulating fully 
 
 ### Description
 
-The WOZ test is a well-known experiment from the 1970s. It involves one or more humans, so called wizards, who manually simulate the functionality of a product. However, the wizards are hidden so that the user does not know that someone is manually doing the work.
+The WOZ test is a well-known experiment from the 1970s. It involves one or more humans, so-called wizards, who manually simulate the functionality of a product. However, the wizards are hidden so that the user does not know that someone is manually doing the work.
 
 #### Time Commitment
 
-WOZ is not a "quick and dirty" prototyping method as it requires a high commitment of resources. Depending on the test there can be more than one wizard \(human\) interacting "behind the curtains" with the customers. The time commitment also heavily depends on the task domain and the number of users exposed to the product. For instance, categorizing images by a wizard \(human\) is easier and faster than transcribing voice for speech recognition. Hence the time commitment can vary from days to even several weeks.
+WOZ is not a "quick and dirty" prototyping method, as it requires a high commitment of resources. Depending on the test, there can be more than one wizard interacting "behind the curtains" with the customers. The time commitment also heavily depends on the task domain and the number of users exposed to the product. For instance, categorizing images by a wizard is easier and faster than transcribing voice for speech recognition. Hence the time commitment can vary from days to several weeks.
 
 #### How To
 
@@ -40,8 +40,8 @@ The WOZ test can provide valuable information, especially quantitative data. We 
 
 #### Potential Biases
 
-* Sampling bias: See concierge test
-* Confirmation bias: See concierge test
+* Sampling Bias: See concierge test
+* Confirmation Bias: See concierge test
 
 #### Field Tips
 
@@ -65,7 +65,9 @@ The WOZ test can provide valuable information, especially quantitative data. We 
 * [GrasshopperHerder: What Type of Lean Startup Experiment Should I Run?](https://grasshopperherder.com/what-type-of-lean-startup-experiment-should-i-run/)
 * [Roskilde University—Centre for Cognitive Science: Wizard of Oz Prototyping: When and How?](http://www.spokendialogue.dk/Publications/1994i/WPCS-94-1-10.2.94.pdf)
 * [Y Combinator: The Wizard of Oz Approach](http://themacro.com/articles/2016/01/ask-yc-upfront-technical-investments/)
-* [Quora: What are the pros and cons of "Wizard of Oz testing"?](https://www.quora.com/What-are-the-pros-and-cons-of-Wizard-of-Oz-testing)
+* [Quora: What Are the Pros and Cons of "Wizard of Oz Testing"?](https://www.quora.com/What-are-the-pros-and-cons-of-Wizard-of-Oz-testing)
 * [Usability Net: Wizard of Oz](http://www.usabilitynet.org/tools/wizard.htm)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part6-evaluative_product_experiment/realbook@kromatic.com)
+
+
 

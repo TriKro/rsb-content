@@ -1,4 +1,6 @@
-# Who is This Book For?
+# Who Is This Book for?
+
+![](../.gitbook/assets/illustration-who-is-this-book-for-real-startup-book.png)
 
 If you’ve ever recognized a giant gap or unanswered question in your business model and had no idea how to go about filling it, this book is for you. You may be asking:
 
@@ -28,7 +30,7 @@ In particular, you should already buy into the idea that parts of your business 
 
 ## Innovation at Scale
 
-This book is particularly useful for those managing or assisting large numbers of innovation products. This includes job titles like:
+This book is particularly useful for those managing or assisting in the management of large numbers of innovation products. This includes job titles like:
 
 * Chief innovation officer
 * VP of innovation
@@ -37,17 +39,17 @@ This book is particularly useful for those managing or assisting large numbers o
 
 If you are in any of these positions, this book serves as a versatile and quick reference guide for almost any startup you’ll be dealing with. It can also be used to diagnose typical startup problems.
 
-It is also a Creative Commons project, which means you can use it as training material for your startups without any additional cost.
+This book is a Creative Commons project, which means you can use it as training material for your startups without any additional cost.
 
 ## Business Model
 
-This book is best used to answer questions about certain business model elements such as the _customer_, the _value proposition_, _channel_, _relationship_, and _revenue_. In other words, the critical elements in _product/market fit_.
+This book is best used to answer questions about certain business model elements, such as the _customer_, the _value proposition_, _channel_, _relationship_, and _revenue_. In other words, the critical elements in _product/market fit_.
 
-While many of the methods listed here can be used to investigate other business model elements such as _partners_ and _resources_, it may take some extra effort on the part of the reader.
+While many of the methods listed here can be used to investigate other business-model elements such as _partners_ and _resources_, it may take some extra effort on the part of the reader.
 
 ## Stage and Industry
 
-The methods here work fine for small, early-stage startups and equally fine for teams in large companies trying something new, risky, and outside the normal business model.
+The methods here work fine for small, early-stage startups, and equally fine for teams in large companies trying something new, risky, and outside the normal business model.
 
 These methods work for any industry, but there is a bias toward providing examples and case studies from the technology industry. Other industries will be included as case studies become available. Please send any case studies you'd like to include to [realbook@kromatic.com](mailto:realbook@kromatic.com).
 

@@ -1,6 +1,6 @@
 # Pocket Smoke Test
 
-![](../.gitbook/assets/illustration-pocket-smoke-test.png)
+![](../.gitbook/assets/illustration-pocket-smoke-test-real-startup-book.png)
 
 ## Pocket Smoke Test
 
@@ -33,12 +33,12 @@ This is a smoke test. Treat the prototype as a conversation piece. You are focus
 
 #### Time Commitment
 
-Varies significantly on the actual product. On the low end, it's easy to use mobile phone mockup software to show the average person on the street a mobile phone app prototype. This takes a few hours in the hands of a decent designer using software like InVision or Prototyping on Paper \(POP\).You can create a simulated version using simple materials like wood and plastic, to discuss form factors for instance. On the high end, it might take a lot of time to design and source custom parts, in order to build a prototype that addresses a specific pain point.
+Varies significantly on the actual product. On the low end, it's easy to use mobile phone mockup software to show the average person on the street a mobile phone app prototype. This takes a few hours in the hands of a decent designer using software like InVision or Prototyping on Paper \(POP\).You can create a simulated version using simple materials like wood and plastic, to discuss form factors for instance. On the high end, it might take a lot of time to design and source custom parts to build a prototype that addresses a specific pain point.
 
 #### How To
 
 1. Roughly sketch how the product should look. This can be very simple or a full electronics blueprint. 
-2. Build or assemble the product \(manually, 3d printing, Arduinos and Raspberry Pis, sensors, breadboards, etc\)
+2. Build or assemble the product \(manually, 3d printing, Arduinos and Raspberry Pis, sensors, breadboards, etc.\).
 3. Show it to prequalified customers who have the problem you want to address.
 
 #### Interpreting Results
@@ -47,7 +47,7 @@ Ask lots of questions about what the user would find valuable. Hone in on how yo
 
 #### Potential Biases
 
-You don't need to be able to mass produce the prototype in order to run this smoke test. Scaling requires a different set of tests. Also you don't need to be overly concerned about production costs and revenue at this stage. You just want to get an idea of user expectations.
+You don't need to be able to mass produce the prototype to run this smoke test. Scaling requires a different set of tests. Also you don't need to be overly concerned about production costs and revenue at this stage. You just want to get an idea of user expectations.
 
 #### Field Tips
 
@@ -63,8 +63,10 @@ You don't need to be able to mass produce the prototype in order to run this smo
 
 ### References
 
-* [https://medium.com/london-tech-startups/a-guide-to-building-a-hardware-prototype-df449e002f06\#.v1huqveix](https://medium.com/london-tech-startups/a-guide-to-building-a-hardware-prototype-df449e002f06#.v1huqveix)
-* [https://blog.bolt.io/the-illustrated-guide-to-product-development-part-2-design-ab69efb8084a\#.opf01fro8](https://blog.bolt.io/the-illustrated-guide-to-product-development-part-2-design-ab69efb8084a#.opf01fro8) good framework for hardware design in a Lean Startup context
-* [https://www.hwtrek.com/](https://www.hwtrek.com/) a global open source platform for hardware
+* [Eduardas Afanasjevas - A guide to building a hardware prototype ](https://medium.com/london-tech-startups/a-guide-to-building-a-hardware-prototype-df449e002f06#.v1huqveix)
+* [Ben Einstein - The Illustrated Guide to Product Deveopment](https://blog.bolt.io/the-illustrated-guide-to-product-development-part-2-design-ab69efb8084a#.opf01fro8) \(A good framework for hardware design in a Lean Startup context\)
+* \*\*\*\*[**https://www.hwtrek.com/**](https://www.hwtrek.com/) **\(A global open source platform for hardware\)**
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part4-evaluative_market_experiment/realbook@kromatic.com)
+
+
 

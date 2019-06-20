@@ -1,8 +1,11 @@
 # Contributors
 
+![](../.gitbook/assets/illustration-contributors-real-startup-book%20%281%29.png)
+
 ## Editors
 
 * Tristan Kromer, [Kromatic](https://kromatic.com), [Blog](http://grasshopperherder.com/)
+* Chris Cannon, [Linkedin](https://www.linkedin.com/in/chris-cannon-34741320/)
 * Luke Szyrmer, [LaunchTomorrow](http://blog.launchtomorrow.com/about-launch-tomorrow/), [@launchtomorrow](https://twitter.com/launchtomorrow)
 * Kenny Nguyen, [Kromatic](https://Kromatic.com), [Linkedin](https://www.linkedin.com/in/kennythanhnguyen)
 * Soojung Chang, [Linkedin](https://www.linkedin.com/in/soojungc/)
