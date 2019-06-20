@@ -59,6 +59,5 @@
   * [A/B Testing](7-out-of-the-box/ab-testing.md)
   * [Off-Brand Testing](7-out-of-the-box/off-brand-testing.md)
   * [Scorecards](7-out-of-the-box/scorecards.md)
-* [Afterword](9-afterword/README.md)
-  * [Afterword](9-afterword/9-afterword.md)
+* [Afterword](9-afterword.md)
 
