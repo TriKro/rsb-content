@@ -1,7 +1,3 @@
----
-description: test test
----
-
 # Out of the Box
 
 ![](../.gitbook/assets/illustration-out-of-the-box.png)
