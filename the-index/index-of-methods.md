@@ -1,6 +1,6 @@
 # Index of Methods
 
-![](../.gitbook/assets/illustration-lean-startup-playbook-empty-index-of-methods.png)
+![](../.gitbook/assets/illustration-lean-startup-2x2.png)
 
 ## Index of Methods
 
