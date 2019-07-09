@@ -87,6 +87,7 @@ For a B2B/enterprise idea, causing some kind of a specific response in your pros
 * [NextDoor: How the mailbox can be the best way for startups to reach potential users](http://www.inc.com/alex-moazed/how-the-mailbox-can-be-the-best-way-for-startups-to-reach-potential-users.html)
 * [Dojo: Heartfelt letters nabbed thousands of downloads and investor interest](http://observer.com/2014/09/forget-pr-emails-app-used-heartfelt-letters-nabbed-thousands-of-downloads-and-investor-interest/)
 * [Relatas: Left flyers on every seat in the conference auditorium while it was empty during lunch](https://yourstory.com/2016/10/startup-marketing-watch-out/)
+* [James Clear: Successful People Start Before They Feel Ready](https://jamesclear.com/successful-people-start-before-they-feel-ready)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ### Tools
