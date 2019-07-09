@@ -66,9 +66,9 @@ Keep in mind that all advice is context-dependent. Even if an expert was success
 
 #### Potential Biases
 
-* If you take advice from anyone, make sure their interests are genuinely aligned with your own. Confirm there are no conflicts of interest that would affect the expert's advice. It's best to pay for impartial advice if you're unsure.
-* Free advice may or may not be useful. You often get what you pay for. Time spent executing bad advice is still wasted time.
-* Some topics naturally invite strong opinions. Try to get access to data that the expert used to formulate their recommendations or advice, so you can evaluate its relevance.
+* If you take advice from anyone, make sure their interests are genuinely aligned with your own. Confirm there are no conflicts of interest that would affect the expert's advice. It's best to pay for impartial advice if you're unsure. 
+* Free advice may or may not be useful. You often get what you pay for. Time spent executing bad advice is still wasted time. 
+* Some topics naturally invite strong opinions. Try to get access to data that the expert used to formulate their recommendations or advice, so you can evaluate its relevance. 
 * No matter how much advice you've collected, always think for yourself.
 
 #### Field Tips

@@ -1,6 +1,6 @@
 # Experience Sampling
 
-![](../.gitbook/assets/illustration-full-figure-stop-hand-experience-sampling.png)
+![](../.gitbook/assets/illustration-experience-sampling-real-startup-book.png)
 
 ## Experience Sampling
 
