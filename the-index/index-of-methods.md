@@ -35,8 +35,7 @@
       </td>
       <td style="text-align:left">
         <p>- Five-second tests
-          <br />- Comprehension
-          <br />- Conjoint analysis
+          <br />- Comprehension testing
           <br />- Data mining/market research
           <br />- Surveys* (closed)
           <br />- Smoke tests (e.g. video, landing page)
