@@ -51,9 +51,8 @@ This is a wonderful technique to generate a lot of ideas in an area you are alre
 
 #### Potential Biases
 
-Overconfidence: Could prevent you from using the technique.
-
-Dismissing it too quickly: On the other side, exploring the reasons why others failed can make you doubt an idea too much if you can't find a unique angle to test the idea.
+* Overconfidence: Could prevent you from using the technique.
+* Dismissing it too quickly: On the other side, exploring the reasons why others failed can make you doubt an idea too much if you can't find a unique angle to test the idea.
 
 #### Field Tips
 
