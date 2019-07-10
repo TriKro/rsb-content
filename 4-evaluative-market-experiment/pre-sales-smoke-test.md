@@ -42,13 +42,18 @@ One week to 90 days. Most successful crowdfunding pre-sales campaigns involve 30
 
 #### Interpreting Results
 
-...
+Eric Reis: "“If you’re worried about disappointing some potential customers – don’t be. Most of the time, the experiments you run will have a zero percent conversion rate – meaning no customers were harmed during the making of this experiment.
+
+And if you do get a handful of people taking you up on the offer, you’ll be able to send them a nice personal apology.
+
+And if you get tons of people trying to take you up on your offer – congratulations. You probably have a business.
+
+Hopefully that will take some of the sting out of the fact that you had to engage in a little trickery.”
 
 #### Potential Biases
 
-* Confirmation Bias
-* Invalid Target Audience
-* False Negative
+* Confirmation bias
+* False Negative: You might be targeting your smoke test with an invalid target audience
 
 #### Field Tips
 
