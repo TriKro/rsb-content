@@ -80,6 +80,7 @@ Hopefully that will take some of the sting out of the fact that you had to engag
 * [Kickstarter Prohibits Product Simulations and Photorealistic Product Renderings](https://www.kickstarter.com/blog/kickstarter-is-not-a-store?page=2)
 * [Celery: Pre-sales platform](https://www.trycelery.com)
 * [Celery Blog: Successful DIY Pre-Order Crowdfunding Campaigns Revealed](http://blog.trycelery.com/successful-preorder-website-campaigns/)
+* [Conversion XL: How to Use Smoke Tests to Validate Your Product or Feature Ideas](https://conversionxl.com/blog/smoke-test/)
 * [Harvard Business Review: Sell Your Product Before It Exists](https://hbr.org/2013/12/sell-your-product-before-it-exists)
 * [The 5-Step Formula for Effectively Pre-Selling Your Product to Your Audience](https://yourfirstcustomers.com/the-5-step-formula-for-effectively-pre-selling-your-product-to-your-audience/)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part4-evaluative_market_experiment/realbook@kromatic.com)
