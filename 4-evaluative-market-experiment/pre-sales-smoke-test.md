@@ -66,13 +66,6 @@ Hopefully that will take some of the sting out of the fact that you had to engag
 * [ElasticSales and Close.io](https://www.linkedin.com/pulse/20140423214327-7006635-how-to-charge-money-for-things-that-don-t-exist-yet)
 * [My Sky](https://thefoundation.com/podcast/episode25)
 * [MixedMade](http://bushwickkitchen.com/blogs/startup-journey/12362041-selling-a-product-that-doesnt-exist-day-22)
-
-#### Field Tips
-
-* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
-
-### Case Studies
-
 * [TechCrunch: Jolla Closes Pre-Sales Campaign For Its First Phone](http://techcrunch.com/2013/08/21/jolla-closes-first-pre-sales/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
