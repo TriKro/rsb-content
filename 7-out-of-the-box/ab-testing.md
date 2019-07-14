@@ -1,6 +1,6 @@
 # A/B Testing
 
-![](../.gitbook/assets/illustration-a_b-testing.png)
+![](../.gitbook/assets/illustration-ab-testing-real-startup-book.png)
 
 ## A/B Testing
 
