@@ -63,11 +63,11 @@ Breaks during the event are critical. They give participants time to network, go
 6. Run the event. Be sure to have many unstructured conversations with attendees, in addition to the formal agenda and event goals.
 7. Follow up afterwards with a survey. You can also create buzz on social media by sharing any photos, blog posts, or other artifacts from the event.
 
-#### Interpreting Results
+### Interpreting Results
 
 Because you can use events to prove many kinds of hypotheses, it's critical to be clear what you want to learn and why it's important to you before you start organizing the event. As long as there is a clear cutoff value formulated upfront, you will find it easy to use events as a source of validation.
 
-#### Potential Biases
+### Potential Biases
 
 If using events specifically as smoke tests, you don't want to oversell the event. If your goal is to determine if there is demand around a problem, you should sell enough to make sure that the proposition is clear and easy to buy. However, a very hard sales push will distort your results. For example, if you are using:
 
@@ -76,7 +76,7 @@ If using events specifically as smoke tests, you don't want to oversell the even
 
 You won't know if you are getting a clear indicator that there is high demand, or just proof that you are a good salesperson.
 
-#### Field Tips
+### Field Tips
 
 * ["Get excited and enthusiastic when speaking at the smoke test event"](https://ctt.ec/E2p33) - @LaunchTomorrow
 * ["Prepare what you will need the day before: Name tags, signs for people to find you, camera, directions, etc."](https://ctt.ec/fef71) - @LaunchTomorrow

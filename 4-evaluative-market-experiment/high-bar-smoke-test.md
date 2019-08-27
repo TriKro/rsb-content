@@ -55,18 +55,18 @@ Offline: Depends on your existing approach/processes, and what you want to learn
    * If you have enough traffic, you can try to set this up as an A/B split test.
 4. Once the timebox expires, compare your conversion rate. 
 
-#### Interpreting Results
+### Interpreting Results
 
 This type of smoke test requires a lot of self-awareness and accountability, even compared to other smoke tests. If you get an unexpected result, there is a temptation to question your previous assumptions.
 
 As with all smoke tests, do not ask about future behavior.
 
-#### Potential Biases
+### Potential Biases
 
 * Ambiguity: Even more so than with other test types, it is critical to be clear upfront what "counts" and what doesn't. 
 * Backfire effect: The reaction to disconfirming evidence by strengthening one's previous beliefs.
 
-#### Field Tips
+### Field Tips
 
 * Agree what constitutes a conversion event before you do a high bar smoke test.
 * Your near-miss prospects don't count if they fill out your signup form when doing a high bar smoke test.

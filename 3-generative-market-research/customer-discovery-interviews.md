@@ -63,7 +63,7 @@ Costs are typically zero or very low. In many cases, interview subjects are offe
 
 * Make notes promptly; sometimes a video or audio recording can be helpful. 
 
-#### Interpreting Results
+### Interpreting Results
 
 Are you able to listen and record data based on the following?
 
@@ -77,7 +77,7 @@ Are you able to listen and record data based on the following?
 * _Emotions_**:** Is there anything specific that causes the customer to express different emotions?
 * _Measurement_**:** How is the customer measuring the cost of their problem?
 
-#### Potential Biases
+### Potential Biases
 
 * _Confirmation bias_**:** **The interviewer can be prompted to sell their vision in case the interviewee's vision differs drastically. The interviewee feels compelled out of sympathy to adjust answers to the interviewer’s expectations.**
 * _Order bias_**:** Sometimes the order in which you ask questions can affect the answers you get. Try to run questions in a different order in different interviews.

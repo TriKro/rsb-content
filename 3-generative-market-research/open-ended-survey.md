@@ -72,12 +72,12 @@ For surveys that specifically solicit suggestions from users, the entire list of
 
 In the case of very large data sets, algorithmic tools such as sentiment analysis or word clouds can give additional quantitative insight, but should be used to supplement the qualitative insights, not replace them.
 
-#### Potential Biases
+### Potential Biases
 
 * Selection bias: Researchers will often fixate on qualitative comments they agree with and ignore other comments.
 * Sampling bias: Although the sample may not match the general population to be surveyed, if the data is taken as generative and not evaluative, this bias is less relevant. Any ideas generated still must be validated by an evaluative method.
 
-#### Field Tips
+### Field Tips
 
 * “You can run an open-ended survey once you know the best questions to ask. Talk to your customers to figure out the right questions.” - @TriKro
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)

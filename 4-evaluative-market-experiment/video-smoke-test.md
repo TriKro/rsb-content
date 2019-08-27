@@ -83,15 +83,15 @@ The following is adapted from [Tim Ferriss' detailed breakdown](http://tim.blog/
 7. Launch/Promote: Try to get it out in front of as many \(relevant\) prospects as possible.
 8. Analyze: Tally your metrics and figure out what referral rate you achieved.
 
-#### Interpreting Results
+### Interpreting Results
 
 Referral rate is difficult to accurately track, because most referrals \(93 percent\) in traditional businesses happen offline. Your best bet is to track aggregate exposure and then total number of referrals. If you only need a high-level metric, this will be enough to pass/fail your original hypothesis.
 
-#### Potential Biases
+### Potential Biases
 
 View count vanity: Views from people outside your intended target audience is a vanity metric.
 
-#### Field Tips
+### Field Tips
 
 * "Keep your video concise and snappy, even when doing a video smoke test." @LaunchTomorrow 
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)

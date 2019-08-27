@@ -36,11 +36,11 @@ You are looking for a “wow” reaction and a significant next step in the buyi
 
 You may also use this method to test commitment from key partners and channel partners as an indication whether they will enter into agreements or trial phases with you. You therefore are collecting insights on how you can go to market with your offering.
 
-### Time Commitment and Resources
+#### Time Commitment and Resources
 
 A few days for B2C and a few weeks for B2B, depending how quickly you can set up appointments.
 
-### How To
+#### How To
 
 * Have a refined, confident pitch suitable for the selected audience.
 * Prepare some form of demonstration that shows your solution in its best light.

@@ -53,17 +53,17 @@ Can vary widely. It depends on how long both the physical and digital forms of t
 3. Recruit users/customers.
 4. Validate your hypothesis.
 
-#### Interpreting Results
+### Interpreting Results
 
 Digital is not good for its own sake. Make sure that you are adding useful features and benefits as you add to the product's complexity.
 
-#### Potential Biases
+### Potential Biases
 
 Over-engineering/gold-plating: Sometimes a good physical product feature will solve the problem better than fancy software and engineering.
 
 Over-focusing on technology: If the tech is proven or low risk, test the business model first \(especially customer needs\).
 
-#### Field Tips
+### Field Tips
 
 * "A minimum viable product is not always a smaller/cheaper version of your final product." @sgblank 
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)

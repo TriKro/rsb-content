@@ -91,7 +91,7 @@ Usually this goal will flow from your current overarching goal in the business. 
 
 3. Organize the answers into a useful format. Typically a spreadsheet is good enough to organize the data. Then it can be loaded into a statistical tool, like R, or a database for further inquiry. 
 
-#### Interpreting Results
+### Interpreting Results
 
 Use simple statistical techniques like correlation, ANOVA, or regression for further insights. You can also hire a data scientist to help interpret your results.
 
@@ -107,7 +107,7 @@ Create a visual summary of the results.
 
 Take action!
 
-#### Potential Biases
+### Potential Biases
 
 * Avoid overly sensitive questions -- you are unlikely to get a "true" response.
 * Avoid leading questions, which subtly prompt the respondent to answer in a particular way.
@@ -117,7 +117,7 @@ Take action!
 * Using emotionally loaded content can predictably skew results to a "yes" or a "no" or cause the respondent to abandon the survey if they don't identify. For example, "Where do you enjoy drinking beer?" implies that the respondent enjoys drinking beer specifically, and would yield unpredictable results at an AA meeting.
 * While conducting surveys, never ask people what they would like to pay for. Usually they lie or are simply unaware. 
 
-#### Field Tips
+### Field Tips
 
 * Keep questions simple on closed questionnaires. For example, avoid hypotheticals.
 * Ask \(and learn\) one thing at a time. You can check for correlation and causation later.

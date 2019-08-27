@@ -41,15 +41,15 @@ Varies significantly on the actual product. On the low end, it's easy to use mob
 2. Build or assemble the product \(manually, 3d printing, Arduinos and Raspberry Pis, sensors, breadboards, etc.\).
 3. Show it to prequalified customers who have the problem you want to address.
 
-#### Interpreting Results
+### Interpreting Results
 
 Ask lots of questions about what the user would find valuable. Hone in on how your prototype differs from how they solve their problem\(s\) currently.
 
-#### Potential Biases
+### Potential Biases
 
 You don't need to be able to mass produce the prototype to run this smoke test. Scaling requires a different set of tests. Also you don't need to be overly concerned about production costs and revenue at this stage. You just want to get an idea of user expectations.
 
-#### Field Tips
+### Field Tips
 
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 

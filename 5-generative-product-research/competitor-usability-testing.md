@@ -39,13 +39,13 @@ See Usability Testing
 
 See Usability Testing, but use a competitor’s products or a substitute good. For maximum idea generation, use different products.
 
-#### Interpreting Results
+### Interpreting Results
 
 Any results should be taken as generative rather than evaluative. Ideas generated tend to be highly unstructured and piecemeal, so they must be properly integrated in a viable solution.
 
 Before building a solution, any ideas should be tested via alternative generative product research methods such as solutions interviews or concierge testing.
 
-#### Field Tips
+### Field Tips
 
 * “Don’t reinvent the wheel -- figure out what’s wrong with walking.” - @TriKro
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)

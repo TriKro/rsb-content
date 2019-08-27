@@ -63,7 +63,7 @@ Fake doors are not suitable for testing your minimum viable product and essentia
 4. Measure.
 5. Run the experiment. And try to be patient. Don’t draw conclusions too soon; wait until the test is complete \(in this case when you have at least 1000 visits or 10,000 views\). 
 
-#### Interpreting Results
+### Interpreting Results
 
 Check your initial hypothesis and see if the results match your success rate. Depending on your results, you have three options:
 
@@ -71,19 +71,19 @@ Check your initial hypothesis and see if the results match your success rate. De
 * No success! You pivot. Try reframing the link or button. A different word/icon/picture might yield a totally different outcome. 
 * No success! Congratulations. You prevented yourself from wasting scarce resources.  
 
-#### Time Commitment
+### Time Commitment
 
 * 1 hour to formulate a hypothesis. 
 * 1-4 hours to create the fake doors, depending on the type.
 * 1-10 days to generate enough traffic for a representative sample size \(depending on the amount of traffic or money you’re willing to spend\)
 * 1 hour to evaluate and write down learnings. 
 
-#### Potential Biases
+### Potential Biases
 
 * Copy bias: The words used in the fake door will greatly influence your results. Make sure to try copy variations.
 * Location bias. The location of your ad \(which platform\) or your link \(relative position on your website\) will also influence your results. Make sure you try different variations. 
 
-#### Field Tips
+### Field Tips
 
 * Don’t scare off your users. Testing is okay, but be careful not to overdo it. 
 * Making \(too many\) false promises by fake doors might give the user the impression of a lousy product or cause them to lose trust in your company. 

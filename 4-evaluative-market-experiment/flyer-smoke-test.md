@@ -64,7 +64,7 @@ Tools:
 * MS Publisher
 * Designer recruiting sites like 99designs.com, behance.com, etc.
 
-#### Interpreting Results
+### Interpreting Results
 
 For a B2C idea, the primary metric that will often be useful is customer acquisition cost \(CAC\).
 
@@ -72,12 +72,12 @@ CAC = Total cost of flyer production/number of conversions \(inquiries\).
 
 For a B2B/enterprise idea, causing some kind of a specific response in your prospect should be the measure. Often this is subjective, as the sales process for a new B2B product tends to be discovered as you are creating it.
 
-#### Potential Biases
+### Potential Biases
 
 * Avoid counting responses of immediate friends and family who aren't in the target market.
 * If the customer knows that the product doesn't exist yet, it may bias your results.
 
-#### Field Tips
+### Field Tips
 
 * "Use insights and language from customer development when crafting your first flyer" @LaunchTomorrow.
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)

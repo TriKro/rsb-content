@@ -72,13 +72,13 @@ Considering the impact A/B testing can have on your bottom line, though, it’s 
 6. Analyze data and draw conclusions: If the footer with more links reduces bounce rate more than the target set, then you can conclude that an increased number of links in the footer is one of the factors that reduces bounce. If there is no meaningful difference in bounce, then go back to Step 3 and construct a new hypothesis.
 7. Report results to all concerned: Let others in marketing, IT, and UI/UX know of the test results and insights generated.
 
-#### Interpreting Results
+### Interpreting Results
 
 We must set from the beginning the significant difference \(practically significant\), that is, what difference between the version will lead to change. This decision is based on several factors, including investment of the changes and periodicity of changes. For online testing, a 1-2 percent difference is enough to justify the change. For offline testing \(such as new medicine or a new hardware product\), the difference to make the change beneficial can be around a 10-15 percent difference in magnitude.
 
 We must ensure that what has been observed is repeatable, and not an isolated case. The size of the experiment must be constructed in a way that the statistical significance bar is lower than the practical significance.
 
-#### Potential Biases
+### Potential Biases
 
 It is important to note that if segmented results are expected from the A/B test, the test should be properly designed at the outset to be evenly distributed across key customer attributes, such as gender. That is, the test should both \(a\) contain a representative sample of men vs. women, and \(b\) assign men and women randomly to each “treatment” \(treatment A vs. treatment B\). Failure to do so could lead to experiment bias and inaccurate conclusions being drawn from the test.
 

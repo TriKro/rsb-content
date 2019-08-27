@@ -64,7 +64,7 @@ It is helpful to have already conducted customer discovery interviews and have b
 * Summarize the observations and ask the customer for confirmation.
 * Ask any additional clarifying questions.
 
-#### Interpreting Results
+### Interpreting Results
 
 A number of debriefing methods, such as affinity diagramming, card sorting, or creating jobs to be done can be used after reviewing recordings or notes.
 
@@ -74,7 +74,7 @@ Since the data is primarily qualitative and sample sizes are small, researchers 
 
 * Confirmation bias
 
-#### Field Tips
+### Field Tips
 
 * “Apprentice yourself to the customer and learn how they are currently solving their problems without your product.” _—@TriKro_
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)

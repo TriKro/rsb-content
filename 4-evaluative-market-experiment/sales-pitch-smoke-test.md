@@ -57,20 +57,20 @@ Tends to vary significantly based on cost of product and method of distribution.
    * “Is there any reason why we can't proceed with the shipment?"
    * “If we sign the contract today, we can start work on these concerns first thing tomorrow morning. Is that something you would be willing to commit to?” 
 
-#### Interpreting Results
+### Interpreting Results
 
 If you are successful at selling the product or idea, particularly for the first time, you have proven that the product can be sold. This is independent of whether or not it delivers on the promises you made. From a business-model standpoint, you have proven a number of assumptions affecting your revenues box, should you decide to go further using this business model. From a pirate metrics standpoint, you have figured out what you needed to successfully acquire customers.
 
 This smoke test does not suggest the optimal price point for the product, or whether you can deliver it profitably \(after your costs\).
 
-#### Potential Biases
+### Potential Biases
 
 * Anchoring bias: One sale does not a business model make. A fully functioning sales system is what you ultimately need; however, a smoke test is still useful to prove that you have a sellable product.
 * Clustering illusion: It can be tempting to overgeneralize learnings from one sale. Try to make a few sales, particularly if the product is not very expensive.
 * Estimation fallacy: Underestimating the amount of time to get to that first sale.
 * Curse of knowledge: You know your product, service, or solution better than your prospects. You may overwhelm or confuse them, preventing them from buying, even though they actually need it. When fielding objections, try directly asking them whether or not they understand the proposition, or use comprehension testing to determine this.
 
-#### Field Tips
+### Field Tips
 
 * When initiating a conversation with a prospect, make small talk by observing and commenting on them or the situation.
 * Use open-ended questions to discover more about the customer and what they're looking for.
