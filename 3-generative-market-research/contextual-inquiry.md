@@ -70,7 +70,7 @@ A number of debriefing methods, such as affinity diagramming, card sorting, or c
 
 Since the data is primarily qualitative and sample sizes are small, researchers must be careful not to extrapolate a pattern of behavior to the entire population, but they can usually synthesize a clear hypothesis for further evaluative testing methods.
 
-#### Potential Biases
+### Potential Biases
 
 * Confirmation bias
 
