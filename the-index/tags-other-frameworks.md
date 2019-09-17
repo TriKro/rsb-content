@@ -19,7 +19,7 @@ Using these tags to navigate the methods is not as simple as using the index and
 
 ### **Using the Business Model Canvas**
 
-The Business Model Canvas is a popular framework that identifies the nine basic building blocks of any business model and asks us to make assumptions as to what our business will be. Those blocks are:
+The [Business Model Canvas](https://www.strategyzer.com/canvas/business-model-canvas) is a popular framework that identifies the nine basic building blocks of any business model and asks us to make assumptions as to what our business will be. Those blocks are:
 
 ![\[IMAGE\] ](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Business_Model_Canvas.png/1200px-Business_Model_Canvas.png)
 
