@@ -17,7 +17,7 @@ To narrow down the long list of applicable methods to something actionable, we f
 * Does the customer segment already have a solution to this pain?
 * Is this customer segment really willing to pay for a better solution for this job?
 * Is our customer segment too broad?
-* How do we find them?
+* How do we find our customers?
 * How much will this customer segment pay?
 * How do we convince this customer segment to buy?
 * What is the cost of acquiring a customer in this customer segment?

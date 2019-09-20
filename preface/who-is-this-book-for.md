@@ -11,9 +11,9 @@ If you’ve ever recognized a giant gap or unanswered question in your business 
 
 This book is for managing innovation projects where the business model is partially or completely unknown. Your job title might be:
 
-* Product manager
+* Product Manager
 * CEO of an early-stage startup
-* Entrepreneur-in-residence
+* Entrepreneur-in-Residence
 
 ## Previous Experience
 
@@ -32,10 +32,10 @@ In particular, you should already buy into the idea that parts of your business 
 
 This book is particularly useful for those managing or assisting in the management of large numbers of innovation products. This includes job titles like:
 
-* Chief innovation officer
-* VP of innovation
-* Accelerator manager
-* Lean startup/innovation coach
+* Chief Innovation Officer
+* VP of Innovation
+* Accelerator Manager
+* Lean Startup/Innovation Coach
 
 If you are in any of these positions, this book serves as a versatile and quick reference guide for almost any startup you’ll be dealing with. It can also be used to diagnose typical startup problems.
 
@@ -43,7 +43,7 @@ This book is a Creative Commons project, which means you can use it as training 
 
 ## Business Model
 
-This book is best used to answer questions about certain business model elements, such as the _customer_, the _value proposition_, _channel_, _relationship_, and _revenue_. In other words, the critical elements in _product/market fit_.
+This book is best used to answer questions about certain business-model elements, such as the _customer_, the _value proposition_, _channel_, _relationship_, and _revenue_. In other words, the critical elements in _product/market fit_.
 
 While many of the methods listed here can be used to investigate other business-model elements such as _partners_ and _resources_, it may take some extra effort on the part of the reader.
 

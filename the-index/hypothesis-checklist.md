@@ -35,7 +35,7 @@ This is the expected results of the experiment. If we change _x_, then we expect
 
 This is a measurement that needs to be hit or surpassed. This can be a fail metric, where if the experiment does not meet the minimum goal, then the project must pivot to a completely new direction. This can also be a success metric, where the experiment is deemed a success if it hits the goal. Choosing between the success or fail metric is dependent on **if we want the baseline to know** when to scrap a project or when to launch a project.
 
-**The timebox**
+**The timeframe**
 
 This is the length of time it takes to run the test. If the timebox is too short, then the amount of data might be too small, or there might not have been enough time for effects to take place. But if the timebox is too long, we are wasting valuable time collecting unnecessary data.
 
@@ -61,52 +61,52 @@ This always depends on a number of variables within the company, but let’s say
 
 _The end hypothesis would be:_
 
-If I add a notification feature that allows the waiter/waitress to set reminders to add in his/her tips, then I am going to see a ten percent increase in the number of users opening the app four times or more in a week over the next three months.
+If I add a notification feature that allows the waiter/waitress to set reminders to add in their tips, then I am going to see a ten percent increase in the number of users opening the app four times or more in a week over the next three months.
 
 **Now let's go through a worksheet that will test if you can figure out the strongest hypothesis for a given scenario. The answers are at the bottom.**
 
-**Scenario 1:** You work for a company that rents out toddlers’ clothes. It is a monthly subscription where families get a box of five pieces of clothing, and when the toddler grows out of them, they return the clothes for a new box. The data shows that there might be a correlation between members who frequently send back items to higher customer retention rates. Your goal is to have members return more boxes. You have decided that you can do this by adding pieces that are seasonal, holiday themed, or super trendy so that the family will need to keep updating the clothes.
+**Scenario A:** You work for a company that rents out toddlers’ clothes. It is a monthly subscription where families get a box of five pieces of clothing, and when the toddler grows out of them, they return the clothes for a new box. The data shows that there might be a correlation between members who frequently send back items to higher customer retention rates. Your goal is to have members return more boxes. You have decided that you can do this by adding pieces that are seasonal, holiday themed, or super trendy so that the family will need to keep updating the clothes.
 
 1. By adding one piece of special-occasion clothing, you will see a ten percent rise in returned boxes in three months.
 2. If you include one special-occasion outfit, a new designer piece, and a seasonal accessory, then you will see a 15 percent increase in returned boxes in the next 12 weeks.
 3. When you add three seasonal pieces, families will learn to request more items, and you will see growth in the next two months.
 4. By including one trending designer piece, you will see a 15 percent increase in requests for those designers once the experiment is completed.
 
-**Scenario 2:** You already made your millions with the Uber for parrots, so you decided to invest your money into saving the manatees. You designed a tracking app that shows boaters where herds of manatees are sleeping so they don’t run the herds over. You are having a hard time getting the boaters to download the app, so you decide to start advertising. You want to conduct a test to see if a promotion will increase the app’s downloads.
+**Scenario B:** You already made your millions with the Uber for parrots, so you decided to invest your money into saving the manatees. You designed a tracking app that shows boaters where herds of manatees are sleeping so they don’t run the herds over. You are having a hard time getting the boaters to download the app, so you decide to start advertising. You want to conduct a test to see if a promotion will increase the app’s downloads.
 
 1. If you pair up with dock owners to offer a ten percent discount on monthly docking fees to boaters who download the app, then you will see a ten percent increase in downloads over the next three years.
 2. If you give out ten percent coupons to boat rentals for downloading the app, and 15 percent off tack shops, and you advertise around piers, then you will see an increase of 15 percent new downloads in the next three months.
 3. By pairing up with ten boat rentals to give a coupon for ten percent off the boat rentals for downloading the app, you will see a five percent increase in downloads over a six month period.
 4. When you have a special where someone downloads the app, they get a one-of-a-kind lure at Ted’s tack shop \(which has 15 stores in Florida\), then you will see a ten percent decrease in manatee deaths over the next five months.
 
-**Scenario 3:** Your Labrador is obsessed with a tennis ball and you are tired of throwing the slobbery thing. It inspired you to start a drone company that drops tennis balls and takes funny pictures of the dogs. Your customer support team has received complaints that it is hard to understand how to download the pictures from the iPhone app. You want to test moving the photos section to various parts of the app.
+**Scenario C:** Your labrador retriever is obsessed with a tennis ball and you are tired of throwing the slobbery thing. It inspired you to start a drone company that drops tennis balls and takes funny pictures of the dogs. Your customer-support team has received complaints that it is hard to understand how to download the pictures from the iPhone app. You want to test moving the photos section to various parts of the app.
 
 1. If you add a photos section to the navigation bar, then you will see a five percent increase in new users over a four month period.
 2. If you advertise the photo feature in your app, you will have more users and fewer complaints within the next ten weeks.
 3. If you add three pages to the onboarding process that explain how to move the photos, then you will get a 25 percent increase in dog pictures.
 4. By moving the download photos to the home screen, you will receive 50 percent fewer complaints about the photos section in the next three months.
 
-**Scenario 4:** You are so sick of wearing the same outfits that you developed an AI software to pick out your clothes every morning. A venture capitalist saw your tweets about it and gave you a million dollars to start the company. You need the AI to address weather conditions when choosing the clothes. You want to run an experiment to test a method for collecting data for when it is 80 degrees and sunny.
+**Scenario D:** You are so sick of wearing the same outfits that you developed an AI software to pick out your clothes every morning. A venture capitalist saw your tweets about it and gave you a million dollars to start the company. You need the AI to address weather conditions when choosing the clothes. You want to run an experiment to test a method for collecting data for when it is 80 degrees and sunny.
 
 1. If you poll people in popular cities on sunny days, then you will be able to add five percent more data points.
 2. If you see what is in clothing stores on sunny days, you will be able to add ten percent more data points to the algorithm in a month.
 3. If you send out a survey to ask people what they are wearing when it is 80 degrees and sunny, then you will get a 75 percent answer rate in a week.
 4. By collecting data points of Instagram selfie dates to days that are 80 degrees and sunny, your AI can identify 75 percent of the clothing in three months.
 
-**Scenario 5:** Men’s socks are a great way to jazz up an outfit, so you decided to start a men’s sock e-commerce store. Your customers are not completing the checkout process, and usability tests show that some users question the site’s security. You want to add a small adjustment to the payments page to see if more users complete the checkout process.
+**Scenario E:** Men’s socks are a great way to jazz up an outfit, so you decided to start a men’s sock e-commerce store. Your customers are not completing the checkout process, and usability tests show that some users question the site’s security. You want to add a small adjustment to the payments page to see if more users complete the checkout process.
 
-1. If you add a password strength indicator, then more people will create passwords in the next two months.
+1. If you add a password-strength indicator, then more people will create passwords in the next two months.
 2. If you add a lock icon next to the credit card information, the completion of the checkout process will increase by 15 percent in three months.
 3. If you make the site prettier, the completion of the checkout process will increase by 25 percent in six months.
 4. If you add a review page before the confirmation page, then 20 percent of customers will be able to complete the checkout flow in ten minutes.
 
 **Answers:** 
 
-* 1 - A
-* 2 - C
-* 3 - D
-* 4 - D
-* 5 - B
+* A - 1
+* B - 3
+* C - 4
+* D - 4
+* E - 2
 
 Learn from your mistakes. Look at the questions you got wrong and see which key element is either missing or vague.
 

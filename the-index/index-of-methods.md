@@ -56,7 +56,7 @@
         <br />- Takeaway
         <br />- Functioning products
         <br />- Analytics/dashboards
-        <br />- Surveys* (e.g. Net promoter score, Product/market fit survey)</td>
+        <br />- Surveys* (e.g. Net promoter score, product/market fit survey)</td>
     </tr>
   </tbody>
 </table>

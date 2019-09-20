@@ -8,7 +8,7 @@ Do we have a clear hypothesis to _evaluate_ or do we need to _generate_ a clear 
 
 > _“Our customers really want our product.”_
 
-This hypothesis is bad for a number of reasons. The most obvious is that it’s tautologically correct -- if they are already our customers, then they've already proven they want our product --  which means it is not worth investigating further.
+This hypothesis is bad for a number of reasons. The most obvious is that it’s tautologically correct — if they are already our customers, then they've already proven they want our product —  which means it is not worth investigating further.
 
 This type of flawed hypothesis is common. Here is a more subtle example:
 
@@ -70,7 +70,7 @@ There are other issues with this hypothesis, but at least it relates two or more
 
 > _“During the summer, ice cream consumption increases and more people drown per day.”_
 
-This is a true statement, but it does not tell us how those two variables relate to one another. Are people drowning because they ate too much ice cream? Or are they eating more ice cream because they are sad about the drownings?
+This is a true statement, but it does not tell us how these two variables relate to one another. Are people drowning because they ate too much ice cream? Or are they eating more ice cream because they are sad about the drownings?
 
 > _“During the summer, people who eat ice cream before swimming will drown at a higher rate than people who do not eat ice cream.”_
 
@@ -102,7 +102,7 @@ If there is no amount of evidence that would prove our hypothesis is invalid, th
 
 There are a number of frameworks and checklists for forming a hypothesis, one of which is popular enough to comment on to avoid confusion:
 
-> _We believe this capability will result in this outcome and we will know we have succeeded when we see a measurable signal_
+> _We believe this capability will result in this outcome and we will know we have succeeded when we see a measurable signal._
 
 The entire sentence is _not_ the hypothesis. Let’s break this into its parts:
 
@@ -114,7 +114,7 @@ This section just confirms that we think the hypothesis is _correct_. It is not 
 
 That is the hypothesis.
 
-> _... we will know we have succeeded when **&lt;we see a measurable signal&gt;**_
+> _...we will know we have succeeded when **&lt;we see a measurable signal&gt;**_
 
 That is the data we will collect, including any information about sample size, margin of error, success conditions, or fail criteria.
 
