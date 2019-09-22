@@ -40,7 +40,7 @@ It is helpful to have already conducted customer discovery interviews and have b
 
 #### How To
 
-**Preparation**
+#### **Preparation**
 
 * Arrange the time and place for the interview, making sure it is the time and place where the customer would typically have the problem.
 * Prepare a framing statement.
