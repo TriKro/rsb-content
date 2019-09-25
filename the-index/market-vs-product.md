@@ -53,5 +53,5 @@ If we are using the _Business Model Canvas_, market questions are those on the r
 
 This book is agnostic about where we start. We may already have a product and be investigating who to sell it to, or we may have a customer segment with a strong pain point and are trying to find a solution. But when in doubt, start with the customer.
 
-If the customer segment changes, then the product usually must be adapted to the customer. But if the product changes, customers may simply use a different product. **Human behavior is notoriously difficult to change, although it is not impossible.**
+If the customer segment changes, then the product usually must be adapted to the customer. But if the product changes, customers may simply use a different product. **Human behavior is notoriously difficult to change, though not impossible.**
 

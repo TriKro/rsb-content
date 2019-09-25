@@ -28,7 +28,7 @@ This method is used to get information about a participant's daily behaviors, th
 
 The key to experience sampling is asking the right questions. Be especially careful with phrasing, since you will be asking the question over and over again. This method makes most sense when you want to solve a frequently reoccurring problem. You get the most useful and viable input when asking about repeated behavior and, more specifically, the last time it occurred.
 
-### Time Commitment and Resources
+#### Time Commitment and Resources
 
 Your participants' time commitment will depend on the amount of data you want to collect. The more data you get, the more confident your interpretations. You should aim for at least 100 data points, depending on your goals and customer segment. 
 
@@ -40,9 +40,9 @@ If you plan on amassing a large amount of data, you should have a team ready to 
 
 You should offer your participants some kind of incentive. The amount depends on the number of questions answered, and should range from $5 to $50 \(or something of similar value, like a coupon\).
 
-### How To
+#### How to
 
-#### Preparation
+Preparation
 
 * Carefully phrase the question.
 * Make sure the answering process takes no more than a minute.
@@ -52,7 +52,7 @@ You should offer your participants some kind of incentive. The amount depends on
 * Decide how many participants you want and start recruiting as soon as possible.
 * Plan the analysis according to the expected amount of data, team size, process, etc.
 
-#### Finding Participants
+Finding Participants
 
 * Use a screener to select relevant participants.
 * Identify participant criteria and formulate questions accordingly. If possible, use quantifying questions \(e.g., how often the participant does something\).
@@ -62,11 +62,11 @@ You should offer your participants some kind of incentive. The amount depends on
 * Select your participants.
 * Set their expectations according to how often they will be asked to give answers.
 
-#### Start Collecting Data
+Start Collecting Data
 
 Remember to thank the participants for each participation.
 
-#### Analysis
+Analysis
 
 * Check the first set of answers to see if they are sufficient for your research. If necessary, expand your questions or explain to participants the level of detail you need.
 * Check if the questions are correctly understood. If necessary, adjust your questions or correct individual participants.
@@ -80,16 +80,16 @@ Remember to thank the participants for each participation.
 * Switch the data within the team for a second blind classification and discuss possible discrepancies.
 * Create frequency charts.
 
-### Interpreting Results
+#### Interpreting Results
 
 First, look at the frequency distribution and identify common themes to gain insight into participants' pain points and delights. Then pinpoint what you have and have not been doing well in solving your target group's problems, as well as opportunities for improvement. You may find that the problem is slightly different than expected, or what you thought was a problem is not one at all. You may get ideas for additional product features. In any case, you end up with data on different experience categories and therefore many opportunities.
 
-### Potential Biases
+#### Potential Biases
 
 * Prediction bias: Do not ask about people’s opinions on potential products, situations, or what they think they need. People are bad at predicting the future! Ask about recent behavior and problems.
 * Confirmation bias: Be careful not to use leading questions or give examples of what kind of answers you expect.
 
-### Field Tips
+#### Field Tips
 
 * “Run a comprehension test before a landing page test or you won’t understand why it doesn’t work.” - @TriKro
 * “Don’t ask for opinions, observe behavior.” - @tsharon

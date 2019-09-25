@@ -29,7 +29,7 @@ One person plays the role of product user while others simulate the behavior of 
 
 Anywhere from a few minutes to several days. As a formal usability-testing approach, more time may be needed to allow for advance planning of time with customers and more complex preparation of mockups and planning of scenarios. Alternatively, can be used in the moment as part of generative design work with very little prep in the time it takes a to produce a few rough sketches to help quickly visualize a concept and test it for weaknesses.
 
-#### How To
+#### How to
 
 1. For each screen/interface that is part of the interaction you are testing, create a simple mockup on paper illustrating what will appear on the screen for the various scenarios you are exploring.
 2. One person \(or a pair\) plays the role of the customer/end user \(customer\).

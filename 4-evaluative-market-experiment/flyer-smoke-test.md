@@ -33,13 +33,13 @@ In the smoke test scenario, the product does not exist in its full form, so it i
 
 If you are in a B2B sales scenario, the business relationship is very important. In such markets, there are usually just a handful of heterogenous clients that individually could make a very large purchase. This factor significantly influences the testing process.
 
-#### Time Commitment
+#### Time Commitment and Resources
 
 * Depends on your design skills and abilities, but likely a few hours
 * Or hire a designer to create one
 * Distribution: 1-2 days
 
-#### How To
+#### How to
 
 1. Choose a color palette.
 2. Determine flyer size.
@@ -55,29 +55,18 @@ If you are in a B2B sales scenario, the business relationship is very important.
 12. You may want to run a comprehension test of some kind \(to confirm your message is clear\).
 13. Print and distribute your flyer.
 
-Tools:
+#### Interpreting Results
 
-* Canva
-* Figma
-* Smore.com
-* Adobe Illustrator
-* MS Publisher
-* Designer recruiting sites like 99designs.com, behance.com, etc.
+* For a B2C idea, the primary metric that will often be useful is customer acquisition cost \(CAC\).
+* CAC = Total cost of flyer production/number of conversions \(inquiries\).
+* For a B2B/enterprise idea, causing some kind of a specific response in your prospect should be the measure. Often this is subjective, as the sales process for a new B2B product tends to be discovered as you are creating it.
 
-### Interpreting Results
-
-For a B2C idea, the primary metric that will often be useful is customer acquisition cost \(CAC\).
-
-CAC = Total cost of flyer production/number of conversions \(inquiries\).
-
-For a B2B/enterprise idea, causing some kind of a specific response in your prospect should be the measure. Often this is subjective, as the sales process for a new B2B product tends to be discovered as you are creating it.
-
-### Potential Biases
+#### Potential Biases
 
 * Avoid counting responses of immediate friends and family who aren't in the target market.
 * If the customer knows that the product doesn't exist yet, it may bias your results.
 
-### Field Tips
+#### Field Tips
 
 * "Use insights and language from customer development when crafting your first flyer" @LaunchTomorrow.
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
@@ -92,6 +81,12 @@ For a B2B/enterprise idea, causing some kind of a specific response in your pros
 
 ### Tools
 
+* Canva
+* Figma
+* Smore.com
+* Adobe Illustrator
+* MS Publisher
+* Designer recruiting sites like 99designs.com, behance.com, etc.
 * Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### References

@@ -35,7 +35,7 @@ A landing page used as a minimum viable product evaluates whether a particular t
 * Small advertising budget to target relevant keywords, or demographic-use “daily budget” limits to control exact ad spend for this purpose
 * Advertiser’s account with paid traffic source
 
-#### How To
+#### How to
 
 1. Identify sub-niche/persona most likely to be interested in the product idea.
 2. Research relevant keywords and demographics.
@@ -44,19 +44,19 @@ A landing page used as a minimum viable product evaluates whether a particular t
 5. Edit a landing page template with the product description and value proposition.
 6. Run ads.
 
-### Interpreting Results
+#### Interpreting Results
 
 In the context of a landing page MVP, conversion rate here approximates what percent of this particular niche, keyword, or traffic source are interested in the product. It approximates unmet demand among members of that niche.
 
 If the conversion rate obtained exceeds your predetermined signpost value, the landing page MVP confirms that this particular audience is interested in the product. Assuming you chose a large enough niche, the idea is worth pursuing further. If not, this audience is not interested in the product idea. At that point, you will need to pivot on your audience or dig deeper into your audience’s actual needs.
 
-### Potential Biases
+#### Potential Biases
 
 * **Not specifying success criteria up-front: A very common anti-pattern is that founders attempt to run a landing page experiment without committing to a clear cutoff value up-front. If they get results they don’t expect, they question their process.** 
 * Over-optimizing the landing page for sales: With a landing page MVP, you are measuring how much demand exists for the product without conversion rate optimization \(otherwise you won’t be able to know whether you met your success criteria because it’s a good idea or whether you’re good at using countdown counters effectively\). 
 * Warm traffic: If possible, try to use completely cold traffic, particularly if you are comparing a few possible ideas. If prospects are already aware of your product, you as a founder, or your brand, this will skew your conversion rate upwards unpredictably.
 
-### Field Tips
+#### Field Tips
 
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 

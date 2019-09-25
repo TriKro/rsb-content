@@ -8,7 +8,7 @@ Do we have a clear hypothesis to _evaluate_ or do we need to _generate_ a clear 
 
 > _“Our customers really want our product.”_
 
-This hypothesis is bad for a number of reasons. The most obvious is that it’s tautologically correct — if they are already our customers, then they've already proven they want our product —  which means it is not worth investigating further.
+This hypothesis is bad for a number of reasons. The most obvious is that it’s tautologically correct — if they are already our customers, then they've already proven they want our product — which means it is not worth investigating further.
 
 This type of flawed hypothesis is common. Here is a more subtle example:
 

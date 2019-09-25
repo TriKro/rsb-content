@@ -46,11 +46,11 @@ Here are a few examples of closed-ended questions:
 
 These surveys can be delivered offline \(expert with clipboard\), online \(popup form\), or as a hybrid \(iPad at a conference\).
 
-#### Time Commitment
+#### Time Commitment and Resources
 
 Varies significantly with the survey length and methodology chosen. It can take an hour to configure an exit survey on a website, or it can take weeks to perform a large-scale, in-person survey and manually enter the data into a useful format.
 
-#### How To
+#### How to
 
 1. Be very clear what you want to learn up-front when designing the questionnaire. For example, a survey would have very different questions for each of these goals:
    * Discovering user problems 
@@ -60,38 +60,37 @@ Varies significantly with the survey length and methodology chosen. It can take 
 
 Usually this goal will flow from your current overarching goal in the business. Ideally you should be able to write out the goal of the survey in one sentence.
 
-1. Formulate questions you'd like respondents to answer. As a rule of thumb, only include questions that you think will result in specific actions. For example, how will you use the data you gather to inform your decisions when it comes to catering, lodging, transportation, registration, event activities/workshops, and speakers? Types of questions include:
+1. Formulate questions you'd like respondents to answer. As a rule of thumb, only include questions that you think will result in specific actions. For example, how will you use the data you gather to inform your decisions when it comes to catering, lodging, transportation, registration, event activities/workshops, and speakers? Types of questions include: 
+2.  * Dichotomous: Do you have private health insurance? yes/no
+   * Likert-type scale: To what extent are you satisfied? 
+     * 100 percent
+     * 75 percent
+     * 50 percent
+     * 25 percent
+     * 0 percent
+   * List of items: My favorite food group is:
+     * Grains
+     * Meat
+     * Fruit and Vegetable
+     * Milk
+   * Ordinal: Sort the following according to the order of importance to you:
+     * Price
+     * Speed
+     * Cost
+   * Matrix question: Please rate the following company divisions with respect to knowledge of MS PowerPoint on a scale of 1 to 5:
 
-* Dichotomous: Do you have private health insurance? yes/no
-* Likert-type scale: To what extent are you satisfied? 
-  * 100 percent
-  * 75 percent
-  * 50 percent
-  * 25 percent
-  * 0 percent
-* List of items: My favorite food group is:
-  * Grains
-  * Meat
-  * Fruit and Vegetable
-  * Milk
-* Ordinal: Sort the following according to the order of importance to you:
-  * Price
-  * Speed
-  * Cost
-* Matrix question: Please rate the following company divisions with respect to knowledge of MS PowerPoint on a scale of 1 to 5:
-
-  * Marketing
-  * Product
-  * Operations
-  * Sales
-  * IT
-  * Finance
+     * Marketing
+     * Product
+     * Operations
+     * Sales
+     * IT
+     * Finance
 
 2. Collect the answers. This can be done face-to-face, by phone, online, or via postal mail. 
 
 3. Organize the answers into a useful format. Typically a spreadsheet is good enough to organize the data. Then it can be loaded into a statistical tool, like R, or a database for further inquiry. 
 
-### Interpreting Results
+#### Interpreting Results
 
 Use simple statistical techniques like correlation, ANOVA, or regression for further insights. You can also hire a data scientist to help interpret your results.
 
@@ -107,7 +106,7 @@ Create a visual summary of the results.
 
 Take action!
 
-### Potential Biases
+#### Potential Biases
 
 * Avoid overly sensitive questions -- you are unlikely to get a "true" response.
 * Avoid leading questions, which subtly prompt the respondent to answer in a particular way.
@@ -117,7 +116,7 @@ Take action!
 * Using emotionally loaded content can predictably skew results to a "yes" or a "no" or cause the respondent to abandon the survey if they don't identify. For example, "Where do you enjoy drinking beer?" implies that the respondent enjoys drinking beer specifically, and would yield unpredictable results at an AA meeting.
 * While conducting surveys, never ask people what they would like to pay for. Usually they lie or are simply unaware. 
 
-### Field Tips
+#### Field Tips
 
 * Keep questions simple on closed questionnaires. For example, avoid hypotheticals.
 * Ask \(and learn\) one thing at a time. You can check for correlation and causation later.

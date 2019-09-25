@@ -28,11 +28,11 @@ Even in other contexts, quite often an expert will be able to view a founder's s
 
 As a general rule, though, using third-party expertise to evaluate existing options is an anti-pattern. Experts will view the situation through assumptions that may not hold up in the data.
 
-#### Time Commitment
+#### Time Commitment and Resources
 
 15 minutes \(quick coffee meeting\) to a longer term engagement \(regular meetings over X weeks\).
 
-#### How To
+#### How to
 
 1. Seek out an expert via:
    * Google & Bing: Enter specific terms or questions you have and look at who is responding with appropriate content.
@@ -55,7 +55,7 @@ As a general rule, though, using third-party expertise to evaluate existing opti
 7. Ask for a referral to another expert in the same or related area.
 8. Use your learnings to formulate a falsifiable hypothesis, and test whether their advice applies to your specific case.
 
-### Interpreting Results
+#### Interpreting Results
 
 In general, it is best to limit yourself to experts who either
 
@@ -64,14 +64,14 @@ In general, it is best to limit yourself to experts who either
 
 Keep in mind that all advice is context-dependent. Even if an expert was successful before, the situation and competitive landscape changes over time. And despite their best intentions, an expert's advice might not be relevant to your specific case.
 
-### Potential Biases
+#### Potential Biases
 
 * If you take advice from anyone, make sure their interests are genuinely aligned with your own. Confirm there are no conflicts of interest that would affect the expert's advice. It's best to pay for impartial advice if you're unsure. 
 * Free advice may or may not be useful. You often get what you pay for. Time spent executing bad advice is still wasted time. 
 * Some topics naturally invite strong opinions. Try to get access to data that the expert used to formulate their recommendations or advice, so you can evaluate its relevance. 
 * No matter how much advice you've collected, always think for yourself.
 
-### Field Tips
+#### Field Tips
 
 * "Information is plentiful. Wisdom is rare. Ask experts to figure out what to test in your business" @LaunchTomorrow
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)

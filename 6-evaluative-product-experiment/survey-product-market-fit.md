@@ -37,7 +37,7 @@ Sean Ellis recommends sending the PMF survey question to people who have:
 * Used your product at least twice
 * Used your product in the last two weeks
 
-#### Time Commitment
+#### Time Commitment and Resources
 
 Setup form on website: .5-1 day.
 
@@ -45,7 +45,7 @@ or
 
 Prepare a longer survey containing the question below: 2-3 days \(see closed-ended survey for more details\).
 
-#### How To
+#### How to
 
 1. Optionally pre-segment your users, so that you can track how different segments respond to this survey question.
 2. Present your existing users or customers with the following survey question, either independently or as part of a larger survey:

@@ -34,9 +34,9 @@ The most significant investment of time can be in recruiting interviewees, which
 
 Costs are typically zero or very low. In many cases, interview subjects are offered a gift certificate for their time that can be anywhere from $5 to $50 USD.
 
-#### How To
+#### How to
 
-#### **Plan the Interview**
+Plan the Interview
 
 1. Define the learning goal for the interviews.
 2. Define key assumptions about the customer persona.
@@ -51,7 +51,7 @@ Costs are typically zero or very low. In many cases, interview subjects are offe
 * `Prepare a handy template to put your notes in afterwards or check on the tools to record your interview (first check legal restrictions that may apply to recordings).`
 * `Prepare any thank you gifts, e.g., gift cards.`
 
-**Conduct the Interview**
+Conduct the Interview
 
 1. _Frame_: Summarize the purpose of the interview with the customer.
 2. _Qualify_: Ask a screener question to determine if the customer is relevant to your customer persona.
@@ -59,11 +59,11 @@ Costs are typically zero or very low. In many cases, interview subjects are offe
 4. _Listen_: Let the customer talk and follow up with “what” and “how” questions.
 5. _Close_: Wrap up the interview and ask for referrals, or if applicable, a follow-up interview.
 
-**Debrief the Interview**
+Debrief the Interview
 
 * Make notes promptly; sometimes a video or audio recording can be helpful. 
 
-### Interpreting Results
+#### Interpreting Results
 
 Are you able to listen and record data based on the following?
 
@@ -77,12 +77,12 @@ Are you able to listen and record data based on the following?
 * _Emotions_**:** Is there anything specific that causes the customer to express different emotions?
 * _Measurement_**:** How is the customer measuring the cost of their problem?
 
-### Potential Biases
+#### Potential Biases
 
 * _Confirmation bias_**:** **The interviewer can be prompted to sell their vision in case the interviewee's vision differs drastically. The interviewee feels compelled out of sympathy to adjust answers to the interviewer’s expectations.**
 * _Order bias_**:** Sometimes the order in which you ask questions can affect the answers you get. Try to run questions in a different order in different interviews.
 
-### Field Tips
+#### Field Tips
 
 * [“Ask about the past. Observe the present. Forget about the future.”](http://ctt.ec/e8jbN) @TriKro
 * [“1st rule of validating your idea: Do not talk about your idea.”](http://ctt.ec/7H7fb) @CustomerDevLabs

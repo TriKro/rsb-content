@@ -31,25 +31,25 @@ By showing a specific solution to a voiced problem, you can go in much greater d
 
 This is a smoke test. Treat the prototype as a conversation piece. You are focusing on the main "happy case." Is it something users want? Could it believably address their problem? It's fine for a prototype to be ugly, as long as you use it to learn something you didn't already know.
 
-#### Time Commitment
+#### Time Commitment and Resources
 
 Varies significantly on the actual product. On the low end, it's easy to use mobile phone mockup software to show the average person on the street a mobile phone app prototype. This takes a few hours in the hands of a decent designer using software like InVision or Prototyping on Paper \(POP\).You can create a simulated version using simple materials like wood and plastic, to discuss form factors for instance. On the high end, it might take a lot of time to design and source custom parts to build a prototype that addresses a specific pain point.
 
-#### How To
+#### How to
 
 1. Roughly sketch how the product should look. This can be very simple or a full electronics blueprint. 
 2. Build or assemble the product \(manually, 3d printing, Arduinos and Raspberry Pis, sensors, breadboards, etc.\).
 3. Show it to prequalified customers who have the problem you want to address.
 
-### Interpreting Results
+#### Interpreting Results
 
 Ask lots of questions about what the user would find valuable. Hone in on how your prototype differs from how they solve their problem\(s\) currently.
 
-### Potential Biases
+#### Potential Biases
 
 You don't need to be able to mass produce the prototype to run this smoke test. Scaling requires a different set of tests. Also you don't need to be overly concerned about production costs and revenue at this stage. You just want to get an idea of user expectations.
 
-### Field Tips
+#### Field Tips
 
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 

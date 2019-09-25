@@ -42,28 +42,28 @@ This is a common pattern in enterprise lean startups, particularly with bigger c
 
 Note: This is not the same as Randy Komisar's [analog/antilog thought experiment](http://ecorner.stanford.edu/videos/2418/Analogs-and-Antilogs-Nothing-is-Revolutionary) for formulating a value proposition or identifying a problem. The goal here is to gather actual user feedback, based on something physical that approximates the final form of the product.
 
-#### Time Commitment
+#### Time Commitment and Resources
 
 Can vary widely. It depends on how long both the physical and digital forms of the product will take to build, and what exactly you are trying to test.
 
-#### How To
+#### How to
 
 1. Confirm that the current "riskiest assumption" lies in Value Proposition, Key Resources, or Cost area. 
 2. Formulate a hypothesis that implies the existence of a physical version of the product in order to conduct testing.
 3. Recruit users/customers.
 4. Validate your hypothesis.
 
-### Interpreting Results
+#### Interpreting Results
 
 Digital is not good for its own sake. Make sure that you are adding useful features and benefits as you add to the product's complexity.
 
-### Potential Biases
+#### Potential Biases
 
 Over-engineering/gold-plating: Sometimes a good physical product feature will solve the problem better than fancy software and engineering.
 
 Over-focusing on technology: If the tech is proven or low risk, test the business model first \(especially customer needs\).
 
-### Field Tips
+#### Field Tips
 
 * "A minimum viable product is not always a smaller/cheaper version of your final product." @sgblank 
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)

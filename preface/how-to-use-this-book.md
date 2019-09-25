@@ -50,11 +50,11 @@ A more detailed description of the steps normally taken to run a research or exp
 
 Links to various case studies that serve as examples and inspiration.
 
-## References
-
-A list of additional materials or resources for those who want more information.
-
 ## Tools
 
 A list of software or physical devices that can be used to execute this method.
+
+## References
+
+A list of additional materials or resources for those who want more information.
 

@@ -40,25 +40,25 @@ You may also use this method to test commitment from key partners and channel pa
 
 A few days for B2C and a few weeks for B2B, depending how quickly you can set up appointments.
 
-#### How To
+#### How to
 
 * Have a refined, confident pitch suitable for the selected audience.
 * Prepare some form of demonstration that shows your solution in its best light.
 * Put yourself in a situation where you can communicate the above uninterrupted and receive feedback.
 * Be ready to offer a suitable next step in the buying process as a test to see if they will move forward.
 
-### Interpreting Results
+#### Interpreting Results
 
 You will receive qualitative signals during and after your pitch demo where the challenge is to differentiate between who is just being nice and who is genuinely excited and why.
 
 The most important data will be who moves forward to the next stage of the buying process.
 
-### Potential Biases
+#### Potential Biases
 
 * Being able to secure a high number of demo pitches in itself is not an indication of success.
 * People may make positive comments, but if they don’t move further along the buying process you are knocking on the wrong door or need to make changes to your offering.
 
-### Field Tips
+#### Field Tips
 
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 

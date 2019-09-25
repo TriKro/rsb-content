@@ -58,7 +58,7 @@ A typical use of market research is to develop a first idea of the target popula
 
 When performed for a particular occasion \(to answer a specific question about a market size, for instance, or to get the initial big picture at the beginning of the project\), it may take 1-3 days, depending on the difficulty of gathering relevant information, the amount of information that is available, and the filtering of the obtained information.
 
-#### How To
+#### How to
 
 Where to find useful information:
 
@@ -76,17 +76,17 @@ To be specific, you have to be smart, or even crafty. For instance, you may exam
 
 Research into competitors is also a source of information -- not just their product, but also their users, marketing channels, prices, and costs \(or production methods\). This method is generative as well as evaluative, such as in indicating how you could, and when you should, differentiate your product.
 
-### Interpreting Results
+#### Interpreting Results
 
 This method can be quite extrapolative. You may resort to complex resources such as behavioral economics models, but it's better to keep it simple and allow the most space for actual experiments. Use your results to get an early idea of the market, to detect and qualify niches within that market, and to gain a broad idea of whether you should commit effort to that market. We use qualitative results to stay smart and aware and to avoid missing an important piece of information such as a disruptive trend \(e.g., when you want to launch a camera service to capture racers while self-piloted tracking drones are emerging\).
 
-### Potential Biases
+#### Potential Biases
 
 * False positives will often be due to a lack of specificity in your research. For instance, it is easy to get large numbers for potential users of an image-publication app, while the specificity of the service you have in mind \(e.g., to protect privacy or to enforce copyrights\) will drastically decrease the numbers. 
 * False positives are also due to the scale of markets that are described by the survey you use. Most often, surveys describe wide international environments while you will tackle regional markets, or niches inside this market. The mechanisms that result in the described market may be different at your scale. 
 * Confirmation biases are often obtained by suddenly importing an unfounded ratio in your population estimate that actually make the result of the whole exercise fanciful. Indeed, you have to consider the size of the population you will actually acquire out of the target population, which depends on the competition \(including indirect solutions\) and your marketing channels. If you omit the conversion rate or use one that is too whimsical, your results will be too optimistic. One of the goals of market research is to try to get a documented and realistic conversion rate. So it is important not to just figure out the size of a population having a given problem, but also to understand what part of this population is typically following such-and-such marketing channel, and what part will do so in the future.
 
-### Field Tips
+#### Field Tips
 
 * “When looking at available market surveys, take into account your product specificity” @tdagaeff 
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)

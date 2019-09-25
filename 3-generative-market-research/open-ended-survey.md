@@ -32,9 +32,9 @@ Collecting results typically takes more time and depends on the communication ch
 
 Analyzing the data can take 4-8 hours, depending on the length of the survey, the number of respondents, and the quality of responses. As answers are free text, a large amount of reading, transcribing, and synthesizing may be required.
 
-#### How To
+#### How to
 
-**Preparation**
+Preparation
 
 1. Write screening questions:
    * These are typically close-ended questions that help identify if the respondent is in the desired target segment \(e.g., “How old are you?”\).
@@ -45,20 +45,18 @@ Analyzing the data can take 4-8 hours, depending on the length of the survey, th
    * Conduct comprehension tests on survey questions. 
    * This ensures that the questions are being correctly interpreted, and can often reveal leading questions.
 
-**Distribution**
+Distribution
 
-Surveys can be sent out via any method to the target audience.
+1. Surveys can be sent out via any method to the target audience.
+2. Typical distribution methods include:
+3. * Social media
+   * Email
+   * Website pop-ups
+   * Regular mail
+   * Telephone
+   * SMS
 
-Typical distribution methods include:
-
-* Social media
-* Email
-* Website pop-ups
-* Regular mail
-* Telephone
-* SMS
-
-**Debriefing and Interpreting Results**
+#### Interpreting Results
 
 An open-ended survey is a generative research technique, and as such, be careful to interpret any input as simply ideas, not as a vote from the customer. The data is qualitative in nature.
 
@@ -72,12 +70,12 @@ For surveys that specifically solicit suggestions from users, the entire list of
 
 In the case of very large data sets, algorithmic tools such as sentiment analysis or word clouds can give additional quantitative insight, but should be used to supplement the qualitative insights, not replace them.
 
-### Potential Biases
+#### Potential Biases
 
 * Selection bias: Researchers will often fixate on qualitative comments they agree with and ignore other comments.
 * Sampling bias: Although the sample may not match the general population to be surveyed, if the data is taken as generative and not evaluative, this bias is less relevant. Any ideas generated still must be validated by an evaluative method.
 
-### Field Tips
+#### Field Tips
 
 * “You can run an open-ended survey once you know the best questions to ask. Talk to your customers to figure out the right questions.” - @TriKro
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)

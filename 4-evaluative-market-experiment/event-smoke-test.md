@@ -47,13 +47,13 @@ Events themselves are attractive as a low upfront investment product. They can b
 
 Because an event is a mini-product in and of itself, it can be used to test a number of different hypotheses around related business models. Most frequently, events help with scaling up exploratory customer discovery. They help the most with exploring customers and problems. They can also be combined with other techniques, like basic landing page smoke tests \(with a minimum audience size to confirm there is enough interest in the audience\), or combined with a service, such as concierge MVP.
 
-#### Time Commitment
+#### Time Commitment and Resources
 
 Most evening events will take 5-10 hours to organize. This will usually be enough for validation purposes. The biggest "time suck" tends to be finding a venue, particularly if you want to run a specific type of event. The event itself typically lasts 1-3 hours. The key is to make it long enough to seem valuable to the target audience.
 
 Breaks during the event are critical. They give participants time to network, go to the bathroom, and eat or drink anything you've provided. They help consolidate anything learned. From a validation POV, breaks provide you with unstructured time to interview your target audience.
 
-#### How To
+#### How to
 
 1. Find a venue that is appropriate to the type of event you want to organize.
 2. Decide what you want to charge and how to pitch the event.
@@ -63,11 +63,11 @@ Breaks during the event are critical. They give participants time to network, go
 6. Run the event. Be sure to have many unstructured conversations with attendees, in addition to the formal agenda and event goals.
 7. Follow up afterwards with a survey. You can also create buzz on social media by sharing any photos, blog posts, or other artifacts from the event.
 
-### Interpreting Results
+#### Interpreting Results
 
 Because you can use events to prove many kinds of hypotheses, it's critical to be clear what you want to learn and why it's important to you before you start organizing the event. As long as there is a clear cutoff value formulated upfront, you will find it easy to use events as a source of validation.
 
-### Potential Biases
+#### Potential Biases
 
 If using events specifically as smoke tests, you don't want to oversell the event. If your goal is to determine if there is demand around a problem, you should sell enough to make sure that the proposition is clear and easy to buy. However, a very hard sales push will distort your results. For example, if you are using:
 
@@ -76,7 +76,7 @@ If using events specifically as smoke tests, you don't want to oversell the even
 
 You won't know if you are getting a clear indicator that there is high demand, or just proof that you are a good salesperson.
 
-### Field Tips
+#### Field Tips
 
 * ["Get excited and enthusiastic when speaking at the smoke test event"](https://ctt.ec/E2p33) - @LaunchTomorrow
 * ["Prepare what you will need the day before: Name tags, signs for people to find you, camera, directions, etc."](https://ctt.ec/fef71) - @LaunchTomorrow

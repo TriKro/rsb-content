@@ -26,14 +26,14 @@ To paraphrase Thomas Watson, if you are building a for-profit business, nothing 
 
 As a smoke test, initial sales are particularly valuable when testing in the early stages. The ad copy, product packaging, and value proposition are still up for grabs in a B2C context. In a B2B context, it's often possible to tailor the product or service to the company's needs. Actual sales prove that you have a combination that works in the prospect's eyes.
 
-#### Time Commitment
+#### Time Commitment and Resources
 
 Tends to vary significantly based on cost of product and method of distribution.
 
 * At one extreme, you have a low-dollar-value product. Figuring out where to sell and place the product tends to take some time. Yet the actual purchase will tend to be an impulse buy. 
 * At the other extreme, a large enterprise sale can take months, if not years, and many meeting with multiple decision makers. For the main decision maker, it's not just a financial decision, as the success of the purchase can impact their career trajectory. 
 
-#### How To
+#### How to
 
 1. Establish contact via a channel that is working for you. Traditional techniques include cold calling, door-to-door sales, or piggy backing on existing marketing and lead generation systems \(if any\).
 2. Meet with the prospect in person.
@@ -57,20 +57,20 @@ Tends to vary significantly based on cost of product and method of distribution.
    * “Is there any reason why we can't proceed with the shipment?"
    * “If we sign the contract today, we can start work on these concerns first thing tomorrow morning. Is that something you would be willing to commit to?” 
 
-### Interpreting Results
+#### Interpreting Results
 
 If you are successful at selling the product or idea, particularly for the first time, you have proven that the product can be sold. This is independent of whether or not it delivers on the promises you made. From a business-model standpoint, you have proven a number of assumptions affecting your revenues box, should you decide to go further using this business model. From a pirate metrics standpoint, you have figured out what you needed to successfully acquire customers.
 
 This smoke test does not suggest the optimal price point for the product, or whether you can deliver it profitably \(after your costs\).
 
-### Potential Biases
+#### Potential Biases
 
 * Anchoring bias: One sale does not a business model make. A fully functioning sales system is what you ultimately need; however, a smoke test is still useful to prove that you have a sellable product.
 * Clustering illusion: It can be tempting to overgeneralize learnings from one sale. Try to make a few sales, particularly if the product is not very expensive.
 * Estimation fallacy: Underestimating the amount of time to get to that first sale.
 * Curse of knowledge: You know your product, service, or solution better than your prospects. You may overwhelm or confuse them, preventing them from buying, even though they actually need it. When fielding objections, try directly asking them whether or not they understand the proposition, or use comprehension testing to determine this.
 
-### Field Tips
+#### Field Tips
 
 * When initiating a conversation with a prospect, make small talk by observing and commenting on them or the situation.
 * Use open-ended questions to discover more about the customer and what they're looking for.

@@ -36,11 +36,11 @@ This general framework can be applied in many different areas of running a start
 
 The primary goal here is to prevent "analysis paralysis" while still providing one clear priority to make it easier to identify an immediate next step.
 
-#### Time Commitment
+#### Time Commitment and Resources
 
 15-30 minutes, depending on the number of options to evaluate.
 
-#### How To
+#### How to
 
 Ask what are three examples of the best and three of the worst of this thing \(skill, venue, performance, etc.\)? What were the consistent mindsets leading to the three best examples?
 
@@ -51,17 +51,17 @@ Ask what are three examples of the best and three of the worst of this thing \(s
 5. Sort the summary numbers from greatest to smallest, and rank all options being considered. 
 6. Identify the top option, and take action. 
 
-### Interpreting Results
+#### Interpreting Results
 
 This technique is highly dependent on subjective factors. While it seems "scientific," in fact a lot depends on the weights you assign to each option. Its primary goal is to give you _one_ option to pursue, so that you can execute on it without dwelling on which decision you ought to make. If you take action quickly, you can always change your mind later. If you don't take action at all, you won't generate a result.
 
 A scorecard may generate a result that is counterintuitive. If that is the case, then most likely the result that you wanted is the "correct" option to pursue. Going through the exercise can help bring to the surface what you already know, but can't articulate consciously.
 
-### Potential Biases
+#### Potential Biases
 
 As this technique does not gather data, it is purely a subjective ranking tool to help you take action. Even though it looks very considered and rational, it should not be confused with data-backed decision tools. The numbers used are subjective estimates.
 
-### Field Tips
+#### Field Tips
 
 * "Scorecards get you 'out of the building' and executing, if you lack the intuition to know what to do next." @LaunchTomorrow
 * "There can only be one top priority at any given time. Use a scorecard to identify yours." @LaunchTomorrow

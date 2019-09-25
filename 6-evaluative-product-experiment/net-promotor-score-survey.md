@@ -42,7 +42,7 @@ By understanding the reasons of the scores, you can determine how many people wi
 
 The survey can be sent to all customers at one time. The results can be compiled and analyzed in about a week. NPS surveys can be sent every six months or every year to determine changes as well.
 
-#### How To
+#### How to
 
 An NPS survey is simple and straightforward. You can use third-party survey companies such as Survey Monkey or traditional pen-and-paper methods. You can even just send the question via email to your customers directly.
 

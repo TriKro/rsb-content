@@ -21,11 +21,11 @@ Usability testing involves observing people trying to complete a series of tasks
 * Customers
 * Description
 
-### Time Commitment and Resources
+#### Time Commitment and Resources
 
 Usability tests with five users can be finished in half a working day with minimal resources. Tests typically require no more than five to seven users, unless the tasks are complex and involve several parties collaborating simultaneously to complete the test. Tests are often performed with extensive equipment, including full usability labs with cameras, eye tracking software, and one-way mirrors \(although this is not strictly necessary\).
 
-#### How To
+#### How to
 
 1. Prepare: Preparation is critical for usability testing since the test produces a number of potential biases in interpreting the qualitative results. At the minimum, the experimenter should have:
    * Introduction script.

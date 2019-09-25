@@ -35,7 +35,7 @@ You can also gather customer information by sending out customer satisfaction qu
 
 Depending on the amount of data that you need to crunch and data points that you want to discover, it can take from 2-3 hours to a few weeks. You should pick one or two of the most important data points to start the learning process.
 
-#### How To
+#### How to
 
 You can either acquire outside \(industry or market\) data or distill your own \(customer or product\) data. Once you identify the area that you want to test:
 
@@ -45,7 +45,7 @@ You can either acquire outside \(industry or market\) data or distill your own \
 4. Recognize and search for patterns.
 5. Draw conclusions or refine the process by going back to Step 2 \(or even Step 1 if you need to get better data\).
 
-### Interpreting Results
+#### Interpreting Results
 
 Data matters, but perspective matters more. Human beings tend to see what we want to see and draw conclusions based on our own biases.
 
@@ -53,13 +53,13 @@ To counter these biases, you can:
 1. Get outside help or another pair of eyes to interpret the data.  
 2. Get two data points that are counter to each other. \(In research methodology, that is called the control group and experimental group.\)
 
-### Potential Biases
+#### Potential Biases
 
 * Confirmation bias
 * False positives
 * Ignorance of black swans \(rare and unprecedented events that can dramatically change or determine the future outcome\)
 
-### Field Tips
+#### Field Tips
 
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 

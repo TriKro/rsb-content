@@ -6,9 +6,9 @@
 
 —_Albert Einstein_
 
-## What Are You Trying to Learn
+## What Are You Trying to Learn?
 
-In school, we’re constantly taking tests to gauge how well we’ve learned last week’s material. We cram geographic boundaries, the dates of battles, and multiplication tables into our heads, and then we spit out the results.
+In school, we’re constantly taking tests to gauge how well we learned last week’s material. We cram geographic boundaries, the dates of battles, and multiplication tables into our heads, and then we spit out the results.
 
 Sadly, those rote memorization skills used to answer preformulated questions don’t help us as entrepreneurs. When building a new business model, there is no test or quiz that we can cram for. It’s as if we sat down for our final exam and opened up the book only to find a blank piece of paper in front of us.
 

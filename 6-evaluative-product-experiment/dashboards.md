@@ -50,11 +50,11 @@ Approaches that may or may not be helpful:
 
 * AARRR: Pirate metrics can help 
 
-#### Time Commitment
+#### Time Commitment and Resources
 
 This method tends to require a significant investment of thought to decide what needs to be on each dashboard \(1-5 days\). The implementation of the dashboard itself can vary widely. If done manually, it could cost one hour a week of a junior employee's time. If automated, there would be no recurring cost, but instead a potentially significant up-front technical implementation cost. The actual cost would vary widely based on exactly which systems and data need to be visualized. There are also off-the-shelf SaaS solutions that can provide a sufficient subset of the data required to reap most of the benefits in a small company, without bearing a significant cost.
 
-#### How To
+#### How to
 
 1. Get all of the key decision-makers in one room, ideally physically \(even if it's one startup founder\).
 2. Decide what needs to be on the dashboard\(s\). What are the key metrics and drivers of the business as a whole? 

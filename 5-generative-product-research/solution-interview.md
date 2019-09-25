@@ -53,7 +53,7 @@ This is similar to initial customer discovery/problem interviews.
 * Time costs can be significant in terms of recruiting appropriate interviewees, particularly ones who currently have the problem you want to solve and who are in the target segment.
 * Financial costs: Depending on context, you can offer gift certificates or a symbolic gift if you feel it's appropriate \(such as in a B2B scenario\).
 
-#### How To
+#### How to
 
 Determine what you want to learn before conducting interviews and formulate a research hypothesis.
 

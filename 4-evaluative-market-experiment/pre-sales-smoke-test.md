@@ -29,18 +29,18 @@ Is the customer actually willing to pay money for the value proposition?
 
 ### Description
 
-#### Time Commitment
+#### Time Commitment and Resources
 
 One week to 90 days. Most successful crowdfunding pre-sales campaigns involve 30 days of pre-promotion and a 40-day campaign duration \(70 days total\).
 
-#### How To
+#### How to
 
 * Create your MVP \(renderings or simulations, promotional media, pricing, testimonials, etc.\).
 * Establish your pre-sales ecommerce platform.
 * Promote and launch your campaign.
 * Measure results \(conversions and total orders\).
 
-### Interpreting Results
+#### Interpreting Results
 
 Eric Reis: "“If you’re worried about disappointing some potential customers – don’t be. Most of the time, the experiments you run will have a zero percent conversion rate – meaning no customers were harmed during the making of this experiment.
 
@@ -50,12 +50,12 @@ And if you get tons of people trying to take you up on your offer – congratula
 
 Hopefully that will take some of the sting out of the fact that you had to engage in a little trickery.”
 
-### Potential Biases
+#### Potential Biases
 
 * Confirmation bias
 * False Negative: You might be targeting your smoke test with an invalid target audience
 
-### Field Tips
+#### Field Tips
 
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 

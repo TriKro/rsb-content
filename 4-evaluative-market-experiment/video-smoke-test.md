@@ -56,13 +56,13 @@ Then some thought and planning needs to be put into promotion. In particular, ch
 
 To some extent, this technique is also embedded in crowdfunding platforms like Kickstarter and Indiegogo.
 
-#### Time Commitment
+#### Time Commitment and Resources
 
 Depends on the expected production value of the video. Basic videos can be recorded and edited in 1-2 days; however, there is always the risk that the video will fall short because it doesn't deliver on one of the key criteria above. A full production can take 1-3 weeks.
 
 To be effective, promotion planning starts a few weeks before posting. Actual work required depends on how much you want to promote the video to get valid test results. At a minimum, you'd want to schedule at least five working days. More realistically, it requires at least a part-time effort of a few hours a day from idea to video launch.
 
-#### How To
+#### How to
 
 1. First define your hypothesis, particularly your success criteria and the metric you want to test. 
 2. Assuming its referral rate, determine how exactly you are going to measure and track this rate.
@@ -83,15 +83,15 @@ The following is adapted from [Tim Ferriss' detailed breakdown](http://tim.blog/
 7. Launch/Promote: Try to get it out in front of as many \(relevant\) prospects as possible.
 8. Analyze: Tally your metrics and figure out what referral rate you achieved.
 
-### Interpreting Results
+#### Interpreting Results
 
 Referral rate is difficult to accurately track, because most referrals \(93 percent\) in traditional businesses happen offline. Your best bet is to track aggregate exposure and then total number of referrals. If you only need a high-level metric, this will be enough to pass/fail your original hypothesis.
 
-### Potential Biases
+#### Potential Biases
 
 View count vanity: Views from people outside your intended target audience is a vanity metric.
 
-### Field Tips
+#### Field Tips
 
 * "Keep your video concise and snappy, even when doing a video smoke test." @LaunchTomorrow 
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)

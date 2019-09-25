@@ -28,23 +28,23 @@ There is no predefined script for dogfooding, and it is not a formal quality ass
 
 Companies that do not use their own products and services are sometimes criticized, [in some cases very publicly](https://www.cnet.com/news/googles-eric-schmidt-why-i-love-my-blackberry/).
 
-### **Time Commitment and Resources** 
+#### **Time Commitment and Resources** 
 
 If team members regularly encounter the use case of the product, then there is no time commitment or resources necessary aside from having a notebook and writing down the results.
 
 If the use case is infrequent or complex \(such as for booking and taking a vacation using AirBnB\), then dogfooding can require a substantial use of time.
 
-### How To
+#### How to
 
-#### Preparation
+Preparation:
 
 Make sure you have a place to take notes that is easily accessible and won’t interrupt your workflow too much.
 
-#### Research
+Research:
 
 Simply use the product in your day-to-day work. Take notes whenever something works surprisingly well or fails to live up to expectations. Record any additional insights or ideas that occur while using the product. Note any time when the workflow is interrupted or another service is needed to finish the task.
 
-#### Debriefing and Interpreting Results
+Debriefing and Interpreting Results:
 
 Be careful to interpret the results as generative and not evaluative. The makers of a product have an intimate knowledge of the product design and likely cannot capture the uneducated user’s perspective.
 

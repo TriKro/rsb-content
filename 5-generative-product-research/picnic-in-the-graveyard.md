@@ -32,13 +32,13 @@ The goal of this technique is to identify a unique way to angle a product, so th
 
 With this technique, you are aiming to construct a fuller picture of what's been tried in the past to identify potential landmines. This helps navigate a similar space, but with the benefit of the previous founders' experience. It may help generate ideas on the product side, such as in terms of feature set. It may also help generate ideas about targeting to a different market segment, or any of the ten other pivots in Eric Reis' _The Lean Startup_.
 
-#### Time Commitment
+#### Time Commitment and Resources
 
 * Desk research: 1-2 days.
 * Customer development: Similar to customer discovery interviews.
 * Founder interviews: It depends on how difficult it is to find contact details for former founders. It is probably a good idea to timebox contact detail searches. Actual timebox size will depend on how useful/helpful you think advice would be from that founder. For example, choose a timebox of one day per founder if there were a few startups similar to yours. After that, it's similar to customer discovery interviews.
 
-#### How To
+#### How to
 
 1. Perform some desk research \(such as Google\) to identify previous attempts at entering a similar market with a similar product to your product/product idea. Depending on the idea type, you may also find it useful to ask your local librarian if they can help you find relevant case studies. 
 2. Use social media platforms to seek out customers of these previous companies. Look for "Likes" of the product/company name on Facebook, or old tweets mentioning the company. 

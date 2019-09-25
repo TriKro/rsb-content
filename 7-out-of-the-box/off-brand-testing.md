@@ -35,11 +35,11 @@ Alternatively, if a company or brand has a bad association within a particular s
 
 Another common application of this approach is to launch an app in an app store in a similar country to your final target market. Tongue-in-cheek, this technique is referred to in Silicon Valley as "test in Canada."
 
-#### Time Commitment
+#### Time Commitment and Resources
 
 Negligible, as this is done alongside other techniques mentioned in the startup realbook. For example, on a landing page smoke test, you'd avoid using corporate logos, color, or fonts that could hint at the identity of the experimenter.
 
-### Interpreting Results
+#### Interpreting Results
 
 Off-brand testing is similar to:
 
@@ -48,7 +48,7 @@ Off-brand testing is similar to:
 
 As this is a technique used to reduce bias, there are no major additional biases. It's worth noting that you can still go overboard with selling instead of validating, even without branding. There are a number of techniques that will influence the outcome but will not necessarily tell you about true demand. For example, heavy scarcity tactics will increase "sales," but will not help you understand the underlying demand. On the flip side, having too many options will depress response.
 
-### Field Tips
+#### Field Tips
 
 * "Fight the urge to throw a big bang corporate-style launch when validating an idea using off-brand testing. It works, and it gives you data you can stake your career on." --@LaunchTomorrow
 * "There is a time for brand compliance, security, and all of the other goodies you're used to. First do a smoke test using off-brand testing" --@LaunchTomorrow

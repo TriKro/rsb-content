@@ -56,13 +56,13 @@ Testing more than one thing at a time, such as a headline and call to action, is
 
 Once you've concluded the test, you should update your product and/or site with the desired content variation\(s\) and remove all elements of the test as soon as possible.
 
-#### Time Commitment
+#### Time Commitment and Resources
 
 A/B testing is not an overnight project. Depending on the amount of traffic you get, you might want to run tests for anywhere from a few days to a couple of weeks. And you’ll only want to run one test at a time for the most accurate results. 
 
 Considering the impact A/B testing can have on your bottom line, though, it’s worth taking a few weeks to properly conduct tests. Test one variable at a time, and give each test sufficient time to run.
 
-#### How To
+#### How to
 
 1. Define the question you want to answer: "Why is the bounce rate of my website higher than industry standard?" Start an A/B test by identifying a goal for your company, such as "Reduce bounce rate."
 2. Do background research: Understand customer/consumer behavior. For websites you can use Google Analytics and any other analytics tools. For other purposes you can use consumer behavior analytics if they are available. Construct a hypothesis: define the hypothesis you want to test in a concise and measurable manner, such as "Adding more links in the footer will reduce the bounce rate."
@@ -72,13 +72,13 @@ Considering the impact A/B testing can have on your bottom line, though, it’s 
 6. Analyze data and draw conclusions: If the footer with more links reduces bounce rate more than the target set, then you can conclude that an increased number of links in the footer is one of the factors that reduces bounce. If there is no meaningful difference in bounce, then go back to Step 3 and construct a new hypothesis.
 7. Report results to all concerned: Let others in marketing, IT, and UI/UX know of the test results and insights generated.
 
-### Interpreting Results
+#### Interpreting Results
 
 We must set from the beginning the significant difference \(practically significant\), that is, what difference between the version will lead to change. This decision is based on several factors, including investment of the changes and periodicity of changes. For online testing, a 1-2 percent difference is enough to justify the change. For offline testing \(such as new medicine or a new hardware product\), the difference to make the change beneficial can be around a 10-15 percent difference in magnitude.
 
 We must ensure that what has been observed is repeatable, and not an isolated case. The size of the experiment must be constructed in a way that the statistical significance bar is lower than the practical significance.
 
-### Potential Biases
+#### Potential Biases
 
 It is important to note that if segmented results are expected from the A/B test, the test should be properly designed at the outset to be evenly distributed across key customer attributes, such as gender. That is, the test should both \(a\) contain a representative sample of men vs. women, and \(b\) assign men and women randomly to each “treatment” \(treatment A vs. treatment B\). Failure to do so could lead to experiment bias and inaccurate conclusions being drawn from the test.
 
@@ -90,7 +90,7 @@ A/B testing is not so good for testing:
 * Too many changes, as the results will not be conclusive.
 * If something is missing \(such as feature, style, information\).
 
-### Field Tips
+#### Field Tips
 
 * [“Keep your A/B Testing variations to a minimum to ensure meaningful results”](http://ctt.ec/bJa0R) @sircastel
 * [“Define your metrics and minimum success rate before running A/B Testing”](http://ctt.ec/4xpy1) @sircastel

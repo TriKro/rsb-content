@@ -23,11 +23,11 @@ The Wizard of Oz \(WOZ\) test involves one or more individuals simulating fully 
 
 The WOZ test is a well-known experiment from the 1970s. It involves one or more humans, so-called wizards, who manually simulate the functionality of a product. However, the wizards are hidden so that the user does not know that someone is manually doing the work.
 
-#### Time Commitment
+#### Time Commitment and Resources
 
 WOZ is not a "quick and dirty" prototyping method, as it requires a high commitment of resources. Depending on the test, there can be more than one wizard interacting "behind the curtains" with the customers. The time commitment also heavily depends on the task domain and the number of users exposed to the product. For instance, categorizing images by a wizard is easier and faster than transcribing voice for speech recognition. Hence the time commitment can vary from days to several weeks.
 
-#### How To
+#### How to
 
 1. Build a prototype of your product without the fancy algorithms/technology.
 2. Allocate at least one person \(the “Wizard” behind the curtains\) who simulates the interactive behavior of the product.

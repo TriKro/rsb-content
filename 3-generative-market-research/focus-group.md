@@ -49,11 +49,11 @@ According to B2BInternational.com, typical market research situations that might
 * To explore and identify issues of satisfaction for customers, staff, or suppliers
 * To explore perceptions of brand and service elements associated with the brand
 
-#### Time Commitment
+#### Time Commitment and Resources
 
 Three days prep \(much less if you outsource participant recruitment\) + 90 minutes per session + 1-4 hours to collate results
 
-#### How To
+#### How to
 
 1. Pick a single, clear purpose. A single product or issue.
 2. Narrow down your target audience. Pick and talk to one group at a time.
@@ -92,7 +92,7 @@ Three days prep \(much less if you outsource participant recruitment\) + 90 minu
 
 Use techniques to match patterns in responses, such as affinity mapping using post-its. Also, take note of language used by customers as well as any ideas generated during the discussion as a source of inspiration for further evaluation.
 
-### Potential Biases
+#### Potential Biases
 
 * Confirmation bias: Don't use focus groups to tell you what you already know. Listen for divergent opinions or the unexpected.
 * False positive: Your focus group may tell you things that aren't true for your market as a whole.
@@ -101,7 +101,7 @@ Use techniques to match patterns in responses, such as affinity mapping using po
 * Unrepresentative sampling: Choosing the wrong participants devalues any insights you gain, as they won't be actionable.
 * Ulterior motives: Don't turn a focus group into a PR or sales opportunity. It will skew your results.
 
-### Field Tips
+#### Field Tips
 
 * If you are considering focus groups, consider whether you can achieve the same with customer development interviews. 
 * Start focus groups with simple questions that build participants' comfort level.

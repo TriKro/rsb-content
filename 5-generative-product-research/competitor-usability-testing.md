@@ -10,7 +10,7 @@ Competitor usability testing is observing our target market using a competitor�
 
 This is almost identical to -- but not to be confused with -- competitive usability testing, which tests an existing product against existing competitors to establish which product is “winning.”
 
-See also Usability Testing.
+See Usability Testing.
 
 ### Helps Answer
 
@@ -31,21 +31,21 @@ Where usability testing is an evaluative test of our own product and seeks to ve
 
 For example, to generate ideas on how to create a better U.S. tax experience, we could conduct usability testing on tax preparation in Sweden or India. The results and observations would not tell us whether the U.S. tax experience is good \(it is not\), but it may give us ideas around whether or not to improve the comprehensibility of the tax code, the tax submission process, or the tax rules themselves.
 
-#### Time Commitment
+#### Time Commitment and Resources
 
 See Usability Testing
 
-#### How To
+#### How to
 
 See Usability Testing, but use a competitor’s products or a substitute good. For maximum idea generation, use different products.
 
-### Interpreting Results
+#### Interpreting Results
 
 Any results should be taken as generative rather than evaluative. Ideas generated tend to be highly unstructured and piecemeal, so they must be properly integrated in a viable solution.
 
 Before building a solution, any ideas should be tested via alternative generative product research methods such as solutions interviews or concierge testing.
 
-### Field Tips
+#### Field Tips
 
 * “Don’t reinvent the wheel -- figure out what’s wrong with walking.” - @TriKro
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)

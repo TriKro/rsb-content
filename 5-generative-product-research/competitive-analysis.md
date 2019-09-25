@@ -32,7 +32,7 @@ As you are defining your idea, you need to conduct research to paint a picture o
 
 Initially 1-2 days, and then keep adding on and performing regular scans of the market.
 
-#### How To
+#### How to
 
 The typical way to display a competitive analysis has been to plot performance on an X/Y graph with all the competitors located at the bottom left and your company at the top right. This method is typical when existing companies launch a new product into an existing crowded market place, and is therefore not as relevant for startups or existing companies looking to create new markets \(true innovation\). 
 
@@ -56,19 +56,19 @@ When doing competitive research on other web-based companies, here are a few add
 * Quantcast to get a rough feel for the demographics of their average customer.
 * AppData \(if they have a Facebook or mobile app\) to see how engaged their users are.
 
-### Interpreting Results
+#### Interpreting Results
 
 By understanding the key players in your space and adjacent segments, you will increase your domain knowledge around your business. If you can’t find any similar organization or research being conducted, it means you have not looked hard enough, as it is highly unlikely that no one in the entire world is working on the same or a very similar business idea. On the flip side, uncovering many competitors doesn't mean you should not continue. The discovery will help you to refine your offering and business model for a market that is growing overall.
 
 A rising tide lifts all boats. So focus on being one of the boats, and don't worry about how to dominate the entire segment from Day One. Competitors can become key partners in helping each other get off the ground in a new market. They can also give you clues as to where you can gain initial traction in the market.
 
-### Potential Biases
+#### Potential Biases
 
 * Confirmation Bias: Entrepreneurs naturally don’t want to find competitors, so it's easy to put on our blinders and simply focus on our own vision. Make sure your methods are exhaustive, compelling, and repeated to keep up to date with new entrants. Get external/neutral help to make the analysis to avoid this kind of bias.
 * The Numbers: Don’t worry about too few or too many players. Learn how you can fit into the space that is being created. Know your strengths and weaknesses against each player. 
 * Too Local: Don’t limit your search to your local area. For most new business ideas, we need to be taking a global perspective, which means doing global research. 
 
-### Field Tips
+#### Field Tips
 
 * Competitor Analysis should color your thinking, create the appropriate context, and help educate you on what’s going on @byosko
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part5-generative_product_research/realbook@kromatic.com)
