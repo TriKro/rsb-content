@@ -28,15 +28,15 @@ Customer discovery interviews are conducted with potential customers to gain ins
 
 Typical rounds of customer discovery interviews require at least five separate interviews with individual customers, but some entrepreneurs advocate doing as many as 100 before drawing a conclusion.
 
-The time commitment can entail as little as 15 minutes per interview for consumer products, to a two hour conversation for B2B sales.
+The time commitment can entail as little as 15 minutes per interview for consumer products, to a two-hour conversation for B2B sales.
 
-The most significant investment of time can be in recruiting interviewees, which can again vary from a five minute walk to the local coffeeshop to a lengthy cold outreach program via LinkedIn \(in the case of an entrepreneur with no market access into a highly specialized vertical\).
+The most significant investment of time can be in recruiting interviewees, which can again vary from a five-minute walk to the local coffee shop to a lengthy cold outreach program via LinkedIn \(in the case of an entrepreneur with no market access into a highly specialized vertical\).
 
 Costs are typically zero or very low. In many cases, interview subjects are offered a gift certificate for their time that can be anywhere from $5 to $50 USD.
 
 #### How to
 
-Plan the Interview
+Plan the Interview:
 
 1. Define the learning goal for the interviews.
 2. Define key assumptions about the customer persona.
@@ -51,15 +51,15 @@ Plan the Interview
 * `Prepare a handy template to put your notes in afterwards or check on the tools to record your interview (first check legal restrictions that may apply to recordings).`
 * `Prepare any thank you gifts, e.g., gift cards.`
 
-Conduct the Interview
+Conduct the Interview:
 
 1. _Frame_: Summarize the purpose of the interview with the customer.
 2. _Qualify_: Ask a screener question to determine if the customer is relevant to your customer persona.
 3. _Open_: Warm-up questions get the customer comfortable talking. 
-4. _Listen_: Let the customer talk and follow up with “what” and “how” questions.
+4. _Listen_: Let the customer talk, and follow up with “what” and “how” questions.
 5. _Close_: Wrap up the interview and ask for referrals, or if applicable, a follow-up interview.
 
-Debrief the Interview
+Debrief the Interview:
 
 * Make notes promptly; sometimes a video or audio recording can be helpful. 
 
@@ -79,7 +79,7 @@ Are you able to listen and record data based on the following?
 
 #### Potential Biases
 
-* _Confirmation bias_**:** **The interviewer can be prompted to sell their vision in case the interviewee's vision differs drastically. The interviewee feels compelled out of sympathy to adjust answers to the interviewer’s expectations.**
+* _Confirmation bias_**:** The interviewer can be prompted to sell their vision in case the interviewee's vision differs drastically. The interviewee feels compelled out of sympathy to adjust answers to the interviewer’s expectations.
 * _Order bias_**:** Sometimes the order in which you ask questions can affect the answers you get. Try to run questions in a different order in different interviews.
 
 #### Field Tips
