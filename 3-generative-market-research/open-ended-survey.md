@@ -6,7 +6,7 @@
 
 ### In Brief
 
-An open-ended survey asks a fixed set of questions, usually via a mass communication channel such as an email or website pop-up. Answers are not constrained as in the case of multiple choice or check boxes, but are free-text responses in which the customer can choose the length and detail of their answer.
+An open-ended survey asks a fixed set of questions, usually via a mass-communication channel such as an email or website pop-up. Answers are not constrained as in the case of multiple choice or check boxes, but are free-text responses in which the customer can choose the length and detail of their answer.
 
 ### Helps Answer
 
@@ -28,28 +28,28 @@ An open-ended survey asks a fixed set of questions, usually via a mass communica
 
 Surveys can be quick to write and execute, often taking only 1-2 hours to set up. However, designing effective questions that don’t introduce biases into customers' answers can require a high degree of skill, multiple revisions, and even comprehension tests run on the survey.
 
-Collecting results typically takes more time and depends on the communication channels available to distribute the survey. Response rates can vary from one percent to 20 percent on a survey sent to existing customers, depending on the level of customer engagement, so large numbers of target customers and a good deal of time may be required to collect data.
+Collecting results typically takes more time and depends on the communication channels available to distribute the survey. Response rates can vary from 1 to 20 percent on a survey sent to existing customers, depending on the level of customer engagement, so large numbers of target customers and a good deal of time may be required to collect data.
 
 Analyzing the data can take 4-8 hours, depending on the length of the survey, the number of respondents, and the quality of responses. As answers are free text, a large amount of reading, transcribing, and synthesizing may be required.
 
 #### How to
 
-Preparation
+Preparation:
 
-1. Write screening questions:
-   * These are typically close-ended questions that help identify if the respondent is in the desired target segment \(e.g., “How old are you?”\).
+1. Write screening questions.
+   * These are typically closed-ended questions that help identify if the respondent is in the desired target segment \(e.g., “How old are you?”\).
    * A few leading questions can be placed in a survey to identify “professional survey respondents” who will lie to be included in a survey or have a chance to participate in a follow-up research project for cash.
-2. Write questions:
+2. Write questions.
    * Questions should be non-leading and non-hypothetical. 
    * Asking for anecdotes or historical information can generate more concrete insights. 
    * Conduct comprehension tests on survey questions. 
    * This ensures that the questions are being correctly interpreted, and can often reveal leading questions.
 
-Distribution
+Distribution:
 
 1. Surveys can be sent out via any method to the target audience.
 2. Typical distribution methods include:
-3. * Social media
+   * Social media
    * Email
    * Website pop-ups
    * Regular mail

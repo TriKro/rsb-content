@@ -79,8 +79,8 @@ Are you able to listen and record data based on the following?
 
 #### Potential Biases
 
-* _Confirmation bias_**:** The interviewer can be prompted to sell their vision in case the interviewee's vision differs drastically. The interviewee feels compelled out of sympathy to adjust answers to the interviewer’s expectations.
-* _Order bias_**:** Sometimes the order in which you ask questions can affect the answers you get. Try to run questions in a different order in different interviews.
+* Confirmation bias**:** The interviewer can be prompted to sell their vision in case the interviewee's vision differs drastically. The interviewee feels compelled out of sympathy to adjust answers to the interviewer’s expectations.
+* Order bias**:** Sometimes the order in which you ask questions can affect the answers you get. Try to run questions in a different order in different interviews.
 
 #### Field Tips
 

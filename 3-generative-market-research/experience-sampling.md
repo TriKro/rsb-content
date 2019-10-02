@@ -26,7 +26,7 @@ This method is used to get information about a participant's daily behaviors, th
 
 ### Description
 
-The key to experience sampling is asking the right questions. Be especially careful with phrasing, since you will be asking the question over and over again. This method makes most sense when you want to solve a frequently reoccurring problem. You get the most useful and viable input when asking about repeated behavior and, more specifically, the last time it occurred.
+The key to experience sampling is asking the right questions. Be especially careful with phrasing, since you will be asking the question over and over again. This method makes most sense when you want to solve a frequently reoccurring problem. You get the most useful and viable input when asking about repeated behavior, and more specifically, the last time it occurred.
 
 #### Time Commitment and Resources
 
@@ -36,23 +36,23 @@ There are three dimensions to expanding your data pool: How many times a day are
 
 The recruiting process will often take a lot of time since only participants who are part of your target group can ensure valuable data. That’s why you will need to create a screener to make sure the participants qualify for your target group. How long the recruiting takes depends on how many participants you want, and could range from one day to multiple days. One fast and cheap way to find them is to search social media settings that correspond to the theme of your study.
 
-If you plan on amassing a large amount of data, you should have a team ready to analyze that data. Aim for a couple of analysis sessions, each after a certain amount of data is obtained. The first session will take the longest -- depending on the amount of data, it could range from two hours to a day.
+If you plan on amassing a large amount of data, you should have a team ready to analyze that data. Aim for a couple of analysis sessions, each after a certain amount of data is obtained. The first session will take the longest — depending on the amount of data, it could range from two hours to a day.
 
 You should offer your participants some kind of incentive. The amount depends on the number of questions answered, and should range from $5 to $50 \(or something of similar value, like a coupon\).
 
 #### How to
 
-Preparation
+Preparation:
 
 * Carefully phrase the question.
 * Make sure the answering process takes no more than a minute.
-* Plan how often you want to send alerts -- how many times a day and distribution over the days. Be careful that the frequency doesn't lead to the perception of being nagged. If the user hasn't completed the behavior, another alert may create an undesirable effect.
-* Choose your medium of contact -- SMS, phone, email, app, etc.
+* Plan how often you want to send alerts, both how many times a day and distribution over the days. Be careful that the frequency doesn't lead to the perception of being nagged. If the user hasn't completed the behavior, another alert may create an undesirable effect.
+* Choose your medium of contact — __SMS, phone, email, app, etc.
 * Plan how to collect the data; a spreadsheet is common.
 * Decide how many participants you want and start recruiting as soon as possible.
 * Plan the analysis according to the expected amount of data, team size, process, etc.
 
-Finding Participants
+Finding Participants:
 
 * Use a screener to select relevant participants.
 * Identify participant criteria and formulate questions accordingly. If possible, use quantifying questions \(e.g., how often the participant does something\).
@@ -66,14 +66,14 @@ Start Collecting Data
 
 Remember to thank the participants for each participation.
 
-Analysis
+Analysis:
 
 * Check the first set of answers to see if they are sufficient for your research. If necessary, expand your questions or explain to participants the level of detail you need.
 * Check if the questions are correctly understood. If necessary, adjust your questions or correct individual participants.
 * Begin the analysis as soon as possible; do not wait until you have collected all the data.
 * Eyeball the data to get a general impression.
 * Decide on categories to help you organize the data. 
-* Adjust categories during the process if necessary -- split if too big, combine if too small.
+* Adjust categories during the process if necessary — split if too big, combine if too small.
 * Clean the data of answers that are not useful as you run across them.
 * If you analyze in a team, work on the first 50-100 data points together, deciding on categories and classifying the answers.
 * Distribute the remaining data among the team for classification; answers may match multiple categories.
