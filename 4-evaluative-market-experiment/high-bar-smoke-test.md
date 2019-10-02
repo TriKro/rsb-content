@@ -6,7 +6,7 @@
 
 ### In Brief
 
-A High Bar test helps to gauge the customer’s **willingness to pay without using any form of monetary payment.** This particular form of smoke test is focused on having the customer go through a set of activities containing abnormal amounts of usability friction \(e.g., a very long, complicated signup form\) to gauge the customer’s desire for a particular solution. This can be combined with additional "pre-qualifying" to ensure that the customers who do take the action are exactly the right kind of customer for the product.
+A high bar test helps to gauge the customer’s willingness to pay without using any form of monetary payment. This particular form of smoke test is focused on having the customer go through a set of activities containing abnormal amounts of usability friction \(e.g., a very long, complicated signup form\) to gauge the customer’s desire for a particular solution. This can be combined with additional "pre-qualifying" to ensure that the customers who do take the action are exactly the right kind of customer for the product.
 
 ### Helps Answer
 
@@ -51,19 +51,18 @@ Offline: Depends on your existing approach/processes, and what you want to learn
 2. Determine the current conversion rate on your existing signup process.
    * Make it clear exactly how this is calculated, i.e., what constitutes a conversion event, particularly if you are doing it manually.
    * Also be clear on the ideal prospect, i.e., your near-miss prospects don't count if they fill out the form.
-3. Add some "friction" to the process in the form of additional form fields or introduce an application process.
+3. Add some "friction" to the process in the form of additional form fields, or introduce an application process.
    * If you have enough traffic, you can try to set this up as an A/B split test.
 4. Once the timebox expires, compare your conversion rate. 
 
 #### Interpreting Results
 
-This type of smoke test requires a lot of self-awareness and accountability, even compared to other smoke tests. If you get an unexpected result, there is a temptation to question your previous assumptions.
-
-As with all smoke tests, do not ask about future behavior.
+* This type of smoke test requires a lot of self-awareness and accountability, even compared to other smoke tests. If you get an unexpected result, there is a temptation to question your previous assumptions.
+* As with all smoke tests, do not ask about future behavior.
 
 #### Potential Biases
 
-* Ambiguity: Even more so than with other test types, it is critical to be clear upfront what "counts" and what doesn't. 
+* Ambiguity: Even more so than with other test types, it is critical to be clear up front what "counts" and what doesn't. 
 * Backfire effect: The reaction to disconfirming evidence by strengthening one's previous beliefs.
 
 #### Field Tips

@@ -31,17 +31,17 @@ The fake door or 404 page test is a quantitative validation method that is usefu
 
 The idea of this test is to build a fake advertisement or button on a website to gauge the interest of potential users by looking at the clickthrough rate. The fake door could link to a “coming soon” page and prompt the user to add their email address to be notified when the product or feature is available.
 
-#### Advantages
+Advantages:
 
 An idea can be quickly validated without spending a lot of time and money on development. Data is generated on users' actual behavior rather than asking them if they would be interested.
 
-#### Ethics
+Ethics:
 
 Fake door testing can be thought of as tricking customers and decreasing the credibility of the product or business. When used carefully and in moderation, it can save time and money and lead to the development of a better product.
 
 Clear communication that the feature or product is in development can prevent the user becoming upset that the product or feature isn’t available.
 
-#### Internal and External Fake Doors
+Internal and External Fake Doors:
 
 The internal fake door is great for testing if a potential new feature appeals to current users. Usually a link or button is created on a website for this new function.
 
@@ -57,10 +57,10 @@ Fake doors are not suitable for testing your minimum viable product and essentia
 
 #### Time Commitment and Resources
 
-* 1 hour to formulate a hypothesis. 
-* 1-4 hours to create the fake doors, depending on the type.
+* 1 hour to formulate a hypothesis 
+* 1-4 hours to create the fake doors, depending on the type
 * 1-10 days to generate enough traffic for a representative sample size \(depending on the amount of traffic or money you’re willing to spend\)
-* 1 hour to evaluate and write down learnings. 
+* 1 hour to evaluate and write down learnings
 
 #### How to
 

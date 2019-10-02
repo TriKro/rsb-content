@@ -12,7 +12,7 @@ Closed-ended surveys help you converge on what's relevant in great detail, parti
 
 * What is the breakdown of client concerns/problems/preferences in terms of percent of all clients in a segment?
 * How X varies with Y \(e.g., how many part-time students find advanced calculus challenging?\).
-* What patterns emerge over time? \(If repeated over time.\)
+* What patterns emerge over time \(if repeated over time\)?
 * Ranking questions like: What is the order of priority? Who/what is the best option?
 * What provides the most satisfaction?
 
@@ -52,16 +52,15 @@ Varies significantly with the survey length and methodology chosen. It can take 
 
 #### How to
 
-1. Be very clear what you want to learn up-front when designing the questionnaire. For example, a survey would have very different questions for each of these goals:
+1. Be very clear what you want to learn up-front when designing the questionnaire. Usually this goal will flow from your current overarching goal in the business. Ideally you should be able to write out the goal of the survey in one sentence. For example, a survey would have very different questions for each of these goals:
+
    * Discovering user problems 
    * Improving an existing product/UX
    * Keeping track of user satisfaction \(as a proxy for referrals\)
    * Improving customer service
 
-Usually this goal will flow from your current overarching goal in the business. Ideally you should be able to write out the goal of the survey in one sentence.
-
-1. Formulate questions you'd like respondents to answer. As a rule of thumb, only include questions that you think will result in specific actions. For example, how will you use the data you gather to inform your decisions when it comes to catering, lodging, transportation, registration, event activities/workshops, and speakers? Types of questions include: 
-2.  * Dichotomous: Do you have private health insurance? yes/no
+2. Formulate questions you'd like respondents to answer. As a rule of thumb, only include questions that you think will result in specific actions. For example, how will you use the data you gather to inform your decisions when it comes to catering, lodging, transportation, registration, event activities/workshops, and speakers? Types of questions include: 
+   * Dichotomous: Do you have private health insurance? yes/no
    * Likert-type scale: To what extent are you satisfied? 
      * 100 percent
      * 75 percent
@@ -78,7 +77,6 @@ Usually this goal will flow from your current overarching goal in the business. 
      * Speed
      * Cost
    * Matrix question: Please rate the following company divisions with respect to knowledge of MS PowerPoint on a scale of 1 to 5:
-
      * Marketing
      * Product
      * Operations
@@ -86,31 +84,25 @@ Usually this goal will flow from your current overarching goal in the business. 
      * IT
      * Finance
 
-2. Collect the answers. This can be done face-to-face, by phone, online, or via postal mail. 
+3. Collect the answers. This can be done face-to-face, by phone, online, or via postal mail.
 
-3. Organize the answers into a useful format. Typically a spreadsheet is good enough to organize the data. Then it can be loaded into a statistical tool, like R, or a database for further inquiry. 
+4. Organize the answers into a useful format. Typically a spreadsheet is good enough to organize the data. Then it can be loaded into a statistical tool, like R, or a database for further inquiry. 
 
 #### Interpreting Results
 
-Use simple statistical techniques like correlation, ANOVA, or regression for further insights. You can also hire a data scientist to help interpret your results.
-
-Be sure that you have enough respondents to be able to use rigorous tools. Check your sample size as a whole, but also for each subgroup. If you don't have enough within a segment, you can't make a statistically informed statement about that group of people.
-
-Based on your responses, check to see if any of the questions were too obviously worded or confusing.
-
-Look at overall scores. Compare average answers to a benchmark or predetermined expectations.
-
-Also look at the distributions of responses. Are they normally distributed? Skewed? A power law distribution \(i.e., 80/20\)?
-
-Create a visual summary of the results.
-
-Take action!
+* Use simple statistical techniques like correlation, ANOVA, or regression for further insights. You can also hire a data scientist to help interpret your results.
+* Be sure that you have enough respondents to be able to use rigorous tools. Check your sample size as a whole, but also for each subgroup. If you don't have enough within a segment, you can't make a statistically informed statement about that group of people.
+* Based on your responses, check to see if any of the questions were too obviously worded or confusing.
+* Look at overall scores. Compare average answers to a benchmark or predetermined expectations.
+* Also look at the distributions of responses. Are they normally distributed? Skewed? A power law distribution \(i.e., 80/20\)?
+* Create a visual summary of the results.
+* Take action!
 
 #### Potential Biases
 
-* Avoid overly sensitive questions -- you are unlikely to get a "true" response.
+* Avoid overly sensitive questions — you are unlikely to get a "true" response.
 * Avoid leading questions, which subtly prompt the respondent to answer in a particular way.
-  * "Are you for or against an increase in tobacco tax rates?"
+  * "Are you for or against an increase in tobacco tax rates?" \(Non-leading\)
   * "Are you in favor of increasing tobacco tax rates to protect our children's health?" \(Leading\)
 * Take into account that your respondents will often not want to admit to unsavory or socially undesirable behavior or preferences, particularly if they don't feel safe or the results aren't confidential. 
 * Using emotionally loaded content can predictably skew results to a "yes" or a "no" or cause the respondent to abandon the survey if they don't identify. For example, "Where do you enjoy drinking beer?" implies that the respondent enjoys drinking beer specifically, and would yield unpredictable results at an AA meeting.
@@ -120,7 +112,7 @@ Take action!
 
 * Keep questions simple on closed questionnaires. For example, avoid hypotheticals.
 * Ask \(and learn\) one thing at a time. You can check for correlation and causation later.
-* Allow the respondent the option of answering with "not appropriate"/"don’t know"/"have no strong feelings".
+* Allow the respondent the option of answering with "not appropriate"/"don’t know"/"have no strong feelings."
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

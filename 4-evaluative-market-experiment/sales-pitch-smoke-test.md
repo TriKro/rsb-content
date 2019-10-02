@@ -6,7 +6,7 @@
 
 ### In Brief
 
-Conducting a sales pitch as a smoke test is when an entrepreneur pitches a value proposition to a potential user or customer for the purpose of gathering feedback on a problem. This versatile method can also help you gather insight on a solution you have built and decide whether or not a target market is willing to pay to use your solution. During a sales pitch, you are looking to discover pain points, learn their impact, and confirm that there is value to the customer in solving them, and then to pitch a solution. This is related to the Flyer smoke test.
+Conducting a sales pitch as a smoke test is when an entrepreneur pitches a value proposition to a potential user or customer for the purpose of gathering feedback on a problem. This versatile method can also help you gather insight on a solution you have built and decide whether or not a target market is willing to pay to use your solution. During a sales pitch, you are looking to discover pain points, learn their impact, and confirm that there is value to the customer in solving them, and then to pitch a solution. This is related to the Flyer Smoke Test.
 
 ### Helps Answer
 
@@ -31,11 +31,11 @@ As a smoke test, initial sales are particularly valuable when testing in the ear
 Tends to vary significantly based on cost of product and method of distribution.
 
 * At one extreme, you have a low-dollar-value product. Figuring out where to sell and place the product tends to take some time. Yet the actual purchase will tend to be an impulse buy. 
-* At the other extreme, a large enterprise sale can take months, if not years, and many meeting with multiple decision makers. For the main decision maker, it's not just a financial decision, as the success of the purchase can impact their career trajectory. 
+* At the other extreme, a large enterprise sale can take months, if not years, and many meetings with multiple decision-makers. For the main decision-maker, it's not just a financial decision, as the success of the purchase can impact their career trajectory. 
 
 #### How to
 
-1. Establish contact via a channel that is working for you. Traditional techniques include cold calling, door-to-door sales, or piggy backing on existing marketing and lead generation systems \(if any\).
+1. Establish contact via a channel that is working for you. Traditional techniques include cold calling, door-to-door sales, or piggybacking on existing marketing and lead generation systems \(if any\).
 2. Meet with the prospect in person.
 3. Establish rapport and trust.
    * Show warm interest.
@@ -48,10 +48,10 @@ Tends to vary significantly based on cost of product and method of distribution.
    * Listen closely, and give the prospect a chance to explain what's bothering them.
    * If appropriate, repeat the concern back to the prospect to make sure that you understand what they're saying.
    * Explore the underlying reasons.
-7. Close the sale
+7. Close the sale.
    * "Does this sound like something you want?"
    * "So do you want to pay now or pay next Tuesday?"
-   * "We’ve got a 20 percent discount just for customers who sign up today.”
+   * "We’ve got a 20 percent discount for customers who sign up today.”
    * “So we have the Networked Toaster, the 10-year comprehensive guarantee, and our free delivery and installation service. When would be a good time to deliver?”
    * “In your opinion, does what I am offering solve your problem?”
    * “Is there any reason why we can't proceed with the shipment?"

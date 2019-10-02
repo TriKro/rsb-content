@@ -24,7 +24,7 @@ You can use an event to smoke test a problem, and to some extent, content that i
 
 ### Description
 
-Organizing an event speeds up your validated learning by scaling it one step above one-to-one interviews. The goal is to create a safe and fun environment for your target prospects to confirm what you've learned from individual problem and solution interviews.
+Organizing an event speeds up your validated learning by scaling it one step above one-to-one interviews. The goal is to create a safe and fun environment for your target prospects to confirm what you've learned from individual problem-and-solution interviews.
 
 An event allows you to create a product for your target market. By organizing one, you need to figure out how to reach your target market, what to say exactly, and how to create an experience that they find useful, pleasant, or inspiring.
 
@@ -69,12 +69,12 @@ Because you can use events to prove many kinds of hypotheses, it's critical to b
 
 #### Potential Biases
 
-If using events specifically as smoke tests, you don't want to oversell the event. If your goal is to determine if there is demand around a problem, you should sell enough to make sure that the proposition is clear and easy to buy. However, a very hard sales push will distort your results. For example, if you are using:
+If using events specifically as smoke tests, you don't want to oversell the event. If your goal is to determine if there is demand around a problem, you should sell enough to make sure that the proposition is clear and easy to buy. However, a very hard sales push will distort your results. For example, if you are using...
 
 * High-pressure in-person sales techniques 
 * Sales tactics on your event description with lots of scarcity and "CRO best practices"
 
-You won't know if you are getting a clear indicator that there is high demand, or just proof that you are a good salesperson.
+...you won't know if you are getting a clear indicator that there is high demand, or just proof that you are a good salesperson.
 
 #### Field Tips
 

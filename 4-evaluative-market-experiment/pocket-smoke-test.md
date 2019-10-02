@@ -6,7 +6,7 @@
 
 ### In Brief
 
-This smoke test applies to physical goods or products with hardware components -- at minimum a mobile phone. It entails interviewing a prospect or customer, then physically pulling a prototype out of your pocket and using the prototype to drive further discussion and exploration.
+This smoke test applies to physical goods or products with hardware components — at minimum a mobile phone. It entails interviewing a prospect or customer, then physically pulling a prototype out of your pocket and using the prototype to drive further discussion and exploration.
 
 ### Helps Answer
 
@@ -33,7 +33,7 @@ This is a smoke test. Treat the prototype as a conversation piece. You are focus
 
 #### Time Commitment and Resources
 
-Varies significantly on the actual product. On the low end, it's easy to use mobile phone mockup software to show the average person on the street a mobile phone app prototype. This takes a few hours in the hands of a decent designer using software like InVision or Prototyping on Paper \(POP\).You can create a simulated version using simple materials like wood and plastic, to discuss form factors for instance. On the high end, it might take a lot of time to design and source custom parts to build a prototype that addresses a specific pain point.
+Varies significantly on the actual product. On the low end, it's easy to use mobile phone mockup software to show the average person on the street a mobile phone app prototype. This takes a few hours in the hands of a decent designer using software like InVision or Prototyping on Paper \(POP\). You can create a simulated version using simple materials like wood and plastic, to discuss form factors for instance. On the high end, it might take a lot of time to design and source custom parts to build a prototype that addresses a specific pain point.
 
 #### How to
 
@@ -43,7 +43,7 @@ Varies significantly on the actual product. On the low end, it's easy to use mob
 
 #### Interpreting Results
 
-Ask lots of questions about what the user would find valuable. Hone in on how your prototype differs from how they solve their problem\(s\) currently.
+Ask lots of questions about what the user would find valuable. Hone in on how your prototype differs from how they currently solve their problem\(s\).
 
 #### Potential Biases
 
@@ -65,7 +65,7 @@ You don't need to be able to mass produce the prototype to run this smoke test. 
 
 * [Eduardas Afanasjevas - A guide to building a hardware prototype ](https://medium.com/london-tech-startups/a-guide-to-building-a-hardware-prototype-df449e002f06#.v1huqveix)
 * [Ben Einstein - The Illustrated Guide to Product Deveopment](https://blog.bolt.io/the-illustrated-guide-to-product-development-part-2-design-ab69efb8084a#.opf01fro8) \(A good framework for hardware design in a Lean Startup context\)
-* \*\*\*\*[**https://www.hwtrek.com/**](https://www.hwtrek.com/) **\(A global open source platform for hardware\)**
+* [https://www.hwtrek.com/](https://www.hwtrek.com/) \(A global, open-source platform for hardware\)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part4-evaluative_market_experiment/realbook@kromatic.com)
 
 

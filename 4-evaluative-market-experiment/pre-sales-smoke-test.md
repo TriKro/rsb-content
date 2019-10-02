@@ -10,7 +10,7 @@ Pre-sales involves accepting payment in exchange for a promise to deliver the va
 
 Does the prospect know your product does not yet exist? If not, the pre-sales campaign can be considered a true smoke test and will have different dynamics and results than if the prospect is aware of this fact.
 
-Most, but not all, crowdfunding campaigns are in fact pre-sales campaigns. Pre-sales campaigns can also rely on online platforms built from scratch, or on platforms like Celery.
+Most crowdfunding campaigns are in fact pre-sales campaigns. Pre-sales campaigns can also rely on online platforms built from scratch, or on platforms like Celery.
 
 The MVP for the pre-sales campaign can include a description of the value proposition, product renderings, mock-ups, simulations, a promotional video, customer testimonials, and so on.
 
