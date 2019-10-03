@@ -46,7 +46,7 @@ Like other types of customer interviews, solution interviews are best done in pa
 
 #### Time Commitment and Resources
 
-This is similar to initial customer discovery/problem interviews.
+This is similar to initial customer discovery/problem interviews:
 
 * Rounds of interviews to test one hypothesis can range from 5 to 100 interviews. 
 * Actual interviews last anywhere from 5 minutes for consumer products tested using "man on the street" interviews, to 2 hours for detailed B2B requirements gathering. 
@@ -73,7 +73,7 @@ Use the solution interview to plan the initial feature set of your product and d
 
 #### Potential Biases
 
-* Leading questions such as “Do you usually add products to the cart or use the one-click-purchase?” misses the opportunity to actually learn how the user uses Amazon.
+* Leading questions such as “Do you usually add products to the cart or use the one-click-purchase?” miss the opportunity to actually learn how the user uses Amazon.
 * Allow the user to tell you what they think the product does and what it could do. 
 * Give the user something to react to, rather than making them imagine how the product makes them feel.
 * Be certain you are interviewing the right user, someone who is currently seeking out a product like the one you are making. 
@@ -82,7 +82,7 @@ Use the solution interview to plan the initial feature set of your product and d
 
 * "Forget all about the art of Pitching, you want the art of Dialogue." @Justin\_Wilcox
 * "Don’t ask users to imagine a feature." @DaisyHappy2014
-* "Allow the user to tell you what she thinks the product does and what it could do for her" @LauraKlein
+* "Allow the user to tell you what she thinks the product does and what it could do for her." @LauraKlein
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

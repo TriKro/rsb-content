@@ -44,9 +44,9 @@ Take note: if many of the participants use identical language to explain the val
 
 #### Potential Biases
 
-* Confirmation Bias: Overly enthusiastic entrepreneurs will sometimes over-explain, correct, or nonverbally prompt the participant with the correct answer.
-* Invalid Target Audience: Participants do not need to be the target customers, but they must have the same level of language and vocabulary as the target customer \(e.g., a junior marketing manager can stand in for a chief marketing officer\).
-* False Negative: When using online surveys such as FiveSecondTest, the distractions of an online test can often result in a higher than normal failure rate.
+* Confirmation bias: Overly enthusiastic entrepreneurs will sometimes over-explain, correct, or nonverbally prompt the participant with the correct answer.
+* Invalid target audience: Participants do not need to be the target customers, but they must have the same level of language and vocabulary as the target customer \(e.g., a junior marketing manager can stand in for a chief marketing officer\).
+* False negative: When using online surveys such as FiveSecondTest, the distractions of an online test can often result in a higher than normal failure rate.
 
 #### Field Tips
 

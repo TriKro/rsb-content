@@ -26,7 +26,7 @@ This technique involves exploring "near miss" failures similar to your product i
 
 ### Description
 
-Sean Murphy described it best: "Do research on what’s been tried and failed. Many near misses have two out of three values in a feature set combination correct \(some just have too many features and it’s less a matter of changing features than deleting a few\). If you are going to introduce something that’s “been tried before” be clear in your own mind what’s different about it and why it will make a difference to your customer."
+Sean Murphy described it best: "Do research on what’s been tried and failed. Many near misses have two out of three values in a feature set combination correct \(some just have too many features and it’s less a matter of changing features than deleting a few\). If you are going to introduce something that’s “been tried before,” be clear in your own mind what’s different about it and why it will make a difference to your customer."
 
 The goal of this technique is to identify a unique way to angle a product, so that you avoid a previously committed error. You will be introducing the idea at a later time, which will be to your benefit, but it's likely that previous failures will provide you with useful feedback.
 

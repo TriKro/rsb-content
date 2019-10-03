@@ -53,7 +53,7 @@ Hopefully that will take some of the sting out of the fact that you had to engag
 #### Potential Biases
 
 * Confirmation bias
-* False Negative: You might be targeting your smoke test with an invalid target audience
+* False negative: You might be targeting your smoke test with an invalid target audience.
 
 #### Field Tips
 

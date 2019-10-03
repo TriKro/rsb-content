@@ -22,7 +22,7 @@ Dogfooding is simply using the product as if you were the customer and experienc
 
 ### Description
 
-Using one’s own product is a standard practice among many technology startups and entrepreneurs. In many cases, entrepreneurs are building a product to solve their own pain points, so it is common to then use the product.
+Using one’s own product is standard practice among many technology startups and entrepreneurs. In many cases, entrepreneurs are building a product to solve their own pain points, so it is common to then use the product.
 
 There is no predefined script for dogfooding, and it is not a formal quality assurance \(QA\) process. The main advantage to this method is that it may reveal unorthodox use cases that were not covered in the requirements or QA tests. Dogfooding should primarily be considered generative research and not an experiment.
 
@@ -56,7 +56,7 @@ When multiple team members dogfood their product, notes can be collected and sor
 
 #### Potential Biases
 
-* Confirmation Bias: Creators of a product can subconsciously avoid situations and use cases they know are incomplete or buggy, leaving a positive impression that the product works according to the specification, even if it has serious flaws in ordinary usage.
+* Confirmation bias: Creators of a product can subconsciously avoid situations and use cases they know are incomplete or buggy, leaving a positive impression that the product works according to the specification, even if it has serious flaws in ordinary usage.
 
 #### Field Tips
 

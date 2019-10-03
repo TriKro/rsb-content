@@ -49,9 +49,8 @@ A few days for B2C and a few weeks for B2B, depending how quickly you can set up
 
 #### Interpreting Results
 
-You will receive qualitative signals during and after your pitch demo where the challenge is to differentiate between who is just being nice and who is genuinely excited and why.
-
-The most important data will be who moves forward to the next stage of the buying process.
+* You will receive qualitative signals during and after your pitch demo where the challenge is to differentiate between who is just being nice and who is genuinely excited and why.
+* The most important data will be who moves forward to the next stage of the buying process.
 
 #### Potential Biases
 

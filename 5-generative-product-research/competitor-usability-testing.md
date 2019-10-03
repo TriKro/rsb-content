@@ -8,9 +8,9 @@
 
 Competitor usability testing is observing our target market using a competitor’s products or services to gain insights on the mindset of the user, common issues, and potential improvements in our own product. In some cases, this can reveal the need for an entirely new product. In other cases, we can gain insights on what parts of a competitor product are unnecessary.
 
-This is almost identical to -- but not to be confused with -- competitive usability testing, which tests an existing product against existing competitors to establish which product is “winning.”
+This is almost identical to — but not to be confused with — competitive usability testing, which tests an existing product against existing competitors to establish which product is “winning.”
 
-See Usability Testing.
+See [Usability Testing](../6-evaluative-product-experiment/usability-testing.md).
 
 ### Helps Answer
 
@@ -33,21 +33,21 @@ For example, to generate ideas on how to create a better U.S. tax experience, we
 
 #### Time Commitment and Resources
 
-See Usability Testing
+See [Usability Testing](../6-evaluative-product-experiment/usability-testing.md).
 
 #### How to
 
-See Usability Testing, but use a competitor’s products or a substitute good. For maximum idea generation, use different products.
+See [Usability Testing](../6-evaluative-product-experiment/usability-testing.md), but use a competitor’s products or a substitute good. For maximum idea generation, use different products.
 
 #### Interpreting Results
 
-Any results should be taken as generative rather than evaluative. Ideas generated tend to be highly unstructured and piecemeal, so they must be properly integrated in a viable solution.
+Any results should be taken as generative rather than evaluative. Ideas generated tend to be highly unstructured and piecemeal, so they must be properly integrated into a viable solution.
 
-Before building a solution, any ideas should be tested via alternative generative product research methods such as solutions interviews or concierge testing.
+Before building a solution, any ideas should be tested via alternative generative product research methods such as Solutions Interviews or Concierge Testing.
 
 #### Field Tips
 
-* “Don’t reinvent the wheel -- figure out what’s wrong with walking.” - @TriKro
+* “Don’t reinvent the wheel — figure out what’s wrong with walking.” - @TriKro
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies
