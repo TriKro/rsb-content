@@ -6,7 +6,7 @@
 
 ### In Brief
 
-This technique helps decouple the risks around physical delivery of a product from a digital component of the product. You can sell a physical version of the product or service, even if your final product will be digital. Selling the physical form first may be easier, riskier, or more complicated. As a technique, this works best for software and information-based or data-based products that historically have had a physical component. Alternatively, it works well if you want the end product to be decoupled from a computer or smartphone.
+This technique helps decouple the risks around physical delivery of a product from a digital component of the product. We can sell a physical version of the product or service, even if our final product will be digital. Selling the physical form first may be easier, riskier, or more complicated. As a technique, this works best for software and information-based or data-based products that historically have had a physical component. Alternatively, it works well if we want the end product to be decoupled from a computer or smartphone.
 
 ### Helps Answer
 

@@ -6,7 +6,7 @@
 
 ### In Brief
 
-Flyers serve as placeholders for conversations that need to happen. Just like flyers are used to describe existing products, they can also be used to describe product plans. By choosing product benefits, features, and a visualization, you communicate the product vision to the prospect to gauge their reaction. This is a common type of smoke test in enterprise sales.
+Flyers serve as placeholders for conversations that need to happen. Just like flyers are used to describe existing products, they can also be used to describe product plans. By choosing product benefits, features, and a visualization, we communicate the product vision to the prospect to gauge their reaction. This is a common type of smoke test in enterprise sales.
 
 ### Helps Answer
 

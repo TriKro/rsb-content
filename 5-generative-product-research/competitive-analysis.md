@@ -6,9 +6,9 @@
 
 ### In Brief
 
-Competitive analysis is very much a secondary research method that you can perform online relatively quickly and comprehensively. It can be used for generative market analysis as well as generative product analysis. The analysis is absolutely crucial for any new business idea.
+Competitive analysis is very much a secondary research method that we can perform online relatively quickly and comprehensively. It can be used for generative market analysis as well as generative product analysis. The analysis is absolutely crucial for any new business idea.
 
-As you are defining your idea, you need to conduct research to paint a picture of the competitor landscape. You will likely start out with quite a wide capture of different players, and will then be able to zoom in over time as your other experiments guide you towards the exact customer segment and solution you will build. A detailed competitor analysis can help you communicate your idea to others as well as differentiate it from the competition. The analysis is a form of due diligence repeated over time, and is expected by investors or sponsors.
+As we are defining our idea, we need to conduct research to paint a picture of the competitor landscape. We will likely start out with quite a wide capture of different players, and will then be able to zoom in over time as our other experiments guide us towards the exact customer segment and solution we will build. A detailed competitor analysis can help us communicate our idea to others as well as differentiate it from the competition. The analysis is a form of due diligence repeated over time, and is expected by investors or sponsors.
 
 ### Helps Answer
 

@@ -8,17 +8,17 @@
 
 The Net Promoter Score \(NPS\) identifies customer loyalty to the brand or product. The survey uses a score from 0 to 10 to answer the question: “How likely is it that you would recommend \[company X or product Y\] to a friend or colleague?”
 
-NPS was first introduced by Frederick F. Reichheld in a Harvard Business Review article, “The One Number You Need to Grow.”
+NPS was first introduced by Frederick F. Reichheld in a _Harvard Business Review_ article, “The One Number You Need to Grow.”
 
-People who give a score from 9 to 10 are considered “Promoters.” People who give a score from 7 to 8 are considered “Passives,” meaning those who are satisfied but not very loyal to your brand or product. People who give a score from 0 to 6 are considered “Detractors.”
+People who give a score from 9 to 10 are considered “Promoters.” People who give a score from 7 to 8 are considered “Passives,” meaning those who are satisfied but not very loyal to our brand or product. People who give a score from 0 to 6 are considered “Detractors.”
 
 The NPS question can be followed up with another question to find out the reason\(s\) for the score the customer gave. By doing so, the Net Promoter Score can be associated with both qualitative and quantitative results.
 
 ### Helps Answer
 
-* What is your customer loyalty rate?
-* How to segment your customers to promote the product/services?
-* Who are the brand ambassadors among your customers?
+* What is our customer loyalty rate?
+* How do we segment our customers to promote the product/services?
+* Who are the brand ambassadors among our customers?
 
 ### Tags
 
@@ -56,7 +56,7 @@ While there are some variances in the interpretations of an NPS result, the orig
 
 NPS = % of Promoters – % of Detractors
 
-However, interpreting the scores is only half the benefit of the NPS questionnaire. The second part of the “Why” question is equally important -- if not more important -- than the actual NPS itself. Understanding the reasons why your customers may or may not promote your company, product, or service can lead to breakthrough insights.
+However, interpreting the scores is only half the benefit of the NPS questionnaire. The second part of the “Why” question is equally important — if not more important — than the actual NPS itself. Understanding the reasons why your customers may or may not promote your company, product, or service can lead to breakthrough insights.
 
 By understanding the “Why” components of NPS surveys better, you can identify which customer segments are more valuable and what they want more from your company, product, or service. Moreover, you can identify the reasons certain customer segments become detractors or passives.
 

@@ -6,7 +6,7 @@
 
 ### In Brief
 
-You can use an event to smoke test a problem, and to some extent, content that is attractive for your target audience. By organizing an event, you are confirming that your audience has the expected pain points. If you charge for the event, you are confirming they are willing to pay to solve their problem. And if you are ultimately creating a digital product, it can be used to smoke test the content or process you'd like to deliver digitally.
+We can use an event to smoke test a problem, and to some extent, content that is attractive for our target audience. By organizing an event, we are confirming that our audience has the expected pain points. If we charge for the event, we are confirming they are willing to pay to solve their problem. And if we are ultimately creating a digital product, it can be used to smoke test the content or process we'd like to deliver digitally.
 
 ### Helps Answer
 

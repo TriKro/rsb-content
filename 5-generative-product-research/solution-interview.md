@@ -6,7 +6,7 @@
 
 ### In Brief
 
-The solution interview builds on your research around the problem and proposes a solution to see how potential customers react. Solution interviews result in qualitative feedback from users or prospects about the product when presented with the product or a prototype. Use a “demo” to help customers understand your solution and confirm that it will solve their problem.
+The solution interview builds on our research around the problem and proposes a solution to see how potential customers react. Solution interviews result in qualitative feedback from users or prospects about the product when presented with the product or a prototype. Use a “demo” to help customers understand the solution and confirm that it will solve their problem.
 
 ### Helps Answer
 

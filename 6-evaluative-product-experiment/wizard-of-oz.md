@@ -6,7 +6,7 @@
 
 ### In Brief
 
-The Wizard of Oz \(WOZ\) test involves one or more individuals simulating fully functioning product features without the use of technology. All inputs, outputs, and algorithms are performed manually by humans, but without the knowledge of the customer. This allows entrepreneurs to test a complete solution and gain accurate customer feedback without the cost of building a complex, fully automated solution. It is often confused with concierge testing.
+The Wizard of Oz \(WOZ\) test involves one or more individuals simulating fully functioning product features without the use of technology. All inputs, outputs, and algorithms are performed manually by humans, but without the knowledge of the customer. This allows entrepreneurs to test a complete solution and gain accurate customer feedback without the cost of building a complex, fully automated solution. It is often confused with Concierge Testing.
 
 ### Helps Answer
 
@@ -30,24 +30,24 @@ WOZ is not a "quick and dirty" prototyping method, as it requires a high commitm
 #### How to
 
 1. Build a prototype of your product without the fancy algorithms/technology.
-2. Allocate at least one person \(the “Wizard” behind the curtains\) who simulates the interactive behavior of the product.
+2. Allocate at least one person \(the “wizard” behind the curtain\) who simulates the interactive behavior of the product.
 3. Show your product to your users and let them use it.
 4. Collect data to see if your product delivers value to your users.
 
 #### Interpreting Results
 
-The WOZ test can provide valuable information, especially quantitative data. We can also gather information about the nature of interaction with our product. Summarize all observations and use the insights to adjust our solution accordingly.
+The WOZ test can provide valuable information, especially quantitative data. You can also gather information about the nature of interaction with your product. Summarize all observations and use the insights to adjust your solution accordingly.
 
 #### Potential Biases
 
-* Sampling Bias: See concierge test
-* Confirmation Bias: See concierge test
+* Sampling bias: See [Concierge Test](../5-generative-product-research/concierge-test.md)
+* Confirmation bias: See [Concierge Test](../5-generative-product-research/concierge-test.md)
 
 #### Field Tips
 
-* “Be lazy. If you can hire five interns to fake a feature, don’t bother coding it.” @TriKro
-* “The Wizard of Oz method is for evaluating a solution hypothesis.” @TriKro
-* “Pareto Principle + Wizard of Oz Experiment is all you need to invest your time in a successful business” @andreftavares
+* “Be lazy. If you can hire five interns to fake a feature, don’t bother coding it.” - @TriKro
+* “The Wizard of Oz method is for evaluating a solution hypothesis.” - @TriKro
+* “Pareto Principle + Wizard of Oz Experiment is all you need to invest your time in a successful business” - @andreftavares
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

@@ -6,13 +6,13 @@
 
 ### In Brief
 
-This technique involves exploring "near miss" failures similar to your product idea to generate ideas about what to test and how to build a business model that could work in a second attempt.
+This technique involves exploring "near miss" failures similar to our product idea to generate ideas about what to test and how to build a business model that could work in a second attempt.
 
 ### Helps Answer
 
 * What related products have been created in the past?
 * What did customers like/not like about previously created products?
-* What advice would founders of failed products similar to your idea \(near misses\) give you, if they were to go after the idea again?
+* What advice would founders of failed products similar to our idea \(near misses\) give us, if they were to go after the idea again?
 * Which features have to be included in the product? 
 * How is this product different from similar products offered in the past?
 

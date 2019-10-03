@@ -52,7 +52,7 @@
   * [Dashboards](6-evaluative-product-experiment/dashboards.md)
   * [Net Promoter Score Survey](6-evaluative-product-experiment/net-promotor-score-survey.md)
   * [Paper Prototyping](6-evaluative-product-experiment/paper-prototyping.md)
-  * [Product-Market Fit Survey](6-evaluative-product-experiment/survey-product-market-fit.md)
+  * [Product/Market Fit Survey](6-evaluative-product-experiment/survey-product-market-fit.md)
   * [Usability Testing](6-evaluative-product-experiment/usability-testing.md)
   * [Wizard of Oz](6-evaluative-product-experiment/wizard-of-oz.md)
 * [Out of the Box](7-out-of-the-box/README.md)

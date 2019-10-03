@@ -13,7 +13,7 @@ This method is used to get information about a participant's daily behaviors, th
 * Who is our customer?
 * What are their pains?
 * What are the jobs to be done?
-* **How do we find them?**
+* How do we find them?
 
 ### Tags
 

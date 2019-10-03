@@ -30,7 +30,7 @@ A dashboard is a simple view of product metrics that displays information about 
 In situations where there is great uncertainty, planning for the future has less value than having a clear picture of the current status. Dashboards give you a visual "information radiator" that shows the exact current status on key metrics affecting operations:
 
 * How much of a product is built, or a goal already achieved?
-* What is the state of current channel testing in marketing? 
+* What is the state of current channel-testing in marketing? 
 * What is our market share?
 
 Dashboards help visualize inter-relationships among parts of a business. For example, a $10k investment in a channel may seem like a lot of money, unless you knew that last year's revenue was $250k.
@@ -48,7 +48,7 @@ In terms of how it works, it can be anywhere from "manually using a spreadsheet"
 
 Approaches that may or may not be helpful:
 
-* AARRR: Pirate metrics can help 
+* AARRR: Pirate metrics can help. 
 
 #### Time Commitment and Resources
 
@@ -79,13 +79,13 @@ Dashboard colors, shapes \(traffic light\), and status icons help you quickly in
 
 #### Potential Biases
 
-Graphs and visualizations can easily be misleading.  
-1. Using scales on an axis that doesn't start from zero will make the immediate trend swings seem much bigger, and therefore draw attention away from the fact that the absolute value is quite high. For example: [https://blog.heapanalytics.com/wp-content/uploads/2014/04/misleading1\_yaxis.png](https://blog.heapanalytics.com/wp-content/uploads/2014/04/misleading1_yaxis.png)  
-2. Labels and naming on axes are often overlooked or unclear.  
-3. Data can intentionally or inadvertently be left out, making it possible to draw conclusions that do not reflect the full picture of a situation.  
-4. Sources should be fully documented, clear, and agreed upon by all parties.  
-5. Using cumulative graphs rather than breaking down data by time period. For example, [https://qz.com/122921/the-chart-tim-cook-doesnt-want-you-to-see/](https://qz.com/122921/the-chart-tim-cook-doesnt-want-you-to-see/)  
-6. Ignoring conventions, such as pie charts that don't add up to 100 percent.
+* Graphs and visualizations can easily be misleading.
+* Using scales on an axis that doesn't start from zero will make the immediate trend swings seem much bigger, and therefore draw attention away from the fact that the absolute value is quite high. For example: [https://blog.heapanalytics.com/wp-content/uploads/2014/04/misleading1\_yaxis.png](https://blog.heapanalytics.com/wp-content/uploads/2014/04/misleading1_yaxis.png)
+* Labels and naming on axes are often overlooked or unclear.
+* Data can intentionally or inadvertently be left out, making it possible to draw conclusions that do not reflect the full picture of a situation.
+* Sources should be fully documented, clear, and agreed upon by all parties.
+* Using cumulative graphs rather than breaking down data by time period. For example, [https://qz.com/122921/the-chart-tim-cook-doesnt-want-you-to-see/](https://qz.com/122921/the-chart-tim-cook-doesnt-want-you-to-see/)
+* Ignoring conventions, such as pie charts that don't add up to 100 percent.
 
 #### Field Tips
 

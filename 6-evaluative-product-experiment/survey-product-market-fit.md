@@ -1,4 +1,4 @@
-# Product-Market Fit Survey
+# Product/Market Fit Survey
 
 ![](../.gitbook/assets/illustration-product-market-fit-survey.png)
 
@@ -23,7 +23,7 @@ The Product/Market Fit Survey \(PMF\) specifically asks the customer, “How wou
 
 ### Description
 
-"Product-market fit" is a term originally coined by serial entrepreneur and VC Marc Andreessen in his epic post "The Only Thing that Matters." In short, it refers to being in a good market with a product that can satisfy that market. If you really have it, typically you will be stretched to the limit with resources to deliver the product.
+"Product/market fit" is a term originally coined by serial entrepreneur and VC Marc Andreessen in his epic post "The Only Thing that Matters." In short, it refers to being in a good market with a product that can satisfy that market. If you really have it, typically you will be stretched to the limit with resources to deliver the product.
 
 Having achieved product/market fit, you can safely say that you have fully proven the value hypothesis, where the value hypothesis is the key assumption that underlies why a customer is likely to use your product. Andy Rachleff of Wealthfront argues that you should achieve PMF before searching for venture money.
 
@@ -41,27 +41,33 @@ Sean Ellis recommends sending the PMF survey question to people who have:
 
 Setup form on website: .5-1 day.
 
-or
+...or...
 
-Prepare a longer survey containing the question below: 2-3 days \(see closed-ended survey for more details\).
+Prepare a longer survey containing the question below: 2-3 days \(see [Closed-Ended Survey](../4-evaluative-market-experiment/closed-end-survey.md) for more details\).
 
 #### How to
 
-1. Optionally pre-segment your users, so that you can track how different segments respond to this survey question.
-2. Present your existing users or customers with the following survey question, either independently or as part of a larger survey:
+1. Optionally pre-segment your users so you can track how different segments respond to this survey question.
+2. Present your existing users or customers with the following survey question, either independently or as part of a larger survey: 
 
-How would you feel if you could no longer use this product?
 
-* Very disappointed
-* Somewhat disappointed
-* Not disappointed \(it isn’t really that useful\)
-* N/A – I no longer use product
-* Send the survey using any of the below:
-  * Email
-  * Survey.io
-  * Typeform
-  * Google Forms
-  * Intercom
+
+   _How would you feel if you could no longer use this product?_
+
+   * Very disappointed
+   * Somewhat disappointed
+   * Not disappointed \(it isn’t really that useful\)
+   * N/A – I no longer use product
+
+
+
+   Send the survey using any of the below:
+
+   * Email
+   * Survey.io
+   * Typeform
+   * Google Forms
+   * Intercom
 
 #### Interpreting Results
 
@@ -77,9 +83,9 @@ Look for differences in qualitative responses between very disappointed and some
 
 #### Field Tips
 
-* “Survey.io is necessary but not sufficient for product/market fit. You better have 40 percent, but it’s not the only metric you need.” @TriKro
-* "If you aren't sure if you have product-market fit, you probably don't. Use this quantitative validation technique to track your progress." @LaunchTomorrow
-* "Achieving product/market fit isn't a goal in its own right. Know your product's role in your customers' lives and the market as a whole." @LaunchTomorrow
+* “Survey.io is necessary but not sufficient for product/market fit. You better have 40 percent, but it’s not the only metric you need.” - @TriKro
+* "If you aren't sure if you have product/market fit, you probably don't. Use this quantitative validation technique to track your progress." - @LaunchTomorrow
+* "Achieving product/market fit isn't a goal in its own right. Know your product's role in your customers' lives and the market as a whole." - @LaunchTomorrow
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

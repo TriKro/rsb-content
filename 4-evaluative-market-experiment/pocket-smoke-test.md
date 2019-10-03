@@ -6,7 +6,7 @@
 
 ### In Brief
 
-This smoke test applies to physical goods or products with hardware components — at minimum a mobile phone. It entails interviewing a prospect or customer, then physically pulling a prototype out of your pocket and using the prototype to drive further discussion and exploration.
+This smoke test applies to physical goods or products with hardware components — at minimum a mobile phone. It entails interviewing a prospect or customer, then physically pulling a prototype out of our pocket and using the prototype to drive further discussion and exploration.
 
 ### Helps Answer
 

@@ -6,7 +6,7 @@
 
 ### In Brief
 
-Conducting a sales pitch as a smoke test is when an entrepreneur pitches a value proposition to a potential user or customer for the purpose of gathering feedback on a problem. This versatile method can also help you gather insight on a solution you have built and decide whether or not a target market is willing to pay to use your solution. During a sales pitch, you are looking to discover pain points, learn their impact, and confirm that there is value to the customer in solving them, and then to pitch a solution. This is related to the Flyer Smoke Test.
+Conducting a sales pitch as a smoke test is when an entrepreneur pitches a value proposition to a potential user or customer for the purpose of gathering feedback on a problem. This versatile method can also help us gather insight on a solution we have built and decide whether or not a target market is willing to pay to use our solution. During a sales pitch, we are looking to discover pain points, learn their impact, and confirm that there is value to the customer in solving them, and then to pitch a solution. This is related to the Flyer Smoke Test.
 
 ### Helps Answer
 

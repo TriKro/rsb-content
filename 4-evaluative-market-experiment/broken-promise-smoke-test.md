@@ -6,14 +6,14 @@
 
 ### In Brief
 
-People naturally want to share ideas or products they love with their friends. This smoke test helps test how much of a natural/inherent virality lies in the idea itself. It helps identify high-potential ideas before you've built a product.
+People naturally want to share ideas or products they love with their friends. This smoke test helps test how much of a natural/inherent virality lies in the idea itself. It helps identify high-potential ideas before we've built a product.
 
 ### Helps Answer
 
 * Does the product answer an unmet need?
 * Are users getting excited enough to share the product or product idea?
-* Do you have an idea or product that people love? 
-* What relationships exist in your market? 
+* Do we have an idea or product that people love? 
+* What relationships exist in our market? 
 * Who gets the most excited about the product?
 
 ### Tags

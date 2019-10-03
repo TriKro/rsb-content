@@ -6,7 +6,7 @@
 
 ### In Brief
 
-Dogfooding is simply using the product as if you were the customer and experiencing it firsthand. It is a common practice but an unstructured methodology, as there is no script outside of using the product in the use case it was designed for.
+Dogfooding is simply using the product as if we were the customer and experiencing it firsthand. It is a common practice but an unstructured methodology, as there is no script outside of using the product in the use case it was designed for.
 
 ### Helps Answer
 

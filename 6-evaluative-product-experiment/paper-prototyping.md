@@ -41,7 +41,7 @@ Anywhere from a few minutes to several days. As a formal usability-testing appro
 
 #### Interpreting Results
 
-You are looking for places where the customer got stuck, was not able to find what they were looking for, or accidentally went down the wrong path. Anything that is misleading, confusing, or hard-to-find is noteworthy. For items like this, dig into what information the customer was missing that led to the confusion and how that information might be provided \(or how might the need for it be eliminated\). You can look for situations that may have come up where the response by the computer was not defined, or where an action was possible that you did not want to be possible. Also consider revisiting assumptions about your customers’ motivations or the knowledge and experience base they bring – the test may reveal incorrect assumptions and provide insight for improving your solution.
+You are looking for places where the customer got stuck, was not able to find what they were looking for, or accidentally went down the wrong path. Anything that is misleading, confusing, or hard-to-find is noteworthy. For items like this, dig into what information the customer was missing that led to the confusion and how that information might be provided \(or how might the need for it be eliminated\). You can look for situations that may have come up where the response by the computer was not defined, or where an action was possible that you did not want to be possible. Also consider revisiting assumptions about your customers’ motivations or the knowledge and experience base they bring — the test may reveal incorrect assumptions and provide insight for improving your solution.
 
 #### Potential Biases
 
