@@ -20,11 +20,11 @@ Founders ask experts for opinions, then choose whether or not to act on those op
 
 ### Description
 
-Experts provide deep insights into a particular problem domain, and provide useful input for problem types that are complicated according to the [Cynefin decisionmaking framework](https://en.wikipedia.org/wiki/Cynefin_framework). These are problems with predictable but many factors, components, or pieces. There are many "known unknowns" that can be analyzed using cause-effect analysis to uncover a range of appropriate answers. Ultimately, founders need to be able to execute quickly, so piggy-backing on others' knowledge can serve as a useful shortcut.
+Experts provide deep insights into a particular problem domain, and provide useful input for problem types that are complicated according to the [Cynefin decisionmaking framework](https://en.wikipedia.org/wiki/Cynefin_framework). These are problems with predictable but many factors, components, or pieces. There are many "known unknowns" that can be analyzed using cause-effect analysis to uncover a range of appropriate answers. Ultimately, founders need to be able to execute quickly, so piggybacking on others' knowledge can serve as a useful shortcut.
 
-Certain industries require significant expertise to compete effectively \(FinTech is a good example\). Finance itself is highly regulated and highly dependent on detailed models used for valuation, risk assessment, or accounting. Each of these are context-sensitive. While it's possible to learn some of this from books, seeing how these play out in a competitive environment gives us extra insight. Some areas of finance have high degrees of product innovation, such as, derivative markets. On top of that, technology itself has been changing rapidly over the past few decades. Founders entering this market would be wise to consult with experts in areas where they feel it will help generate additional options that they hadn't considered.
+Certain industries require significant expertise to compete effectively \(FinTech is a good example\). Finance itself is highly regulated and highly dependent on detailed models used for valuation, risk assessment, or accounting. Each of these are context-sensitive. While it's possible to learn some of this from books, seeing how these play out in a competitive environment gives us extra insight. Some areas of finance have high degrees of product innovation, such as derivative markets. On top of that, technology itself has been changing rapidly over the past few decades. Founders entering this market would be wise to consult with experts in areas where they feel it will help generate additional options that they hadn't considered.
 
-Even in other contexts, quite often an expert will be able to view a founder's situation in the context of many companies facing a similar problem. For example,  if you are considering channel-testing around Facebook, consulting with a Facebook marketing expert can be a good use of resources.
+Even in other contexts, quite often an expert will be able to view a founder's situation in the context of many companies facing a similar problem. For example, if you are considering channel-testing around Facebook, consulting with a Facebook marketing expert can be a good use of resources.
 
 As a general rule, though, using third-party expertise to evaluate existing options is an anti-pattern. Experts will view the situation through assumptions that may not hold up in the data.
 
@@ -36,7 +36,7 @@ As a general rule, though, using third-party expertise to evaluate existing opti
 
 1. Seek out an expert via:
    * Google & Bing: Enter specific terms or questions you have and look at who is responding with appropriate content.
-   * Meetup: Tap local experts in your topic.
+   * Meetup: Tap local experts on your topic.
    * LinkedIn: It's easy to locate specific experts via keyword.
    * Academia.edu: Find an academic that specializes in a narrow topic.
    * Use FindAnExpertOnline.com.
@@ -66,9 +66,9 @@ Keep in mind that all advice is context-dependent. Even if an expert was success
 
 #### Potential Biases
 
-* If you take advice from anyone, make sure their interests are genuinely aligned with your own. Confirm there are no conflicts of interest that would affect the expert's advice. It's best to pay for impartial advice if you're unsure. 
-* Free advice may or may not be useful. You often get what you pay for. Time spent executing bad advice is still wasted time. 
-* Some topics naturally invite strong opinions. Try to get access to data that the expert used to formulate their recommendations or advice, so you can evaluate its relevance. 
+* If you take advice from anyone, make sure their interests are genuinely aligned with your own. Confirm there are no conflicts of interest that would affect the expert's advice. It's best to pay for impartial advice if you're unsure.
+* Free advice may or may not be useful. You often get what you pay for. Time spent executing bad advice is still wasted time.
+* Some topics naturally invite strong opinions. Try to get access to data that the expert used to formulate their recommendations or advice, so you can evaluate its relevance.
 * No matter how much advice you've collected, always think for yourself.
 
 #### Field Tips
