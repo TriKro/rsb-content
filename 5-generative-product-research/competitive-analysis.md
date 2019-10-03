@@ -70,7 +70,7 @@ A rising tide lifts all boats. Focus on being one of the boats, and don't worry 
 
 #### Field Tips
 
-* Competitor Analysis should color your thinking, create the appropriate context, and help educate you on what’s going on @byosko
+* "Competitor Analysis should color your thinking, create the appropriate context, and help educate you on what’s going on." - @byosko
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part5-generative_product_research/realbook@kromatic.com)
 
 ### Case Studies

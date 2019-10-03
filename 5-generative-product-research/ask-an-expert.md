@@ -73,7 +73,7 @@ Keep in mind that all advice is context-dependent. Even if an expert was success
 
 #### Field Tips
 
-* "Information is plentiful. Wisdom is rare. Ask experts to figure out what to test in your business" @LaunchTomorrow
+* "Information is plentiful. Wisdom is rare. Ask experts to figure out what to test in your business" - @LaunchTomorrow
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

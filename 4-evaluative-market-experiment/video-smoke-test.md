@@ -93,7 +93,7 @@ View count vanity: Views from people outside your intended target audience is a 
 
 #### Field Tips
 
-* "Keep your video concise and snappy, even when doing a video smoke test." @LaunchTomorrow 
+* "Keep your video concise and snappy, even when doing a video smoke test." - @LaunchTomorrow 
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

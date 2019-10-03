@@ -80,9 +80,9 @@ Use the solution interview to plan the initial feature set of your product and d
 
 #### Field Tips
 
-* "Forget all about the art of Pitching, you want the art of Dialogue." @Justin\_Wilcox
-* "Don’t ask users to imagine a feature." @DaisyHappy2014
-* "Allow the user to tell you what she thinks the product does and what it could do for her." @LauraKlein
+* "Forget all about the art of Pitching, you want the art of Dialogue." - @Justin\_Wilcox
+* "Don’t ask users to imagine a feature." - @DaisyHappy2014
+* "Allow the user to tell you what she thinks the product does and what it could do for her." - @LauraKlein
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

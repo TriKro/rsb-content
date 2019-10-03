@@ -65,7 +65,7 @@ Over-focusing on technology: If the tech is proven or low risk, test the busines
 
 #### Field Tips
 
-* "A minimum viable product is not always a smaller/cheaper version of your final product." @sgblank 
+* "A minimum viable product is not always a smaller/cheaper version of your final product." - @sgblank 
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

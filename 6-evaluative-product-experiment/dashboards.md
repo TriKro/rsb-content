@@ -89,7 +89,7 @@ Dashboard colors, shapes \(traffic light\), and status icons help you quickly in
 
 #### Field Tips
 
-* "A good dashboard communicates everything you need to know even when looking at it from across the room." @LaunchTomorrow
+* "A good dashboard communicates everything you need to know even when looking at it from across the room." - @LaunchTomorrow
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

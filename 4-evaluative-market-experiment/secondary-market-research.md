@@ -88,7 +88,7 @@ This method can be quite extrapolative. You may resort to complex resources such
 
 #### Field Tips
 
-* “When looking at available market surveys, take into account your product specificity” @tdagaeff 
+* “When looking at available market surveys, take into account your product specificity” - @tdagaeff 
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies
