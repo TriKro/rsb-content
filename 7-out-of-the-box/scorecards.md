@@ -6,7 +6,7 @@
 
 ### In Brief
 
-A scorecard is an evaluative decision-making or prioritizing shortcut, often done in a spreadsheet. It is a structured way to identify _one_ top choice among a number of options, to help focus your use of resources such as time and money. It helps achieve a goal one small step at a time. This technique can be useful if there is no clear intuitive priority.
+A scorecard is an evaluative decision-making or prioritizing shortcut, often done in a spreadsheet. It is a structured way to identify _one_ top choice among a number of options, to help focus our use of resources such as time and money. It helps achieve a goal one small step at a time. This technique can be useful if there is no clear intuitive priority.
 
 ### Helps Answer
 
@@ -29,7 +29,7 @@ As a quick and dirty tool, to choose one thing to focus on, scorecards are diffi
 This general framework can be applied in many different areas of running a startup or innovation program:
 
 * Justin Wilcox's [SPA analysis](http://customerdevlabs.com/2012/08/23/prioritizing-customer-segments-with-excel/) helps early-stage founders prioritize who to interview first by subjectively valuing market size, how much founders think they'll be willing and able to pay, and how easily the founder can access them.
-* Rank product ideas or projects worth pursuing, such as how much potential revenue, how easy it would be to complete, how fast it can be done, how much social impact.
+* Rank product ideas or projects worth pursuing with criteria such as how much potential revenue, how easy it would be to complete, how fast it can be done, how much social impact.
 * Use urgency and importance to prioritize a product backlog.
 * Identify your [riskiest assumption](https://dkander.wordpress.com/2013/05/07/how-to-diagnose-your-riskiest-assumptions/) by using a scorecard to rank risks by impact and likelihood.
 * Prioritize a channel for one of a number of potential marketing channels for channel testing.
@@ -44,16 +44,16 @@ The primary goal here is to prevent "analysis paralysis" while still providing o
 
 Ask what are three examples of the best and three of the worst of this thing \(skill, venue, performance, etc.\)? What were the consistent mindsets leading to the three best examples?
 
-1. Make a list of the options you want to consider in the left-hand column
+1. Make a list of the options you want to consider in the left-hand column.
 2. Choose criteria that are important in the top row. For example, in Justin's SPA analysis, that would be Market \(S\)ize, Willingness to \(P\)ay, and \(A\)ccessibility for the founder.
 3. Weight each criterion. For each option, consider the importance of that criterion. In each column, put in a value from 1-10. For example, in the first data row, put in a value that estimates the market size of potential interviewees. 
-4. When you have estimated across all values, multiply out the values of each option to generate a summary number per option. In other words, multiple the values for Size, Pay, and Accessibility for each row. This will give you a summary weight for every option.
+4. When you have estimated across all values, multiply out the values of each option to generate a summary number per option. In other words, multiply the values for Size, Pay, and Accessibility for each row. This will give you a summary weight for each option.
 5. Sort the summary numbers from greatest to smallest, and rank all options being considered. 
 6. Identify the top option, and take action. 
 
 #### Interpreting Results
 
-This technique is highly dependent on subjective factors. While it seems "scientific," in fact a lot depends on the weights you assign to each option. Its primary goal is to give you _one_ option to pursue, so that you can execute on it without dwelling on which decision you ought to make. If you take action quickly, you can always change your mind later. If you don't take action at all, you won't generate a result.
+This technique is highly dependent on subjective factors. While it seems "scientific," in fact a lot depends on the weights you assign to each option. Its primary goal is to give you _one_ option to pursue, so that you can execute it without dwelling on which decision you ought to make. If you take action quickly, you can always change your mind later. If you don't take action at all, you won't generate a result.
 
 A scorecard may generate a result that is counterintuitive. If that is the case, then most likely the result that you wanted is the "correct" option to pursue. Going through the exercise can help bring to the surface what you already know, but can't articulate consciously.
 
@@ -63,8 +63,8 @@ As this technique does not gather data, it is purely a subjective ranking tool t
 
 #### Field Tips
 
-* "Scorecards get you 'out of the building' and executing, if you lack the intuition to know what to do next." @LaunchTomorrow
-* "There can only be one top priority at any given time. Use a scorecard to identify yours." @LaunchTomorrow
+* "Scorecards get you 'out of the building' and executing, if you lack the intuition to know what to do next." - @LaunchTomorrow
+* "There can only be one top priority at any given time. Use a scorecard to identify yours." - @LaunchTomorrow
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies
