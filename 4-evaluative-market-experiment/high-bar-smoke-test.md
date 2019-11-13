@@ -1,4 +1,4 @@
-# High Bar Smoke Test
+# High Bar Value Proposition Test \(Smoke Test\)
 
 ![](../.gitbook/assets/illustration-high-bar-test.png)
 

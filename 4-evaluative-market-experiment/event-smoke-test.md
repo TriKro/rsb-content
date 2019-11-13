@@ -1,4 +1,4 @@
-# Event Smoke Test
+# Event Value Proposition Test \(Smoke Test\)
 
 ![](../.gitbook/assets/illustration-group-talking-event-smoke-test.png)
 

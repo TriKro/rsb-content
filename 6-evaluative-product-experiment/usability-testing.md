@@ -74,7 +74,7 @@ Usability tests with 5 users can be finished in half a working day with minimal 
 
 ### Case Studies
 
-* [Maryellen Allen—A Case Study of Usability Testing of the University of South Florida’s Virtual Library Interface Design](http://www.geocities.ws/scienceofinformation_dc/Documentos/OnlineInformation/p40.pdf)
+* [Maryellen Allen — A Case Study of Usability Testing of the University of South Florida’s Virtual Library Interface Design](http://www.geocities.ws/scienceofinformation_dc/Documentos/OnlineInformation/p40.pdf)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ### Tools

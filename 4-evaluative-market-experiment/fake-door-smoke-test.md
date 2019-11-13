@@ -1,4 +1,4 @@
-# Fake Door Smoke Test
+# Fake Door Value Proposition Test \(Smoke Test\)
 
 ![](../.gitbook/assets/illustration-fake-door-test.png)
 

@@ -1,4 +1,4 @@
-# Sales Pitch Smoke Test
+# Sales Pitch Value Proposition Test \(Smoke Test\)
 
 ![](../.gitbook/assets/illustration-sales-pitch-smoke-test-real-startup-book.png)
 
@@ -81,7 +81,7 @@ This smoke test does not suggest the optimal price point for the product, or whe
 
 ### Case Studies
 
-* [Minivid: Iteration Case Study](http://thestartuptoolkit.com/blog/2010/11/minivid-iteration-case-study/)
+* [Minivid: Three iterations of an animation widget, showing a business model in motion](http://thestartuptoolkit.com/blog/2010/11/minivid-iteration-case-study/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ### Tools

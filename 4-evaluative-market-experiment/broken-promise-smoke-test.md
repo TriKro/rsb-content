@@ -1,4 +1,4 @@
-# Broken Promise Smoke Test
+# Broken Promise Value Proposition Test \(Smoke Test\)
 
 ![](../.gitbook/assets/illustration-broken-promise-test-real-startup-book.png)
 

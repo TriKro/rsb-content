@@ -1,4 +1,4 @@
-# Pocket Smoke Test
+# Pocket Value Proposition Test \(Smoke Test\)
 
 ![](../.gitbook/assets/illustration-pocket-smoke-test-real-startup-book.png)
 

@@ -67,7 +67,7 @@ When multiple team members dogfood their product, notes can be collected and sor
 
 * [Dogfooding at Bitglass: We Secure Our Own Corporate Data](http://www.bitglass.com/blog/dogfooding-at-bitglass-we-secure-our-own-corporate-data)
 * [Cnet: Google's Eric Schmidt: Why I Love My BlackBerry](https://www.cnet.com/news/googles-eric-schmidt-why-i-love-my-blackberry/)
-* [ALPHABET EXEC ERIC SCHMIDT USES AN IPHONE, BUT THINKS THE GALAXY S7 IS BETTER](http://www.digitaltrends.com/mobile/eric-schmidt-iphone-use/)
+* [Alphabet exec Eric Schmidt uses an iPhone, but thinks the Galaxy S7 is better](http://www.digitaltrends.com/mobile/eric-schmidt-iphone-use/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ### Tools

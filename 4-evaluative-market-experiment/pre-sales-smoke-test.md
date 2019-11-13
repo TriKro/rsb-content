@@ -1,4 +1,4 @@
-# Pre-Sales Smoke Test
+# Pre-Sales Value Proposition Test \(Smoke Test\)
 
 ![](../.gitbook/assets/illustration-pre-sales-smoke-test-real-startup-book.png)
 
@@ -61,11 +61,10 @@ Hopefully that will take some of the sting out of the fact that you had to engag
 
 ### Case Studies
 
-* [Soma water filters](http://tim.blog/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc/)
-* [Coin](http://techcrunch.com/2013/11/14/coin-the-electronic-credit-card-reaches-its-pre-order-goal-in-40-minutes/)
-* [ElasticSales and Close.io](https://www.linkedin.com/pulse/20140423214327-7006635-how-to-charge-money-for-things-that-don-t-exist-yet)
-* [My Sky](https://thefoundation.com/podcast/episode25)
-* [MixedMade](http://bushwickkitchen.com/blogs/startup-journey/12362041-selling-a-product-that-doesnt-exist-day-22)
+* [Soma water filters used Kickstarter to raise $100k in nine days](http://tim.blog/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc/)
+* [Coin, an electonic credit card, reached its pre-order goal in 40 minutes](http://techcrunch.com/2013/11/14/coin-the-electronic-credit-card-reaches-its-pre-order-goal-in-40-minutes/)
+* [ElasticSales and Close.io were charging for their products before the company existed](https://www.linkedin.com/pulse/20140423214327-7006635-how-to-charge-money-for-things-that-don-t-exist-yet)
+* [My Sky raised $22k in pre-sales before launching its business](https://thefoundation.com/podcast/episode25)
 * [TechCrunch: Jolla Closes Pre-Sales Campaign For Its First Phone](http://techcrunch.com/2013/08/21/jolla-closes-first-pre-sales/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 

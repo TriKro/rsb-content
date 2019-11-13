@@ -94,7 +94,7 @@ This method can be quite extrapolative. You may resort to complex resources such
 ### Case Studies
 
 * [Secondary Market Research versus Primary Market Research](http://businesscasestudies.co.uk/jd-sports/using-market-research-to-support-decision-making/)
-* [Example: Association Providing Links for Business in a Specific Area  - Queensland, Australia](https://www.business.qld.gov.au/starting-business/planning/market-customer-research/resources)
+* [Example: Association Providing Links for Business in a Specific Area - Queensland, Australia](https://www.business.qld.gov.au/starting-business/planning/market-customer-research/resources)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ### Tools

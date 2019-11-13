@@ -1,4 +1,4 @@
-# Video Smoke Test
+# Video Value Proposition Test \(Smoke Test\)
 
 ![](../.gitbook/assets/illustration-video-smoke-test.png)
 
@@ -100,7 +100,7 @@ View count vanity: Views from people outside your intended target audience is a 
 
 * [YouTube: Amazon Alexa + Pebble Core: Now We're Talking](https://youtu.be/qYTfAXBPmro)
 * [YouTube: The 4-Hour Chef - Official Trailer - Cinematic](https://youtu.be/_KFPHmPoPlY)
-* [CommonCraft: Twitter \(https://www.commoncraft.com/video/twitter\)](https://www.commoncraft.com/video/twitter)
+* [CommonCraft: Twitter ](https://www.commoncraft.com/video/twitter)
 * [CommonCraft: Dropbox Video and 25 Million Views](https://www.commoncraft.com/dropbox-video-and-25-million-views)
 * [VideoPixie: Best Kickstarter videos of 2014](https://www.videopixie.com/best-kickstarter-videos-of-2014)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 

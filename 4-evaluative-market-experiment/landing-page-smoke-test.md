@@ -1,4 +1,4 @@
-# Landing Page Smoke Test
+# Landing Page Value Proposition Test \(Smoke Test\)
 
 ![](../.gitbook/assets/illustration-landing-page-smoke-test.png)
 
@@ -62,8 +62,8 @@ If the conversion rate obtained exceeds your predetermined signpost value, the l
 
 ### Case Studies
 
-* [Dropbox](https://www.slideshare.net/gueste94e4c/dropbox-startup-lessons-learned-3836587)
-* [Buffer](https://blog.bufferapp.com/idea-to-paying-customers-in-7-weeks-how-we-did-it)
+* [Dropbox used a simple landing page to gauge interest and caprute email adresses](https://www.slideshare.net/gueste94e4c/dropbox-startup-lessons-learned-3836587)
+* [Buffe went from idea to paying customers in seven weeks](https://blog.bufferapp.com/idea-to-paying-customers-in-7-weeks-how-we-did-it)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ### Tools

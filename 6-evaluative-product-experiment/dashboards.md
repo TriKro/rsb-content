@@ -95,7 +95,7 @@ Dashboard colors, shapes \(traffic light\), and status icons help you quickly in
 ### Case Studies
 
 * [Geckoboard: Pirate Metrics \(AARRR\) dashboard example](https://www.geckoboard.com/learn/dashboard-examples/aarrr-pirate-metrics-dashboard-example/#.WQhMl9rytpg)
-* [VentureBeat: 6 Dashboards I Use Daily—and Why Every Startup CEO Should as Well](https://venturebeat.com/2015/07/31/6-dashboards-i-use-daily-and-why-every-startup-ceo-should-as-well/)
+* [VentureBeat: 6 Dashboards I Use Daily — and Why Every Startup CEO Should As Well](https://venturebeat.com/2015/07/31/6-dashboards-i-use-daily-and-why-every-startup-ceo-should-as-well/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ### Tools

@@ -64,7 +64,7 @@ Similarly, the method can require substantial resources or nothing but a pen and
 
 * [Food on the Table - The Ultimate Guide to Minimum Viable Products](http://scalemybusiness.com/the-ultimate-guide-to-minimum-viable-products/)
 * [SlideShare - Manuel Rosso: Concierge MVP Lean Startup](https://de.slideshare.net/startuplessonslearned/manuel-rosso-conciergemvpleanstartupsxsw?qid=56a1d65d-b6ed-432d-8e0a-f1a6803783df&v=default&b=&from_search=3)
-* [Medium - On MVPs Glueing Things Together and 270 Flights to South Africa](https://medium.com/@zacharycohn/on-mvps-glueing-things-together-and-270-flights-to-south-africa-721d7208fb16#.29kw7lsdt)
+* [Medium - On MVPs Gluing Things Together and 270 Flights to South Africa](https://medium.com/@zacharycohn/on-mvps-glueing-things-together-and-270-flights-to-south-africa-721d7208fb16#.29kw7lsdt)
 * [Moves the Needle - Enterprise Lean Startup Experiment Examples](http://www.movestheneedle.com/blog/enterprise-lean-startup-experiment-examples/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 

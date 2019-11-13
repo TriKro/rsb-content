@@ -58,6 +58,7 @@ You are looking for places where the customer got stuck, was not able to find wh
 
 * [NN Group: Mozilla Paper Prototype](http://www.nngroup.com/articles/mozilla-paper-prototype/)  
 * [Interaction Design: Paper Prototyping as a Core Tool in the Design of Mobile Phone User Interfaces](http://www.id-book.com/secondedition/casestudy_11-2_paper2.htm)
+* [Lean Tools: How TenTune Harnessed the Power of the Pencil - Grasshopper Herder](https://grasshopperherder.com/lean-tools-how-tentune-harnessed-the-power-of-the-pencil/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ### Tools

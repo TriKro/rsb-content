@@ -71,7 +71,7 @@ The timing of sending the NPS questionnaire to customers can lead to biased resu
 ### Case Studies
 
 * [GrooveHQ - Lessons Learned Sending a Net Promoter Survey to 4,000 Users](https://www.groovehq.com/blog/net-promoter-score)
-* [Zendesk -  Measure customer loyalty with Net Promoter Score surveys in Zendesk](https://www.zendesk.com/blog/nps-net-promoter-score/)
+* [Zendesk - Measure customer loyalty with Net Promoter Score surveys in Zendesk](https://www.zendesk.com/blog/nps-net-promoter-score/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ### Tools
