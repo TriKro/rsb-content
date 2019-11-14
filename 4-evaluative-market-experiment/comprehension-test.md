@@ -50,7 +50,7 @@ Take note: if many of the participants use identical language to explain the val
 
 #### Field Tips
 
-* “Run a comprehension test before a landing page test or you won’t understand why it doesn’t work.” - @TriKro
+* Run a comprehension test before a landing page test or you won’t understand why it doesn’t work. - @TriKro
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

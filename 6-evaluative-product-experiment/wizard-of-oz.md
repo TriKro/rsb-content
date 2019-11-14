@@ -45,9 +45,9 @@ The WOZ test can provide valuable information, especially quantitative data. You
 
 #### Field Tips
 
-* “Be lazy. If you can hire five interns to fake a feature, don’t bother coding it.” - @TriKro
-* “The Wizard of Oz method is for evaluating a solution hypothesis.” - @TriKro
-* “Pareto Principle + Wizard of Oz Experiment is all you need to invest your time in a successful business” - @andreftavares
+* Be lazy. If you can hire five interns to fake a feature, don’t bother coding it. - @TriKro
+* The Wizard of Oz method is for evaluating a solution hypothesis. - @TriKro
+* Pareto Principle + Wizard of Oz Experiment is all you need to invest your time in a successful business - @andreftavares
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

@@ -67,9 +67,9 @@ Usability tests with 5 users can be finished in half a working day with minimal 
 
 #### Field Tips
 
-* “A usability test is the place to synthesize what you believe and what reality will accept” - @ericries 
-* “The goal of a usability test is to make the users’ experience with the product easy and intuitive” - @dharanidhar21
-* “When testing usability, find users who are a little less savvy and aim to simplify your product” - @TriKro
+* A usability test is the place to synthesize what you believe and what reality will accept - @ericries 
+* The goal of a usability test is to make the users’ experience with the product easy and intuitive - @dharanidhar21
+* When testing usability, find users who are a little less savvy and aim to simplify your product - @TriKro
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

@@ -68,7 +68,7 @@ If you are in a B2B sales scenario, the business relationship is very important.
 
 #### Field Tips
 
-* "Use insights and language from customer development when crafting your first flyer" - @LaunchTomorrow.
+* Use insights and language from customer development when crafting your first flyer - @LaunchTomorrow.
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

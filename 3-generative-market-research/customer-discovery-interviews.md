@@ -84,10 +84,10 @@ Are you able to listen and record data based on the following?
 
 #### Field Tips
 
-* [“Ask about the past. Observe the present. Forget about the future.”](http://ctt.ec/e8jbN) - @TriKro
-* [“1st rule of validating your idea: Do not talk about your idea.”](http://ctt.ec/7H7fb) - @CustomerDevLabs
-* [“The harder customers are to interview, the harder they’ll be to monetize.”](http://ctt.ec/y5ad6) - @CustomerDevLabs
-* [“It's always handy to shut up for 60 seconds and let the interviewee talk.”](http://ctt.ec/bSyl1) - @red\_button\_team
+* Ask about the past. Observe the present. Forget about the future. - @TriKro
+* 1st rule of validating your idea: Do not talk about your idea. - @CustomerDevLabs
+* The harder customers are to interview, the harder they’ll be to monetize. - @CustomerDevLabs
+* It's always handy to shut up for 60 seconds and let the interviewee talk. - @red\_button\_team
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

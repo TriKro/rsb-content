@@ -37,7 +37,7 @@ Another common application of this approach is to launch an app in an app store 
 
 #### Time Commitment and Resources
 
-Negligible, as this is done alongside other techniques mentioned in the startup realbook. For example, on a landing page smoke test, you'd avoid using corporate logos, color, or fonts that could hint at the identity of the experimenter.
+Negligible, as this is done alongside other techniques mentioned in the Real Startup Book. For example, on a landing page smoke test, you'd avoid using corporate logos, color, or fonts that could hint at the identity of the experimenter.
 
 #### Interpreting Results
 
@@ -52,9 +52,9 @@ As this is a technique used to reduce bias, there are no major additional biases
 
 #### Field Tips
 
-* "Fight the urge to throw a big bang corporate-style launch when validating an idea using off-brand testing. It works, and it gives you data you can stake your career on." - @LaunchTomorrow
-* "There is a time for brand compliance, security, and all of the other goodies you're used to. First do a smoke test using off-brand testing" - @LaunchTomorrow
-* “Corporations do not lack ideas, but rather have a hard time deciding on what ideas to invest in.” -  @davidjbland [https://medium.com/@davidjbland/lean-startup-comes-home-8f205993da40](https://medium.com/@davidjbland/lean-startup-comes-home-8f205993da40)
+* Fight the urge to throw a big bang corporate-style launch when validating an idea using off-brand testing. It works, and it gives you data you can stake your career on. - @LaunchTomorrow
+* There is a time for brand compliance, security, and all of the other goodies you're used to. First do a smoke test using off-brand testing - @LaunchTomorrow
+* Corporations do not lack ideas, but rather have a hard time deciding on what ideas to invest in. -  @davidjbland [https://medium.com/@davidjbland/lean-startup-comes-home-8f205993da40](https://medium.com/@davidjbland/lean-startup-comes-home-8f205993da40)
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

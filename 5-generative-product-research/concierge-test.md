@@ -57,7 +57,7 @@ Similarly, the method can require substantial resources or nothing but a pen and
 
 #### Field Tips
 
-* “A concierge test is an experience, not a product.” - @poornima 
+* A concierge test is an experience, not a product. - @poornima 
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

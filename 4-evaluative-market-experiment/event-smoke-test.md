@@ -78,11 +78,11 @@ If using events specifically as smoke tests, you don't want to oversell the even
 
 #### Field Tips
 
-* ["Get excited and enthusiastic when speaking at the smoke test event"](https://ctt.ec/E2p33) - @LaunchTomorrow
-* ["Prepare what you will need the day before: Name tags, signs for people to find you, camera, directions, etc."](https://ctt.ec/fef71) - @LaunchTomorrow
-* ["Greet participants individually and make them feel welcome. It's customer development you've earned."](https://ctt.ec/ycSE0) - @LaunchTomorrow
-* ["Make it very clear how to reach the event venue, both online and offline. Dropoff sucks."](https://ctt.ec/Gs4cF) - @LaunchTomorrow
-* ["If you can, use arrows and signs to make sure everyone interested reaches your event smoke test"](https://ctt.ec/Ywbpi) - @LaunchTomorrow
+* Get excited and enthusiastic when speaking at the smoke test event - @LaunchTomorrow
+* Prepare what you will need the day before: Name tags, signs for people to find you, camera, directions, etc.- @LaunchTomorrow
+* Greet participants individually and make them feel welcome. It's customer development you've earned. - @LaunchTomorrow
+* Make it very clear how to reach the event venue, both online and offline. Dropoff sucks. - @LaunchTomorrow
+* If you can, use arrows and signs to make sure everyone interested reaches your event smoke test - @LaunchTomorrow
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

@@ -63,8 +63,8 @@ As this technique does not gather data, it is purely a subjective ranking tool t
 
 #### Field Tips
 
-* "Scorecards get you 'out of the building' and executing, if you lack the intuition to know what to do next." - @LaunchTomorrow
-* "There can only be one top priority at any given time. Use a scorecard to identify yours." - @LaunchTomorrow
+* Scorecards get you 'out of the building' and executing, if you lack the intuition to know what to do next. - @LaunchTomorrow
+* There can only be one top priority at any given time. Use a scorecard to identify yours. - @LaunchTomorrow
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

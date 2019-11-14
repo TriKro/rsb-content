@@ -62,7 +62,7 @@ Finding Participants:
 * Select your participants.
 * Set their expectations according to how often they will be asked to give answers.
 
-Start Collecting Data
+Start Collecting Data.
 
 Remember to thank the participants for each participation.
 
@@ -91,10 +91,10 @@ First, look at the frequency distribution and identify common themes to gain ins
 
 #### Field Tips
 
-* “Run a comprehension test before a landing page test or you won’t understand why it doesn’t work.” - @TriKro
-* “Don’t ask for opinions, observe behavior.” - @tsharon
-* “Often, what customers say they want and what they actually need differ significantly.” - @macadamianlabs
-* “Trying to understand users without actually observing them is the same as learning to ride a bike by reading about it.” - @MarkusWeber
+* Run a comprehension test before a landing page test or you won’t understand why it doesn’t work. - @TriKro
+* Don’t ask for opinions, observe behavior. - @tsharon
+* Often, what customers say they want and what they actually need differ significantly. - @macadamianlabs
+* Trying to understand users without actually observing them is the same as learning to ride a bike by reading about it. - @MarkusWeber
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

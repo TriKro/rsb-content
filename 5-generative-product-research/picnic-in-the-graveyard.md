@@ -56,9 +56,9 @@ This is a wonderful technique to generate a lot of ideas in an area you are alre
 
 #### Field Tips
 
-* "Picnic in the Graveyad: If you try to hold a night-time picnic in a cemetery that doesn't allow it you might get arrested." - @RebelCircus
-* "Our idea is not unique. Use the Picnic in the Graveyard technique." - @TriKro
-* "Get help from other founders when you can. Use the Picnic in the Graveyard technique." - @TriKro
+* Picnic in the Graveyad: If you try to hold a night-time picnic in a cemetery that doesn't allow it you might get arrested. - @RebelCircus
+* Our idea is not unique. Use the Picnic in the Graveyard technique. - @TriKro
+* Get help from other founders when you can. Use the Picnic in the Graveyard technique. - @TriKro
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

@@ -83,9 +83,9 @@ Look for differences in qualitative responses between very disappointed and some
 
 #### Field Tips
 
-* “Survey.io is necessary but not sufficient for product/market fit. You better have 40 percent, but it’s not the only metric you need.” - @TriKro
-* "If you aren't sure if you have product/market fit, you probably don't. Use this quantitative validation technique to track your progress." - @LaunchTomorrow
-* "Achieving product/market fit isn't a goal in its own right. Know your product's role in your customers' lives and the market as a whole." - @LaunchTomorrow
+* Survey.io is necessary but not sufficient for product/market fit. You better have 40 percent, but it’s not the only metric you need. - @TriKro
+* If you aren't sure if you have product/market fit, you probably don't. Use this quantitative validation technique to track your progress. - @LaunchTomorrow
+* Achieving product/market fit isn't a goal in its own right. Know your product's role in your customers' lives and the market as a whole. - @LaunchTomorrow
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

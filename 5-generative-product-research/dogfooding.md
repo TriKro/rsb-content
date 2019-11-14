@@ -60,7 +60,7 @@ When multiple team members dogfood their product, notes can be collected and sor
 
 #### Field Tips
 
-* “Dogfooding only works when your team is as diverse as your customer base.” - @TriKro
+* Dogfooding only works when your team is as diverse as your customer base. - @TriKro
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

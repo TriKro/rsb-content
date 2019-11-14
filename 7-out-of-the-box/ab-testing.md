@@ -93,8 +93,8 @@ A/B testing is not so good for testing:
 
 #### Field Tips
 
-* [“Keep your A/B Testing variations to a minimum to ensure meaningful results”](http://ctt.ec/bJa0R) - @sircastel
-* [“Define your metrics and minimum success rate before running A/B Testing”](http://ctt.ec/4xpy1) - @sircastel
+* Keep your A/B Testing variations to a minimum to ensure meaningful results - @sircastel
+* Define your metrics and minimum success rate before running A/B Testing - @sircastel
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

@@ -55,9 +55,9 @@ To counter these biases, you can:
 
 #### Potential Biases
 
-* Confirmation bias
-* False positives
-* Ignorance of black swans \(rare and unprecedented events that can dramatically change or determine the future outcome\)
+* Confirmation bias: The interviewer can be prompted to sell their vision in case the interviewee's vision differs drastically. The interviewee feels compelled out of sympathy to adjust answers to the interviewer’s expectations.
+* False positives/negatives: Small sample sizes can give disproportionate weight to results that mistakenly show the opposite of their true nature
+* Ignorance of black swans: Not accounting for rare and unprecedented events that can dramatically change or determine the future outcome
 
 #### Field Tips
 

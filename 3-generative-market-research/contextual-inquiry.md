@@ -72,11 +72,11 @@ Since the data is primarily qualitative and sample sizes are small, researchers 
 
 #### Potential Biases
 
-* Confirmation bias
+* Confirmation bias: The interviewer can be prompted to sell their vision in case the interviewee's vision differs drastically. The interviewee feels compelled out of sympathy to adjust answers to the interviewer’s expectations.
 
 #### Field Tips
 
-* “Apprentice yourself to the customer and learn how they are currently solving their problems without your product.” - _@TriKro_
+* Apprentice yourself to the customer and learn how they are currently solving their problems without your product. - _@TriKro_
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies

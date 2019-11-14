@@ -47,7 +47,7 @@ Before building a solution, any ideas should be tested via alternative generativ
 
 #### Field Tips
 
-* “Don’t reinvent the wheel — figure out what’s wrong with walking.” - @TriKro
+* Don’t reinvent the wheel — figure out what’s wrong with walking. - @TriKro
 * Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies
