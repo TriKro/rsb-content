@@ -64,7 +64,7 @@ You don't need to be able to mass produce the prototype to run this smoke test. 
 ### References
 
 * [Eduardas Afanasjevas - A guide to building a hardware prototype ](https://medium.com/london-tech-startups/a-guide-to-building-a-hardware-prototype-df449e002f06#.v1huqveix)
-* [Ben Einstein - The Illustrated Guide to Product Deveopment](https://blog.bolt.io/the-illustrated-guide-to-product-development-part-2-design-ab69efb8084a#.opf01fro8) \(A good framework for hardware design in a Lean Startup context\)
+* [Ben Einstein - The Illustrated Guide to Product Development](https://blog.bolt.io/the-illustrated-guide-to-product-development-part-2-design-ab69efb8084a#.opf01fro8) \(A good framework for hardware design in a Lean Startup context\)
 * [https://www.hwtrek.com/](https://www.hwtrek.com/) \(A global, open-source platform for hardware\)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part4-evaluative_market_experiment/realbook@kromatic.com)
 
