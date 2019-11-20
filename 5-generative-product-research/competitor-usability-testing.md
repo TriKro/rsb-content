@@ -45,6 +45,10 @@ Any results should be taken as generative rather than evaluative. Ideas generate
 
 Before building a solution, any ideas should be tested via alternative generative product research methods such as Solutions Interviews or Concierge Testing.
 
+#### Potential Biases
+
+
+
 #### Field Tips
 
 * Don’t reinvent the wheel — figure out what’s wrong with walking. - @TriKro
