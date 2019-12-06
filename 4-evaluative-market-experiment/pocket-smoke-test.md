@@ -47,7 +47,7 @@ Ask lots of questions about what the user would find valuable. Hone in on how yo
 
 #### Potential Biases
 
-* Confirmation bias: Overly enthusiastic entrepreneurs will sometimes over-explain, correct, or nonverbally prompt the participant on the prototype.
+* Confirmation bias: Overly enthusiastic entrepreneurs will sometimes over-explain, correct, or nonverbally prompt the participant on how to use the prototype.
 
 #### Field Tips
 

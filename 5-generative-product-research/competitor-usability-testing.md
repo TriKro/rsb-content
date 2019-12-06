@@ -47,7 +47,8 @@ Before building a solution, any ideas should be tested via alternative generativ
 
 #### Potential Biases
 
-
+* Hawthorne effect \(the observer effect\): Users may behave differently when attempting to complete a task due to their awareness of being observed.
+* Confirmation bias: Experimenters sometimes ask questions or create use cases in such a way that the user’s response/action confirms their preconceptions, hypothesis, or beliefs. 
 
 #### Field Tips
 
