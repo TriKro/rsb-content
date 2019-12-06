@@ -48,7 +48,7 @@ Can vary widely. It depends on how long both the physical and digital forms of t
 
 #### How to
 
-1. Confirm that the current "riskiest assumption" lies in Value Proposition, Key Resources, or Cost areas. 
+1. Confirm that the current "riskiest assumption" lies in Value Proposition, Key Resources, or Cost Structure areas. 
 2. Formulate a hypothesis that implies the existence of a physical version of the product in order to conduct testing.
 3. Recruit users/customers.
 4. Validate your hypothesis.
