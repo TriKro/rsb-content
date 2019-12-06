@@ -47,7 +47,7 @@ Ask lots of questions about what the user would find valuable. Hone in on how yo
 
 #### Potential Biases
 
-You don't need to be able to mass produce the prototype to run this smoke test. Scaling requires a different set of tests. Also you don't need to be overly concerned about production costs and revenue at this stage. You just want to get an idea of user expectations.
+* Confirmation bias: Overly enthusiastic entrepreneurs will sometimes over-explain, correct, or nonverbally prompt the participant on the prototype.
 
 #### Field Tips
 
