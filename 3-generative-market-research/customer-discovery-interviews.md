@@ -107,6 +107,5 @@ Are you able to listen and record data based on the following?
 * Justin Wilcox - [How I Interview Customers](http://customerdevlabs.com/2013/11/05/how-i-interview-customers/)
 * Quora - [What are your favorite methods for doing problem interviews during customer discovery?](http://www.quora.com/What-are-your-favorite-methods-for-doing-problem-interviews-during-Customer-Discovery)
 * Kissmetrics - [26 Resources to Help You Master Customer Development Interviews](https://blog.kissmetrics.com/26-customer-development-resources/)
-* Kevin Dewalt - [Bad customer development questions and how to avoid my mistakes](http://kevindewalt.com/2013/01/21/bad-customer-development-questions-and-how-to-avoid-my-mistakes/)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part3-generative_market_research/realbook@kromatic.com)
 
