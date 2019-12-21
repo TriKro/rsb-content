@@ -4,3 +4,5 @@
 
 ## The Real Startup Book
 
+Sponsored by [Kromatic](www.kromatic.com)
+
