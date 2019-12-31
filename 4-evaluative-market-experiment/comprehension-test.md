@@ -65,5 +65,5 @@ Take note: if many of the participants use identical language to explain the val
 
 * [GrasshopperHerder: Comprehension vs. Commitment](https://grasshopperherder.com/comprehension-vs-commitment/)
 * [Pearson: Technical Report - Cognitive Labs](http://images.pearsonassessments.com/images/tmrs/tmrs_rg/CognitiveLabs.pdf)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part4-evaluative_market_experiment/realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 

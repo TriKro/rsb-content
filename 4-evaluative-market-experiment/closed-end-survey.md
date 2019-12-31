@@ -118,7 +118,7 @@ Varies significantly with the survey length and methodology chosen. It can take 
 ### Case Studies
 
 * [FourSquare used a closed-end survey to prioritize which city to launch in next \(using a google form\)](https://techcrunch.com/2009/10/15/foursquare-nearly-doubles-its-playing-field/)
-* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part4-evaluative_market_experiment/realbook@kromatic.com)
 
 ### Tools
 
@@ -128,5 +128,5 @@ Varies significantly with the survey length and methodology chosen. It can take 
 
 * [Survey Monkey: How to Analyze Survey Data](https://www.surveymonkey.co.uk/mp/how-to-analyze-survey-data/)
 * [Fluid Surveys: Comparing Closed-Ended and Open-Ended Questions](http://fluidsurveys.com/university/comparing-closed-ended-and-open-ended-questions/)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part4-evaluative_market_experiment/realbook@kromatic.com)
 
