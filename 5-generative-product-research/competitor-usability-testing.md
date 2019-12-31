@@ -57,7 +57,7 @@ Before building a solution, any ideas should be tested via alternative generativ
 
 ### Case Studies
 
-* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part5-generative_product_research/realbook@kromatic.com)
 
 ### Tools
 
@@ -70,5 +70,5 @@ Before building a solution, any ideas should be tested via alternative generativ
 * [StackExchange: Should usability testing of a competitor's website be a part of your usability testing routine?](http://ux.stackexchange.com/questions/37982/should-usability-testing-of-a-competitors-website-be-a-part-of-your-usability-t)
 * [Whittington: Legal Espionage - User Testing Your Competitor's Website to Improve Your Own](https://www.rickwhittington.com/blog/user-testing-your-competitors-website-to-improve-your-own/)
 * [TestFort: Usability Testing of Competitor’s Site - 4 Tips and Reasons](https://testfort.com/articles/usability-testing-competitor’s-site-4-tips-and-reasons)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part5-generative_product_research/realbook@kromatic.com)
 
