@@ -87,5 +87,5 @@ Usability tests with 5 users can be finished in half a working day with minimal 
 * [The Myth of Usability Testing, by Robert Hoekman Jr. October 20, 2009](https://alistapart.com/article/the-myth-of-usability-testing)
 * [Practical Usability Testing \(Human Factors International, n.d.\)](http://www.humanfactors.com/training/practical_usability_testing.asp)
 * [The 12 Cognitive Biases That Prevent You from Being Rational \(George Dvorsky, io9\)](http://io9.gizmodo.com/5974468/the-most-common-cognitive-biases-that-prevent-you-from-being-rational)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part6-evaluative_product_experiment/realbook@kromatic.com)
 
