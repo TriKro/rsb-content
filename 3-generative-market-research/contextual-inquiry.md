@@ -81,9 +81,9 @@ Since the data is primarily qualitative and sample sizes are small, researchers 
 
 ### Case Studies
 
-* [Lucky Iron Fish: The founder arrived at his solution after he immersed himself in the people he was solving a problem for and studied their culture](https://www.youtube.com/watch?v=iY0D-PIcgB4).
+* [Lucky Iron Fish: The founder arrived at his solution after he immersed himself in the people he was solving a problem for and studied their culture](https://www.youtube.com/watch?v=M66ZU2PCIcM).
 * [Shopping Cart: A perfect example of how you can build better products when you are in contact with customers and build the product in parallel with customer development](https://www.youtube.com/watch?v=M66ZU2PCIcM).
-* [Fast Food Milkshake example by Clayton Christensen](https://www.youtube.com/watch?v=sfGtw2C95Ms&t=30s)
+* [Fast Food Milkshake example by Clayton Christensen](https://www.youtube.com/watch?v=f84LymEs67Y)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Tools
@@ -94,7 +94,7 @@ Since the data is primarily qualitative and sample sizes are small, researchers 
 
 * [Beyer, H. & Holtzblatt, K. \(1998\). Contextual Design: Defining Customer-Centered Systems. San Francisco, CA: Morgan Kaufmann Publishers. Gaffney, G. \(2004\). Contextual enquiry – A primer.](http://www.sitepoint.com/article/contextual-enquiry-primer)
 * [Holtzblatt, K., Wendell, J. B., & Wood, S. \(2005\). Rapid contextual design: A how-to guide to key techniques for user-centered design. San Francisco, CA: Morgan Kaufmann.](https://www.elsevier.com/books/rapid-contextual-design/holtzblatt/978-0-12-354051-5)
-* [Rampoldi-Hnilo, L. & English, J.\(2004\). Remote Contextual Inquiry: A Technique to Improve Enterprise Software. Boxes and Arrows.](https://boxesandarrows.com/remote-contextual-inquiry-a-technique-to-improve-enterprise-software/)
+* [Rampoldi-Hnilo, L. & English, J.\(2004\). Remote Contextual Inquiry: A Technique to Improve Enterprise Software. Boxes and Arrows.](http://boxesandarrows.com/view/remote_contextual_inquiry_a_technique_to_improve_enterprise_software)
 * Whiteside, J. Bennett, J., & Holtzblatt, H. \(1988\). Usability engineering: Our experience and evaluation. In M. Helander \(Ed.\). Handbook of Human-Computer Interaction. New York, NY: Elsevier Science Publishing. 791-817.
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part3-generative_market_research/realbook@kromatic.com)
 
