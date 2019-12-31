@@ -93,5 +93,5 @@ If you are in a B2B sales scenario, the business relationship is very important.
 
 * [7 Tips for Creating Effective Flyers for Your New Product](http://jodycalkins.com/7-tips-for-creating-effective-flyers-for-your-new-product/)
 * [Create Irresistible One Page Sales Flyer](https://www.linkedin.com/pulse/create-irresistible-one-page-sales-flyer-dave-palmer)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part4-evaluative_market_experiment/realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
