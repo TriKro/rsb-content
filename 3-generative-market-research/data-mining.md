@@ -65,7 +65,7 @@ To counter these biases, you can:
 
 ### Case Studies
 
-* [Data mining answers questions for startup businesses in Northwest Colorado](https://www.steamboatpilot.com/news/data-mining-answers-questions-for-startup-businesses-in-northwest-colorado/) 
+* [Data mining answers questions for startup businesses in Northwest Colorado](http://www.steamboattoday.com/news/2013/may/11/data-mining-answers-questions-start-businesses-nor/) 
 * [Jaeger uses data mining to reduce losses from crime and waste](http://www.computerweekly.com/feature/Case-study-Jaeger-uses-data-mining-to-reduce-losses-from-crime-and-waste)
 * [MobileMiner: A real world case study of data mining in mobile communication ](http://www.cs.cornell.edu/~bishan/papers/sigmod09-bishanyang.pdf)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
@@ -79,5 +79,5 @@ To counter these biases, you can:
 * [Data mining knowledge discovery](http://www.tutorialspoint.com/data_mining/dm_knowledge_discovery.htm)
 * [Everything You Wanted to Know about Data Mining but Were Afraid to Ask - The Atlantic](https://www.theatlantic.com/technology/archive/2012/04/everything-you-wanted-to-know-about-data-mining-but-were-afraid-to-ask/255388/)
 * [SPSS. \(2005\). Data mining tips](http://www.spss.ch/upload/1124797262_DMtipsBooklet)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part3-generative_market_research/realbook@kromatic.com)
 
