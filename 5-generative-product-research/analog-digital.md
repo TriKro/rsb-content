@@ -85,5 +85,5 @@ Over-focusing on technology: If the tech is proven or low risk, test the busines
 
 * [Harvard Business Review: How to Create an Exponential Mindset](https://hbr.org/2016/07/how-to-create-an-exponential-mindset)
 * [What Drones and Crop Dusters Can Teach About Minimum Viable Product](https://hbr.org/2014/02/what-drones-and-crop-dusters-can-teach-about-minimum-viable-product)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part5-generative_product_research/realbook@kromatic.com) 
 
