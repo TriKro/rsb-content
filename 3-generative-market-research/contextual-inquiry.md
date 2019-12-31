@@ -81,9 +81,9 @@ Since the data is primarily qualitative and sample sizes are small, researchers 
 
 ### Case Studies
 
-* [Lucky Iron Fish: The founder arrived at his solution after he immersed himself in the people he was solving a problem for and studied their culture](https://www.youtube.com/watch?v=M66ZU2PCIcM).
+* [Lucky Iron Fish: The founder arrived at his solution after he immersed himself in the people he was solving a problem for and studied their culture](https://www.youtube.com/watch?v=iY0D-PIcgB4).
 * [Shopping Cart: A perfect example of how you can build better products when you are in contact with customers and build the product in parallel with customer development](https://www.youtube.com/watch?v=M66ZU2PCIcM).
-* [Fast Food Milkshake example by Clayton Christensen](https://www.youtube.com/watch?v=f84LymEs67Y)
+* [Fast Food Milkshake example by Clayton Christensen](https://www.youtube.com/watch?v=sfGtw2C95Ms&t=30s)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Tools
