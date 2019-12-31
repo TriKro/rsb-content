@@ -65,7 +65,7 @@ This is a wonderful technique to generate a lot of ideas in an area you are alre
 
 * [Medium: My Startup Failed: Lessons learned from a first-time founder in the startup trenches](https://medium.com/@jasonhuertas/my-startup-failed-6c54bd68c654#.hxj2dkt4o)
 * [Autopsy Lessons from Failed Startups](http://autopsy.io)
-* [CBinsights: 232 Startup Failure Post-Mortems](https://www.cbinsights.com/blog/startup-failure-post-mortem/)
+* [CBinsights: 323 Startup Failure Post-Mortems](https://www.cbinsights.com/blog/startup-failure-post-mortem/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ### Tools
