@@ -106,13 +106,11 @@ This method can be quite extrapolative. You may resort to complex resources such
 * [Marketing Donut, General Description of Market Research](http://www.marketingdonut.co.uk/market-research/market-analysis)
 * [Market Research Methods, Market Research vs. Direct Research](http://www.mymarketresearchmethods.com/an-overview-of-market-research-methods/)
 * [Know This, Type of Research Types by Decision Types You Have to Take](http://www.knowthis.com/marketing-research/examples-of-research-in-marketing)
-* [The Craig Newmark Graduate School of Journalism at the City University of New York: Market Research Guide for Entrepreneurial Journalists: Primary & Secondary Market Research Resources](http://researchguides.journalism.cuny.edu/c.php?g=554769&p=3812399)
-* [SBA.gov: Market research and competitive analysis](https://www.sba.gov/business-guide/plan-your-business/market-research-competitive-analysis)
+* [Entrepreneurship.org, Secondary Market Research Resources](https://www.entrepreneurship.org/articles/2007/04/secondary-market-research-resources)
+* [SBA.gov, Free Sources: Market Data and How to Use Data for Business Planning](https://www.sba.gov/blogs/free-sources-market-data-and-how-use-data-business-planning)
 * [Census.gov, US Census Historical Data](http://www.census.gov/programs-surveys/economic-census.html)
 * [European Commission, Consumer Market Studies](http://ec.europa.eu/consumers/consumer_evidence/market_studies/index_en.htm)
 * [US Commercial Services, Market Research Library](http://buyusainfo.net/adsearch.cfm)
 * [Cornell University, How Can I Find Market Research Data](https://johnson.library.cornell.edu/faqs/how-can-i-find-market-research-reports-and-data)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
-
-
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part4-evaluative_market_experiment/realbook@kromatic.com)
 
