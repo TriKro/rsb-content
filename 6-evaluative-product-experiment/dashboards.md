@@ -80,7 +80,7 @@ Dashboard colors, shapes \(traffic light\), and status icons help you quickly in
 #### Potential Biases
 
 * Graphs and visualizations can easily be misleading.
-* Using scales on an axis that doesn't start from zero will make the immediate trend swings seem much bigger, and therefore draw attention away from the fact that the absolute value is quite high. For example: [https://blog.heapanalytics.com/wp-content/uploads/2014/04/misleading1\_yaxis.png](https://blog.heapanalytics.com/wp-content/uploads/2014/04/misleading1_yaxis.png)
+* Using scales on an axis that doesn't start from zero will make the immediate trend swings seem much bigger, and therefore draw attention away from the fact that the absolute value is quite high.
 * Labels and naming on axes are often overlooked or unclear.
 * Data can intentionally or inadvertently be left out, making it possible to draw conclusions that do not reflect the full picture of a situation.
 * Sources should be fully documented, clear, and agreed upon by all parties.
@@ -106,5 +106,5 @@ Dashboard colors, shapes \(traffic light\), and status icons help you quickly in
 
 * [Statistics How To: Misleading Graphs: Real Life Examples](http://www.statisticshowto.com/misleading-graphs/)
 * [Edward Tufte: Blog](https://www.edwardtufte.com/tufte/)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part6-evaluative_product_experiment/realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
