@@ -63,8 +63,8 @@ If the conversion rate obtained exceeds your predetermined signpost value, the l
 ### Case Studies
 
 * [Dropbox used a simple landing page to gauge interest and caprute email adresses](https://www.slideshare.net/gueste94e4c/dropbox-startup-lessons-learned-3836587)
-* [Buffer went from idea to paying customers in seven weeks](https://blog.bufferapp.com/idea-to-paying-customers-in-7-weeks-how-we-did-it)
-* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+* [Buffe went from idea to paying customers in seven weeks](https://blog.bufferapp.com/idea-to-paying-customers-in-7-weeks-how-we-did-it)
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ### Tools
 
@@ -75,5 +75,5 @@ If the conversion rate obtained exceeds your predetermined signpost value, the l
 * [Eric Ries - Using AdWords to Assess Demand](http://www.startuplessonslearned.com/2008/11/using-adwords-to-assess-demand-for-your.html)
 * [Luke Szyrmer - What is a good conversion rate for a landing page MVP?](http://blog.launchtomorrow.com/2015/01/good-landing-page-experiment-conversion-rate/)
 * [Luke Szyrmer - Landing Page MVPs](http://launchtomorrow.com)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part4-evaluative_market_experiment/realbook@kromatic.com)
 
