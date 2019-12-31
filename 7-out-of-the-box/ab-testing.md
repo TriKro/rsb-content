@@ -116,6 +116,5 @@ A/B testing is not so good for testing:
 * Udacity - [Online A/B Testing Course](https://www.udacity.com/course/ab-testing--ud257)
 * Evan Miller - [A/B Testing Sample Size Calculator Tool](http://www.evanmiller.org/ab-testing/sample-size.html)
 * MailChimp - [How Long Should You Run Your A/B Test?](https://blog.mailchimp.com/how-long-to-run-an-ab-test/)
-* Got a reference? Add a link by emailing us: [realbook@trikro.com](mailto:realbook@trikro.com)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part7-out-of-the-box/realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 

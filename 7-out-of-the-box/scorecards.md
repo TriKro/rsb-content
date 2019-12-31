@@ -81,5 +81,5 @@ As this technique does not gather data, it is purely a subjective ranking tool t
 * [Diana Kander: How to Diagnose Your Riskiest Assumptions](https://dkander.wordpress.com/2013/05/07/how-to-diagnose-your-riskiest-assumptions/)
 * [Sixteen Ventures: Startup Customer Development Hacks](http://sixteenventures.com/startup-customer-development-hacks)
 * [Medium - Ipsita Agarwal: Leaning into the Lean Startup Methodology](https://medium.com/@ipsita/leaning-into-the-startup-methodology-b5327ac02d98)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part7-out-of-the-box/realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 

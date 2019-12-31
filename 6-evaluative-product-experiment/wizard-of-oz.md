@@ -67,7 +67,7 @@ The WOZ test can provide valuable information, especially quantitative data. You
 * [Y Combinator: The Wizard of Oz Approach](http://themacro.com/articles/2016/01/ask-yc-upfront-technical-investments/)
 * [Quora: What Are the Pros and Cons of "Wizard of Oz Testing"?](https://www.quora.com/What-are-the-pros-and-cons-of-Wizard-of-Oz-testing)
 * [Usability Net: Wizard of Oz](http://www.usabilitynet.org/tools/wizard.htm)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part6-evaluative_product_experiment/realbook@kromatic.com)
 
 
 

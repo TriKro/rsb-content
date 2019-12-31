@@ -73,5 +73,5 @@ As this is a technique used to reduce bias, there are no major additional biases
 * [Medium - David Bland: Lean Startup Comes Home](https://medium.com/@davidjbland/lean-startup-comes-home-8f205993da40)
 * [Harvard Business School: Kill a Brand, Keep a Customer](https://hbr.org/2003/12/kill-a-brand-keep-a-customer)
 * [Wikipedia: America's Test Kitchen](https://en.wikipedia.org/wiki/America's_Test_Kitchen)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part7-out-of-the-box/realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
