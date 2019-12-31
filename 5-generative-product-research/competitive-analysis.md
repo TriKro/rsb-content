@@ -71,11 +71,11 @@ A rising tide lifts all boats. Focus on being one of the boats, and don't worry 
 #### Field Tips
 
 * Competitor Analysis should color your thinking, create the appropriate context, and help educate you on what’s going on. - @byosko
-* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part5-generative_product_research/realbook@kromatic.com)
+* Got a tip? Add a tweetable quote by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Case Studies
 
-* Got a case study? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part5-generative_product_research/realbook@kromatic.com)
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Tools
 
@@ -86,5 +86,5 @@ A rising tide lifts all boats. Focus on being one of the boats, and don't worry 
 * [Steve Blank: A New Way to Look at Competitors](https://steveblank.com/2013/11/08/a-new-way-to-look-at-competitors/)
 * [Instigator Blog: Competitive Research 101 for Startups](http://www.instigatorblog.com/competitive-research-101-for-startups/2011/08/30/)
 * [Justin Mares: A Startup Guide to Competitive Research](http://justinmares.com/a-startup-guide-to-competitive-research/)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part5-generative_product_research/realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 

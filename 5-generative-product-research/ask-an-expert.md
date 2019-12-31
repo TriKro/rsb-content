@@ -88,5 +88,5 @@ Keep in mind that all advice is context-dependent. Even if an expert was success
 
 * [Wired: Given “Expert” Advice, Brains Shut Down](https://www.wired.com/2009/03/financebrain)
 * [Harvard Business Review: Find the Right Expert for Any Problem](https://hbr.org/2014/12/find-the-right-expert-for-any-problem)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part5-generative_product_research/realbook@kromatic.com)
 
