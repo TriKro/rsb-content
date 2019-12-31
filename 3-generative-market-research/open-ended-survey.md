@@ -95,5 +95,5 @@ In the case of very large data sets, algorithmic tools such as sentiment analysi
 * [Midwest Political Science Association: Structural Topic Models for Open-Ended Survey Responses](http://scholar.harvard.edu/files/dtingley/files/topicmodelsopenendedexperiments.pdf)
 * [Centers for Disease Control and Prevention: A Catalog of Biases in Questionnaires](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1323316/)
 * [Open-Ended Questions: Get More Context to Enrich Your Data](https://www.surveymonkey.com/mp/open-ended-questions-get-more-context-to-enrich-your-data/)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part3-generative_market_research/realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
