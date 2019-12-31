@@ -67,14 +67,13 @@ You are looking for places where the customer got stuck, was not able to find wh
 
 ### References
 
-* [Carolyn Snyder, Paper Prototying. Morgan Kaufmann, 2003.](http://www.paperprototyping.com/)
 * [Dumas, Joseph and Janice Redish, A Practical Guide to Usability Testing. Intellect, Ltd, 1999.](https://www.amazon.com/Practical-Guide-Usability-Testing/dp/1841500208)
 * [IBM: Sure, It's Low-Tech, but This Usability Testing Method Can Help You Sidestep Problems before You Write Your Code](http://www.csee.umbc.edu/courses/undergraduate/345/spring12/mitchell/readings/paperPrototyping_Snyder.pdf)
 * [User Focus: 7 Myths about Paper Prototyping](http://www.userfocus.co.uk/articles/paperprototyping.html)
 * [SpeckyBoy: Effective Video Examples of Paper Prototyping](http://speckyboy.com/2010/06/24/10-effective-video-examples-of-paper-prototyping/)
 * [NN Group: Paper Prototyping: Getting User Data before You Code](http://www.nngroup.com/articles/paper-prototyping/)
 * [Atlassian Blog: Usability Testing with Paper Prototyping](http://blogs.atlassian.com/2011/11/usability-testing-with-paper-prototyping/)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part6-evaluative_product_experiment/realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 
 
