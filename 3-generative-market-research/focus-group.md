@@ -124,9 +124,8 @@ Use techniques to match patterns in responses, such as affinity mapping using po
 * [Kansas University - Community Toolbox: Section 6. Conducting Focus Groups](http://ctb.ku.edu/en/table-of-contents/assessment/assessing-community-needs-and-resources/conduct-focus-groups/main)
 * [Nielsen Norman Group: The Use and Misuse of Focus Groups](http://www.nngroup.com/articles/focus-groups/)
 * [Slate: Lies, Damn Lies, and Focus Groups](http://www.slate.com/articles/business/moneybox/2003/10/lies_damn_lies_and_focus_groups.html)
-* [University of Southern Queensland - Research Integrity & Ethics: Tips for Conducting Focus Groups](https://www.usq.edu.au/-/media/USQ/Current-Students/Research/conducting-research/human-ethics/Tipsforconductingfocusgroupsv10.ashx?la=en)
 * [Interaction Design Foundation: How to Conduct Focus Groups](https://www.interaction-design.org/literature/article/how-to-conduct-focus-groups)
 * [B2B International: Using the Focus Group in Market Research](https://www.b2binternational.com/publications/market-research-focus-group/)
 * [User Focus UK: Is Consumer Research Losing Its Focus?](http://www.userfocus.co.uk/articles/focuspocus.html)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part3-generative_market_research/realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
