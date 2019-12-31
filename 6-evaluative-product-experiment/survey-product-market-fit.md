@@ -106,5 +106,5 @@ Look for differences in qualitative responses between very disappointed and some
 * [Startup Marketing: Using Survey.io](http://www.startup-marketing.com/using-survey-io/)
 * [Fast Company: Why You Should Find Product-Market Fit Before Sniffing Around for Venture Money](https://www.fastcompany.com/3014841/why-you-should-find-product-market-fit-before-sniffing-around-for-venture-money?show_rev_content)
 * [Cobloom Blog: How to Find Product-Market Fit](https://www.cobloom.com/blog/how-good-is-david-cummings-approach-to-product/market-fit)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part6-evaluative_product_experiment/realbook@kromatic.com)
 
