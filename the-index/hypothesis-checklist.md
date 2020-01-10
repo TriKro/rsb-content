@@ -115,7 +115,7 @@ Learn from your mistakes. Look at the questions you got wrong and see which key 
 * There are too many variables. If you are testing multiple things then you cannot pinpoint which variable caused the results.
 * There is not an achievable metric attached to the hypothesis to know the point at which the experiment succeeds or fails.
 * The success or failure of the experiment is not directly linked to the experiment. If the success or failure could have been the result of a number of variables, then you don’t know if the experiment was the reason for the change.
-* The timebox is too long or too short. Some experiments are going to take longer, but make sure that the timebox is reasonable for the  stage your company. You don’t want to have an experiment that takes years or extends past your runway.
+* The timebox is too long or too short. Some experiments are going to take longer, but make sure that the timebox is reasonable for the stage of your company. You don’t want to have an experiment that takes years or extends past your runway.
 
 ### **Other Resources**
 
