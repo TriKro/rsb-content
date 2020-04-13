@@ -1,4 +1,4 @@
-# Broken Promise Value Proposition Test \(Smoke Test\)
+# Value Proposition Test - Broken Promise
 
 ![](../.gitbook/assets/illustration-broken-promise-test-real-startup-book.png)
 
@@ -78,5 +78,5 @@ Interpretation is framed by how you originally formulated the experiment \(i.e.,
 ### References
 
 * [The Art of Cleverness: Use the Broken-Promise Strategy to validate your startup](http://artofcleverness.stfi.re/broken-promise/?sf=agvkwwg#ab)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part4-evaluative_market_experiment/realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 

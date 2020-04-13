@@ -1,4 +1,4 @@
-# Flyer Value Proposition Test \(Smoke Test\)
+# Value Proposition Test - Flyer
 
 ![](../.gitbook/assets/illustration-flyer-smoke-test.png)
 

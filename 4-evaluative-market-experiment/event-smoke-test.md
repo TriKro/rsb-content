@@ -1,4 +1,4 @@
-# Event Value Proposition Test \(Smoke Test\)
+# Value Proposition Test - Event
 
 ![](../.gitbook/assets/illustration-group-talking-event-smoke-test.png)
 
@@ -87,7 +87,7 @@ If using events specifically as smoke tests, you don't want to oversell the even
 
 ### Case Studies
 
-* Got a case study? Add a link by emailing us: [realbook@trikro.com](mailto:realbook@trikro.com)
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Tools
 
@@ -100,5 +100,5 @@ If using events specifically as smoke tests, you don't want to oversell the even
 ### References
 
 * [James Burchill: Meetupology](https://www.amazon.com/Meetupology-Market-Business-Networking-Meetups-ebook/dp/B00IIXU6X2)
-* Got a reference? Add a link by emailing us: [realbook@trikro.com](mailto:realbook@trikro.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 

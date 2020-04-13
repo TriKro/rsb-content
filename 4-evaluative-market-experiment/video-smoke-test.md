@@ -1,4 +1,4 @@
-# Video Value Proposition Test \(Smoke Test\)
+# Value Proposition Test - Video
 
 ![](../.gitbook/assets/illustration-video-smoke-test.png)
 
@@ -115,5 +115,5 @@ View count vanity: Views from people outside your intended target audience is a 
 * [Tim Ferriss: How to Create a Viral Book Trailer \(or Get 1,000,000 Views for Almost Anything\)](http://tim.blog/2013/04/10/how-to-create-a-viral-book-trailer-or-get-1000000-views-for-almost-anything/)
 * [Launch Tomorrow: Dropbox “explainer video”? You’re missing most of their Lean Startup story…](https://blog.launchtomorrow.com/2016/03/dropbox-mvpexplainer-video-youre-missing-most-of-the-story/)
 * [Nick Kolenda: An Enormous Guide to Viral Marketing](https://www.nickkolenda.com/viral-marketing)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part4-evaluative_market_experiment/realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 

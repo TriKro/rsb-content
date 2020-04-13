@@ -1,4 +1,4 @@
-# High Bar Value Proposition Test \(Smoke Test\)
+# Value Proposition Test - High Bar
 
 ![](../.gitbook/assets/illustration-high-bar-test.png)
 
@@ -73,7 +73,6 @@ Offline: Depends on your existing approach/processes, and what you want to learn
 
 ### Case Studies
 
-* [LaunchTomorrow: Discover whether the Lean Startup approach can work for you](http://leanstartupquiz.launchtomorrow.com/)
 * [Marketing Experiments: Lead Generation - Testing form field length reduces cost-per-lead by $10.66](http://www.marketingexperiments.com/blog/internet-marketing-strategy/lead-generation-testing-form-field-length-reduces-cost-per-lead-by-10-66.html)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
@@ -83,5 +82,5 @@ Offline: Depends on your existing approach/processes, and what you want to learn
 
 ### References
 
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part4-evaluative_market_experiment/realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 

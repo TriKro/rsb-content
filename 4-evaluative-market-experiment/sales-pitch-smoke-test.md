@@ -1,4 +1,4 @@
-# Sales Pitch Value Proposition Test \(Smoke Test\)
+# Value Proposition Test - Sales Pitch
 
 ![](../.gitbook/assets/illustration-sales-pitch-smoke-test-real-startup-book.png)
 
@@ -96,5 +96,5 @@ This smoke test does not suggest the optimal price point for the product, or whe
 * [Sterling Chase - 7 Killer Closing Techniques to Increase Sales](http://sterlingchase.com/2011/10/13/7-killer-closing-techniques-to-increase-sales/#sthash.1b1rtmNZ.dpuf)
 * [HubSpot -  The 5 Most Common Objections During Prospecting and How to Overcome Them](https://blog.hubspot.com/sales/the-5-most-common-objections-during-prospecting-and-how-to-overcome-them#sm.000vd672z1bmrcz3rcd1ty8tb8r6k)
 * [First Round - The Three Frameworks You Need to Kick-start Sales](http://firstround.com/review/the-three-frameworks-you-need-to-kick-start-sales/)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part4-evaluative_market_experiment/realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
