@@ -59,11 +59,15 @@ Take note: if many of the participants use identical language to explain the val
 
 ### Tools
 
+* [Top Usability Testing Tools: The Complete List \(79 Tools\)](https://thegood.com/guide/usability-testing-tools/)
 * Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### References
 
+* [UsabilityHub: An introduction to five second testing](https://usabilityhub.com/guides/five-second-testing)
 * [GrasshopperHerder: Comprehension vs. Commitment](https://grasshopperherder.com/comprehension-vs-commitment/)
+* [Josh Tong: Ways to test content with users](https://www.joshtong.io/blog/2019/5/31/ways-to-test-content-with-users)
+* [Nielsen Norman Group: Legibility, Readability, and Comprehension: Making Users Read Your Words](https://www.nngroup.com/articles/legibility-readability-comprehension/)
 * [Pearson: Technical Report - Cognitive Labs](http://images.pearsonassessments.com/images/tmrs/tmrs_rg/CognitiveLabs.pdf)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 

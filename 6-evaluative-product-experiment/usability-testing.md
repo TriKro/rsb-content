@@ -74,11 +74,18 @@ Usability tests with 5 users can be finished in half a working day with minimal 
 
 ### Case Studies
 
+* [Automated Usability Testing: A Case Study](https://uxpamagazine.org/automated_usability_testing/)
 * [Maryellen Allen — A Case Study of Usability Testing of the University of South Florida’s Virtual Library Interface Design](http://www.geocities.ws/scienceofinformation_dc/Documentos/OnlineInformation/p40.pdf)
+* [Metisa: A Usability Case Study](https://blog.prototypr.io/metisa-a-usability-case-study-a16658c26258)
+* [Pinterest — A usability case study](https://blog.prototypr.io/pinterest-a-usability-case-study-8d0d7025035a)
+* [Zara: A Usability Case Study](https://uxdesign.cc/zara-a-usability-case-study-981b7ca93db8)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ### Tools
 
+* [Best 15 usability testing tools for happy users](https://www.justinmind.com/blog/usability-testing-tools/)
+* [Top Usability Testing Tools: The Complete List \(79 Tools\)](https://thegood.com/guide/usability-testing-tools/)
+* [Tools for Unmoderated Usability Testing](https://www.nngroup.com/articles/unmoderated-user-testing-tools/)
 * Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### References
@@ -87,5 +94,5 @@ Usability tests with 5 users can be finished in half a working day with minimal 
 * [The Myth of Usability Testing, by Robert Hoekman Jr. October 20, 2009](https://alistapart.com/article/the-myth-of-usability-testing)
 * [Practical Usability Testing \(Human Factors International, n.d.\)](http://www.humanfactors.com/training/practical_usability_testing.asp)
 * [The 12 Cognitive Biases That Prevent You from Being Rational \(George Dvorsky, io9\)](http://io9.gizmodo.com/5974468/the-most-common-cognitive-biases-that-prevent-you-from-being-rational)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part6-evaluative_product_experiment/realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
