@@ -87,6 +87,7 @@ If using events specifically as smoke tests, you don't want to oversell the even
 
 ### Case Studies
 
+* [Michael Karnjanaprakorn of Skillshare: Toasting Success](https://www.youtube.com/watch?v=dCBvdYmvyI0)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Tools

@@ -92,7 +92,8 @@ Check your initial hypothesis and see if the results match your success rate. De
 
 ### Case Studies
 
-* Game studio Zynga has a strong reputation for using fake doors and other quantitative product tests. They test new game ideas by coming up with a five-word pitch for each one. Then they publish the pitch as a promotional link in their live games for a period of time to see how much interest it generates from existing users.
+* [Buffer went from idea to paying customers in seven weeks](https://blog.bufferapp.com/idea-to-paying-customers-in-7-weeks-how-we-did-it)
+* [Game studio Zynga](https://speckyboy.com/successful-minimum-viable-products/) has a strong reputation for using fake doors and other quantitative product tests. They test new game ideas by coming up with a five-word pitch for each one. Then they publish the pitch as a promotional link in their live games for a period of time to see how much interest it generates from existing users.
 * Local Dutch information aggregator Tippiq.nl uses fake doors extensively in their proposition development, via a separate website with www.tippiqlabs.nl. All new ideas are tested first using fake ads that lead to a landing page on that website. On the landing page, the product/service is explained and the visitor is asked if they would like to use the product. After they have expressed their interest, they get a notification that the product is still in development and they can leave their email if they want to stay up-to-date.
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 

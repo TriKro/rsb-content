@@ -78,9 +78,15 @@ Offline: Depends on your existing approach/processes, and what you want to learn
 
 ### Tools
 
+* [12 Tools That’ll Help You Build a High Converting Landing Page](https://neilpatel.com/blog/12-tools-that-can-help-you-build-high-converting-landing-pages/)
+* [VentureHarbour: 21 Best Landing Page Builders in 2](https://www.ventureharbour.com/best-landing-page-builders/)
+* [Zapier: The 11 Best Online Survey Apps in 2019](https://zapier.com/learn/forms-surveys/best-survey-apps/)
 * Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### References
 
+* [Hubspot: RFM \(Recency, Frequency, Monetary Value\), Explained in 600 Words or Less](https://blog.hubspot.com/service/rfm-analysis)
+* [Moves the Needle: Lean Experiment Techniques](https://www.movestheneedle.com/all-blog/2016/6/14/enterprise-lean-startup-experiment-examples)
+* [Smashing Magazine: Designing Friction For A Better User Experience](https://www.smashingmagazine.com/2018/01/friction-ux-design-tool/)
 * Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 

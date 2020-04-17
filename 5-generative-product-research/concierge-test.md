@@ -62,10 +62,12 @@ Similarly, the method can require substantial resources or nothing but a pen and
 
 ### Case Studies
 
+* [Airbnb - 10 Massively Successful Minimum Viable Products](https://speckyboy.com/successful-minimum-viable-products/)
 * [Food on the Table - The Ultimate Guide to Minimum Viable Products](http://scalemybusiness.com/the-ultimate-guide-to-minimum-viable-products/)
-* [SlideShare - Manuel Rosso: Concierge MVP Lean Startup](https://de.slideshare.net/startuplessonslearned/manuel-rosso-conciergemvpleanstartupsxsw?qid=56a1d65d-b6ed-432d-8e0a-f1a6803783df&v=default&b=&from_search=3)
 * [Medium - On MVPs Gluing Things Together and 270 Flights to South Africa](https://medium.com/@zacharycohn/on-mvps-glueing-things-together-and-270-flights-to-south-africa-721d7208fb16#.29kw7lsdt)
 * [Moves the Needle - Enterprise Lean Startup Experiment Examples](http://www.movestheneedle.com/blog/enterprise-lean-startup-experiment-examples/)
+* [SlideShare - Manuel Rosso: Concierge MVP Lean Startup](https://de.slideshare.net/startuplessonslearned/manuel-rosso-conciergemvpleanstartupsxsw?qid=56a1d65d-b6ed-432d-8e0a-f1a6803783df&v=default&b=&from_search=3)
+* [Wealthfront - Andy Rachleff, Wealthfront Presentation at Lean Startup SXSW](https://www.slideshare.net/500startups/andy-rachleff-wealthfront-presentation-at-lean-startup-sxsw)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ### Tools
@@ -78,5 +80,5 @@ Similarly, the method can require substantial resources or nothing but a pen and
 * [I Build MVPs - The Concierge Minimum Viable Product Maximizes Customer Learning](http://ibuildmvps.com/blog/the-concierge-minimum-viable-product-maximizes-customer-learning)
 * [HBR - Building a Minimum Viable Product](https://hbr.org/2013/09/building-a-minimum-viable-prod)
 * [The Concierge MVP Board](https://docs.google.com/spreadsheets/d/1yjsrdKiRwks9H9a0oec8LfZzC81zTXuo74mCmbeDc1o/edit#gid=0)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part5-generative_product_research/realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 

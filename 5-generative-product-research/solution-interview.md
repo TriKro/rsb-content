@@ -91,13 +91,12 @@ Use the solution interview to plan the initial feature set of your product and d
 
 ### Tools
 
-* [The Solution Interview](http://startitup.co/guides/976/the-solution-interview)
 * Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### References
 
-* [How to Generate Valuable Insights From a Solution Interview](https://leanb2bbook.com/blog/collect-valuable-feedback-b2b-solution-intervie)
+* [Apply the Lean Startup in B2B to Build Products Businesses Want: Solution Interviews](https://www.slideshare.net/egarbugli/apply-the-lean-startup-in-b2b-to-build-products-businesses-want-course-slides/140-27Pivots)
 * [The Sales Pitch is Dead. Long Live Solution Interviews!](http://customerdevlabs.com/2014/08/05/problem-solution-interviews-b2b-sales-pitch/)
 * [LeanSteps: Solution Interviews](https://leansteps.wordpress.com/11-2/step-3-lean-experiment/solution-interviews/)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part5-generative_product_research/realbook@kromatic.com)
 
