@@ -65,10 +65,9 @@ When multiple team members dogfood their product, notes can be collected and sor
 
 ### Case Studies
 
-* [Alphabet exec Eric Schmidt uses an iPhone, but thinks the Galaxy S7 is better](http://www.digitaltrends.com/mobile/eric-schmidt-iphone-use/)
-* [Cnet: Google's Eric Schmidt: Why I Love My BlackBerry](https://www.cnet.com/news/googles-eric-schmidt-why-i-love-my-blackberry/)
 * [Dogfooding at Bitglass: We Secure Our Own Corporate Data](http://www.bitglass.com/blog/dogfooding-at-bitglass-we-secure-our-own-corporate-data)
-* [Twitter: 10 Massively Successful Minimum Viable Products](https://speckyboy.com/successful-minimum-viable-products/)
+* [Cnet: Google's Eric Schmidt: Why I Love My BlackBerry](https://www.cnet.com/news/googles-eric-schmidt-why-i-love-my-blackberry/)
+* [Alphabet exec Eric Schmidt uses an iPhone, but thinks the Galaxy S7 is better](http://www.digitaltrends.com/mobile/eric-schmidt-iphone-use/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ### Tools
@@ -79,5 +78,5 @@ When multiple team members dogfood their product, notes can be collected and sor
 
 * [Intercom: The Danger of Dogfooding](https://blog.intercom.com/the-danger-of-dogfooding/)
 * [Forbes: Not Eating Your Own Dog Food? You Probably Should Be](http://www.forbes.com/sites/michaeldefranco/2014/03/04/not-eating-your-own-dog-food-you-probably-should-be-2/#6d2f7ad51d6e)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part5-generative_product_research/realbook@kromatic.com)
 

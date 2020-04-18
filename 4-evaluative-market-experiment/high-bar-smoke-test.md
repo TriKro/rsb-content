@@ -79,7 +79,7 @@ Offline: Depends on your existing approach/processes, and what you want to learn
 ### Tools
 
 * [12 Tools That’ll Help You Build a High Converting Landing Page](https://neilpatel.com/blog/12-tools-that-can-help-you-build-high-converting-landing-pages/)
-* [VentureHarbour: 21 Best Landing Page Builders in 2](https://www.ventureharbour.com/best-landing-page-builders/)
+* [VentureHarbour: 21 Best Landing Page Builders in 2020](https://www.ventureharbour.com/best-landing-page-builders/)
 * [Zapier: The 11 Best Online Survey Apps in 2019](https://zapier.com/learn/forms-surveys/best-survey-apps/)
 * Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 

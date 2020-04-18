@@ -86,14 +86,20 @@ In the case of very large data sets, algorithmic tools such as sentiment analysi
 
 ### Tools
 
+* [Top 21 Best Online Survey Software and Questionnaire Tools: An overview](https://mopinion.com/top-21-best-online-survey-software-and-questionnaire-tools-an-overview/)
 * Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### References
 
 * [A Guide to Open-Ended Questions in Marketing Research](https://conversionxl.com/open-ended-questions/)
+* [Bernard Choi and Anita Pak: A Catalog of Biases in Questionnaires](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1323316/)
+* [CXL Institute: Open-Ended Questions in Marketing Research](https://cxl.com/blog/open-ended-questions/)
 * [FluidSurveys: Comparing Closed-Ended and Open-Ended Questions](http://fluidsurveys.com/university/comparing-closed-ended-and-open-ended-questions/)
+* [Hotjar: Open-ended questions vs. close-ended questions: examples and how to survey users](https://www.hotjar.com/blog/open-ended-questions/)
 * [Midwest Political Science Association: Structural Topic Models for Open-Ended Survey Responses](http://scholar.harvard.edu/files/dtingley/files/topicmodelsopenendedexperiments.pdf)
 * [Centers for Disease Control and Prevention: A Catalog of Biases in Questionnaires](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1323316/)
 * [Open-Ended Questions: Get More Context to Enrich Your Data](https://www.surveymonkey.com/mp/open-ended-questions-get-more-context-to-enrich-your-data/)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part3-generative_market_research/realbook@kromatic.com)
+* [Survey Monkey: How to Analyze Survey Data](https://www.surveymonkey.co.uk/mp/how-to-analyze-survey-data/)
+* [Survey Monkey: Types of survey questions](https://www.surveymonkey.com/mp/survey-question-types/)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 

@@ -52,10 +52,8 @@ The WOZ test can provide valuable information, especially quantitative data. You
 
 ### Case Studies
 
-* [Fast Company: Cardmunch](http://www.fastcompany.com/1807189/year-after-linkedin-came-calling-cardmunch-poised-make-rolodex-obsolete)
-* [Groupon: 10 Massively Successful Minimum Viable Products](https://speckyboy.com/successful-minimum-viable-products/)
 * [Harvard Business Review: Aardvark](https://hbr.org/product/Aardvark/an/811064-PDF-ENG)
-* [Zappos: Wizard of Oz test](https://books.google.com/books?id=1HXtEv-qEW0C&pg=PA139&lpg=PA139&dq=Nick+Swinmurn+wizard+of+oz+zappos&source=bl&ots=kedr5FpV4t&sig=ACfU3U2h-WaELSDQqhvJWt2b0_BNA55KJQ&hl=en&sa=X&ved=2ahUKEwjQiZeRtvDnAhU0oFsKHaknD3IQ6AEwDnoECAoQAQ#v=onepage&q=Nick%20Swinmurn%20wizard%20of%20oz%20zappos&f=false)
+* [Fast Company: Cardmunch](http://www.fastcompany.com/1807189/year-after-linkedin-came-calling-cardmunch-poised-make-rolodex-obsolete)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ### Tools
@@ -69,7 +67,7 @@ The WOZ test can provide valuable information, especially quantitative data. You
 * [Y Combinator: The Wizard of Oz Approach](http://themacro.com/articles/2016/01/ask-yc-upfront-technical-investments/)
 * [Quora: What Are the Pros and Cons of "Wizard of Oz Testing"?](https://www.quora.com/What-are-the-pros-and-cons-of-Wizard-of-Oz-testing)
 * [Usability Net: Wizard of Oz](http://www.usabilitynet.org/tools/wizard.htm)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part6-evaluative_product_experiment/realbook@kromatic.com)
 
 
 

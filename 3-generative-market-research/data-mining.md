@@ -65,19 +65,23 @@ To counter these biases, you can:
 
 ### Case Studies
 
-* [Data mining answers questions for startup businesses in Northwest Colorado](http://www.steamboattoday.com/news/2013/may/11/data-mining-answers-questions-start-businesses-nor/) 
+* [Data mining answers questions for startup businesses in Northwest Colorado](https://www.steamboatpilot.com/news/data-mining-answers-questions-for-startup-businesses-in-northwest-colorado/) 
 * [Jaeger uses data mining to reduce losses from crime and waste](http://www.computerweekly.com/feature/Case-study-Jaeger-uses-data-mining-to-reduce-losses-from-crime-and-waste)
-* [MobileMiner: A real world case study of data mining in mobile communication ](http://www.cs.cornell.edu/~bishan/papers/sigmod09-bishanyang.pdf)
+* [MobileMiner: A real world case study of data mining in mobile communication](http://www.cs.cornell.edu/~bishan/papers/sigmod09-bishanyang.pdf)
+* [Study: Exposure to TV Tweets drives consumers to take action - both on and off of Twitter](https://blog.twitter.com/official/en_us/a/2014/study-exposure-to-tv-tweets-drives-consumers-to-take-action-both-on-and-off-of-twitter.html)
+* [The parable of the beer and diapers](https://www.theregister.co.uk/2006/08/15/beer_diapers/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Tools
 
+* [Predictive Analytics Today: Top 25 Data Mining Software](https://www.predictiveanalyticstoday.com/top-data-mining-software/)
 * Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### References
 
 * [Data mining knowledge discovery](http://www.tutorialspoint.com/data_mining/dm_knowledge_discovery.htm)
-* [Everything You Wanted to Know about Data Mining but Were Afraid to Ask - The Atlantic](https://www.theatlantic.com/technology/archive/2012/04/everything-you-wanted-to-know-about-data-mining-but-were-afraid-to-ask/255388/)
+* Everything You Wanted to Know about Data Mining but Were Afraid to Ask - The Atlantic
+* [Large-scale Item Categorization for e-Commerce](https://web.archive.org/web/20151005215055/http://labs.ebay.com/wp-content/uploads/2012/10/Jean-David-Ruvini-Large-scale_Item.pdf)
 * [SPSS. \(2005\). Data mining tips](http://www.spss.ch/upload/1124797262_DMtipsBooklet)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part3-generative_market_research/realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
