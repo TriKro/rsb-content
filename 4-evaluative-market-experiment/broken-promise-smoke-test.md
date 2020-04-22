@@ -69,10 +69,12 @@ Interpretation is framed by how you originally formulated the experiment \(i.e.,
 
 ### Case Studies
 
+* [Gmail invites auctioned on eBay](https://www.geek.com/news/gmail-invites-auctioned-on-ebay-556690/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Tools
 
+* [Viral Loops Pages](https://viral-loops.com/features/pages)
 * Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### References
