@@ -70,14 +70,12 @@ Hopefully that will take some of the sting out of the fact that you had to engag
 
 ### Tools
 
-* [Celery](https://www.trycelery.com/])
-* [Hero by Vivun](https://www.vivun.com/product/) \(B2B\)
-* [Indiegogo](https://www.indiegogo.com/#/picks_for_you)
-* [Kickstarter](https://www.kickstarter.com/)
 * Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### References
 
+* [Indiegogo](https://www.indiegogo.com/#/picks_for_you)
+* [Kickstarter](https://www.kickstarter.com)
 * [Kickstarter Prohibits Product Simulations and Photorealistic Product Renderings](https://www.kickstarter.com/blog/kickstarter-is-not-a-store?page=2)
 * [Celery: Pre-sales platform](https://www.trycelery.com)
 * [Celery Blog: Successful DIY Pre-Order Crowdfunding Campaigns Revealed](http://blog.trycelery.com/successful-preorder-website-campaigns/)

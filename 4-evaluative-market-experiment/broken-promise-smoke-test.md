@@ -42,7 +42,7 @@ To the extent possible, it's also worth noting who is being referred. This provi
 
 #### Time Commitment and Resources
 
-Minimal: 1-2 day developer and designer time, or you can use a viral landing page template like the ones at [KickoffLabs.com](www.kickofflabs.com)
+Minimal: 1-2 day developer and designer time, or you can use a viral landing page template like the ones at KickoffLabs.com
 
 #### How to
 
@@ -69,12 +69,10 @@ Interpretation is framed by how you originally formulated the experiment \(i.e.,
 
 ### Case Studies
 
-* [Gmail invites auctioned on eBay](https://www.geek.com/news/gmail-invites-auctioned-on-ebay-556690/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Tools
 
-* [Viral Loops Pages](https://viral-loops.com/features/pages)
 * Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### References
