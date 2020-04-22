@@ -63,18 +63,26 @@ You are looking for places where the customer got stuck, was not able to find wh
 
 ### Tools
 
+* [11 Best Prototyping Tools For UI/UX Designers — How To Choose The Right One?](https://medium.theuxblog.com/11-best-prototyping-tools-for-ui-ux-designers-how-to-choose-the-right-one-c5dc69720c47)
+* [Pidoco](https://pidoco.com/en/lp/paper-prototyping)
+* [Prototypr - Tools](https://www.prototypr.io/tools/)
+* [Sneak Peek It: Printable Grids for Design](https://sneakpeekit.com/)
+* [UI Stencils](https://www.uistencils.com/)
+* [UserFocus: Paper prototyping helper kit](https://www.userfocus.co.uk/resources/prototype.html)
 * Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### References
 
-* [Carolyn Snyder, Paper Prototying. Morgan Kaufmann, 2003.](http://www.paperprototyping.com/)
+* [Atlassian Blog: Usability Testing with Paper Prototyping](http://blogs.atlassian.com/2011/11/usability-testing-with-paper-prototyping/)
 * [Dumas, Joseph and Janice Redish, A Practical Guide to Usability Testing. Intellect, Ltd, 1999.](https://www.amazon.com/Practical-Guide-Usability-Testing/dp/1841500208)
 * [IBM: Sure, It's Low-Tech, but This Usability Testing Method Can Help You Sidestep Problems before You Write Your Code](http://www.csee.umbc.edu/courses/undergraduate/345/spring12/mitchell/readings/paperPrototyping_Snyder.pdf)
-* [User Focus: 7 Myths about Paper Prototyping](http://www.userfocus.co.uk/articles/paperprototyping.html)
-* [SpeckyBoy: Effective Video Examples of Paper Prototyping](http://speckyboy.com/2010/06/24/10-effective-video-examples-of-paper-prototyping/)
+* [  Jake Knapp  : Paper prototyping is a waste of time   - Design on paper but always test with a screen](https://library.gv.com/paper-prototyping-is-a-waste-of-time-353076395187#.8lzusb9y3)
+* [Nick Babich: The Magic of Paper Prototyping](https://uxplanet.org/the-magic-of-paper-prototyping-51693eac6bc3)
 * [NN Group: Paper Prototyping: Getting User Data before You Code](http://www.nngroup.com/articles/paper-prototyping/)
-* [Atlassian Blog: Usability Testing with Paper Prototyping](http://blogs.atlassian.com/2011/11/usability-testing-with-paper-prototyping/)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part6-evaluative_product_experiment/realbook@kromatic.com)
+* [Patrick Thornton  : How to do paper prototyping, the UX tool you may be missing](https://uxdesign.cc/how-to-do-paper-prototyping-719173215a7e)
+* [SpeckyBoy: Effective Video Examples of Paper Prototyping](http://speckyboy.com/2010/06/24/10-effective-video-examples-of-paper-prototyping/)
+* [User Focus: 7 Myths about Paper Prototyping](http://www.userfocus.co.uk/articles/paperprototyping.html)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 
 

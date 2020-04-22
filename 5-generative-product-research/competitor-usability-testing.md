@@ -57,18 +57,22 @@ Before building a solution, any ideas should be tested via alternative generativ
 
 ### Case Studies
 
-* Got a case study? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part5-generative_product_research/realbook@kromatic.com)
+* Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### Tools
 
+* [Best 15 usability testing tools for happy users](https://www.justinmind.com/blog/usability-testing-tools/)
+* [Top Usability Testing Tools: The Complete List \(79 Tools\)](https://thegood.com/guide/usability-testing-tools/)
+* [Tools for Unmoderated Usability Testing](https://www.nngroup.com/articles/unmoderated-user-testing-tools/)
 * Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### References
 
+* [Daniël De Wit  : Don’t feel bad, user test your competitors](https://uxdesign.cc/dont-feel-bad-user-test-your-competitors-1efbaf662c1)
 * [Nielsen Norman Group: Competitive Usability Evaluations - Learning from Your Competition](https://www.nngroup.com/articles/competitive-usability-evaluations/)
 * [trymyui: 5 secrets to running a comparative usability study](http://www.trymyui.com/blog/2015/04/02/5-secrets-for-comparative-usability-study/)
 * [StackExchange: Should usability testing of a competitor's website be a part of your usability testing routine?](http://ux.stackexchange.com/questions/37982/should-usability-testing-of-a-competitors-website-be-a-part-of-your-usability-t)
 * [Whittington: Legal Espionage - User Testing Your Competitor's Website to Improve Your Own](https://www.rickwhittington.com/blog/user-testing-your-competitors-website-to-improve-your-own/)
 * [TestFort: Usability Testing of Competitor’s Site - 4 Tips and Reasons](https://testfort.com/articles/usability-testing-competitor’s-site-4-tips-and-reasons)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part5-generative_product_research/realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
