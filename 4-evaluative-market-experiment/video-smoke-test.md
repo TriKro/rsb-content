@@ -107,11 +107,6 @@ View count vanity: Views from people outside your intended target audience is a 
 
 ### Tools
 
-* [12 Tools That’ll Help You Build a High Converting Landing Page](https://neilpatel.com/blog/12-tools-that-can-help-you-build-high-converting-landing-pages/)
-* [VentureHarbour: 21 Best Landing Page Builders in 20](https://www.ventureharbour.com/best-landing-page-builders/)
-* [Vimeo](www.vimeo.com)
-* [Wistia](https://wistia.com/)
-* [YouTube](www.youtube.com)
 * Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### References

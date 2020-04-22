@@ -86,7 +86,6 @@ This smoke test does not suggest the optimal price point for the product, or whe
 
 ### Tools
 
-* [35 Best CRMs for Small Business \(and Startups\) to Grow Your Sales in 2020](https://www.ryrob.com/best-crms/)
 * Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### References

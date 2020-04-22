@@ -20,7 +20,7 @@ Founders ask experts for opinions, then choose whether or not to act on those op
 
 ### Description
 
-Experts provide deep insights into a particular problem domain, and provide useful input for problem types that are complicated according to the [Cynefin decisionmaking framework](https://en.wikipedia.org/wiki/Cynefin_framework). These are problems with predictable but many factors, components, or pieces. There are many "known unknowns" that can be analyzed using cause-effect analysis to uncover a range of appropriate answers. Ultimately, founders need to be able to execute quickly, so piggybacking on others' knowledge can serve as a useful shortcut.
+Experts provide deep insights into a particular problem domain, and provide useful input for problem types that are complicated according to the [Cynefin decision making framework](https://en.wikipedia.org/wiki/Cynefin_framework). These are problems with predictable but many factors, components, or pieces. There are many "known unknowns" that can be analyzed using cause-effect analysis to uncover a range of appropriate answers. Ultimately, founders need to be able to execute quickly, so piggybacking on others' knowledge can serve as a useful shortcut.
 
 Certain industries require significant expertise to compete effectively \(FinTech is a good example\). Finance itself is highly regulated and highly dependent on detailed models used for valuation, risk assessment, or accounting. Each of these are context-sensitive. While it's possible to learn some of this from books, seeing how these play out in a competitive environment gives us extra insight. Some areas of finance have high degrees of product innovation, such as derivative markets. On top of that, technology itself has been changing rapidly over the past few decades. Founders entering this market would be wise to consult with experts in areas where they feel it will help generate additional options that they hadn't considered.
 
@@ -44,7 +44,8 @@ As a general rule, though, using third-party expertise to evaluate existing opti
 2. Consider paid sources:
    * Clarity.fm
    * PopExpert.com
-   * FounderDating.com forums  
+   * FounderDating.com 
+   * Forums  
 3. Contact the expert and arrange a phone call or meeting in person. 
 4. Prepare:
    * Questions you'd like to ask.
@@ -82,11 +83,19 @@ Keep in mind that all advice is context-dependent. Even if an expert was success
 
 ### Tools
 
+* [Academia.edu](https://www.academia.edu/)
+* [Clarity.fm](www.Clarity.fm)
+* [FindAnExpertOnline.com](www.FindAnExpertOnline.com)
+* [FounderDating.com](www.FounderDating.com)
+* [Google](www.google.com)
+* [LinkedIn](www.linkedin.com)
+* [Meetup](www.meetup.com)
+* [Quora](www.quora.com)
 * Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### References
 
 * [Wired: Given “Expert” Advice, Brains Shut Down](https://www.wired.com/2009/03/financebrain)
 * [Harvard Business Review: Find the Right Expert for Any Problem](https://hbr.org/2014/12/find-the-right-expert-for-any-problem)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part5-generative_product_research/realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
