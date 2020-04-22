@@ -100,7 +100,7 @@ The following sections will show you how to take that one priority question and 
 
 To simplify our search for the right method, we’ll ask two questions:
 
-1. Do we need to learn about the _market_ or the _product_?
+1. Do we need to learn about the problem \(ie, _market\)_ or the solution \(ie, _product_\)?
 2. Do we have a falsifiable hypothesis to _evaluate,_ or do we need to _generate_ a clear idea?
 
 Mapping the intersection of these two questions gives us a 2x2 matrix:
@@ -115,5 +115,5 @@ Similarly, if we have a clear hypothesis of which features will solve the custom
 
 Any framework is an oversimplification of reality, but this index is a quick way to navigate to the correct method.
 
-The _Index of Questions_ and the _Index of Methods_ show the complete list of questions and their corresponding methods. But first we’ll look at the details of market vs. product, and generative research vs. evaluative experiment.
+The _Index of Questions_ and the _Index of Methods_ show the complete list of questions and their corresponding methods. But first we’ll look at the details of problem vs. solution, and generative research vs. evaluative experiment.
 

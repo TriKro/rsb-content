@@ -8,9 +8,9 @@
   <thead>
     <tr>
       <th style="text-align:left"></th>
-      <th style="text-align:left"><b>Market</b>
+      <th style="text-align:left"><b>Problem (</b><em><b>Market</b></em><b>)</b>
       </th>
-      <th style="text-align:left"><b>Product</b>
+      <th style="text-align:left"><b>Solution (</b><em><b>Product</b></em><b>)</b>
       </th>
     </tr>
   </thead>

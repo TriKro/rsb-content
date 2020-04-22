@@ -11,7 +11,7 @@
   * [Version History](preface/version-history.md)
 * [The Index](the-index/README.md)
   * [What Are You Trying to Learn?](the-index/what-are-you-trying-to-learn.md)
-  * [Market vs. Product](the-index/market-vs-product.md)
+  * [Problem vs. Solution](the-index/market-vs-product.md)
   * [Generative vs. Evaluative](the-index/generative-vs-evaluative.md)
   * [Hypothesis Checklist](the-index/hypothesis-checklist.md)
   * [Index of Questions](the-index/index-of-questions.md)
