@@ -42,7 +42,7 @@ To the extent possible, it's also worth noting who is being referred. This provi
 
 #### Time Commitment and Resources
 
-Minimal: 1-2 day developer and designer time, or you can use a viral landing page template like the ones at KickoffLabs.com
+Minimal: 1-2 day developer and designer time, or you can use a viral landing page template like the ones at [KickoffLabs.com](www.kickofflabs.com)
 
 #### How to
 

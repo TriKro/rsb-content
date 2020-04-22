@@ -81,11 +81,12 @@ If you are in a B2B sales scenario, the business relationship is very important.
 
 ### Tools
 
-* [Figma](https://www.figma.com/)
-* [Smore.com](https://www.smore.com/)
-* [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
-* [MS Publisher](https://www.microsoft.com/en-us/microsoft-365/publisher)
-* Designer recruiting sites like [99designs.com](https://99designs.com/), [behance.com](https://www.behance.net/onboarding/adobe), etc.
+* Canvas
+* Figma
+* Smore.com
+* Adobe Illustrator
+* MS Publisher
+* Designer recruiting sites like 99designs.com, behance.com, etc.
 * Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### References

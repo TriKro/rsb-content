@@ -98,8 +98,6 @@ Are you able to listen and record data based on the following?
 
 ### Tools
 
-* [ConfirmKit](https://www.confirmkit.com/)
-* [InnovationWithin](https://innovationwithin.com/)
 * Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### References
