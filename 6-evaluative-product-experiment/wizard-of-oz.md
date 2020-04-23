@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/illustration-wizard-of-oz-real-startup-book.png)
 
-## Wizard of Oz \*\*
+## Wizard of Oz
 
 ### In Brief
 
