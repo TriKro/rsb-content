@@ -59,6 +59,9 @@ Ask lots of questions about what the user would find valuable. Hone in on how yo
 
 ### Tools
 
+* [Figma](www.figma.com)
+* [InVision](https://www.invisionapp.com/)
+* [Prototyping on paper \(POP\)](https://marvelapp.com/pop/)
 * Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### References
