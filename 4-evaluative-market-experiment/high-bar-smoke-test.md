@@ -85,6 +85,7 @@ Offline: Depends on your existing approach/processes, and what you want to learn
 
 ### References
 
+* [Chameleon: Friction Logs - The Key to Unlocking Product Growth](https://www.trychameleon.com/blog/friction-logs)
 * [Hubspot: RFM \(Recency, Frequency, Monetary Value\), Explained in 600 Words or Less](https://blog.hubspot.com/service/rfm-analysis)
 * [Moves the Needle: Lean Experiment Techniques](https://www.movestheneedle.com/all-blog/2016/6/14/enterprise-lean-startup-experiment-examples)
 * [Smashing Magazine: Designing Friction For A Better User Experience](https://www.smashingmagazine.com/2018/01/friction-ux-design-tool/)
