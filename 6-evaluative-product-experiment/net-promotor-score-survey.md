@@ -84,8 +84,7 @@ The timing of sending the NPS questionnaire to customers can lead to biased resu
 * [Bain & Company - The Economics of Loyalty - Loyalty Insights \#3](http://www.bain.com/publications/articles/the-economics-of-loyalty.aspx)
 * [Zendesk - NPS Best Practices: The Most Effective Way to Send a Net Promoter Score](https://support.zendesk.com/hc/en-us/articles/203759086-NPS-best-practices-The-most-effective-way-to-send-a-Net-Promoter-Score-survey)
 * [Qualtrics - Net Promoter® Score System Questions Answered](https://www.qualtrics.com/market-research/nps/)
-* [Customer Satisfaction Strategy - Pros and Cons of Net Promoter Score](http://customersatisfactionstrategy.com/netpromoterscore.html)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part6-evaluative_product_experiment/realbook@kromatic.com)
+* .Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 
 
