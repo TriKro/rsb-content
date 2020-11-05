@@ -77,6 +77,5 @@ This is a wonderful technique to generate a lot of ideas in an area you are alre
 * [GrasshopperHerder: Generative Research - Picnic in the Graveyard](https://grasshopperherder.com/generative-research-picnic-graveyard/)
 * [SKMurphy: Pretotyping – Techniques for Building the Right Product](http://www.skmurphy.com/blog/2012/03/06/pretotyping-techniques-for-building-the-right-product/)
 * [Phillip Kaplan: F'D Companies: Spectacular Dotcom flameouts](https://www.amazon.com/Fd-Companies-Spectacular-Dot-com-Flameouts/dp/1416577939)
-* Forbes: Top 10 Ways Entrepreneurs Pivot a Lean Startup
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
