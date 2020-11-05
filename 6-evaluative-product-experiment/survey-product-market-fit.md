@@ -91,13 +91,10 @@ Look for differences in qualitative responses between very disappointed and some
 ### Case Studies
 
 * [Hitenism: 731 Slack Users Reveal Why It’s So Addictive](https://hitenism.com/slack-product-market-fit-survey/)
-* [First Round Review: How Superhuman Built an Engine to Find Product/Market Fit](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com) 
 
 ### Tools
 
-* [Product/Market   fit survey   by Sean Ellis and GoPractice](https://pmfsurvey.com/)
-* [SurveyMonkey:   Sean Ellis Product/Market Fit Survey Template](https://www.surveymonkey.com/r/CFXJH7M)
 * Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### References
@@ -107,6 +104,7 @@ Look for differences in qualitative responses between very disappointed and some
 * [GrasshopperHerder: False Positives and Product-Market Fit](https://grasshopperherder.com/false-positives-and-product-market-fit/)
 * [SlideShare: Measuring and Understanding Product-Market Fit](https://www.slideshare.net/hiten1/measuring-understanding-productmarket-fit-qualitatively/8-Do_you_have_productmarket_fit)
 * [Startup Marketing: Using Survey.io](http://www.startup-marketing.com/using-survey-io/)
+* [Fast Company: Why You Should Find Product-Market Fit Before Sniffing Around for Venture Money](https://www.fastcompany.com/3014841/why-you-should-find-product-market-fit-before-sniffing-around-for-venture-money?show_rev_content)
 * [Cobloom Blog: How to Find Product-Market Fit](https://www.cobloom.com/blog/how-good-is-david-cummings-approach-to-product/market-fit)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part6-evaluative_product_experiment/realbook@kromatic.com)
 
