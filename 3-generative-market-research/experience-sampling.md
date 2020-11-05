@@ -99,7 +99,6 @@ First, look at the frequency distribution and identify common themes to gain ins
 
 ### Case Studies
 
-* [Daily Information Needs \(DIN\) - Google](https://medium.com/m/global-identity?redirectUrl=https://backchannel.com/googles-secret-study-to-find-out-our-needs-eba8700263bf#.y9sryu7gh)
 * [Using experience sampling methodology to understand how educational leadership students solve problems on the fly](http://www.emeraldinsight.com/doi/abs/10.1108/JEA-12-2012-0135)
 * [Teacher Motivation and Job Satisfaction: A Study Employing the Experience Sampling Method](http://www.hcs.harvard.edu/~jus/0303/bishay.pdf)
 * Got a case study? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
@@ -110,10 +109,8 @@ First, look at the frequency distribution and identify common themes to gain ins
 
 ### References
 
-* [Experience Sampling Method \(ESM\)](http://psc.dss.ucdavis.edu/sommerb/sommerdemo/sampling/behavior.htm)
 * [Experience Sampling Method](https://en.wikipedia.org/wiki/Experience_sampling_method)
 * [Experience Sampling](http://edutechwiki.unige.ch/en/Experience_sampling)
-* [Using experience sampling methodology in organizational behavior \(2012\)](http://shell.cas.usf.edu/~pspector/ORM/FisherJobExperienceSampling-12.pdf)
 * [Don't listen to users, sample their experience - Tomer Sharon \(Video\)](https://www.youtube.com/watch?v=gq7ZfeQSBzY)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part3-generative_market_research/realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
