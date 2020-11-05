@@ -72,6 +72,7 @@ A few days for B2C and a few weeks for B2B, depending how quickly you can set up
 ### References
 
 * [Salesforce: How to Make a Good Sales Pitch](https://www.salesforce.com/blog/2014/02/how-to-make-good-sales-pitch.html)
-* [Forbes: 10 Steps for Giving a Convincing Sales Pitch](http://www.forbes.com/forbes/welcome/?toURL=http://www.forbes.com/sites/theyec/2014/04/18/10-steps-for-giving-a-convincing-sales-pitch/&refURL=&referrer=)
-* Got a reference? Add a link by emailing us: [realbook@kromatic.com](https://github.com/trikro/the-real-startup-book/tree/6a17bc36666863334ffdefad4f2a9abf3e12ce13/part5-generative_product_research/realbook@kromatic.com)
+* Got a reference? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
+
+
 
