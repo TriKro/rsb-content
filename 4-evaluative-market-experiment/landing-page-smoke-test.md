@@ -68,6 +68,9 @@ If the conversion rate obtained exceeds your predetermined signpost value, the l
 
 ### Tools
 
+* [12 Tools That’ll Help You Build a High Converting Landing Page](https://neilpatel.com/blog/12-tools-that-can-help-you-build-high-converting-landing-pages/)
+* [Carrd: Simple, free, fully responsive one-page sites](https://carrd.co/)
+* [VentureHarbour: 21 Best Landing Page Builders in 2020](https://www.ventureharbour.com/best-landing-page-builders/)
 * Got a tool to recommend? Add a link by emailing us: [realbook@kromatic.com](mailto:realbook@kromatic.com)
 
 ### References
